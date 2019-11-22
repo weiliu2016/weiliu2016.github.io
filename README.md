@@ -1,8 +1,6 @@
-## Welcome to Fangni's Homepage
+## Welcome to Wei's Homepage
 
-Dr. Fangni Zhang will join the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong as an Assistant Professor in February 2020. Prior to this, she held Lecturer positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Zhang received her PhD degree in Transportation from Hong Kong University of Science and Technology and her Bachelor’s degree in Industrial Engineering from Beihang University, Beijing, China.
-
-Dr. Fangni Zhang’s research covers a wide range of fundamental or emerging issues in transport, including multimodal transport system modelling and optimization, shared and automated transport management, high-speed rail and air transport interactions, and wider economic impacts of transport. Her research draws tools from different disciplines such as network modeling, economic theory, traffic flow theory, operations research, and data science to transport research and has been published in a number of world-leading journals and conferences in the field (e.g., Transportation Research Part A, B, C, D, E).
+Dr Wei Liu is an Assistant Professor (Lecturer) in Transport Engineering jointly appointed by the School of Computer Science and Engineering and the School of Civil and Environmental Engineering at UNSW. Prior to his position at UNSW, he was a Lecturer at University of Glasgow, UK, and was a postdoctoral researcher at Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland, and was a visiting scholar at University of Florida, US. Dr. Liu mainly works in transport system modelling and optimisation; large-scale traffic modelling, simulation and computing; transport economics; and urban big data analytics.
 
 ### Research interests
 
