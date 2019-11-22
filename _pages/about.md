@@ -8,54 +8,65 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Fangni Zhang will join the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong as an Assistant Professor in February 2020. Prior to this, she held Lecturer positions at University of New South Wales and University of Leeds, and worked at Imperial College London as a Research Associate. Dr. Fangni Zhang’s research covers a wide range of fundamental or emerging issues in transport, including multimodal transport system modelling and optimization, shared and automated transport management, high-speed rail and air transport interactions, and wider economic impacts of transport. Her research draws tools from different disciplines such as network modeling, economic theory, traffic flow theory, operations research, and data science to transport research and has been published in a number of world-leading journals and conferences in the field (e.g., Transportation Research Part A, B, C, D, E).
+Dr Wei Liu is an Assistant Professor (Lecturer) in Transport Engineering jointly appointed by the School of Computer Science and Engineering and the School of Civil and Environmental Engineering at UNSW. Prior to his position at UNSW, he was a Lecturer at University of Glasgow, UK, and was a postdoctoral researcher at Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland, and was a visiting scholar at University of Florida, US. Dr. Liu mainly works in transport system modelling and optimisation; large-scale traffic modelling, simulation and computing; transport economics; and urban big data analytics.
 
 Research interests
 ======
-- Multimodal transport systems
-- Automated and shared mobility
-- High-speed rail and air transport
-- Wider economic benefits quantification
-- Transport and urban data analytics
+- Transportation Network Modelling and Optimisation
+- Transport and Urban Data Analytics
+- Transportation Economics
+- Automated and Shared Mobility
 
-PhD positions
+PhD positions and academic visitors
 ======
-- I am looking for 1-2 self-motivated Ph.D. students to join my research group. Applicants should have a B.S. or M.S. in Industrial Engineering, Transportation Engineering, Economics, Operations Research, Mathematics, and Computer Science or related fields. Strong oral and written communication skills in English are required. Candidates with research experience in network modeling, optimization and game theory are preferred.
+- PhD students: Students with background in Computer Science, Civil/Transport Engineering, Industrial Engineering, Control Engineering, Automation, Applied Mathematics or other relevant areas are welcome to apply (smart transport and cities, simulation and computation, urban big data analytics). Please send me your CV including your education qualifications with GPA, English test scores (IELTS/TOEFL), list of publications (if any) and name and contact of at least two referees.
 
-- Successful applicants will be considered eligible to receive a Postgraduate Scholarship (the 2019/20 rate: HKD 17,330/month) during the normative study period. Outstanding applicants for the Ph.D. programme are strongly encouraged to apply for the Hong Kong PhD Fellowship scheme, which offers an annual stipend of HKD 25,800 /month plus a conference and research-related travel allowance of HKD 12,900 per year for a period of up to three years. More information regarding HKU Ph.D. scholarships is available at: [https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees#2](https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees#2)
-To learn more about the HKU Ph.D. programme, visit [https://www.gradsch.hku.hk/gradsch/prospective-students/why-choose-hku](https://www.gradsch.hku.hk/gradsch/prospective-students/why-choose-hku)
+- Postdoc, visiting students and scholars: If your research background fits my research interests, please send me your CV including your education qualifications and list of publications (if any).
 
-- The application deadline for 2020 intake is 2 December 2019. Please contact Dr. Fangni Zhang directly at [fangni.zhang@hotmail.com](fangni.zhang@hotmail.com)
+Selected Working Papers
+======
+- Ma, M., **Liu, W.**, Li, X., Zhang, F., Dixit, V. Quantifying day-to-day evolution of reliability-based choice patterns in public transit system with smart card data.
 
-- Postdoc and visiting research positions are also available. If your research background fits my research interests, please send me your CV including your education qualifications and list of publications (if any).
+- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Urban Mobility Analytics: A Deep Temporal-Spatial Product Neural Network for Demographics Prediction.
 
+- Wei, B., Saberi, M., Zhang, F., **Liu, W.**, Waller, S.T. Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach.
+
+- Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach considering vehicle sizes.
+
+- Wang, X., Wang, J., Guo, L., **Liu, W.**, Zhang, X. Traffic assignment in general networks with ridesharing.
+
+- Wu, W., Zhang, F., **Liu, W.**, Lodewijks, G. Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets.
+
+- Zhang, F., **Liu, W.**, Wang, X., Yang, H. Parking sharing problem with spatially distributed parking supplies.
+
+- Xu, G., **Liu, W.**, Wu, R., Yang, H. A double time-scale passenger assignment model for high-speed railway networks with continuum capacity approximation.
+
+- Wei, T., Xu, G., **Liu, W.**, Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticketing booking record.
+
+- Jian, S., **Liu, W.**, Wang, X., Yang, H., Waller, S.T. On integrating carsharing and parking sharing services.
+
+- Zhang, F., **Liu, W.**, Lodewijks, G., Waller, S.T. The short-run and long-run equilibria for commuting with autonomous vehicles.
+
+- **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips.
 
 Selected Publications
 ======
-- **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. Transportation Research Part C, in press.
+- Zhang, X., **Liu, W.**, Waller, S.T., Yin, Y. (2019) Modelling and managing the integrated morning-evening commuting and parking patterns under the fully autonomous vehicle environment. Transportation Research Part B: Methodological.
 
-- Wu, W., Liu, Y, Liu, W., **Zhang, F.**, Rey, D., Dixit, V (2019) An integrated approach for optimizing left-turn forbiddance decisions along urban arterial road. Transportmetrica B: Transport Dynamics, 7(1), 1481-1504.
+- Wang, X., **Liu, W.**, Wang, D., Yang, H., Ye, J. (2019) Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets. Transportation Research Part B: Methodological.
 
-- Wu, W., Wang, M., **Zhang, F.** (2019) Commuting Behavior and Congestion Satisfaction: Evidence from Beijing, China. Transportation Research Part D 67, 553-564.
+- **Liu, W.**, Szeto, W.Y. (2019) Learning and Managing Stochastic Network Traffic Dynamics with an Aggregate Traffic Representation. Transportation Research Part B: Methodological.
 
-- **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. Transportation Research Part C 96, 208-230.
+- **Liu, W.** (2018) An Equilibrium Analysis of Commuter Parking in the Era of Autonomous Vehicles. Transportation Research Part C: Emerging Technologies.
 
-- **Zhang, F.**, Graham, D.J., Wong, M. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. Transportation Research Part A, 118, 191-215. 
+- **Liu, W.**, Zhang, F., Yang, H. (2017) Modeling and Managing Morning Commute with both Household and Individual Travels. Transportation Research Part B: Methodological.
 
-- **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. Transportation Research Part C, 96, 208-230.
+- **Liu, W.**, Geroliminis, N. (2017) Doubly Dynamics for Multi-modal Networks with Park-and-ride and Adaptive Pricing. Transportation Research Part B: Methodological.
 
-- Liu, W., Li, X, **Zhang, F.**, Yang, H. (2017) Interactive travel choices and traffic forecast in a doubly dynamical system with user inertia and information provision. Transportation Research Part C, 85, 711-731.
+- **Liu, W.**, Geroliminis, N. (2016) Modeling the Morning Commute for Urban Networks with Cruising-for-parking: an MFD Approach. Transportation Research Part B: Methodological.
 
-- **Zhang, F.**., Liu, W., Wang, X., Yang, H. (2017) A new look at the morning commute with household shared-ride: How does school location play a role? Transportation Research Part E, 103, 198-217.
+- **Liu, W.**, Yin, Y., Yang, H. (2015) Effectiveness of Variable Speed Limits Considering Commuters’ Long-term Response. Transportation Research Part B: Methodological.
 
-- Liu, W., **Zhang, F.**, Yang, H. (2017) Modeling and managing morning commute with both household and individual travels. Transportation Research Part B, 103, 227-247.
+- **Liu, W.**, Yang, H., Yin, Y. (2014) Expirable Parking Reservations for Managing Morning Commute with Parking Space Constraints. Transportation Research Part C: Emerging Technologies.
 
-- Wang, W.W., Wang, D.Z., **Zhang, F.**, Sun, H., Zhang, W. and Wu, J. (2017) Overcoming the Downs-Thomson Paradox by transit subsidy policies. Transportation Research Part A, 95, 126-147.
-
-- **Zhang, F.**, Lindsey, R. and Yang, H. (2016) The Downs–Thomson paradox with imperfect mode substitutes and alternative transit administration regimes. Transportation Research Part B, 86, 104-127.
-
-- Liu, W., **Zhang, F.**, Yang, H.  (2016) Managing morning commute with parking space constraints in the case of bi-modal many-to-one network. Transportmetrica A, 12(2), 116-141.
-
-- **Zhang, F.**, Yang, H., Liu, W. (2014) The Downs-Thomson Paradox with responsive transit service. Transportation Research Part A, 70, 244-263.
-
-- Liu, W., Yang, H., Yin, Y., **Zhang, F.** (2014) A novel permit scheme for managing parking competition and bottleneck congestion. Transportation Research Part C, 44, 265-281.
+- Yang, H., **Liu, W.**, Wang, X., Zhang, X. (2013) On the Morning Commute Problem with Bottleneck Congestion and Parking Space Constraints. Transportation Research Part B: Methodological.
