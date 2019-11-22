@@ -14,79 +14,55 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-You can also find my publication profiles on [Google Scholar](https://scholar.google.co.uk/citations?user=pqcRnPcAAAAJ&hl) and [ResearchGate](https://www.researchgate.net/profile/Fangni_Zhang).
+[Google Scholar](https://scholar.google.com/citations?user=rEUNm28AAAAJ&hl=en), [ORCID](http://orcid.org/0000-0001-8638-3695), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57209524810), [Web of Science](https://publons.com/researcher/2454278/wei-liu/), [ResearchGate](https://www.researchgate.net/profile/Wei_Liu510).
 
 Journal Publications
 ----------
+**2020**
+* [28] Liu, W., Wu, W. Thakuriah, P., Wang, J.  (2020) The Geography of Human Activity and Land Use: A Big Data Approach. Cities, 97, 102523. (Download)
 
-* **Zhang, F.**, Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. Transportation Research Part C, in press.
+**2019**
+* [27] Zhu, Z., Li, X., Liu, W., Yang, H. (2019) Day-to-day Evolution of Departure Time Choice in Stochastic Capacity Bottleneck Models with Bounded Rationality and Various Information Perceptions. Transportation Research Part E: Logistics and Transportation Review, 131, 168-192. (Download)
+* [26] Zhang, X., Liu, W., Waller, S.T., Yin, Y. (2019) Modelling and managing the integrated morning-evening commuting and parking patterns under the fully autonomous vehicle environment. Transportation Research Part B: Methodological, 128, 380-407. (Download)
+* [25] Wu, W., Liu, Y., Liu, W., Wu, G., Ma, W. (2019) A Novel Autonomous Vehicle Trajectory Planning and Control Model for Connected-and-Autonomous Intersections. Acta Automatica Sinica, in press. (Download)
+* [24] Zhang, X., Liu, W., Waller, S.T. (2019) A network traffic assignment model for autonomous vehicles with parking choices. Computer-Aided Civil and Infrastructure Engineering, 34(12), 1100-1118. (Download)
+* [23] Wu, W., Liu, Y., Liu, W., Zhang, F., David, R., Dixit, V. (2019) An integrated approach for optimizing left-turn forbiddance decisions along urban arterial road. Transportmetrica B: Transport Dynamics, 7, 1481-1504. (Download)
+* [22] Wang, X., Liu, W., Wang, D., Yang, H., Ye, J. (2019) Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets. Transportation Research Part B: Methodological, in press. (Download)
+* [21] Zhang, F., Liu, W. (2019) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. Transportation Research Part C: Emerging Technologies, in press. (Download)
+* [20] Liu, W., Szeto, W.Y. (2019) Learning and Managing Stochastic Network Traffic Dynamics with an Aggregate Traffic Representation. Transportation Research Part B: Methodological, in press. (Download)
 
-* Wu, W., Liu, Y, Liu, W., **Zhang, F.**, Rey, D., Dixit, V (2019) An integrated approach for optimizing left-turn forbiddance decisions along urban arterial road. Transportmetrica B: Transport Dynamics, 7(1), 1481-1504.
+**2018**
+* [19] Xu, G., Yang, H., Liu, W., Shi, F. (2018) Itinerary Choice and Advance Ticket Booking for High-Speed-Railway Network Services. Transportation Research Part C: Emerging Technologies, 95, 82-104. (Download)
+* [18] Xu, G., Liu, W., Yang, H. (2018) A Reliability-based Traffic Assignment Model for Railway Network with Heterogeneous Passengers. Transportation Research Part C: Emerging Technologies, 93, 501-524. (Download)
+* [17] Liu, W. (2018) An Equilibrium Analysis of Commuter Parking in the Era of Autonomous Vehicles. Transportation Research Part C: Emerging Technologies, 92, 191-207. (Download)
+* [16] Li, X., Liu, W., Yang, H. (2018) Traffic Dynamics in a Bi-modal Transportation Network with Information Provision and Adaptive Transit Services. Transportation Research Part C: Emerging Technologies, 91, 77-98. (Download)
 
-* Wu, W., Wang, M., **Zhang, F.** (2019) Commuting Behavior and Congestion Satisfaction: Evidence from Beijing, China. Transportation Research Part D 67, 553-564.
+**2017**
+* [15] Liu, W., Li, X., Zhang, F., Yang, H. (2017) Interactive Travel Choices and Traffic Forecast in a Doubly Dynamical System with User Inertia and Information Provision. Transportation Research Part C: Emerging Technologies, 85, 711-731. (Download)
+* [14] Liu, W., Zhang, F., Yang, H. (2017) Modeling and Managing Morning Commute with both Household and Individual Travels. Transportation Research Part B: Methodological, 103, 227-247. (Download)
+* [13] Liu, W., Geroliminis, N. (2017) Doubly Dynamics for Multi-modal Networks with Park-and-ride and Adaptive Pricing. Transportation Research Part B: Methodological, 102, 162–179. (Download)
+* [12] Zhang, F., Liu, W., Wang, X., Yang, H. (2017) A New Look at the Morning Commute with Household Shared-ride: How does School Location Play a Role? Transportation Research Part E: Logistics and Transportation Review, 103, 198-217. (Download)
+* [11] Chen, Z., Liu, W., Yin, Y. (2017) Deployment of Stationary and Dynamic Charging Infrastructure for Electric Vehicles along Traffic Corridors. Transportation Research Part C: Emerging Technologies, 77, 185-206. (Download)
 
-* **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. Transportation Research Part C 96, 208-230.
+**2016*8
+* [10] Liu, W., Geroliminis, N. (2016) Modeling the Morning Commute for Urban Networks with Cruising-for-parking: an MFD Approach. Transportation Research Part B: Methodological, 93, 470- 494. (Download)
+* [9] Liu, W., Zhang, F., Yang, H. (2016) Managing Morning Commute with Parking Space Constraints in the Case of Bi-modal Many-to-one Network. Transportmetrica A: Transport Science, 12(2), 116-141. (Download)
 
-* **Zhang, F.**, Graham, D.J., Wong, M. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. Transportation Research Part A, 118, 191-215. 
+**2015**
+* [8] Liu, W., Yin, Y., Yang, H. (2015) Effectiveness of Variable Speed Limits Considering Commuters’ Long-term Response. Transportation Research Part B: Methodological, 81, 498- 519. (Download)
+* [7] Liu, W., Yang, H., Yin, Y. (2015) Efficiency of a Highway Use Reservation System for Morning Commute. Transportation Research Part C: Emerging Technologies, 56, 293-308. (Download)
 
-* **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. Transportation Research Part C, 96, 208-230.
+**2014**
+* [6] Zhang, F., Yang, H., Liu, W. (2014) The Downs-Thomson Paradox with Responsive Transit Service. Transportation Research Part A: Policy and Practice, 70, 244-263. (Download)
+* [5] Liu, W., Yang, H., Yin, Y., Zhang, F. (2014) A Novel Permit Scheme for Managing Parking Competition and Bottleneck Congestion. Transportation Research Part C: Emerging Technologies, 44, 265- 281. (Download)
+* [4] Liu, W., Yang, H., Yin, Y. (2014) Expirable Parking Reservations for Managing Morning Commute with Parking Space Constraints. Transportation Research Part C: Emerging Technologies, 44, 185- 201. (Download)
+* [3] Wang, X., Yang, H., Han, D., Liu, W. (2014) Trial-and-error Method for Optimal Tradable Credit Schemes: The Network Case. Journal of Advanced Transportation, 48(6), 685- 700. (Download)
+* [2] Liu, W., Yang, H., Yin, Y. (2014) Traffic Rationing and Pricing in a Linear Monocentric City. Journal of Advanced Transportation, 48(6), 655-672. (Download)
 
-* Liu, W., Li, X, **Zhang, F.**, Yang, H. (2017) Interactive travel choices and traffic forecast in a doubly dynamical system with user inertia and information provision. Transportation Research Part C, 85, 711-731.
-
-* **Zhang, F.**., Liu, W., Wang, X., Yang, H. (2017) A new look at the morning commute with household shared-ride: How does school location play a role? Transportation Research Part E, 103, 198-217.
-
-* Liu, W., **Zhang, F.**, Yang, H. (2017) Modeling and managing morning commute with both household and individual travels. Transportation Research Part B, 103, 227-247.
-
-* Wang, W.W., Wang, D.Z., **Zhang, F.**, Sun, H., Zhang, W. and Wu, J. (2017) Overcoming the Downs-Thomson Paradox by transit subsidy policies. Transportation Research Part A, 95, 126-147.
-
-* **Zhang, F.**, Lindsey, R. and Yang, H. (2016) The Downs–Thomson paradox with imperfect mode substitutes and alternative transit administration regimes. Transportation Research Part B, 86, 104-127.
-
-* Liu, W., **Zhang, F.**, Yang, H.  (2016) Managing morning commute with parking space constraints in the case of bi-modal many-to-one network. Transportmetrica A, 12(2), 116-141.
-
-* **Zhang, F.**, Yang, H., Liu, W. (2014) The Downs-Thomson Paradox with responsive transit service. Transportation Research Part A, 70, 244-263.
-
-* Liu, W., Yang, H., Yin, Y., **Zhang, F.** (2014) A novel permit scheme for managing parking competition and bottleneck congestion. Transportation Research Part C, 44, 265-281.
+**2013**
+* [1]  Yang, H., Liu, W., Wang, X., Zhang, X. (2013) On the Morning Commute Problem with Bottleneck Congestion and Parking Space Constraints. Transportation Research Part B: Methodological, 58, 106-118. (Download)
 
 
-Selected Conferences
+Selected Computer Science Conferences
 -------
 
-* Zhang, F., Liu, W. (2019) Manage multiple traffic externalities for doubly dynamical large- scale multi-modal systems with responsive transit services. The 23rd International Symposium on Transportation and Traffic Theory (ISTTT), Lausanne, Switzerland, 24-26 July 2019.
-
-* Liu, W., Zhang, F., Wang, X., Shao, C., Yang, H. (2019) Modeling and managing the parking sharing problem for urban cities. The 98th Annual Meeting of Transportation Research Board (TRB), Washington, D.C., USA, 13-17 January 2019.
-
-* Liu, W., Zhang, F., Wang, X., Shao, C., Yang, H. (2018) On the parking sharing problem in a linear monocentric city. The 23rd International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 8-10 December 2018.
-
-* Zhang, F. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. The 6th International Conference on Transportation and Space-time Economics (TSTE 2018), Beijing, China, 12-14 October 2018.
-
-* Zhang, F., Graham, D.J. (2018) The substitution and complementary effects between high-speed rail and air transport. ITEA Annual Conference on Transportation Economics (Kuhmo Nectar), Hong Kong, 25-29 June 2018.
-
-* Liu., W., Zhang, F., Wang, X., Shao, C., Yang, H. (2018) Modeling and managing the parking sharing problem. ITEA Annual Conference on Transportation Economics (Kuhmo Nectar), Hong Kong, 25-29 June 2018.
-
-* Shao, C., Yang, H., Zhang, F. (2017) Optimal two-sided pricing strategies of shared E-parking platform with elastic demand. The INFORMS Transportation Science and Logistics (TSL) Con- ference, Chicago, USA, 26-29 July 2017.
-
-* Shao, C., Yang, H., Zhang, F. (2017) Optimal two-sided pricing strategies of shared e-parking platform with elastic demand. ITEA Annual Conference on Transportation Economics (Kuhmo Nectar), Barcelona, Spain, 19-23 June 2017.
-
-* Zhang, F., Zheng, N., Geroliminis, N., Yang, H. (2016) Analysis of the responsive bus service with roadway space separation in multimodal networks using network-level traffic models. The 95th Annual Meeting of Transportation Research Board (TRB), Washington, D.C., USA, 10-14 January 2016.
-
-* Zhang, F. (2015) Managing the multimodal transportation system with roadway space allocation and responsive bus services. The 20th International Conference of Hong Kong Society for Transportation Studies, Hong Kong, 12-14 December, 2015. (Runner-up for Best Student Paper Award).
-
-* Zhang, F., Zheng, N., Geroliminis, N., Yang, H. (2015) Optimization of bus services in multimodal networks with dedicated bus corridors with network-level traffic models. The 4th Symposium of the European Association for Research in Transportation (hEART), Copenhagen, Denmark, 9-11 September 2015.
-
-* Zhang, F., Yang, H., Lindsey, R. (2015) Optimizing transit service with highway expansion when the two modes are imperfect substitutes. ITEA Annual Conference on Transportation Economics (Kuhmo Nectar), Oslo, Norway, 17-19 June 2015.
-
-* Zhang, F., Yang, H. (2014) Highway expansion, transit service and welfare effects with imperfect substitutability in a two-mode network. The 19th International Conference of Hong Kong Society for Transportation Studies, Hong Kong, 13-15 December, 2014.
-
-* Liu, W., Yin., Y., Yang, H., Zhang, F. (2014) Examining the effectiveness of variable speed limit from a long-term equilibrium perspective with empirical data. The 19th International Conference of Hong Kong Society for Transportation Studies, Hong Kong, 13-15 December, 2014.
-
-* Zhang, F., Yang, H., Liu, W. (2014) Welfare implications of highway capacity expansion with responsive transit operator when the two modes are imperfect substitutes. ITEA Annual Conference on Transportation Economics (Kuhmo Nectar), Toulouse, France, 4-6 June 2014.
-
-* Liu, W., Yang, H., Zhang, F. (2014) Economics of a reservation system for morning commute. ITEA Annual Conference on Transportation Economics (Kuhmo Nectar), Toulouse, France, 4-6 June 2014.
-
-* Zhang, F., Yang, H. (2013) The Downs-Thomson paradox with monopoly transit operator and heterogeneous commuters. The 18th International Conference of Hong Kong Society for Trans- portation Studies, Hong Kong, 14-16 December 2013.
-
-* Liu, W., Yang, H., Zhang, F. (2013) Improving travel efficiency by non-rigid expirable parking reservation. The 18th International Conference of Hong Kong Society for Transportation Studies, Hong Kong, 14-16 December 2013.
-
-* Zhang, F., Yang, H. (2013) On the Downs-Thomson paradox under transit dispatching and pricing schemes. The 13th World Conference on Transport Research, Rio de Janeiro, Brazil, 15-18 July 2013.
-
-* Zhang, F., Yang, H. (2012) The Downs-Thomson paradox under transit dispatching and pricing schemes. The 17th International Conference of Hong Kong Society for Transportation Studies, Hong Kong, 15-17 December 2012.
