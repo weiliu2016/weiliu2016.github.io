@@ -65,8 +65,8 @@ Journal Publications
 
 Selected Conferences Proceedings
 -------
-* Zhang, F., **Liu, W.** (2019) Responsive bus fleet size in a multi-modal and multi-directional trans- portation system: a doubly dynamical approach. The 23rd International Symposium on Transportation and Traffic Theory (ISTTT 2019).
+* Zhang, F., **Liu, W.** (2019) Responsive bus fleet size in a multi-modal and multi-directional transportation system: a doubly dynamical approach. The 23rd International Symposium on Transportation and Traffic Theory (ISTTT 2019).
 * Wang, X., **Liu, W.**, Wang, D., Yang, H., Ye, J. (2019) Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets. The 23rd International Symposium on Transportation and Traffic Theory (ISTTT 2019).
 * Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2019) Passenger Demographic Attributes Prediction for Human-centered Public Transport", The 26th International Conference on Neural Information Processing of the Asia-Pacific Neural Network (ICONIP 2019).
-* Chen, X., Huang, C., Zhang, X., Wang, X., **Liu, W.**, Yao, L. (2019) Expert2Vec: Distributed Expert Representation Learning in Question Answering Community. The 15th International Conference on Advanced Data Mining and Applications (ADMA 2019)
-* Bai, L., Yao, L., Kanhere, S.S., Wang, X., **Liu, W.**, Yang, Z. (2019) The 28th ACM International Conference on Information and Knowledge Management (CIKM 2019)
+* Chen, X., Huang, C., Zhang, X., Wang, X., **Liu, W.**, Yao, L. (2019) Expert2Vec: Distributed Expert Representation Learning in Question Answering Community. The 15th International Conference on Advanced Data Mining and Applications (ADMA 2019).
+* Bai, L., Yao, L., Kanhere, S.S., Wang, X., **Liu, W.**, Yang, Z. (2019) The 28th ACM International Conference on Information and Knowledge Management (CIKM 2019).
