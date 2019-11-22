@@ -6,22 +6,13 @@ author_profile: true
 
 At the University of New South Wales, 2018 -
 --------
-**AVIA1321**
-* Fundamentals of Aviation (1st-year undergraduates in Aviation Management) 
-* Core topics: aviation economics, aviation management, aviation safety
+* Engineering Computations for Civil and Environmental Engineers
+* Transport Systems - Network Analysis
 
-**AVIA5032**
-* Quantitative Analysis for Aviation Economics (postgraduates in Aviation Management)
-* Core topics: statistics, time series analysis, panel model, discrete choice models
-
-At the University of Leeds, 2017 - 2018
+At the University of Glasgow, 2016 - 2018
 --------
-**TRAN5032M**
-* Transport Data Collection and Analysis (postgraduates in Transport) 
-* Core topics: data collection, handling, analysis, and presentation methods
-
-**LUBS2140**
-* Intermediate Microeconomics (2nd-year undergraduates in Business School) 
-* Core topics: consumer theory, production theory, firms and markets
+* Highway Engineering
+* Transportation Systems Engineering
+* Transport Network Optimisation
 
 
