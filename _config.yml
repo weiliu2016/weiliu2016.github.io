@@ -7,15 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fangni Zhang / Homepage"
+title                    : "Wei Liu / Homepage"
 title_separator          : "-"
-name                     : &name "Fangni Zhang"
+name                     : &name "Wei Liu"
 description              : &description "Assistant Professor"
-description              : &description "Department of Industrial and Manufacturing Systems Engineering"
-description              : &description "University of Hong Kong"
-url                      : https://fangnizhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Faculty of Engineering"
+description              : &description "University of New South Wales"
+url                      : https://weiliu2016.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fangnizhang/fangnizhang.github.io"
+repository               : "weiliu2016/weiliu2016.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -42,7 +42,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "fangni.zhang@hotmail.com"
+    email                : "wei.liu@unsw.edu.au"
   generatedFields:
     date:
       type               : "date"
@@ -82,18 +82,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Fangni Zhang"
-  avatar           : "Fangni Zhang_photo.png"
+  name             : "Dr. Wei Liu"
+  avatar           : "WeiLiu.jpg"
   bio              : |
     Assistant Professor <br>
-    Industrial and Manufacturing Systems Engineering <br>
-    University of Hong Kong<br>
-  location         : "Location"
-  employer         :
+    Civil and Environmental Engineering <br>
+    Computer Science and Engineering <br>
+    University of New South Wales <br>
+  location         : "Sydney"
+  employer         : "https://www.unsw.edu.au/"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.uk/citations?user=pqcRnPcAAAAJ&hl"
-  email            : "fangni.zhang@hotmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=rEUNm28AAAAJ&hl=en"
+  email            : "wei.liu@unsw.edu.au"
+  researchgate     : "https://www.researchgate.net/profile/Wei_Liu510"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,13 +102,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fangnizhang"
+  github           : "weiliu2016"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/wei-liu-0b333843/"
   orcid            : 
   pinterest        :
   soundcloud       :
