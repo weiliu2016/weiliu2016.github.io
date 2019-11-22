@@ -29,9 +29,9 @@ Research group
 
 PhD positions and academic visitors
 ======
-- PhD students: Students with background in Computer Science, Civil/Transport Engineering, Industrial Engineering, Control Engineering, Automation, Applied Mathematics or other relevant areas are welcome to apply (smart transport and cities, simulation and computation, urban big data analytics). Please send me your CV including your education qualifications with GPA, English test scores (IELTS/TOEFL), list of publications (if any) and name and contact of at least two referees.
+- **PhD students**: Students with background in Computer Science, Civil/Transport Engineering, Industrial Engineering, Control Engineering, Automation, Applied Mathematics or other relevant areas are welcome to apply (smart transport and cities, simulation and computation, urban big data analytics). Please send me your CV including your education qualifications with GPA, English test scores (IELTS/TOEFL), list of publications (if any) and name and contact of at least two referees.
 
-- Postdoc, visiting students and scholars: If your research background fits my research interests, please send me your CV including your education qualifications and list of publications (if any).
+- **Postdoc, visiting students and scholars**: If your research background fits my research interests, please send me your CV including your education qualifications and list of publications (if any).
 
 Selected Working Papers
 ======
