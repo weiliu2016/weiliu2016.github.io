@@ -32,14 +32,14 @@ Journal Publications
 * [20] **Liu, W.**, Szeto, W.Y. (2019) Learning and Managing Stochastic Network Traffic Dynamics with an Aggregate Traffic Representation. Transportation Research Part B: Methodological, in press. ([Download](https://www.sciencedirect.com/science/article/pii/S0191261517307130))
 
 **2018**
-* [19] Xu, G., Yang, H., **Liu, W.**, Shi, F. (2018) Itinerary Choice and Advance Ticket Booking for High-Speed-Railway Network Services. Transportation Research Part C: Emerging Technologies, 95, 82-104. (Download)
-* [18] Xu, G., **Liu, W.**, Yang, H. (2018) A Reliability-based Traffic Assignment Model for Railway Network with Heterogeneous Passengers. Transportation Research Part C: Emerging Technologies, 93, 501-524. (Download)
-* [17] **Liu, W.** (2018) An Equilibrium Analysis of Commuter Parking in the Era of Autonomous Vehicles. Transportation Research Part C: Emerging Technologies, 92, 191-207. (Download)
-* [16] Li, X., **Liu, W.**, Yang, H. (2018) Traffic Dynamics in a Bi-modal Transportation Network with Information Provision and Adaptive Transit Services. Transportation Research Part C: Emerging Technologies, 91, 77-98. (Download)
+* [19] Xu, G., Yang, H., **Liu, W.**, Shi, F. (2018) Itinerary Choice and Advance Ticket Booking for High-Speed-Railway Network Services. Transportation Research Part C: Emerging Technologies, 95, 82-104. ([Download](https://www.sciencedirect.com/science/article/pii/S0968090X18300251))
+* [18] Xu, G., **Liu, W.**, Yang, H. (2018) A Reliability-based Traffic Assignment Model for Railway Network with Heterogeneous Passengers. Transportation Research Part C: Emerging Technologies, 93, 501-524. ([Download](https://www.sciencedirect.com/science/article/pii/S0968090X18308982))
+* [17] **Liu, W.** (2018) An Equilibrium Analysis of Commuter Parking in the Era of Autonomous Vehicles. Transportation Research Part C: Emerging Technologies, 92, 191-207. ([Download](https://www.sciencedirect.com/science/article/pii/S0968090X18305412))
+* [16] Li, X., **Liu, W.**, Yang, H. (2018) Traffic Dynamics in a Bi-modal Transportation Network with Information Provision and Adaptive Transit Services. Transportation Research Part C: Emerging Technologies, 91, 77-98. ([Download](https://www.sciencedirect.com/science/article/pii/S0968090X18304145))
 
 **2017**
-* [15] **Liu, W.**, Li, X., Zhang, F., Yang, H. (2017) Interactive Travel Choices and Traffic Forecast in a Doubly Dynamical System with User Inertia and Information Provision. Transportation Research Part C: Emerging Technologies, 85, 711-731. (Download)
-* [14] **Liu, W.**, Zhang, F., Yang, H. (2017) Modeling and Managing Morning Commute with both Household and Individual Travels. Transportation Research Part B: Methodological, 103, 227-247. (Download)
+* [15] **Liu, W.**, Li, X., Zhang, F., Yang, H. (2017) Interactive Travel Choices and Traffic Forecast in a Doubly Dynamical System with User Inertia and Information Provision. Transportation Research Part C: Emerging Technologies, 85, 711-731. ([Download](https://www.sciencedirect.com/science/article/pii/S0968090X17302942))
+* [14] **Liu, W.**, Zhang, F., Yang, H. (2017) Modeling and Managing Morning Commute with both Household and Individual Travels. Transportation Research Part B: Methodological, 103, 227-247. ([Download](https://www.sciencedirect.com/science/article/pii/S0191261516303344))
 * [13] **Liu, W.**, Geroliminis, N. (2017) Doubly Dynamics for Multi-modal Networks with Park-and-ride and Adaptive Pricing. Transportation Research Part B: Methodological, 102, 162–179. (Download)
 * [12] Zhang, F., **Liu, W.**, Wang, X., Yang, H. (2017) A New Look at the Morning Commute with Household Shared-ride: How does School Location Play a Role? Transportation Research Part E: Logistics and Transportation Review, 103, 198-217. (Download)
 * [11] Chen, Z., **Liu, W.**, Yin, Y. (2017) Deployment of Stationary and Dynamic Charging Infrastructure for Electric Vehicles along Traffic Corridors. Transportation Research Part C: Emerging Technologies, 77, 185-206. (Download)
