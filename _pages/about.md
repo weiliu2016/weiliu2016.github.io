@@ -17,6 +17,16 @@ Research interests
 - Transportation Economics
 - Automated and Shared Mobility
 
+Research group
+======
+- Kai Xu (PhD Student, 2019 T3, from South China University of Technology, China)
+- Runqing Zhao (Master by Research, 2019 T3, from UNSW Sydney, Australia)
+- Haoning Xi (PhD student, 2019 T3, from Tsinghua University, China)
+- Mingyou Ma (PhD Student, 2019 T2, from UNSW Sydney, Australia)
+- Bangyang Wei (PhD Student, 2019 T1, from Shanghai Jiao Tong University, China)
+- Can Li (PhD Student, 2019 T1, from Rutgers University, US)
+- Tanapon Lilasathapornkit (PhD Student, 2018 T2, from UNSW Sydney, Australia)
+
 PhD positions and academic visitors
 ======
 - PhD students: Students with background in Computer Science, Civil/Transport Engineering, Industrial Engineering, Control Engineering, Automation, Applied Mathematics or other relevant areas are welcome to apply (smart transport and cities, simulation and computation, urban big data analytics). Please send me your CV including your education qualifications with GPA, English test scores (IELTS/TOEFL), list of publications (if any) and name and contact of at least two referees.
