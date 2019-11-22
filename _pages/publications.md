@@ -19,8 +19,8 @@ author_profile: true
 Journal Publications
 ----------
 **2020**
-* [28] **Liu, W.**, Wu, W. Thakuriah, P., Wang, J.  (2020) The Geography of Human Activity and Land Use: A Big Data Approach. Cities, 97, 102523. (Download)
-* [27] Wu, W., Liu, Y., **Liu, W.**, Wu, G., Ma, W. (2019) A Novel Autonomous Vehicle Trajectory Planning and Control Model for Connected-and-Autonomous Intersections. Acta Automatica Sinica, in press. (Download)
+* [28] **Liu, W.**, Wu, W. Thakuriah, P., Wang, J.  (2020) The Geography of Human Activity and Land Use: A Big Data Approach. Cities, 97, 102523. ([Download](https://www.sciencedirect.com/science/article/abs/pii/S0264275119306171))
+* [27] Wu, W., Liu, Y., **Liu, W.**, Wu, G., Ma, W. (2020) A Novel Autonomous Vehicle Trajectory Planning and Control Model for Connected-and-Autonomous Intersections. Acta Automatica Sinica, in press. (Download)
 
 **2019**
 * [26] Zhu, Z., Li, X., **Liu, W.**, Yang, H. (2019) Day-to-day Evolution of Departure Time Choice in Stochastic Capacity Bottleneck Models with Bounded Rationality and Various Information Perceptions. Transportation Research Part E: Logistics and Transportation Review, 131, 168-192. (Download)
