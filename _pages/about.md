@@ -8,18 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-- Dr. Wei Liu is an Assistant Professor (Lecturer) in Transport Engineering jointly appointed by the School of Computer Science and Engineering and the School of Civil and Environmental Engineering at UNSW. Prior to his position at UNSW, he was a Lecturer at University of Glasgow, UK, and was a postdoctoral researcher at Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland, and was a visiting scholar at University of Florida, US.
+Dr. Wei Liu is an Assistant Professor (Lecturer) in Transport Engineering jointly appointed by the School of Computer Science and Engineering and the School of Civil and Environmental Engineering at [UNSW Sydney](https://www.unsw.edu.au/). Prior to his position at UNSW, he was a Lecturer at [University of Glasgow](https://www.gla.ac.uk/), UK, and was a postdoctoral researcher at [Ecole Polytechnique Federale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland, and was a visiting scholar at [University of Florida](http://www.ufl.edu/), US. Dr. Liu mainly works in transport system modelling and optimisation; large-scale traffic modelling, simulation and computing; transport economics; and urban big data analytics. In recognition of his research, Dr Liu has received a Best Paper Award from the [International Transportation Economics Association (ITEA)](https://iteaweb.org/) for young scholars in 2015, and has received the Overseas Research Awards from [The Hong Kong University of Science and Technolog](https://www.ust.hk/home) for 2013-2014. Also, He was the winner of The European Transport Innovation Challenge 2017 under European Commission.
 
-- Dr. Wei Liu mainly works in transport system modelling and optimisation; large-scale traffic modelling, simulation and computing; transport economics; and urban big data analytics. In recognition of his research, Dr Liu has received a Best Paper Award from the International Transportation Economics Association (ITEA) for young scholars in 2015, and has received the Overseas Research Awards from HKUST for 2013-2014. Also, He was the winner of The European Transport Innovation Challenge 2017 under European Commission.
-
-Research interests
+Research Interests
 ======
 - Transportation Network Modelling and Optimisation
 - Transport and Urban Data Analytics
 - Transportation Economics
 - Automated and Shared Mobility
 
-Research group
+Research Group
 ======
 - Kai Xu (PhD Student, 2019 T3, from South China University of Technology, China)
 - Runqing Zhao (Master by Research, 2019 T3, from UNSW Sydney, Australia)
@@ -29,11 +27,11 @@ Research group
 - Can Li (PhD Student, 2019 T1, from Rutgers University, US)
 - Tanapon Lilasathapornkit (PhD Student, 2018 T2, from UNSW Sydney, Australia)
 
-PhD positions and academic visitors
+PhD Positions and Academic Visitors
 ======
-- **PhD students**: Students with background in Computer Science, Civil/Transport Engineering, Industrial Engineering, Control Engineering, Automation, Applied Mathematics or other relevant areas are welcome to apply (smart transport and cities, simulation and computation, urban big data analytics). Please send me your CV including your education qualifications with GPA, English test scores (IELTS/TOEFL), list of publications (if any) and name and contact of at least two referees.
+- **PhD Students**: Students with background in Computer Science, Civil/Transport Engineering, Industrial Engineering, Control Engineering, Automation, Applied Mathematics or other relevant areas are welcome to apply (smart transport and cities, simulation and computation, urban big data analytics). Please send me your CV including your education qualifications with GPA, English test scores (IELTS/TOEFL), list of publications (if any) and name and contact of at least two referees.
 
-- **Postdoc, visiting students and scholars**: If your research background fits my research interests, please send me your CV including your education qualifications and list of publications (if any).
+- **Postdoc, Visiting Students and Scholars**: If your research background fits my research interests, please send me your CV including your education qualifications and list of publications (if any).
 
 Selected Working Papers
 ======
