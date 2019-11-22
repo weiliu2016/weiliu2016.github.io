@@ -63,7 +63,7 @@ Journal Publications
 * [1]  Yang, H., **Liu, W.**, Wang, X., Zhang, X. (2013) On the Morning Commute Problem with Bottleneck Congestion and Parking Space Constraints. Transportation Research Part B: Methodological, 58, 106-118. (Download)
 
 
-Selected Conferences Proceedings
+Selected Conference Proceedings
 -------
 * Zhang, F., **Liu, W.** (2019) Responsive bus fleet size in a multi-modal and multi-directional transportation system: a doubly dynamical approach. The 23rd International Symposium on Transportation and Traffic Theory (ISTTT 2019).
 * Wang, X., **Liu, W.**, Wang, D., Yang, H., Ye, J. (2019) Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets. The 23rd International Symposium on Transportation and Traffic Theory (ISTTT 2019).
