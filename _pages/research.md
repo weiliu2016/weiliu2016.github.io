@@ -52,6 +52,7 @@ Academic services
 * Case Studies on Transport Policy
 * Sustainability
 * Journal of Advanced Transportation
+* Journal of Choice Modelling
 * Journal of Retailing and Consumer Services
 * Journal of Transport Economics and Policy (JTEP)
 * Journal of Transportation Engineering (ASCE)
