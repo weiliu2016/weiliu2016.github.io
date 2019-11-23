@@ -1,54 +1,14 @@
 ## Welcome to Wei's Homepage
 
-Dr Wei Liu is an Assistant Professor (Lecturer) in Transport Engineering jointly appointed by the School of Computer Science and Engineering and the School of Civil and Environmental Engineering at UNSW. Prior to his position at UNSW, he was a Lecturer at University of Glasgow, UK, and was a postdoctoral researcher at Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland, and was a visiting scholar at University of Florida, US. Dr. Liu mainly works in transport system modelling and optimisation; large-scale traffic modelling, simulation and computing; transport economics; and urban big data analytics.
+Dr. Wei Liu is an ARC DECRA Fellow and Assistant Professor (Lecturer) in Transport Engineering jointly appointed by the School of Computer Science and Engineering and the School of Civil and Environmental Engineering at UNSW Sydney. Prior to his position at UNSW, he was a Lecturer at University of Glasgow, UK, and was a postdoctoral researcher at Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland, and was a visiting scholar at University of Florida, US. Dr. Liu mainly works in transport system modelling and optimisation; large-scale traffic modelling, simulation and computing; transport economics; and urban big data analytics. In recognition of his research, Dr Liu has received the Overseas Research Awards from The Hong Kong University of Science and Technolog for 2013-2014, and has received a Best Paper Award from the International Transportation Economics Association (ITEA) for young scholars in 2015. Also, He was the winner of The European Transport Innovation Challenge 2017 under European Commission.
 
 ### Research interests
 
-- Transport and logistics management
-- Multimodal transport systems
-- High-speed rail and air transport
-- Automated and shared mobility
-- Wider economic benefits quantification
-- Transport and urban data analytics
+- Transportation Network Modelling and Optimisation
+- Transport and Urban Data Analytics
+- Transportation Economics
+- Automated and Shared Mobility
 
-### PhD positions
-
-- I am looking for 1-2 self-motivated Ph.D. students to join my research group. Applicants should have a B.S. or M.S. in Industrial Engineering, Transportation Engineering, Economics, Operations Research, Mathematics, and Computer Science or related fields. Strong oral and written communication skills in English are required. Candidates with research experience in network modeling, optimization and game theory are preferred.
-
-- Successful applicants will be considered eligible to receive a Postgraduate Scholarship (the 2019/20 rate: HKD 17,330/month) during the normative study period. Outstanding applicants for the Ph.D. programme are strongly encouraged to apply for the Hong Kong PhD Fellowship scheme, which offers an annual stipend of HKD 25,800 /month plus a conference and research-related travel allowance of HKD 12,900 per year for a period of up to three years. More information regarding HKU Ph.D. scholarships is available at:
-https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees#2
-To learn more about the HKU Ph.D. programme, visit 
-https://www.gradsch.hku.hk/gradsch/prospective-students/why-choose-hku  
-
-- The application deadline for 2020 intake is 2 December 2019. Please contact Dr. Fangni Zhang directly at fangni.zhang@hotmail.com
-
-- Postdoc and visiting research positions are also available. If your research background fits my research interests, please send me your CV including your education qualifications and list of publications (if any).
-
-### Selected Publications
-
-• **Zhang, F.**, Graham, D.J., Wong, M. (2018) Quantifying the substitutability and complementarity between high-speed rail and air transport. Transportation Research Part A, 118, 191-215. 
-
-• **Zhang, F.**, Zheng, N., Yang, H., Geroliminis, N. (2018) A systematic analysis of multimodal transport systems with road space distribution and responsive bus service. Transportation Research Part C, 96, 208-230.
-
-• Liu, W., Li, X, **Zhang, F.**, Yang, H. (2017) Interactive travel choices and traffic forecast in a doubly dynamical system with user inertia and information provision. Transportation Research Part C, 85, 711-731.
-
-• **Zhang, F.**., Liu, W., Wang, X., Yang, H. (2017) A new look at the morning commute with household shared-ride: How does school location play a role? Transportation Research Part E, 103, 198-217.
-
-• Liu, W., **Zhang, F.**, Yang, H. (2017) Modeling and managing morning commute with both household and individual travels. Transportation Research Part B, 103, 227-247.
-
-• Wang, W.W., Wang, D.Z., **Zhang, F.**, Sun, H., Zhang, W. and Wu, J. (2017) Overcoming the Downs-Thomson Paradox by transit subsidy policies. Transportation Research Part A, 95, 126-147.
-
-• **Zhang, F.**, Lindsey, R. and Yang, H. (2016) The Downs–Thomson paradox with imperfect mode substitutes and alternative transit administration regimes. Transportation Research Part B, 86, 104-127.
-
-• Liu, W., **Zhang, F.**, Yang, H.  (2016) Managing morning commute with parking space constraints in the case of bi-modal many-to-one network. Transportmetrica A, 12(2), 116-141.
-
-• **Zhang, F.**, Yang, H., Liu, W. (2014) The Downs-Thomson Paradox with responsive transit service. Transportation Research Part A, 70, 244-263.
-
-• Liu, W., Yang, H., Yin, Y., **Zhang, F.** (2014) A novel permit scheme for managing parking competition and bottleneck congestion. Transportation Research Part C, 44, 265-281.
-
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is Â© 2016 Michael Rose and released under the MIT License. See LICENSE.md.
-
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
 
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
