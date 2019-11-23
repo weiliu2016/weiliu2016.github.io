@@ -6,7 +6,7 @@ author_profile: true
 
 Recent Projects 
 -----------
-**As investigator**
+**As investigator or co-investigator**
 
 * Quantifying and managing the network impacts of transport sharing services, Australian Research Council, Discovery Early Career Researcher Award, 1 January 2020 to 31 December 2022.
 * Integrated Smart Parking System: Emerging and Shared Approaches, Smart Cities and Suburbs Program, Department of Infrastructure, Regional Development and Cities, 2019-2021.
