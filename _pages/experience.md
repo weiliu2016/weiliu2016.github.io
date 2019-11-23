@@ -17,7 +17,7 @@ redirect_from:
 
 **Working Experience**
 
-* 2018.02 - present: Assistant Profesorr (Lecturer), [School of Civil and Environmental Engineering and School of Computer Science and Engineering](https://research.unsw.edu.au/people/dr-fangni-zhang), University of New South Wales, Australia
+* 2018.02 - present: [Assistant Profesorr (Lecturer)]((https://research.unsw.edu.au/people/dr-wei-liu)), [School of Civil and Environmental Engineering](https://www.engineering.unsw.edu.au/civil-engineering/staff/wei-liu) and [School of Computer Science and Engineering](https://www.engineering.unsw.edu.au/computer-science-engineering/lecturer-wei-liu), University of New South Wales, Australia
 
 * 2016.05 - 2018.01: Assistant Profesorr (Lecturer), [James Watt School of Engineering](https://www.gla.ac.uk/schools/engineering/), University of Glasgow, United Kingdom
 
