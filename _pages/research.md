@@ -22,13 +22,14 @@ Academic services
 
 * Associate Editor - Journal of Management Science and Engineering (2017-)
 * Advisory Board Member - Transportation Research Interdisciplinary Perspectives (2019-)
-* Guest Editor - Transportmetrica A: Transport Science (2018-2019)
+* Guest Editor - Transportmetrica A: Transport Science (2018-2020)
 * Associate Editor - IEEE International Conference on Intelligent Transportation Systems (2018)
 * Publication Co-Chair - IEEE International Conference on Intelligent Transportation Systems (2019)
 * Co-Chair - Transportation History Technical Committee, World Transport Convention (2019)
 
 **Journal Reviewer**
 
+* Case Studies on Transport Policy
 * Computer-Aided Civil and Infrastructure Engineering
 * Computers & Operations Research
 * IEEE Transactions on Intelligent Transportation Systems
@@ -49,7 +50,6 @@ Academic services
 * Transportmetrica A: Transport Science
 * Transportmetrica B: Transport Dynamics
 * Travel Behaviour and Society
-* Case Studies on Transport Policy
 * Sustainability
 * Journal of Advanced Transportation
 * Journal of Choice Modelling
