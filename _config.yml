@@ -91,7 +91,7 @@ author:
     University of New South Wales <br>
   location         : "Sydney"
   employer         : "UNSW"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rEUNm28AAAAJ&hl=en"
   email            : "wei.liu@unsw.edu.au"
   researchgate     : "https://www.researchgate.net/profile/Wei_Liu510"
