@@ -11,9 +11,9 @@ redirect_from:
 
 **Education**
 
-* B.Eng. in Civil Engineering, Tsinhua University, 2006-2010
-* B.A. (dual degree) in Law, Tsinghua University, 2008-2010
-* Ph.D. in Transportation, Hong Kong University of Science and Technology, 2010-2014
+* B.Eng. in Civil Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html), 2006-2010
+* B.A. (dual degree) in Law, [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html), 2008-2010
+* Ph.D. in Transportation, [Hong Kong University of Science and Technology](https://www.ust.hk/home), 2010-2014
 
 **Working Experience**
 
