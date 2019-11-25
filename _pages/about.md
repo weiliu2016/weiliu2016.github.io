@@ -35,6 +35,7 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
+- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Probabilistic Graph Neural Network for Public Transport Demand Estimation.
 - Ma, M., **Liu, W.**, Li, X., Zhang, F., Dixit, V. Quantifying day-to-day evolution of reliability-based choice patterns in public transit system with smart card data.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Urban Mobility Analytics: A Deep Temporal-Spatial Product Neural Network for Demographics Prediction.
 - Wei, B., Saberi, M., Zhang, F., **Liu, W.**, Waller, S.T. Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach.
