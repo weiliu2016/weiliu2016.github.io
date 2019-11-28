@@ -35,6 +35,7 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
+- Wu, W., **Liu, W.**, Zhang, F., Dixit, V. A new flexible parking reservation scheme for the morning commute under limited parking supplies.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Probabilistic Graph Neural Network for Public Transport Demand Estimation.
 - Ma, M., **Liu, W.**, Li, X., Zhang, F., Dixit, V. Quantifying day-to-day evolution of reliability-based choice patterns in public transit system with smart card data.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Urban Mobility Analytics: A Deep Temporal-Spatial Product Neural Network for Demographics Prediction.
