@@ -36,6 +36,7 @@ PhD Positions and Academic Visitors
 Selected Working Papers
 ======
 - Zhang, F., Yang, Z., Jiao, J., **Liu, W.** The effects of high-speed rail development on regional equity in China.
+- Shao, C., Lindsey, R., Yang, H., Zhang, F., **Liu, W.** Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?
 - Wu, W., **Liu, W.**, Zhang, F., Dixit, V. A new flexible parking reservation scheme for the morning commute under limited parking supplies.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Probabilistic Graph Neural Network for Public Transport Demand Estimation.
 - Ma, M., **Liu, W.**, Li, X., Zhang, F., Dixit, V. Quantifying day-to-day evolution of reliability-based choice patterns in public transit system with smart card data.
