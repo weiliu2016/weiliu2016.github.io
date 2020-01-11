@@ -46,7 +46,6 @@ Selected Working Papers
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Urban Mobility Analytics: A Deep Temporal-Spatial Product Neural Network for Demographics Prediction.
 - Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach considering vehicle sizes.
 - Wang, X., Wang, J., Guo, L., **Liu, W.**, Zhang, X. Traffic assignment in general networks with ridesharing.
-- Wu, W., Zhang, F., **Liu, W.**, Lodewijks, G. Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets.
 - Zhang, F., **Liu, W.**, Wang, X., Yang, H. Parking sharing problem with spatially distributed parking supplies.
 - Xu, G., **Liu, W.**, Wu, R., Yang, H. A double time-scale passenger assignment model for high-speed railway networks with continuum capacity approximation.
 - Wei, T., Xu, G., **Liu, W.**, Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticketing booking record.
