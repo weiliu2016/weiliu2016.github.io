@@ -35,7 +35,9 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
+- Xu. G., Zhong, L., **Liu, W.** A global optimization method of pricing and seat allocation for passenger railway systems.
 - Yang, Z., Li, C., Jiao, J., **Liu, W.**, Zhang, F. High-speed rail megalopolis vs Economic Circles: Effects on regional economic growth.
+- Gu, Z., Najmia, A., Saberi, M., **Liu, W.**, Rashidi, T.H. Macroscopic parking modeling and optimal real-time pricing considering cruising-for-parking.
 - Cheng, Z., Waller, S.T., Rashidi, T.H., **Liu, W.**, Jian, S., Maghrebi, M. A Network Inference Model for Low Cost and Instant Planning.
 - Ma, M., **Liu, W.**, Li, X., Zhang, F., Jian, S., Dixit, V. Quantifying day-to-day evolution of travel choices in public transit systems with smart transit card data.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Graph Neural Network for Robust Public Transit Demand Prediction.
@@ -44,7 +46,7 @@ Selected Working Papers
 - Wu, W., **Liu, W.**, Zhang, F., Dixit, V. A new flexible parking reservation scheme for the morning commute under limited parking supplies.
 - Wei, B., Saberi, M., Zhang, F., **Liu, W.**, Waller, S.T. Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Urban Mobility Analytics: A Deep Temporal-Spatial Product Neural Network for Demographics Prediction.
-- Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach considering vehicle sizes.
+- Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach.
 - Wang, X., Wang, J., Guo, L., **Liu, W.**, Zhang, X. Traffic assignment in general networks with ridesharing.
 - Zhang, F., **Liu, W.**, Wang, X., Yang, H. Parking sharing problem with spatially distributed parking supplies.
 - Xu, G., **Liu, W.**, Wu, R., Yang, H. A double time-scale passenger assignment model for high-speed railway networks with continuum capacity approximation.
@@ -52,6 +54,7 @@ Selected Working Papers
 - Jian, S., **Liu, W.**, Wang, X., Yang, H., Waller, S.T. On integrating carsharing and parking sharing services.
 - Zhang, F., **Liu, W.**, Lodewijks, G., Waller, S.T. The short-run and long-run equilibria for commuting with autonomous vehicles.
 - **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips.
+- Jiao, J., Wang, J., Zhang, F. Jin, F., **Liu, W.** Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China.
 
 Selected Publications
 ======
