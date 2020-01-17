@@ -35,7 +35,7 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
-- Xu. G., Zhong, L., **Liu, W.** A global optimization method of pricing and seat allocation for passenger railway systems.
+- Xu, G., Zhong, L., **Liu, W.** A global optimization method of pricing and seat allocation for passenger railway systems.
 - Yang, Z., Li, C., Jiao, J., **Liu, W.**, Zhang, F. High-speed rail megalopolis vs Economic Circles: Effects on regional economic growth.
 - Gu, Z., Najmia, A., Saberi, M., **Liu, W.**, Rashidi, T.H. Macroscopic parking modeling and optimal real-time pricing considering cruising-for-parking.
 - Cheng, Z., Waller, S.T., Rashidi, T.H., **Liu, W.**, Jian, S., Maghrebi, M. A Network Inference Model for Low Cost and Instant Planning.
