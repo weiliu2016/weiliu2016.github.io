@@ -19,7 +19,7 @@ author_profile: true
 Journal Publications
 ----------
 **2020**
-* [30] Jiao, J., Wang, J., Zhang, F. Jin, F., **Liu, W.** Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. Transport Policy. (Download)
+* [30] Jiao, J., Wang, J., Zhang, F. Jin, F., **Liu, W.** Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. Transport Policy. ([Download](https://www.sciencedirect.com/science/article/pii/S0967070X19300617))
 * [29] Wu, W., Zhang, F., **Liu, W.**, Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. Transportation Research Part E: Logistics and Transportation Review, 134, 101855. ([Download](https://www.sciencedirect.com/science/article/pii/S1366554519301838))
 * [28] **Liu, W.**, Wu, W. Thakuriah, P., Wang, J.  (2020) The Geography of Human Activity and Land Use: A Big Data Approach. Cities, 97, 102523. ([Download](https://www.sciencedirect.com/science/article/abs/pii/S0264275119306171))
 * [27] Wu, W., Liu, Y., **Liu, W.**, Wu, G., Ma, W. (2020) A Novel Autonomous Vehicle Trajectory Planning and Control Model for Connected-and-Autonomous Intersections. Acta Automatica Sinica, in press. (Download)
