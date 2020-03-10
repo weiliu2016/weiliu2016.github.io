@@ -59,9 +59,9 @@ Selected Working Papers
 
 Selected Publications
 ======
-- Zhang, X., **Liu, W.**, Waller, S.T., Yin, Y. (2019) Modelling and managing the integrated morning-evening commuting and parking patterns under the fully autonomous vehicle environment. **Transportation Research Part B: Methodological**.
-- Wang, X., **Liu, W.**, Wang, D., Yang, H., Ye, J. (2019) Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets. **Transportation Research Part B: Methodological**.
+- Wang, X., **Liu, W.**, Wang, D., Yang, H., Ye, J. (2020) Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets. **Transportation Research Part B: Methodological**.
 - **Liu, W.**, Szeto, W.Y. (2019) Learning and Managing Stochastic Network Traffic Dynamics with an Aggregate Traffic Representation. **Transportation Research Part B: Methodological**.
+- Zhang, X., **Liu, W.**, Waller, S.T., Yin, Y. (2019) Modelling and managing the integrated morning-evening commuting and parking patterns under the fully autonomous vehicle environment. **Transportation Research Part B: Methodological**.
 - **Liu, W.** (2018) An Equilibrium Analysis of Commuter Parking in the Era of Autonomous Vehicles. **Transportation Research Part C: Emerging Technologies**.
 - **Liu, W.**, Zhang, F., Yang, H. (2017) Modeling and Managing Morning Commute with both Household and Individual Travels. **Transportation Research Part B: Methodological**.
 - **Liu, W.**, Geroliminis, N. (2017) Doubly Dynamics for Multi-modal Networks with Park-and-ride and Adaptive Pricing. **Transportation Research Part B: Methodological**.
