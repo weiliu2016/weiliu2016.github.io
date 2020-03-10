@@ -19,6 +19,7 @@ Research Interests
 
 Research Group
 ======
+- Yuhui Chen (MPhil, 2020 T1, from UNSW Sydney, Australia)
 - Kai Xu (PhD Student, 2019 T3, from South China University of Technology, China)
 - Runqing Zhao (Master by Research, 2019 T3, from UNSW Sydney, Australia)
 - Haoning Xi (PhD student, 2019 T3, from Tsinghua University, China)
