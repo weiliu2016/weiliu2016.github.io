@@ -18,55 +18,43 @@ author_profile: true
 
 Journal Publications
 ----------
-**2020**
+* [31] Zhang, F., **Liu, W.**, Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. Transportation Research Part C: Emerging Technologies, in press. (Download)
 * [30] Jiao, J., Wang, J., Zhang, F. Jin, F., **Liu, W.** Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. Transport Policy. ([Download](https://www.sciencedirect.com/science/article/pii/S0967070X19300617))
 * [29] Wu, W., Zhang, F., **Liu, W.**, Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. Transportation Research Part E: Logistics and Transportation Review, 134, 101855. ([Download](https://www.sciencedirect.com/science/article/pii/S1366554519301838))
 * [28] **Liu, W.**, Wu, W. Thakuriah, P., Wang, J.  (2020) The Geography of Human Activity and Land Use: A Big Data Approach. Cities, 97, 102523. ([Download](https://www.sciencedirect.com/science/article/abs/pii/S0264275119306171))
 * [27] Wu, W., Liu, Y., **Liu, W.**, Wu, G., Ma, W. (2020) A Novel Autonomous Vehicle Trajectory Planning and Control Model for Connected-and-Autonomous Intersections. Acta Automatica Sinica, in press. (Download)
 * [26] Wang, X., **Liu, W.**, Wang, D., Yang, H., Ye, J. (2020) Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets. Transportation Research Part B: Methodological, 132, 358-378. ([Download](https://www.sciencedirect.com/science/article/pii/S0191261518311330))
-
-**2019**
-* [25] Zhang, F., **Liu, W.** (2019) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. Transportation Research Part C: Emerging Technologies, in press. ([Download](https://www.sciencedirect.com/science/article/pii/S0968090X18317418))
+* [25] Zhang, F., **Liu, W.** (2020) Responsive bus dispatching strategy in a multi-modal and multi-directional transportation system: a doubly dynamical approach. Transportation Research Part C: Emerging Technologies, 113, 21-37. ([Download](https://www.sciencedirect.com/science/article/pii/S0968090X18317418))
 * [24] **Liu, W.**, Szeto, W.Y. (2019) Learning and Managing Stochastic Network Traffic Dynamics with an Aggregate Traffic Representation. Transportation Research Part B: Methodological, in press. ([Download](https://www.sciencedirect.com/science/article/pii/S0191261517307130))
 * [23] Zhu, Z., Li, X., **Liu, W.**, Yang, H. (2019) Day-to-day Evolution of Departure Time Choice in Stochastic Capacity Bottleneck Models with Bounded Rationality and Various Information Perceptions. Transportation Research Part E: Logistics and Transportation Review, 131, 168-192. ([Download](https://www.sciencedirect.com/science/article/pii/S1366554519301553))
 * [22] Zhang, X., **Liu, W.**, Waller, S.T., Yin, Y. (2019) Modelling and managing the integrated morning-evening commuting and parking patterns under the fully autonomous vehicle environment. Transportation Research Part B: Methodological, 128, 380-407. ([Download](https://www.sciencedirect.com/science/article/pii/S0191261518308841))
 * [21] Zhang, X., **Liu, W.**, Waller, S.T. (2019) A network traffic assignment model for autonomous vehicles with parking choices. Computer-Aided Civil and Infrastructure Engineering, 34(12), 1100-1118. ([Download](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12486))
 * [20] Wu, W., Liu, Y., **Liu, W.**, Zhang, F., David, R., Dixit, V. (2019) An integrated approach for optimizing left-turn forbiddance decisions along urban arterial road. Transportmetrica B: Transport Dynamics, 7, 1481-1504. ([Download](https://www.tandfonline.com/doi/abs/10.1080/21680566.2019.1631901))
-
-**2018**
 * [19] Xu, G., Yang, H., **Liu, W.**, Shi, F. (2018) Itinerary Choice and Advance Ticket Booking for High-Speed-Railway Network Services. Transportation Research Part C: Emerging Technologies, 95, 82-104. ([Download](https://www.sciencedirect.com/science/article/pii/S0968090X18300251))
 * [18] Xu, G., **Liu, W.**, Yang, H. (2018) A Reliability-based Traffic Assignment Model for Railway Network with Heterogeneous Passengers. Transportation Research Part C: Emerging Technologies, 93, 501-524. ([Download](https://www.sciencedirect.com/science/article/pii/S0968090X18308982))
 * [17] **Liu, W.** (2018) An Equilibrium Analysis of Commuter Parking in the Era of Autonomous Vehicles. Transportation Research Part C: Emerging Technologies, 92, 191-207. ([Download](https://www.sciencedirect.com/science/article/pii/S0968090X18305412))
 * [16] Li, X., **Liu, W.**, Yang, H. (2018) Traffic Dynamics in a Bi-modal Transportation Network with Information Provision and Adaptive Transit Services. Transportation Research Part C: Emerging Technologies, 91, 77-98. ([Download](https://www.sciencedirect.com/science/article/pii/S0968090X18304145))
-
-**2017**
 * [15] **Liu, W.**, Li, X., Zhang, F., Yang, H. (2017) Interactive Travel Choices and Traffic Forecast in a Doubly Dynamical System with User Inertia and Information Provision. Transportation Research Part C: Emerging Technologies, 85, 711-731. ([Download](https://www.sciencedirect.com/science/article/pii/S0968090X17302942))
 * [14] **Liu, W.**, Zhang, F., Yang, H. (2017) Modeling and Managing Morning Commute with both Household and Individual Travels. Transportation Research Part B: Methodological, 103, 227-247. ([Download](https://www.sciencedirect.com/science/article/pii/S0191261516303344))
 * [13] **Liu, W.**, Geroliminis, N. (2017) Doubly Dynamics for Multi-modal Networks with Park-and-ride and Adaptive Pricing. Transportation Research Part B: Methodological, 102, 162–179. ([Download](https://www.sciencedirect.com/science/article/pii/S0191261516305896))
 * [12] Zhang, F., **Liu, W.**, Wang, X., Yang, H. (2017) A New Look at the Morning Commute with Household Shared-ride: How does School Location Play a Role? Transportation Research Part E: Logistics and Transportation Review, 103, 198-217. ([Download](https://www.sciencedirect.com/science/article/pii/S1366554516309024))
 * [11] Chen, Z., **Liu, W.**, Yin, Y. (2017) Deployment of Stationary and Dynamic Charging Infrastructure for Electric Vehicles along Traffic Corridors. Transportation Research Part C: Emerging Technologies, 77, 185-206. ([Download](https://www.sciencedirect.com/science/article/pii/S0968090X17300347))
-
-**2016**
 * [10] **Liu, W.**, Geroliminis, N. (2016) Modeling the Morning Commute for Urban Networks with Cruising-for-parking: an MFD Approach. Transportation Research Part B: Methodological, 93, 470- 494. ([Download](https://www.sciencedirect.com/science/article/pii/S0191261516305677))
 * [9] **Liu, W.**, Zhang, F., Yang, H. (2016) Managing Morning Commute with Parking Space Constraints in the Case of Bi-modal Many-to-one Network. Transportmetrica A: Transport Science, 12(2), 116-141. ([Download](https://www.tandfonline.com/doi/full/10.1080/23249935.2015.1111955))
-
-**2015**
 * [8] **Liu, W.**, Yin, Y., Yang, H. (2015) Effectiveness of Variable Speed Limits Considering Commuters’ Long-term Response. Transportation Research Part B: Methodological, 81, 498- 519. ([Download](https://www.sciencedirect.com/science/article/pii/S0191261514002185))
 * [7] **Liu, W.**, Yang, H., Yin, Y. (2015) Efficiency of a Highway Use Reservation System for Morning Commute. Transportation Research Part C: Emerging Technologies, 56, 293-308. ([Download](https://www.sciencedirect.com/science/article/pii/S0968090X15001564))
-
-**2014**
 * [6] Zhang, F., Yang, H., **Liu, W.** (2014) The Downs-Thomson Paradox with Responsive Transit Service. Transportation Research Part A: Policy and Practice, 70, 244-263. ([Download](https://www.sciencedirect.com/science/article/pii/S096585641400264X))
 * [5] **Liu, W.**, Yang, H., Yin, Y., Zhang, F. (2014) A Novel Permit Scheme for Managing Parking Competition and Bottleneck Congestion. Transportation Research Part C: Emerging Technologies, 44, 265- 281. ([Download](https://www.sciencedirect.com/science/article/pii/S0968090X14001028))
 * [4] **Liu, W.**, Yang, H., Yin, Y. (2014) Expirable Parking Reservations for Managing Morning Commute with Parking Space Constraints. Transportation Research Part C: Emerging Technologies, 44, 185- 201. ([Download](https://www.sciencedirect.com/science/article/pii/S0968090X14000916))
 * [3] Wang, X., Yang, H., Han, D., **Liu, W.** (2014) Trial-and-error Method for Optimal Tradable Credit Schemes: The Network Case. Journal of Advanced Transportation, 48(6), 685- 700. ([Download](https://onlinelibrary.wiley.com/doi/full/10.1002/atr.1245))
 * [2] **Liu, W.**, Yang, H., Yin, Y. (2014) Traffic Rationing and Pricing in a Linear Monocentric City. Journal of Advanced Transportation, 48(6), 655-672. ([Download](https://onlinelibrary.wiley.com/doi/full/10.1002/atr.1219))
-
-**2013**
 * [1]  Yang, H., **Liu, W.**, Wang, X., Zhang, X. (2013) On the Morning Commute Problem with Bottleneck Congestion and Parking Space Constraints. Transportation Research Part B: Methodological, 58, 106-118. ([Download](https://www.sciencedirect.com/science/article/pii/S0191261513001768))
 
 
 Selected Conference Proceedings
 -------
+* Chen, X., Huang, C., Yao, L., Wang, X., **Liu, W.**, Zhang, W. (2020) Knowledge-guided Deep Reinforcement Learning for Interactive Recommendation, International Joint Conference on Neural Networks (IJCNN 2020), Glasgow, UK, July 19 - 24, 2020
+* Wang, X., Yao, L., **Liu, W.**, Li, C., Bai, L., Waller, S.T. (2020) Mobility Irregularity Detection with Smart Transit Card Data. The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2020), Singapore, May 11 - 14, 2020.
 * Zhang, F., **Liu, W.** (2019) Responsive bus fleet size in a multi-modal and multi-directional transportation system: a doubly dynamical approach. The 23rd International Symposium on Transportation and Traffic Theory (ISTTT 2019) and Transportation Research Procedia, 38, 119-138. ([Download](https://www.sciencedirect.com/science/article/pii/S2352146519300171))
 * Wang, X., **Liu, W.**, Wang, D., Yang, H., Ye, J. (2019) Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets. The 23rd International Symposium on Transportation and Traffic Theory (ISTTT 2019) and Transportation Research Procedia, 38, 853-873. ([Download](https://www.sciencedirect.com/science/article/pii/S2352146519300535))
 * Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2019) Passenger Demographic Attributes Prediction for Human-centered Public Transport. The 26th International Conference on Neural Information Processing of the Asia-Pacific Neural Network (ICONIP 2019). ([Download](https://link.springer.com/chapter/10.1007/978-3-030-36808-1_53))
