@@ -36,6 +36,7 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
+- **Liu, W.**, Zhang, F., Yang, H. Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supplyof curbside and shared parking.
 - Xu, G., Zhong, L., **Liu, W.** A global optimization method for pricing and seat allocation schemes in passenger railway systems.
 - Najmia, A., Rashidi, T.H., **Liu, W.** Ridesharing in the era of Mobility as a Service (MaaS): An Activity-based Approach with Multimodality and Intermodality.
 - Yang, Z., Li, C., Jiao, J., **Liu, W.**, Zhang, F. High-speed rail megalopolis vs Economic Circles: Effects on regional economic growth.
@@ -47,10 +48,9 @@ Selected Working Papers
 - Shao, C., Lindsey, R., Yang, H., Zhang, F., **Liu, W.** Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?
 - Wu, W., **Liu, W.**, Zhang, F., Dixit, V. A new flexible parking reservation scheme for the morning commute under limited parking supplies.
 - Wei, B., Saberi, M., Zhang, F., **Liu, W.**, Waller, S.T. Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach.
-- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Urban Mobility Analytics: A Deep Temporal-Spatial Product Neural Network for Demographics Prediction.
+- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Urban Mobility Analytics: A Deep Temporal-Spatial Product Neural Network for Demographics Inference.
 - Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach.
 - Wang, X., Wang, J., Guo, L., **Liu, W.**, Zhang, X. Traffic assignment in general networks with ridesharing.
-- Zhang, F., **Liu, W.**, Wang, X., Yang, H. Parking sharing problem with spatially distributed parking supplies.
 - Xu, G., **Liu, W.**, Wu, R., Yang, H. A double time-scale passenger assignment model for high-speed railway networks with continuum capacity approximation.
 - Wei, T., Xu, G., **Liu, W.**, Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticketing booking record.
 - Jian, S., **Liu, W.**, Wang, X., Yang, H., Waller, S.T. On integrating carsharing and parking sharing services.
@@ -60,7 +60,7 @@ Selected Working Papers
 Selected Publications
 ======
 - Wang, X., **Liu, W.**, Wang, D., Yang, H., Ye, J. (2020) Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets. **Transportation Research Part B: Methodological**.
-- **Liu, W.**, Szeto, W.Y. (2019) Learning and Managing Stochastic Network Traffic Dynamics with an Aggregate Traffic Representation. **Transportation Research Part B: Methodological**.
+- **Liu, W.**, Szeto, W.Y. (2020) Learning and Managing Stochastic Network Traffic Dynamics with an Aggregate Traffic Representation. **Transportation Research Part B: Methodological**.
 - Zhang, X., **Liu, W.**, Waller, S.T., Yin, Y. (2019) Modelling and managing the integrated morning-evening commuting and parking patterns under the fully autonomous vehicle environment. **Transportation Research Part B: Methodological**.
 - **Liu, W.** (2018) An Equilibrium Analysis of Commuter Parking in the Era of Autonomous Vehicles. **Transportation Research Part C: Emerging Technologies**.
 - **Liu, W.**, Zhang, F., Yang, H. (2017) Modeling and Managing Morning Commute with both Household and Individual Travels. **Transportation Research Part B: Methodological**.
