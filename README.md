@@ -1,15 +1,3 @@
-## Welcome to Wei's Homepage
-
-Dr. Wei Liu is an ARC DECRA Fellow and Assistant Professor (Lecturer) in Transport Engineering jointly appointed by the School of Computer Science and Engineering and the School of Civil and Environmental Engineering at UNSW Sydney. Prior to his position at UNSW, he was a Lecturer at University of Glasgow, UK, and was a postdoctoral researcher at Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland, and was a visiting scholar at University of Florida, US. Dr. Liu mainly works in transport system modelling and optimisation; large-scale traffic modelling, simulation and computing; transport economics; and urban big data analytics. In recognition of his research, Dr Liu has received the Overseas Research Awards from The Hong Kong University of Science and Technolog for 2013-2014, and has received a Best Paper Award from the International Transportation Economics Association (ITEA) for young scholars in 2015. Also, He was the winner of The European Transport Innovation Challenge 2017 under European Commission.
-
-### Research interests
-
-- Transportation Network Modelling and Optimisation
-- Transport and Urban Data Analytics
-- Transportation Economics
-- Automated and Shared Mobility
-
-
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
 # Instructions
