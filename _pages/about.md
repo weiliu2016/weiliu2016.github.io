@@ -37,8 +37,8 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
-- **Liu, W.**, Zhang, F., Yang, H. Service differentiation in a two-sided market of shared parking
-- **Liu, W.**, Zhang, F., Yang, H. Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supplyof curbside and shared parking.
+- **Liu, W.**, Zhang, F., Yang, H. Service differentiation in a two-sided market of shared parking.
+- **Liu, W.**, Zhang, F., Yang, H. Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking.
 - Xu, G., Zhong, L., **Liu, W.** A global optimization method for pricing and seat allocation schemes in passenger railway systems.
 - Najmia, A., Rashidi, T.H., **Liu, W.** Ridesharing in the era of Mobility as a Service (MaaS): An Activity-based Approach with Multimodality and Intermodality.
 - Yang, Z., Li, C., Jiao, J., **Liu, W.**, Zhang, F. High-speed rail megalopolis vs Economic Circles: Effects on regional economic growth.
