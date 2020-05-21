@@ -18,6 +18,7 @@ author_profile: true
 
 Journal Publications
 ----------
+* [32] Wei, B., Saberi, M., Zhang, F., **Liu, W.**, Waller, S.T. (2020) Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach. Transportation Research Part C: Emerging Technologies, in press. (Download)
 * [31] Zhang, F., **Liu, W.**, Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. Transportation Research Part C: Emerging Technologies, in press. (Download)
 * [30] Jiao, J., Wang, J., Zhang, F. Jin, F., **Liu, W.** (2020) Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. Transport Policy, 91, 1-15. ([Download](https://www.sciencedirect.com/science/article/pii/S0967070X19300617))
 * [29] Wu, W., Zhang, F., **Liu, W.**, Lodewijks, G. (2020) Modelling the traffic in a mixed network with autonomous-driving expressways and non-autonomous local streets. Transportation Research Part E: Logistics and Transportation Review, 134, 101855. ([Download](https://www.sciencedirect.com/science/article/pii/S1366554519301838))
