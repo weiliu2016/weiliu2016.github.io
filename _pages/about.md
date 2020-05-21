@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Wei Liu is an ARC DECRA Fellow and Assistant Professor (Lecturer) in Transport Engineering jointly appointed by the School of Computer Science and Engineering and the School of Civil and Environmental Engineering at [UNSW Sydney](https://www.unsw.edu.au/). Prior to his position at UNSW, he was a Lecturer at [University of Glasgow](https://www.gla.ac.uk/), UK, and was a postdoctoral researcher at [Ecole Polytechnique Federale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland, and was a visiting researcher at [University of Florida](http://www.ufl.edu/), US. Dr. Liu mainly works in transport system modelling and optimisation; large-scale traffic modelling, simulation and computing; transport economics; and urban big data analytics. In recognition of his research, Dr Liu has received the Overseas Research Awards from [The Hong Kong University of Science and Technology](https://www.ust.hk/home) for 2013-2014, and has received a Best Paper Award from the [International Transportation Economics Association (ITEA)](https://iteaweb.org/) for young scholars in 2015. Also, He was the winner of The European Transport Innovation Challenge 2017 under European Commission.
+Dr. Wei Liu is an Assistant Professor (Lecturer) and ARC DECRA Fellow in Transport Engineering jointly appointed by the School of Computer Science and Engineering and the School of Civil and Environmental Engineering at [UNSW Sydney](https://www.unsw.edu.au/). Prior to his position at UNSW, he was a Lecturer at [University of Glasgow](https://www.gla.ac.uk/), UK, and was a postdoctoral researcher at [Ecole Polytechnique Federale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland, and was a visiting researcher at [University of Florida](http://www.ufl.edu/), US. Dr. Liu mainly works in transport system modelling and optimisation; large-scale traffic modelling, simulation and computing; transport economics; and urban big data analytics. In recognition of his research, Dr Liu has received the Overseas Research Awards from [The Hong Kong University of Science and Technology](https://www.ust.hk/home) for 2013-2014, and has received a Best Paper Award from the [International Transportation Economics Association (ITEA)](https://iteaweb.org/) for young scholars in 2015. Also, He was the winner of The European Transport Innovation Challenge 2017 under European Commission.
 
 Research Interests
 ======
@@ -19,6 +19,7 @@ Research Interests
 
 Research Group
 ======
+- Yu Jiang (PhD Student, 2020 T3, from UIUC, US)
 - Yuhui Chen (MPhil Student, 2020 T1, from UNSW Sydney, Australia)
 - Kai Xu (PhD Student, 2019 T3, from South China University of Technology, China)
 - Runqing Zhao (Master by Research, 2019 T3, from UNSW Sydney, Australia)
@@ -36,6 +37,7 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
+- **Liu, W.**, Zhang, F., Yang, H. Service differentiation in a two-sided market of shared parking
 - **Liu, W.**, Zhang, F., Yang, H. Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supplyof curbside and shared parking.
 - Xu, G., Zhong, L., **Liu, W.** A global optimization method for pricing and seat allocation schemes in passenger railway systems.
 - Najmia, A., Rashidi, T.H., **Liu, W.** Ridesharing in the era of Mobility as a Service (MaaS): An Activity-based Approach with Multimodality and Intermodality.
@@ -47,10 +49,9 @@ Selected Working Papers
 - Zhang, F., Yang, Z., Jiao, J., **Liu, W.** The effects of high-speed rail development on regional equity in China.
 - Shao, C., Lindsey, R., Yang, H., Zhang, F., **Liu, W.** Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?
 - Wu, W., **Liu, W.**, Zhang, F., Dixit, V. A new flexible parking reservation scheme for the morning commute under limited parking supplies.
-- Wei, B., Saberi, M., Zhang, F., **Liu, W.**, Waller, S.T. Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Urban Mobility Analytics: A Deep Temporal-Spatial Product Neural Network for Demographics Inference.
 - Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach.
-- Wang, X., Wang, J., Guo, L., **Liu, W.**, Zhang, X. Traffic assignment in general networks with ridesharing.
+- Wang, X., Guo, L., Wang, J., **Liu, W.**, Zhang, X. A Convex Programming Approach for Ridesharing User Equilibrium Under Fixed Driver/Rider Demand.
 - Xu, G., **Liu, W.**, Wu, R., Yang, H. A double time-scale passenger assignment model for high-speed railway networks with continuum capacity approximation.
 - Wei, T., Xu, G., **Liu, W.**, Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticketing booking record.
 - Jian, S., **Liu, W.**, Wang, X., Yang, H., Waller, S.T. On integrating carsharing and parking sharing services.
