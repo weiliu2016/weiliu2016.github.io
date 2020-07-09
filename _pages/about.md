@@ -39,9 +39,9 @@ Selected Working Papers
 - **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
 - **Liu, W.**, Zhang, F., Yang, H. Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking.
 - Xu, G., Zhong, L., **Liu, W.** A global optimization method for pricing and seat allocation schemes in passenger railway systems.
+- Qin, X., Ke, J., **Liu, W.** Upgrading in ride-sourcing services with multiple vehicle classes.
 - Najmia, A., Rashidi, T.H., **Liu, W.** Ridesharing in the era of Mobility as a Service (MaaS): An Activity-based Approach with Multimodality and Intermodality.
 - Yang, Z., Li, C., Jiao, J., **Liu, W.**, Zhang, F. High-speed rail megalopolis vs Economic Circles: Effects on regional economic growth.
-- Gu, Z., Najmia, A., Saberi, M., **Liu, W.**, Rashidi, T.H. Macroscopic parking modeling and optimal real-time pricing considering cruising-for-parking.
 - Cheng, Z., Waller, S.T., Rashidi, T.H., **Liu, W.**, Jian, S., Maghrebi, M. A Network Inference Model for Low Cost and Instant Planning.
 - Ma, M., **Liu, W.**, Li, X., Zhang, F., Jian, S., Dixit, V. Quantifying day-to-day evolution of travel choices in public transit systems with smart transit card data.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Graph Neural Network for Robust Public Transit Demand Prediction.
