@@ -17,12 +17,14 @@ redirect_from:
 
 **Working Experience**
 
-* 2018.02 - present: [Assistant Professor (Lecturer)](https://research.unsw.edu.au/people/dr-wei-liu), [School of Civil and Environmental Engineering](https://www.engineering.unsw.edu.au/civil-engineering/staff/wei-liu) and [School of Computer Science and Engineering](https://www.engineering.unsw.edu.au/computer-science-engineering/lecturer-wei-liu), University of New South Wales, Australia
+* 2020 - present: [Senior Lecturer, ARC DECRA Fellow](https://research.unsw.edu.au/people/dr-wei-liu), [School of Civil and Environmental Engineering](https://www.engineering.unsw.edu.au/civil-engineering/staff/wei-liu) and [School of Computer Science and Engineering](https://www.engineering.unsw.edu.au/computer-science-engineering/lecturer-wei-liu), University of New South Wales, Australia
 
-* 2016.05 - 2018.01: Assistant Professor (Lecturer), [James Watt School of Engineering](https://www.gla.ac.uk/schools/engineering/), University of Glasgow, United Kingdom
+* 2018 - 2020: Lecturer (Assistant Professor), [School of Civil and Environmental Engineering](https://www.engineering.unsw.edu.au/civil-engineering/staff/wei-liu) and [School of Computer Science and Engineering](https://www.engineering.unsw.edu.au/computer-science-engineering/lecturer-wei-liu), University of New South Wales, Australia
 
-* 2014.10 - 2016.04: Postdoctoral Researcher, [Urban Transport Systems Laboratory (LUTS)](https://www.epfl.ch/labs/luts/), École polytechnique fédérale de Lausanne (EPFL), Switzerland
+* 2016 - 2018: Lecturer (Assistant Professor), [James Watt School of Engineering](https://www.gla.ac.uk/schools/engineering/), University of Glasgow, United Kingdom
 
-* 2013.09 - 2014.02: Visiting PhD Student, [Department of Industrial and Systems Engineering](https://www.ise.ufl.edu/), University of Florida, US
+* 2014 - 2016: Postdoctoral Researcher, [Urban Transport Systems Laboratory (LUTS)](https://www.epfl.ch/labs/luts/), École polytechnique fédérale de Lausanne (EPFL), Switzerland
 
-* 2010.09 - 2014.08: Research Assistant, [Intelligent Transportation Systems (ITS) Laboratory](https://sites.google.com/view/hkustits/home), Hong Kong University of Science and Technology, Hong Kong
+* 2013 - 2014: Visiting PhD Student, [Department of Industrial and Systems Engineering](https://www.ise.ufl.edu/), University of Florida, US
+
+* 2010 - 2014: Research Assistant, [Intelligent Transportation Systems (ITS) Laboratory](https://sites.google.com/view/hkustits/home), Hong Kong University of Science and Technology, Hong Kong
