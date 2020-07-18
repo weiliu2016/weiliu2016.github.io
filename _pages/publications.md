@@ -18,8 +18,8 @@ author_profile: true
 
 Journal Publications
 ----------
-* [34] Gu, Z., Najmia, A., Saberi, M., **Liu, W.**, Rashidi, T.H. (2020) Macroscopic parking modeling and optimal real-time pricing considering cruising-for-parking. Transportation Research Part C: Emerging Technologies, in press. (Download)
-* [33] Zhang, F., **Liu, W.**, Lodewijks, G., Waller, S.T. (2020) The short-run and long-run equilibria for commuting with autonomous vehicles. Transportmetrica B: Transport Dynamics, in press. ([Download](https://doi.org/10.1080/21680566.2020.1779146))
+* [34] Zhang, F., **Liu, W.**, Lodewijks, G., Waller, S.T. (2020) The short-run and long-run equilibria for commuting with autonomous vehicles. Transportmetrica B: Transport Dynamics, in press. ([Download](https://doi.org/10.1080/21680566.2020.1779146))
+* [33] Gu, Z., Najmia, A., Saberi, M., **Liu, W.**, Rashidi, T.H. (2020) Macroscopic parking modeling and optimal real-time pricing considering cruising-for-parking. Transportation Research Part C: Emerging Technologies, 118, 102714. ([Download](https://doi.org/10.1016/j.trc.2020.102714))
 * [32] Wei, B., Saberi, M., Zhang, F., **Liu, W.**, Waller, S.T. (2020) Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach. Transportation Research Part C: Emerging Technologies, 117, 102670. ([Download](https://doi.org/10.1016/j.trc.2020.102670))
 * [31] Zhang, F., **Liu, W.**, Wang, X., Yang, H. (2020) Parking sharing problem with spatially distributed parking supplies. Transportation Research Part C: Emerging Technologies, 117, 102676. ([Download](https://doi.org/10.1016/j.trc.2020.102676))
 * [30] Jiao, J., Wang, J., Zhang, F. Jin, F., **Liu, W.** (2020) Roles of accessibility, connectivity and spatial interdependence in realizing the economic impact of high-speed rail: Evidence from China. Transport Policy, 91, 1-15. ([Download](https://www.sciencedirect.com/science/article/pii/S0967070X19300617))
@@ -56,6 +56,7 @@ Journal Publications
 
 Selected Conference Proceedings
 -------
+* Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2020) Knowledge Adaption for Demand Prediction based on Multi-task Memory Neural Network. The 29th International Conference on Information and Knowledge Management (CIKM 2020), Galway, Ireland, October 19 - 23, 2020.
 * Chen, X., Huang, C., Yao, L., Wang, X., **Liu, W.**, Zhang, W. (2020) Knowledge-guided Deep Reinforcement Learning for Interactive Recommendation, International Joint Conference on Neural Networks (IJCNN 2020), Glasgow, UK, July 19 - 24, 2020
 * Wang, X., Yao, L., **Liu, W.**, Li, C., Bai, L., Waller, S.T. (2020) Mobility Irregularity Detection with Smart Transit Card Data. The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2020), Singapore, May 11 - 14, 2020. ([Download](https://link.springer.com/chapter/10.1007/978-3-030-47426-3_42))
 * Zhang, F., **Liu, W.** (2019) Responsive bus fleet size in a multi-modal and multi-directional transportation system: a doubly dynamical approach. The 23rd International Symposium on Transportation and Traffic Theory (ISTTT 2019) and Transportation Research Procedia, 38, 119-138. ([Download](https://www.sciencedirect.com/science/article/pii/S2352146519300171))
