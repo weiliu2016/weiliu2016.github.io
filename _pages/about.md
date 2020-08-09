@@ -39,16 +39,15 @@ Selected Working Papers
 - **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
 - **Liu, W.**, Zhang, F., Yang, H. Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking.
 - Xu, G., Zhong, L., **Liu, W.** A global optimization method for pricing and seat allocation schemes in passenger railway systems.
-- Qin, X., Ke, J., **Liu, W.** Upgrading in ride-sourcing services with multiple vehicle classes.
+- Qin, X., Ke, J., **Liu, W.**, Yang, H. Upgrading in ride-sourcing services with multiple vehicle classes.
 - Najmia, A., Rashidi, T.H., **Liu, W.** Ridesharing in the era of Mobility as a Service (MaaS): An Activity-based Approach with Multimodality and Intermodality.
-- Yang, Z., Li, C., Jiao, J., **Liu, W.**, Zhang, F. High-speed rail megalopolis vs Economic Circles: Effects on regional economic growth.
 - Cheng, Z., Waller, S.T., Rashidi, T.H., **Liu, W.**, Jian, S., Maghrebi, M. A Network Inference Model for Low Cost and Instant Planning.
 - Ma, M., **Liu, W.**, Li, X., Zhang, F., Jian, S., Dixit, V. Quantifying day-to-day evolution of travel choices in public transit systems with smart transit card data.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Graph Neural Network for Robust Public Transit Demand Prediction.
 - Zhang, F., Yang, Z., Jiao, J., **Liu, W.** The effects of high-speed rail development on regional equity in China.
 - Shao, C., Lindsey, R., Yang, H., Zhang, F., **Liu, W.** Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?
 - Wu, W., **Liu, W.**, Zhang, F., Dixit, V. A new flexible parking reservation scheme for the morning commute under limited parking supplies.
-- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Urban Mobility Analytics: A Deep Temporal-Spatial Product Neural Network for Demographics Inference.
+- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Urban Mobility Analytics: A Deep Temporal-Spatial Product Neural Network for Traveler Attributes Inference.
 - Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach.
 - Wang, X., Guo, L., Wang, J., **Liu, W.**, Zhang, X. A Convex Programming Approach for Ridesharing User Equilibrium Under Fixed Driver/Rider Demand.
 - Xu, G., **Liu, W.**, Wu, R., Yang, H. A double time-scale passenger assignment model for high-speed railway networks with continuum capacity approximation.
