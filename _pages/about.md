@@ -71,4 +71,4 @@ Selected Publications
 
 Visitors
 ======
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=185Iom0uxhsLNrkTbarctYVYhl78Si-06QyyBBA58ag&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1bc3f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=185Iom0uxhsLNrkTbarctYVYhl78Si-06QyyBBA58ag&cl=ffffff" /></a>
