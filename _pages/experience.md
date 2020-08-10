@@ -31,4 +31,4 @@ redirect_from:
 
 **Website Visitors**
 
-<a href="https://clustrmaps.com/site/1bc3f"  title="Visit tracker"><img src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=150&t=n&d=185Iom0uxhsLNrkTbarctYVYhl78Si-06QyyBBA58ag&co=ffffff&cmo=3acc3a&cmn=0b31fa&ct=808080" /></a>
+<a href="https://clustrmaps.com/site/1bc3f" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=185Iom0uxhsLNrkTbarctYVYhl78Si-06QyyBBA58ag&cl=ffffff"></a>
