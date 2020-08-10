@@ -70,4 +70,4 @@ Selected Publications
 
 
 
-<a href="https://clustrmaps.com/site/1bc3f" title="Visit tracker"><img src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=100&t=n&d=185Iom0uxhsLNrkTbarctYVYhl78Si-06QyyBBA58ag&co=ffffff&cmo=3acc3a&cmn=001aff&ct=808080"></a>
+<a href="https://clustrmaps.com/site/1bc3f" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=185Iom0uxhsLNrkTbarctYVYhl78Si-06QyyBBA58ag&cl=ffffff"></a>
