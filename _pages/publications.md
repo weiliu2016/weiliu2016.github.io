@@ -16,9 +16,16 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?user=rEUNm28AAAAJ&hl=en), [ORCID](http://orcid.org/0000-0001-8638-3695), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57209524810), [Web of Science](https://publons.com/researcher/2454278/wei-liu/), [ResearchGate](https://www.researchgate.net/profile/Wei_Liu510).
 
-Journal Publications
+Editorial
 ----------
-* [35] Yang, Z., Li, C., Jiao, J., **Liu, W.**, Zhang, F. (2020) On the joint impact of high-speed rail and megalopolis policy on regional economic growth in China. Transport Policy, in press. (Download)
+* **Liu, W.**, Qu, X., Sumalee, A., Geroliminis, N. (2020) Integrated Analysis for Transportation Systems in the Connected Era. Transportmetrica A: Transport Science, 1-2. ([Download](http://dx.doi.org/10.1080/23249935.2020.1810821))
+
+
+Journal Publication
+----------
+* [37] Jian, S., **Liu, W.**, Wang, X., Yang, H., Waller, S.T. (2020) On integrating carsharing and parking sharing services. Transportation Research Part B: Methodological.
+* [36] Zhang, F., Yang, Z., Jiao, J., **Liu, W.**, Wu, W. (2020) The effects of high-speed rail development on regional equity in China. Transportation Research Part A: Policy and Practice.
+* [35] Yang, Z., Li, C., Jiao, J., **Liu, W.**, Zhang, F. (2020) On the joint impact of high-speed rail and megalopolis policy on regional economic growth in China. Transport Policy, 99, 20-30. ([Download](https://doi.org/10.1016/j.tranpol.2020.08.007))
 * [34] Zhang, F., **Liu, W.**, Lodewijks, G., Waller, S.T. (2020) The short-run and long-run equilibria for commuting with autonomous vehicles. Transportmetrica B: Transport Dynamics, in press. ([Download](https://doi.org/10.1080/21680566.2020.1779146))
 * [33] Gu, Z., Najmia, A., Saberi, M., **Liu, W.**, Rashidi, T.H. (2020) Macroscopic parking modeling and optimal real-time pricing considering cruising-for-parking. Transportation Research Part C: Emerging Technologies, 118, 102714. ([Download](https://doi.org/10.1016/j.trc.2020.102714))
 * [32] Wei, B., Saberi, M., Zhang, F., **Liu, W.**, Waller, S.T. (2020) Modeling and managing ridesharing in a multi-modal network with an aggregate traffic representation: a doubly dynamical approach. Transportation Research Part C: Emerging Technologies, 117, 102670. ([Download](https://doi.org/10.1016/j.trc.2020.102670))
