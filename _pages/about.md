@@ -37,6 +37,7 @@ PhD Positions and Academic Visitors
 Selected Working Papers
 ======
 - **Liu, W.**. Telecommuting and urban spatial structure.
+- Zhang, X., **Liu, W.**, Levin, M., Waller, S.T. Equilibrium analysis of morning commuting and parking under spatial capacity allocation in the autonomous vehicle environment.
 - Wei, B., Zhang, X., **Liu, W.**, Saberi, M., Waller, S.T. Temporal capacity allocation and tolling schemes for morning commute with carpooling.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. A game theoretical analysis of metro-integrated city logistics systems.
 - Zhang, F., **Liu, W.** An economic analysis of integrating bike sharing service with urban metro systems.
