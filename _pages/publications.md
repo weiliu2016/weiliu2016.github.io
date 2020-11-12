@@ -23,8 +23,8 @@ Editorial
 
 Journal Publication
 ----------
-* [37] Jian, S., **Liu, W.**, Wang, X., Yang, H., Waller, S.T. (2020) On integrating carsharing and parking sharing services. Transportation Research Part B: Methodological.
-* [36] Zhang, F., Yang, Z., Jiao, J., **Liu, W.**, Wu, W. (2020) The effects of high-speed rail development on regional equity in China. Transportation Research Part A: Policy and Practice.
+* [37] Jian, S., **Liu, W.**, Wang, X., Yang, H., Waller, S.T. (2020) On integrating carsharing and parking sharing services. Transportation Research Part B: Methodological, 142, 19-44. ([Download](https://doi.org/10.1016/j.trb.2020.09.013))
+* [36] Zhang, F., Yang, Z., Jiao, J., **Liu, W.**, Wu, W. (2020) The effects of high-speed rail development on regional equity in China. Transportation Research Part A: Policy and Practice, 141, 180-202. ([Download](https://doi.org/10.1016/j.tra.2020.09.013))
 * [35] Yang, Z., Li, C., Jiao, J., **Liu, W.**, Zhang, F. (2020) On the joint impact of high-speed rail and megalopolis policy on regional economic growth in China. Transport Policy, 99, 20-30. ([Download](https://doi.org/10.1016/j.tranpol.2020.08.007))
 * [34] Zhang, F., **Liu, W.**, Lodewijks, G., Waller, S.T. (2020) The short-run and long-run equilibria for commuting with autonomous vehicles. Transportmetrica B: Transport Dynamics, in press. ([Download](https://doi.org/10.1080/21680566.2020.1779146))
 * [33] Gu, Z., Najmia, A., Saberi, M., **Liu, W.**, Rashidi, T.H. (2020) Macroscopic parking modeling and optimal real-time pricing considering cruising-for-parking. Transportation Research Part C: Emerging Technologies, 118, 102714. ([Download](https://doi.org/10.1016/j.trc.2020.102714))
