@@ -23,6 +23,7 @@ Editorial
 
 Journal Publication
 ----------
+* [38] Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) Graph Neural Network for Robust Public Transit Demand Prediction. IEEE Transactions on Intelligent Transportation Systems, in press. ([Download](https://doi.org/10.1109/TITS.2020.3041234))
 * [37] Jian, S., **Liu, W.**, Wang, X., Yang, H., Waller, S.T. (2020) On integrating carsharing and parking sharing services. Transportation Research Part B: Methodological, 142, 19-44. ([Download](https://doi.org/10.1016/j.trb.2020.09.013))
 * [36] Zhang, F., Yang, Z., Jiao, J., **Liu, W.**, Wu, W. (2020) The effects of high-speed rail development on regional equity in China. Transportation Research Part A: Policy and Practice, 141, 180-202. ([Download](https://doi.org/10.1016/j.tra.2020.09.013))
 * [35] Yang, Z., Li, C., Jiao, J., **Liu, W.**, Zhang, F. (2020) On the joint impact of high-speed rail and megalopolis policy on regional economic growth in China. Transport Policy, 99, 20-30. ([Download](https://doi.org/10.1016/j.tranpol.2020.08.007))
