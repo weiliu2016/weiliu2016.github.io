@@ -36,7 +36,7 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
-- **Liu, W.**. Telecommuting and urban spatial structure.
+- **Liu, W.**. On telecommuting and urban spatial structure.
 - Zhang, X., **Liu, W.**, Levin, M., Waller, S.T. Equilibrium analysis of morning commuting and parking under spatial capacity allocation in the autonomous vehicle environment.
 - Wei, B., Zhang, X., **Liu, W.**, Saberi, M., Waller, S.T. Temporal capacity allocation and tolling schemes for morning commute with carpooling.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. A game theoretical analysis of metro-integrated city logistics systems.
@@ -50,7 +50,6 @@ Selected Working Papers
 - Najmia, A., Rashidi, T.H., **Liu, W.** Ridesharing in the era of Mobility as a Service (MaaS): An Activity-based Approach with Multimodality and Intermodality.
 - Cheng, Z., Waller, S.T., Rashidi, T.H., **Liu, W.**, Jian, S., Maghrebi, M. A Network Inference Model for Low Cost and Instant Planning.
 - Ma, M., **Liu, W.**, Li, X., Zhang, F., Jian, S., Dixit, V. Quantifying day-to-day evolution of travel choices in public transit systems with smart transit card data.
-- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Graph Neural Network for Robust Public Transit Demand Prediction.
 - Shao, C., Lindsey, R., Yang, H., Zhang, F., **Liu, W.** Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?.
 - Wu, W., **Liu, W.**, Zhang, F., Dixit, V. A new flexible parking reservation scheme for the morning commute under limited parking supplies.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Urban Mobility Analytics: A Deep Temporal-Spatial Product Neural Network for Traveler Attributes Inference.
