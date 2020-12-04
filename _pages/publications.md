@@ -23,6 +23,7 @@ Editorial
 
 Journal Publication
 ----------
+* [39] Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) Urban Mobility Analytics: A Deep Temporal-Spatial Product Neural Network for Traveler Attributes Inference, Transportation Research Part C: Emerging Technologies, 102921. ([Download](https://doi.org/10.1016/j.trc.2020.102921))
 * [38] Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) Graph Neural Network for Robust Public Transit Demand Prediction. IEEE Transactions on Intelligent Transportation Systems, in press. ([Download](https://doi.org/10.1109/TITS.2020.3041234))
 * [37] Jian, S., **Liu, W.**, Wang, X., Yang, H., Waller, S.T. (2020) On integrating carsharing and parking sharing services. Transportation Research Part B: Methodological, 142, 19-44. ([Download](https://doi.org/10.1016/j.trb.2020.09.013))
 * [36] Zhang, F., Yang, Z., Jiao, J., **Liu, W.**, Wu, W. (2020) The effects of high-speed rail development on regional equity in China. Transportation Research Part A: Policy and Practice, 141, 180-202. ([Download](https://doi.org/10.1016/j.tra.2020.09.013))
