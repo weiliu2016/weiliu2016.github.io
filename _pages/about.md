@@ -12,8 +12,8 @@ Dr. Wei Liu is a Senior Lecturer and ARC DECRA Fellow in Transport Engineering j
 
 Research Interests
 ======
-- Transportation Network Modelling and Optimisation
 - Transport and Urban Data Analytics
+- Transportation Network Modelling and Optimisation
 - Transportation Economics
 - Automated and Shared Mobility
 
@@ -36,7 +36,9 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
-- **Liu, W.**. On telecommuting and urban spatial structure.
+- **Liu, W.** On telecommuting and urban spatial structure.
+- Zhao, R., **Liu, W.**, Zhang, F., Lodewijks, G. Koo, T. Service network design for airport shuttles.
+- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. A Multi-Task Memory Network with Knowledge Adaptation for Multimodal Demand Forecasting.
 - Zhang, X., **Liu, W.**, Levin, M., Waller, S.T. Equilibrium analysis of morning commuting and parking under spatial capacity allocation in the autonomous vehicle environment.
 - Wei, B., Zhang, X., **Liu, W.**, Saberi, M., Waller, S.T. Temporal capacity allocation and tolling schemes for morning commute with carpooling.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. A game theoretical analysis of metro-integrated city logistics systems.
