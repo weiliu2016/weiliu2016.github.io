@@ -13,12 +13,13 @@ Dr. Wei Liu is a Senior Lecturer and ARC DECRA Fellow in Transport Engineering j
 Research Interests
 ======
 - Transport and Urban Data Analytics
-- Transportation Network Modelling and Optimisation
-- Transportation Economics
+- Transport Network Modelling and Optimisation
+- Transport Economics
 - Automated and Shared Mobility
 
 Research Group
 ======
+- Qingying He (PhD Student, 2021 T1, from University of Edinburgh, UK)
 - Yuhui Chen (MPhil Student, 2020 T1, from UNSW Sydney, Australia)
 - Kai Xu (PhD Student, 2019 T3, from South China University of Technology, China)
 - Runqing Zhao (Master by Research, 2019 T3, from UNSW Sydney, Australia)
