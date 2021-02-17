@@ -17,7 +17,7 @@ redirect_from:
 
 **Working Experience**
 
-* 2020 - present: [Senior Lecturer, ARC DECRA Fellow](https://research.unsw.edu.au/people/dr-wei-liu), [School of Civil and Environmental Engineering](https://www.engineering.unsw.edu.au/civil-engineering/staff/wei-liu) and [School of Computer Science and Engineering](https://www.engineering.unsw.edu.au/computer-science-engineering/lecturer-wei-liu), University of New South Wales, Australia
+* 2020 - present: Senior Lecturer, ARC DECRA Fellow, [School of Civil and Environmental Engineering](https://www.engineering.unsw.edu.au/civil-engineering/staff/wei-liu) and [School of Computer Science and Engineering](https://www.engineering.unsw.edu.au/computer-science-engineering/lecturer-wei-liu), University of New South Wales, Australia
 
 * 2018 - 2020: Lecturer (Assistant Professor), [School of Civil and Environmental Engineering](https://www.engineering.unsw.edu.au/civil-engineering/staff/wei-liu) and [School of Computer Science and Engineering](https://www.engineering.unsw.edu.au/computer-science-engineering/lecturer-wei-liu), University of New South Wales, Australia
 
