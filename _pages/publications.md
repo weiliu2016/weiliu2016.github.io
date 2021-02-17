@@ -18,7 +18,7 @@ author_profile: true
 
 Editorial
 ----------
-* **Liu, W.**, Qu, X., Sumalee, A., Geroliminis, N. (2020) Integrated Analysis for Transportation Systems in the Connected Era. Transportmetrica A: Transport Science, 1-2. ([Download](http://dx.doi.org/10.1080/23249935.2020.1810821))
+* **Liu, W.**, Qu, X., Sumalee, A., Geroliminis, N. (2021) Integrated Analysis for Transportation Systems in the Connected Era. Transportmetrica A: Transport Science, 17(2), 169-170. ([Download](http://dx.doi.org/10.1080/23249935.2020.1810821))
 
 
 Journal Publication
