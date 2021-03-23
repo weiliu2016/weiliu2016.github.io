@@ -12,7 +12,7 @@ Dr. Wei Liu is a Senior Lecturer and ARC DECRA Fellow in Transport Engineering j
 
 Research Interests
 ======
-- Transport and Urban Data Analytics
+- Data-driven Decision Analytics
 - Transport Network Modelling and Optimisation
 - Transport Economics
 - Automated and Shared Mobility
@@ -37,19 +37,19 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
+- Xu, G., Chen, Y., **Liu, W.** Traffic restriction scheme in a multimodal network connecting to the airport.
 - **Liu, W.** On telecommuting and urban spatial structure.
-- Zhao, R., **Liu, W.**, Zhang, F., Lodewijks, G. Koo, T. Service network design for airport shuttles.
+- Zhao, R., **Liu, W.**, Zhang, F., Koo, T., Lodewijks, G. Passenger shuttle service network design in an airport.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. A Multi-Task Memory Network with Knowledge Adaptation for Multimodal Demand Forecasting.
 - Zhang, X., **Liu, W.**, Levin, M., Waller, S.T. Equilibrium analysis of morning commuting and parking under spatial capacity allocation in the autonomous vehicle environment.
 - Wei, B., Zhang, X., **Liu, W.**, Saberi, M., Waller, S.T. Temporal capacity allocation and tolling schemes for morning commute with carpooling.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. A game theoretical analysis of metro-integrated city logistics systems.
 - Zhang, F., **Liu, W.** An economic analysis of integrating bike sharing service with urban metro systems.
-- Xi, H., **Liu, W.**, Rey, D., Waller, S.T., Kilby, P. Incentive-compatible mechanisms for continuous resource allocation in mobility-as-a-service: Pay-as-You-Go and Pay-as-a-Package.
+- Xi, H., **Liu, W.**, Rey, D., Waller, S.T., Kilby, P. Incentive-compatible mechanisms for online resource allocation in mobility-as-a-service systems.
 - Lilasathapornkit, T., Rey, D., **Liu, W.**, Saberi, M. Traffic Assignment Problem for Pedestrian Networks.
 - **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
 - **Liu, W.**, Zhang, F., Yang, H. Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking.
 - Xu, G., Zhong, L., **Liu, W.** A global optimization method for pricing and seat allocation schemes in passenger railway systems.
-- Qin, X., Ke, J., **Liu, W.**, Yang, H. Upgrading in ride-sourcing services with multiple vehicle classes.
 - Najmia, A., Rashidi, T.H., **Liu, W.** Ridesharing in the era of Mobility as a Service (MaaS): An Activity-based Approach with Multimodality and Intermodality.
 - Cheng, Z., Waller, S.T., Rashidi, T.H., **Liu, W.**, Jian, S., Maghrebi, M. A Network Inference Model for Low Cost and Instant Planning.
 - Ma, M., **Liu, W.**, Li, X., Zhang, F., Jian, S., Dixit, V. Quantifying day-to-day evolution of travel choices in public transit systems with smart transit card data.
@@ -57,7 +57,6 @@ Selected Working Papers
 - Wu, W., **Liu, W.**, Zhang, F., Dixit, V. A new flexible parking reservation scheme for the morning commute under limited parking supplies.
 - Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach.
 - Wang, X., Guo, L., Wang, J., **Liu, W.**, Zhang, X. A Convex Programming Approach for Ridesharing User Equilibrium Under Fixed Driver/Rider Demand.
-- Xu, G., **Liu, W.**, Wu, R., Yang, H. A double time-scale passenger assignment model for high-speed railway networks with continuum capacity approximation.
 - Wei, T., Xu, G., **Liu, W.**, Zhang, F., Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticket booking record.
 - **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips.
 
