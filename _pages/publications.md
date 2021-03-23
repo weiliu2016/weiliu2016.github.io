@@ -19,7 +19,7 @@ author_profile: true
 
 Journal Publication
 ----------
-* [41] Xu, G., **Liu, W.**, Wu, R., Yang, H. (2021) A double time-scale passenger assignment model for high-speed railway networks with continuum capacity approximation, 102305. ([Download](https://doi.org/10.1016/j.tre.2021.102305))
+* [41] Xu, G., **Liu, W.**, Wu, R., Yang, H. (2021) A double time-scale passenger assignment model for high-speed railway networks with continuum capacity approximation, Transportation Research Part E: Logistics and Transportation Review, 102305. ([Download](https://doi.org/10.1016/j.tre.2021.102305))
 * [40] Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) Urban Mobility Analytics: A Deep Temporal-Spatial Product Neural Network for Traveler Attributes Inference, Transportation Research Part C: Emerging Technologies, 124, 102921. ([Download](https://doi.org/10.1016/j.trc.2020.102921))
 * [39] Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) Graph Neural Network for Robust Public Transit Demand Prediction. IEEE Transactions on Intelligent Transportation Systems, in press. ([Download](https://doi.org/10.1109/TITS.2020.3041234))
 * [38] **Liu, W.**, Qu, X., Sumalee, A., Geroliminis, N. (2021) Integrated Analysis for Transportation Systems in the Connected Era. Transportmetrica A: Transport Science, 17(2), 169-170. ([Download](http://dx.doi.org/10.1080/23249935.2020.1810821))
