@@ -37,6 +37,8 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
+- Xu, K., Saberi, M., **Liu, W.** Dynamic pricing and penalty strategies in a coupled market with ridesourcing and taxi considering time-dependent order cancellation behavior.
+- Hu, H., Du, B., **Liu, W.**, Perez, P. A joint optimization model for charger locating and electric bus charging scheduling considering opportunity fast-charging and uncertainties.
 - Xu, G., Chen, Y., **Liu, W.** Traffic restriction scheme in a multimodal network connecting to the airport.
 - **Liu, W.** On telecommuting and urban spatial structure.
 - Zhao, R., **Liu, W.**, Zhang, F., Koo, T., Lodewijks, G. Passenger shuttle service network design in an airport.
@@ -52,7 +54,6 @@ Selected Working Papers
 - Xu, G., Zhong, L., **Liu, W.** A global optimization method for pricing and seat allocation schemes in passenger railway systems.
 - Najmia, A., Rashidi, T.H., **Liu, W.** Ridesharing in the era of Mobility as a Service (MaaS): An Activity-based Approach with Multimodality and Intermodality.
 - Cheng, Z., Waller, S.T., Rashidi, T.H., **Liu, W.**, Jian, S., Maghrebi, M. A Network Inference Model for Low Cost and Instant Planning.
-- Ma, M., **Liu, W.**, Li, X., Zhang, F., Jian, S., Dixit, V. Quantifying day-to-day evolution of travel choices in public transit systems with smart transit card data.
 - Shao, C., Lindsey, R., Yang, H., Zhang, F., **Liu, W.** Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?.
 - Wu, W., **Liu, W.**, Zhang, F., Dixit, V. A new flexible parking reservation scheme for the morning commute under limited parking supplies.
 - Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach.
