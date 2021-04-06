@@ -19,6 +19,7 @@ author_profile: true
 
 Journal Publication
 ----------
+* [42] Ma, M., **Liu, W.**, Li, X., Zhang, F., Jian, S., Dixit, V. (2021) Quantifying service-reliability-based day-to-day evolution of travel choices in public transit systems with smart transit card data. Transportmetrica B: Transport Dynamics, in press. ([Download](https://doi.org/DOI))
 * [41] Xu, G., **Liu, W.**, Wu, R., Yang, H. (2021) A double time-scale passenger assignment model for high-speed railway networks with continuum capacity approximation, Transportation Research Part E: Logistics and Transportation Review, 102305. ([Download](https://doi.org/10.1016/j.tre.2021.102305))
 * [40] Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) Urban Mobility Analytics: A Deep Temporal-Spatial Product Neural Network for Traveler Attributes Inference, Transportation Research Part C: Emerging Technologies, 124, 102921. ([Download](https://doi.org/10.1016/j.trc.2020.102921))
 * [39] Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) Graph Neural Network for Robust Public Transit Demand Prediction. IEEE Transactions on Intelligent Transportation Systems, in press. ([Download](https://doi.org/10.1109/TITS.2020.3041234))
