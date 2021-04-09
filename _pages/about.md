@@ -51,7 +51,7 @@ Selected Working Papers
 - Lilasathapornkit, T., Rey, D., **Liu, W.**, Saberi, M. Traffic Assignment Problem for Pedestrian Networks.
 - **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
 - **Liu, W.**, Zhang, F., Yang, H. Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking.
-- Xu, G., Zhong, L., **Liu, W.** A global optimization method for pricing and seat allocation schemes in passenger railway systems.
+- Xu, G., Zhong, L., **Liu, W.** Optimal pricing and seat allocation schemes in passenger railway systems.
 - Najmia, A., Rashidi, T.H., **Liu, W.** Ridesharing in the era of Mobility as a Service (MaaS): An Activity-based Approach with Multimodality and Intermodality.
 - Cheng, Z., Waller, S.T., Rashidi, T.H., **Liu, W.**, Jian, S., Maghrebi, M. A Network Inference Model for Low Cost and Instant Planning.
 - Shao, C., Lindsey, R., Yang, H., Zhang, F., **Liu, W.** Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?.
