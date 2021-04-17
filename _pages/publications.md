@@ -19,6 +19,7 @@ author_profile: true
 
 Journal Publication
 ----------
+* [44] Wang, X., Guo, L., Wang, J., **Liu, W.**, Zhang, X. (2021) A Convex Programming Approach for Ridesharing User Equilibrium Under Fixed Driver/Rider Demand. Transportation Research Part B: Methodological, in press. ([Download](https://doi.org/DOI))
 * [43] Wu, W., **Liu, W.**, Zhang, F., Dixit, V. (2021) A new flexible parking reservation scheme for the morning commute under limited parking supplies. Networks and Spatial Economics, in press. ([Download](https://doi.org/DOI))
 * [42] Ma, M., **Liu, W.**, Li, X., Zhang, F., Jian, S., Dixit, V. (2021) Quantifying service-reliability-based day-to-day evolution of travel choices in public transit systems with smart transit card data. Transportmetrica B: Transport Dynamics, in press. ([Download](https://doi.org/10.1080/21680566.2021.1916645))
 * [41] Xu, G., **Liu, W.**, Wu, R., Yang, H. (2021) A double time-scale passenger assignment model for high-speed railway networks with continuum capacity approximation, Transportation Research Part E: Logistics and Transportation Review, 102305. ([Download](https://doi.org/10.1016/j.tre.2021.102305))
