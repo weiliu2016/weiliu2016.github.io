@@ -56,12 +56,13 @@ Selected Working Papers
 - Cheng, Z., Waller, S.T., Rashidi, T.H., **Liu, W.**, Jian, S., Maghrebi, M. A Network Inference Model for Low Cost and Instant Planning.
 - Shao, C., Lindsey, R., Yang, H., Zhang, F., **Liu, W.** Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?.
 - Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach.
-- Wang, X., Guo, L., Wang, J., **Liu, W.**, Zhang, X. A Convex Programming Approach for Ridesharing User Equilibrium Under Fixed Driver/Rider Demand.
 - Wei, T., Xu, G., **Liu, W.**, Zhang, F., Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticket booking record.
 - **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips.
 
 Selected Publications
 ======
+- Wang, X., Guo, L., Wang, J., **Liu, W.**, Zhang, X. (2021) A Convex Programming Approach for Ridesharing User Equilibrium Under Fixed Driver/Rider Demand. **Transportation Research Part B: Methodological**.
+- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) Graph Neural Network for Robust Public Transit Demand Prediction. **IEEE Transactions on Intelligent Transportation Systems**.
 - Jian, S., **Liu, W.**, Wang, X., Yang, H., Waller, S.T. (2020) On integrating carsharing and parking sharing services. **Transportation Research Part B: Methodological**.
 - Wang, X., **Liu, W.**, Wang, D., Yang, H., Ye, J. (2020) Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets. **Transportation Research Part B: Methodological**.
 - **Liu, W.**, Szeto, W.Y. (2020) Learning and Managing Stochastic Network Traffic Dynamics with an Aggregate Traffic Representation. **Transportation Research Part B: Methodological**.
