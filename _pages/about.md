@@ -37,9 +37,9 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
+- Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets.
 - Xu, K., Saberi, M., **Liu, W.** Dynamic pricing and penalty strategies in a coupled market with ridesourcing and taxi considering time-dependent order cancellation behavior.
 - Hu, H., Du, B., **Liu, W.**, Perez, P. A joint optimization model for charger locating and electric bus charging scheduling considering opportunity fast-charging and uncertainties.
-- Xu, G., Chen, Y., **Liu, W.** Traffic restriction scheme in a multimodal network connecting to the airport.
 - **Liu, W.** On telecommuting and urban spatial structure.
 - Zhao, R., **Liu, W.**, Zhang, F., Koo, T., Lodewijks, G. Passenger shuttle service network design in an airport.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. A Multi-Task Memory Network with Knowledge Adaptation for Multimodal Demand Forecasting.
