@@ -23,6 +23,7 @@ Academic services
 * Associate Editor - Journal of Management Science and Engineering (2017-)
 * Associate Editor - Transportmetrica A: Transport Science (2020-)
 * Associate Editor - Transportmetrica B: Transport Dynamics (2020-)
+* Editorial Advisory Board - Transportation Research Part C: Emerging Technologies (2021-)
 * Advisory Board Member - Transportation Research Interdisciplinary Perspectives (2019-)
 * Guest Editor - Transportmetrica A: Transport Science (2018-2020)
 * Associate Editor - IEEE International Conference on Intelligent Transportation Systems (2018)
