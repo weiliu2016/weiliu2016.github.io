@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Wei Liu is a Senior Lecturer and ARC DECRA Fellow in Transport Engineering jointly appointed by the School of Computer Science and Engineering and the School of Civil and Environmental Engineering at [UNSW Sydney](https://www.unsw.edu.au/). Prior to joining UNSW, he was a Lecturer at the [University of Glasgow](https://www.gla.ac.uk/), UK, and was a postdoctoral researcher at [Ecole Polytechnique Federale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland, and was a visiting researcher at the [University of Florida](http://www.ufl.edu/), US. Dr. Liu received his PhD in Transportation from the Hong Kong University of Science and Technology in 2014, and his B.Eng. in Civil Engineering and Bachelor of Laws both from Tsinghua University in 2010. Dr. Liu is a recipient of the Discovery Early Career Researcher Award from the Australian Research Council. His research group mainly works in transport system modelling and optimisation; large-scale traffic modelling, simulation and computing; transport economics; and urban big data analytics. He was the winner of The European Transport Innovation Challenge 2017 under European Commission, and received a Best Paper Award from the [International Transportation Economics Association (ITEA)](https://iteaweb.org/) for young scholars in 2015.
+Dr. Wei Liu is a Senior Lecturer and ARC DECRA Fellow in Transport Engineering jointly appointed by the School of Computer Science and Engineering and the School of Civil and Environmental Engineering at [UNSW Sydney](https://www.unsw.edu.au/). Prior to joining UNSW, he was a Lecturer at the [University of Glasgow](https://www.gla.ac.uk/), UK, and was a postdoctoral researcher at [Ecole Polytechnique Federale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland, and was a visiting researcher at the [University of Florida](http://www.ufl.edu/), US. Dr. Liu received his PhD in Transportation from the Hong Kong University of Science and Technology in 2014, and his B.Eng. in Civil Engineering and Bachelor of Laws both from Tsinghua University in 2010. Dr. Liu is a recipient of the Discovery Early Career Researcher Award from the Australian Research Council. His research group mainly works in data-driven decision analytics, transport system modelling and optimisation; large-scale traffic modelling, simulation and computing; and transport economics. He was the winner of The European Transport Innovation Challenge 2017 under European Commission, and received a Best Paper Award from the [International Transportation Economics Association (ITEA)](https://iteaweb.org/) for young scholars in 2015.
 
 Research Interests
 ======
@@ -37,16 +37,19 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
+- **Liu, W.** On telecommuting and urban spatial structure.
+- Chen, Y., Ma, M., **Liu, W.**, Waller, S.T. Modelling and managing a multi-modal transport system with ridesourcing services and multi-class users.
+- Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. Departure Time Choice and Tolling Scheme in Stochastic Bottleneck Model with Discontinuously Distributed Capacity.
+- Xu, G., Chen, Y., **Liu, W.** Joint Optimization of Park-and-Ride Facility Locations and Alternate Traffic Restriction Scheme under Equilibrium Flows.
 - Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets.
 - Xu, K., Saberi, M., **Liu, W.** Dynamic pricing and penalty strategies in a coupled market with ridesourcing and taxi considering time-dependent order cancellation behavior.
 - Hu, H., Du, B., **Liu, W.**, Perez, P. A joint optimization model for charger locating and electric bus charging scheduling considering opportunity fast-charging and uncertainties.
-- **Liu, W.** On telecommuting and urban spatial structure.
 - Zhao, R., **Liu, W.**, Zhang, F., Koo, T., Lodewijks, G. Passenger shuttle service network design in an airport.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. A Multi-Task Memory Network with Knowledge Adaptation for Multimodal Demand Forecasting.
 - Zhang, X., **Liu, W.**, Levin, M., Waller, S.T. Equilibrium analysis of morning commuting and parking under spatial capacity allocation in the autonomous vehicle environment.
 - Wei, B., Zhang, X., **Liu, W.**, Saberi, M., Waller, S.T. Temporal capacity allocation and tolling schemes for morning commute with carpooling.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. A game theoretical analysis of metro-integrated city logistics systems.
-- Zhang, F., **Liu, W.** An economic analysis of integrating bike sharing service with urban metro systems.
+- Zhang, F., **Liu, W.** An economic analysis of integrating bike sharing service with metro systems.
 - Xi, H., **Liu, W.**, Rey, D., Waller, S.T., Kilby, P. Incentive-compatible mechanisms for online resource allocation in mobility-as-a-service systems.
 - Lilasathapornkit, T., Rey, D., **Liu, W.**, Saberi, M. Traffic Assignment Problem for Pedestrian Networks.
 - **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
