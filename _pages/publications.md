@@ -19,7 +19,8 @@ author_profile: true
 
 Journal Publication
 ----------
-* [45] **Liu, W.**, Zhang, F., Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. Transportation Research Part C: Emerging Technologies, in press. ([Download](http://dx.doi.org/10.1016/j.trc.202X.XX.XXX))
+* [46] Zhang, F., **Liu, W.** (2021) An economic analysis of integrating bike sharing service with metro systems. Transportation Research Part D: Transport and Environment, in press. ([Download](http://dx.doi.org/10.1016/j.trd.2021.XXXXXX))
+* [45] **Liu, W.**, Zhang, F., Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. Transportation Research Part C: Emerging Technologies, 130, 103301. ([Download](https://doi.org/10.1016/j.trc.2021.103301))
 * [44] Wang, X., Guo, L., Wang, J., **Liu, W.**, Zhang, X. (2021) A Convex Programming Approach for Ridesharing User Equilibrium Under Fixed Driver/Rider Demand. Transportation Research Part B: Methodological, 149, 33-51. ([Download](http://dx.doi.org/10.1016/j.trb.2021.04.007))
 * [43] Wu, W., **Liu, W.**, Zhang, F., Dixit, V. (2021) A new flexible parking reservation scheme for the morning commute under limited parking supplies. Networks and Spatial Economics, 1-33. ([Download](https://doi.org/10.1007/s11067-021-09538-5))
 * [42] Ma, M., **Liu, W.**, Li, X., Zhang, F., Jian, S., Dixit, V. (2021) Quantifying service-reliability-based day-to-day evolution of travel choices in public transit systems with smart transit card data. Transportmetrica B: Transport Dynamics, 9, 519-551. ([Download](https://doi.org/10.1080/21680566.2021.1916645))
