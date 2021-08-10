@@ -45,7 +45,6 @@ Selected Working Papers
 - Xu, K., Saberi, M., **Liu, W.** Dynamic pricing and penalty strategies in a coupled market with ridesourcing and taxi considering time-dependent order cancellation behavior.
 - Hu, H., Du, B., **Liu, W.**, Perez, P. A joint optimization model for charger locating and electric bus charging scheduling considering opportunity fast-charging and uncertainties.
 - Zhao, R., **Liu, W.**, Zhang, F., Koo, T., Lodewijks, G. Passenger shuttle service network design in an airport.
-- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. A Multi-Task Memory Network with Knowledge Adaptation for Multimodal Demand Forecasting.
 - Zhang, X., **Liu, W.**, Levin, M., Waller, S.T. Equilibrium analysis of morning commuting and parking under spatial capacity allocation in the autonomous vehicle environment.
 - Wei, B., Zhang, X., **Liu, W.**, Saberi, M., Waller, S.T. Temporal capacity allocation and tolling schemes for morning commute with carpooling.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. A game theoretical analysis of metro-integrated city logistics systems.
