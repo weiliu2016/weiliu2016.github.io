@@ -61,16 +61,17 @@ Selected Working Papers
 
 Selected Publications
 ======
-- Wang, X., Guo, L., Wang, J., **Liu, W.**, Zhang, X. (2021) A Convex Programming Approach for Ridesharing User Equilibrium Under Fixed Driver/Rider Demand. **Transportation Research Part B: Methodological**.
-- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) Graph Neural Network for Robust Public Transit Demand Prediction. **IEEE Transactions on Intelligent Transportation Systems**.
-- Jian, S., **Liu, W.**, Wang, X., Yang, H., Waller, S.T. (2020) On integrating carsharing and parking sharing services. **Transportation Research Part B: Methodological**.
-- Wang, X., **Liu, W.**, Wang, D., Yang, H., Ye, J. (2020) Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets. **Transportation Research Part B: Methodological**.
-- **Liu, W.**, Szeto, W.Y. (2020) Learning and Managing Stochastic Network Traffic Dynamics with an Aggregate Traffic Representation. **Transportation Research Part B: Methodological**.
-- Zhang, X., **Liu, W.**, Waller, S.T., Yin, Y. (2019) Modelling and managing the integrated morning-evening commuting and parking patterns under the fully autonomous vehicle environment. **Transportation Research Part B: Methodological**.
-- **Liu, W.** (2018) An Equilibrium Analysis of Commuter Parking in the Era of Autonomous Vehicles. **Transportation Research Part C: Emerging Technologies**.
-- **Liu, W.**, Zhang, F., Yang, H. (2017) Modeling and Managing Morning Commute with both Household and Individual Travels. **Transportation Research Part B: Methodological**.
-- **Liu, W.**, Geroliminis, N. (2017) Doubly Dynamics for Multi-modal Networks with Park-and-ride and Adaptive Pricing. **Transportation Research Part B: Methodological**.
-- **Liu, W.**, Geroliminis, N. (2016) Modeling the Morning Commute for Urban Networks with Cruising-for-parking: an MFD Approach. **Transportation Research Part B: Methodological**.
-- **Liu, W.**, Yin, Y., Yang, H. (2015) Effectiveness of Variable Speed Limits Considering Commuters’ Long-term Response. **Transportation Research Part B: Methodological**.
-- **Liu, W.**, Yang, H., Yin, Y. (2014) Expirable Parking Reservations for Managing Morning Commute with Parking Space Constraints. **Transportation Research Part C: Emerging Technologies**.
-- Yang, H., **Liu, W.**, Wang, X., Zhang, X. (2013) On the Morning Commute Problem with Bottleneck Congestion and Parking Space Constraints. **Transportation Research Part B: Methodological**.
+- **Liu, W.**, Zhang, F., Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. **Transportation Research Part C: Emerging Technologies**, 130, 103301.
+- Wang, X., Guo, L., Wang, J., **Liu, W.**, Zhang, X. (2021) A Convex Programming Approach for Ridesharing User Equilibrium Under Fixed Driver/Rider Demand. **Transportation Research Part B: Methodological**, 149, 33-51.
+- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) Graph Neural Network for Robust Public Transit Demand Prediction. **IEEE Transactions on Intelligent Transportation Systems**, in press.
+- Jian, S., **Liu, W.**, Wang, X., Yang, H., Waller, S.T. (2020) On integrating carsharing and parking sharing services. **Transportation Research Part B: Methodological**, 142, 19-44.
+- Wang, X., **Liu, W.**, Wang, D., Yang, H., Ye, J. (2020) Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets. **Transportation Research Part B: Methodological**, 132, 358-378.
+- **Liu, W.**, Szeto, W.Y. (2020) Learning and Managing Stochastic Network Traffic Dynamics with an Aggregate Traffic Representation. **Transportation Research Part B: Methodological**, 137, 19-46.
+- Zhang, X., **Liu, W.**, Waller, S.T., Yin, Y. (2019) Modelling and managing the integrated morning-evening commuting and parking patterns under the fully autonomous vehicle environment. **Transportation Research Part B: Methodological**, 128, 380-407.
+- **Liu, W.** (2018) An Equilibrium Analysis of Commuter Parking in the Era of Autonomous Vehicles. **Transportation Research Part C: Emerging Technologies**, 92, 191-207.
+- **Liu, W.**, Zhang, F., Yang, H. (2017) Modeling and Managing Morning Commute with both Household and Individual Travels. **Transportation Research Part B: Methodological**, 103, 227-247.
+- **Liu, W.**, Geroliminis, N. (2017) Doubly Dynamics for Multi-modal Networks with Park-and-ride and Adaptive Pricing. **Transportation Research Part B: Methodological**, 102, 162–179.
+- **Liu, W.**, Geroliminis, N. (2016) Modeling the Morning Commute for Urban Networks with Cruising-for-parking: an MFD Approach. **Transportation Research Part B: Methodological**, 93, 470-494.
+- **Liu, W.**, Yin, Y., Yang, H. (2015) Effectiveness of Variable Speed Limits Considering Commuters’ Long-term Response. **Transportation Research Part B: Methodological**, 81, 498-519.
+- **Liu, W.**, Yang, H., Yin, Y. (2014) Expirable Parking Reservations for Managing Morning Commute with Parking Space Constraints. **Transportation Research Part C: Emerging Technologies**, 44, 185-201.
+- Yang, H., **Liu, W.**, Wang, X., Zhang, X. (2013) On the Morning Commute Problem with Bottleneck Congestion and Parking Space Constraints. **Transportation Research Part B: Methodological**, 58, 106-118.
