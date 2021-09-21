@@ -38,6 +38,8 @@ PhD Positions and Academic Visitors
 Selected Working Papers
 ======
 - **Liu, W.** On telecommuting and urban spatial structure.
+- **Liu, W.** Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
+- Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
 - Chen, Y., Ma, M., **Liu, W.**, Waller, S.T. Modelling and managing a multi-modal transport system with ridesourcing services and multi-class users.
 - Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. Departure Time Choice and Tolling Scheme in Stochastic Bottleneck Model with Discontinuously Distributed Capacity.
 - Xu, G., Chen, Y., **Liu, W.** Joint Optimization of Park-and-Ride Facility Locations and Alternate Traffic Restriction Scheme under Equilibrium Flows.
@@ -57,10 +59,10 @@ Selected Working Papers
 - Shao, C., Lindsey, R., Yang, H., Zhang, F., **Liu, W.** Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?.
 - Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach.
 - Wei, T., Xu, G., **Liu, W.**, Zhang, F., Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticket booking record.
-- **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips.
 
 Selected Publications
 ======
+- **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2021) Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips. **Transportation Science**, in press.
 - **Liu, W.**, Zhang, F., Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. **Transportation Research Part C: Emerging Technologies**, 130, 103301.
 - Wang, X., Guo, L., Wang, J., **Liu, W.**, Zhang, X. (2021) A Convex Programming Approach for Ridesharing User Equilibrium Under Fixed Driver/Rider Demand. **Transportation Research Part B: Methodological**, 149, 33-51.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) Graph Neural Network for Robust Public Transit Demand Prediction. **IEEE Transactions on Intelligent Transportation Systems**, in press.
