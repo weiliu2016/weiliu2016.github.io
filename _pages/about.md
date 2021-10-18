@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Wei Liu is a Senior Lecturer and ARC DECRA Fellow in Transport Engineering jointly appointed by the School of Computer Science and Engineering and the School of Civil and Environmental Engineering at [UNSW Sydney](https://www.unsw.edu.au/). Prior to joining UNSW, he was a Lecturer at the [University of Glasgow](https://www.gla.ac.uk/), UK, and was a postdoctoral researcher at [Ecole Polytechnique Federale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland, and was a visiting researcher at the [University of Florida](http://www.ufl.edu/), US. Dr. Liu received his PhD in Transportation from the Hong Kong University of Science and Technology in 2014, and his B.Eng. in Civil Engineering and Bachelor of Laws both from Tsinghua University in 2010. Dr. Liu is a recipient of the Discovery Early Career Researcher Award from the Australian Research Council. His research group mainly works in data-driven decision analytics, transport system modelling and optimisation; large-scale traffic modelling, simulation and computing; and transport economics. He was the winner of The European Transport Innovation Challenge 2017 under European Commission, and received a Best Paper Award from the [International Transportation Economics Association (ITEA)](https://iteaweb.org/) for young scholars in 2015.
+Dr. Wei Liu is an Associate Professor at the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). Prior to this, he was a Senior Lecturer at [UNSW Sydney](https://www.unsw.edu.au/), and was a Lecturer at the [University of Glasgow](https://www.gla.ac.uk/), UK, and was a postdoctoral researcher at [Ecole Polytechnique Federale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland, and was a visiting researcher at the [University of Florida](http://www.ufl.edu/), US. Dr. Liu received his PhD in Transportation from the Hong Kong University of Science and Technology in 2014, and his B.Eng. in Civil Engineering and Bachelor of Laws both from Tsinghua University in 2010. Dr. Liu is a recipient of the Discovery Early Career Researcher Award from the Australian Research Council. His research group mainly works in data-driven decision analytics; large-scale transport system modelling, optimisation and computing; aviation and rail system modeling; and transport economics. He was the awardee of The European Transport Innovation Challenge 2017 under European Commission, and received a Best Paper Award from the [International Transportation Economics Association (ITEA)](https://iteaweb.org/) for young scholars in 2015.
 
 Research Interests
 ======
 - Data-driven Decision Analytics
 - Transport Network Modelling and Optimisation
 - Transport Economics
+- Aviation and Rail System Modelling
 - Automated and Shared Mobility
 
 Research Group
@@ -31,7 +32,7 @@ Research Group
 
 PhD Positions and Academic Visitors
 ======
-- **PhD Students**: Students with background in Computer Science, Civil/Transport Engineering, Industrial Engineering, Control Engineering, Automation, Applied Mathematics or other relevant areas are welcome to apply (smart transport and cities, simulation and computation, urban big data analytics). Please send me your CV including your education qualifications with GPA, English test scores (IELTS/TOEFL), list of publications (if any) and name and contact of at least two referees.
+- **PhD Students**: Students with background in Civil/Transport/Aviation Engineering, Computer Science, Industrial Engineering, Control Engineering, Automation, Applied Mathematics or other relevant areas are welcome to apply (smart transport and cities, simulation and computation, urban big data analytics). Please send me your CV including your education qualifications with GPA, English test scores (IELTS/TOEFL), list of publications (if any) and name and contact of at least two referees.
 
 - **Postdoc, Visiting Students and Scholars**: If your research background fits my research interests, please send me your CV including your education qualifications and list of publications (if any).
 
