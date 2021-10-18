@@ -11,13 +11,15 @@ redirect_from:
 
 **Education**
 
-* B.Eng. in Civil Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html), 2006-2010
+* Bachelor of Engineering (Civil Engineering), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html), 2006-2010
 * Bachelor of Laws (dual degree), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html), 2008-2010
 * Ph.D. in Transportation, [Hong Kong University of Science and Technology](https://www.ust.hk/home), 2010-2014
 
 **Working Experience**
 
-* 2020 - present: Senior Lecturer, ARC DECRA Fellow, [School of Civil and Environmental Engineering](https://www.engineering.unsw.edu.au/civil-engineering/staff/wei-liu) and [School of Computer Science and Engineering](https://www.engineering.unsw.edu.au/computer-science-engineering/lecturer-wei-liu), University of New South Wales, Australia
+* 2021 - present: Associate Professor, [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), The Hong Kong Polytechnic University, Hong Kong, China
+
+* 2020 - 2021: Senior Lecturer, ARC DECRA Fellow, [School of Civil and Environmental Engineering](https://www.engineering.unsw.edu.au/civil-engineering/staff/wei-liu) and [School of Computer Science and Engineering](https://www.engineering.unsw.edu.au/computer-science-engineering/lecturer-wei-liu), University of New South Wales, Australia
 
 * 2018 - 2020: Lecturer (Assistant Professor), [School of Civil and Environmental Engineering](https://www.engineering.unsw.edu.au/civil-engineering/staff/wei-liu) and [School of Computer Science and Engineering](https://www.engineering.unsw.edu.au/computer-science-engineering/lecturer-wei-liu), University of New South Wales, Australia
 
