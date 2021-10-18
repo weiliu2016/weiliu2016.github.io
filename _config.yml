@@ -10,9 +10,10 @@ locale                   : "en-US"
 title                    : "Wei Liu / Homepage"
 title_separator          : "-"
 name                     : &name "Wei Liu"
-description              : &description "Senior Lecturer"
+description              : &description "Associate Professor"
+description              : &description "Department of Aeronautical and Aviation Engineering"
 description              : &description "Faculty of Engineering"
-description              : &description "University of New South Wales"
+description              : &description "The Hong Kong Polytechnic University"
 url                      : https://weiliu2016.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weiliu2016/weiliu2016.github.io"
@@ -85,15 +86,14 @@ author:
   name             : "Dr. Wei Liu"
   avatar           : "WeiLiu.jpg"
   bio              : |
-    Senior Lecturer <br>
-    Civil and Environmental Engineering <br>
-    Computer Science and Engineering <br>
-    University of New South Wales <br>
-  location         : "Sydney"
-  employer         : "UNSW"
+    Associate Professor <br>
+    Aeronautical and Aviation Engineering <br>
+    The Hong Kong Polytechnic University <br>
+  location         : "Hong Kong"
+  employer         : "PolyU"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rEUNm28AAAAJ&hl=en"
-  email            : "wei.liu@unsw.edu.au"
+  email            : "cewliu@hotmail.com"
   researchgate     : "https://www.researchgate.net/profile/Wei_Liu510"
   uri              :
   bitbucket        :
