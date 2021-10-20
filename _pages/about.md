@@ -38,6 +38,7 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
+- Xu, G., Liu, Y., Gao, Y., **Liu, W.** Integrated optimization of train stopping planning and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand.
 - **Liu, W.** On telecommuting and urban spatial structure.
 - **Liu, W.** Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
