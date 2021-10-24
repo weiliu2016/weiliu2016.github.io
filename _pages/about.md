@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Wei Liu is an Associate Professor at the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). Prior to this, he was a Senior Lecturer at [UNSW Sydney](https://www.unsw.edu.au/), and was a Lecturer at the [University of Glasgow](https://www.gla.ac.uk/), UK, and was a postdoctoral researcher at [Ecole Polytechnique Federale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland, and was a visiting researcher at the [University of Florida](http://www.ufl.edu/), US. Dr. Liu received his PhD in Transportation from the Hong Kong University of Science and Technology in 2014, and his B.Eng. in Civil Engineering and Bachelor of Laws both from Tsinghua University in 2010. Dr. Liu is a recipient of the Discovery Early Career Researcher Award from the Australian Research Council. His research group mainly works in data-driven decision analytics; large-scale transport system modelling, optimisation and computing; aviation and rail system modeling; and transport economics. He was the awardee of The European Transport Innovation Challenge 2017 under European Commission, and received a Best Paper Award from the [International Transportation Economics Association (ITEA)](https://iteaweb.org/) for young scholars in 2015.
+Dr. Wei Liu is an Associate Professor at the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). Prior to this, he was a faculty member at [UNSW Sydney](https://www.unsw.edu.au/) in Australia and [University of Glasgow](https://www.gla.ac.uk/) in the UK, was a Researcher at [Ecole Polytechnique Federale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland. Dr. Liu received his PhD in Transportation from the Hong Kong University of Science and Technology in 2014, and his B.Eng. in Civil Engineering and Bachelor of Laws both from Tsinghua University in 2010. Dr. Liu is a recipient of the Discovery Early Career Researcher Award from the Australian Research Council. His research group mainly works in data-driven decision analytics; large-scale transport system modelling, optimisation and computing; aviation and rail system modeling; and transport economics. He was the awardee of The European Transport Innovation Challenge 2017 under European Commission, and received a Best Paper Award from the [International Transportation Economics Association (ITEA)](https://iteaweb.org/) for young scholars in 2015.
 
 Research Interests
 ======
 - Data-driven Decision Analytics
-- Transport Network Modelling and Optimisation
-- Transport Economics
+- Transport Network Modeling and Optimization
+- Transport and Aviation Economics
 - Aviation and Rail System Modelling
 - Automated and Shared Mobility
+- UAV Applications in Smart Transport and Logistics
 
 Research Group
 ======
@@ -32,19 +33,21 @@ Research Group
 
 PhD Positions and Academic Visitors
 ======
-- **PhD Students**: Students with background in Civil/Transport/Aviation Engineering, Computer Science, Industrial Engineering, Control Engineering, Automation, Applied Mathematics or other relevant areas are welcome to apply (smart transport and cities, simulation and computation, urban big data analytics). Please send me your CV including your education qualifications with GPA, English test scores (IELTS/TOEFL), list of publications (if any) and name and contact of at least two referees.
+- **PhD Students**: Students with background in Aviation/Transport/Civil Engineering, Computer Science, Industrial Engineering, Control Engineering, Automation, Applied Mathematics or other relevant areas are welcome to apply for our PhD or MPhil program. Please send me your CV including your education qualifications with GPA, English test scores (IELTS/TOEFL), list of publications (if any) and name and contact of at least two referees.
 
 - **Postdoc, Visiting Students and Scholars**: If your research background fits my research interests, please send me your CV including your education qualifications and list of publications (if any).
 
 Selected Working Papers
 ======
-- Xu, G., Liu, Y., Gao, Y., **Liu, W.** Integrated optimization of train stopping planning and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand.
-- **Liu, W.** On telecommuting and urban spatial structure.
 - **Liu, W.** Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
+- Zhang, Z., Zhang, F., **Liu, W.** Modeling and managing the joint network equilibrium of parking and travel choices under mixed traffic with shared and private autonomous vehicles
+- Sun, W., Zhang, F., **Liu, W.** Efficient control of intersection traffic through lead connected autonomous vehicle trajectory optimization: analytical solutions.
+- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. A review on reinforcement learning for smart transportation applications.
+- Xu, G., Liu, Y., Gao, Y., **Liu, W.** Integrated optimization of train stopping planning and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
 - Chen, Y., Ma, M., **Liu, W.**, Waller, S.T. Modelling and managing a multi-modal transport system with ridesourcing services and multi-class users.
-- Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. Departure Time Choice and Tolling Scheme in Stochastic Bottleneck Model with Discontinuously Distributed Capacity.
-- Xu, G., Chen, Y., **Liu, W.** Joint Optimization of Park-and-Ride Facility Locations and Alternate Traffic Restriction Scheme under Equilibrium Flows.
+- Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. Departure time choice and tolling scheme in stochastic bottleneck model with discontinuously distributed capacity.
+- Xu, G., Chen, Y., **Liu, W.** Joint optimization of park-and-ride facility locations and alternate traffic restriction scheme under equilibrium flows.
 - Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets.
 - Xu, K., Saberi, M., **Liu, W.** Dynamic pricing and penalty strategies in a coupled market with ridesourcing and taxi considering time-dependent order cancellation behavior.
 - Hu, H., Du, B., **Liu, W.**, Perez, P. A joint optimization model for charger locating and electric bus charging scheduling considering opportunity fast-charging and uncertainties.
@@ -53,29 +56,29 @@ Selected Working Papers
 - Wei, B., Zhang, X., **Liu, W.**, Saberi, M., Waller, S.T. Temporal capacity allocation and tolling schemes for morning commute with carpooling.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. A game theoretical analysis of metro-integrated city logistics systems.
 - Xi, H., **Liu, W.**, Rey, D., Waller, S.T., Kilby, P. Incentive-compatible mechanisms for online resource allocation in mobility-as-a-service systems.
-- Lilasathapornkit, T., Rey, D., **Liu, W.**, Saberi, M. Traffic Assignment Problem for Pedestrian Networks.
+- Lilasathapornkit, T., Rey, D., **Liu, W.**, Saberi, M. Traffic assignment problem for pedestrian networks.
 - **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
 - Xu, G., Zhong, L., **Liu, W.** Optimal pricing and seat allocation schemes in passenger railway systems.
-- Najmia, A., Rashidi, T.H., **Liu, W.** Ridesharing in the era of Mobility as a Service (MaaS): An Activity-based Approach with Multimodality and Intermodality.
-- Cheng, Z., Waller, S.T., Rashidi, T.H., **Liu, W.**, Jian, S., Maghrebi, M. A Network Inference Model for Low Cost and Instant Planning.
+- Najmia, A., Rashidi, T.H., **Liu, W.** Ridesharing in the era of Mobility as a Service (MaaS): An activity-based approach with multimodality and intermodality.
 - Shao, C., Lindsey, R., Yang, H., Zhang, F., **Liu, W.** Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?.
 - Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach.
 - Wei, T., Xu, G., **Liu, W.**, Zhang, F., Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticket booking record.
 
 Selected Publications
 ======
-- **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2021) Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips. **Transportation Science**, in press.
+- **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2021) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. **Transportation Science**, forthcoming.
+- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) A multi-task memory network with knowledge adaptation for multimodal demand forecasting. **Transportation Research Part C: Emerging Technologies**, 131, 103352.
 - **Liu, W.**, Zhang, F., Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. **Transportation Research Part C: Emerging Technologies**, 130, 103301.
-- Wang, X., Guo, L., Wang, J., **Liu, W.**, Zhang, X. (2021) A Convex Programming Approach for Ridesharing User Equilibrium Under Fixed Driver/Rider Demand. **Transportation Research Part B: Methodological**, 149, 33-51.
-- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) Graph Neural Network for Robust Public Transit Demand Prediction. **IEEE Transactions on Intelligent Transportation Systems**, in press.
+- Wang, X., Guo, L., Wang, J., **Liu, W.**, Zhang, X. (2021) A convex programming approach for ridesharing user equilibrium under fixed driver/rider demand. **Transportation Research Part B: Methodological**, 149, 33-51.
+- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) Graph neural network for robust public transit demand prediction. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
 - Jian, S., **Liu, W.**, Wang, X., Yang, H., Waller, S.T. (2020) On integrating carsharing and parking sharing services. **Transportation Research Part B: Methodological**, 142, 19-44.
 - Wang, X., **Liu, W.**, Wang, D., Yang, H., Ye, J. (2020) Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets. **Transportation Research Part B: Methodological**, 132, 358-378.
-- **Liu, W.**, Szeto, W.Y. (2020) Learning and Managing Stochastic Network Traffic Dynamics with an Aggregate Traffic Representation. **Transportation Research Part B: Methodological**, 137, 19-46.
+- **Liu, W.**, Szeto, W.Y. (2020) Learning and managing stochastic network traffic dynamics with an aggregate traffic representation. **Transportation Research Part B: Methodological**, 137, 19-46.
 - Zhang, X., **Liu, W.**, Waller, S.T., Yin, Y. (2019) Modelling and managing the integrated morning-evening commuting and parking patterns under the fully autonomous vehicle environment. **Transportation Research Part B: Methodological**, 128, 380-407.
-- **Liu, W.** (2018) An Equilibrium Analysis of Commuter Parking in the Era of Autonomous Vehicles. **Transportation Research Part C: Emerging Technologies**, 92, 191-207.
-- **Liu, W.**, Zhang, F., Yang, H. (2017) Modeling and Managing Morning Commute with both Household and Individual Travels. **Transportation Research Part B: Methodological**, 103, 227-247.
-- **Liu, W.**, Geroliminis, N. (2017) Doubly Dynamics for Multi-modal Networks with Park-and-ride and Adaptive Pricing. **Transportation Research Part B: Methodological**, 102, 162–179.
-- **Liu, W.**, Geroliminis, N. (2016) Modeling the Morning Commute for Urban Networks with Cruising-for-parking: an MFD Approach. **Transportation Research Part B: Methodological**, 93, 470-494.
-- **Liu, W.**, Yin, Y., Yang, H. (2015) Effectiveness of Variable Speed Limits Considering Commuters’ Long-term Response. **Transportation Research Part B: Methodological**, 81, 498-519.
-- **Liu, W.**, Yang, H., Yin, Y. (2014) Expirable Parking Reservations for Managing Morning Commute with Parking Space Constraints. **Transportation Research Part C: Emerging Technologies**, 44, 185-201.
-- Yang, H., **Liu, W.**, Wang, X., Zhang, X. (2013) On the Morning Commute Problem with Bottleneck Congestion and Parking Space Constraints. **Transportation Research Part B: Methodological**, 58, 106-118.
+- **Liu, W.** (2018) An equilibrium analysis of commuter parking in the era of autonomous vehicles. **Transportation Research Part C: Emerging Technologies**, 92, 191-207.
+- **Liu, W.**, Zhang, F., Yang, H. (2017) Modeling and managing morning commute with both household and individual travels. **Transportation Research Part B: Methodological**, 103, 227-247.
+- **Liu, W.**, Geroliminis, N. (2017) Doubly dynamics for multi-modal networks with park-and-ride and adaptive pricing. **Transportation Research Part B: Methodological**, 102, 162–179.
+- **Liu, W.**, Geroliminis, N. (2016) Modeling the morning commute for urban networks with cruising-for-parking: an MFD Approach. **Transportation Research Part B: Methodological**, 93, 470-494.
+- **Liu, W.**, Yin, Y., Yang, H. (2015) Effectiveness of variable speed limits considering commuters’ long-term response. **Transportation Research Part B: Methodological**, 81, 498-519.
+- **Liu, W.**, Yang, H., Yin, Y. (2014) Expirable parking reservations for managing morning commute with parking space constraints. **Transportation Research Part C: Emerging Technologies**, 44, 185-201.
+- Yang, H., **Liu, W.**, Wang, X., Zhang, X. (2013) On the morning commute problem with bottleneck congestion and parking space constraints. **Transportation Research Part B: Methodological**, 58, 106-118.
