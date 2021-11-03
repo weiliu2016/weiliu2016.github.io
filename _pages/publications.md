@@ -19,7 +19,8 @@ author_profile: true
 
 Journal Publication
 ----------
-* [48] **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2021) Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips. Transportation Science, forthcoming. ([Download](https://doi.org/10.1287/trsc.2021.XXXX))
+* [49] **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2021) Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips. Transportation Science, forthcoming. ([Download](https://doi.org/10.1287/trsc.2021.XXXX))
+* [48] Zhao, R., **Liu, W.**, Zhang, F., Koo, T., Lodewijks, G. Passenger shuttle service network design in an airport. Transportmetrica B: Transport Dynamics, forthcoming. ([Download](https://doi.org/10.1080/21680566.2021.XXXXXXX))
 * [47] Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) A multi-task memory network with knowledge adaptation for multimodal demand forecasting. Transportation Research Part C: Emerging Technologies, 131, 103352. ([Download](https://doi.org/10.1016/j.trc.2021.103352))
 * [46] Zhang, F., **Liu, W.** (2021) An economic analysis of integrating bike sharing service with metro systems. Transportation Research Part D: Transport and Environment, 99, 103008. ([Download](https://doi.org/10.1016/j.trd.2021.103008))
 * [45] **Liu, W.**, Zhang, F., Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. Transportation Research Part C: Emerging Technologies, 130, 103301. ([Download](https://doi.org/10.1016/j.trc.2021.103301))
