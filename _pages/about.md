@@ -40,6 +40,7 @@ PhD Positions and Academic Visitors
 Selected Working Papers
 ======
 - **Liu, W.** Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
+-  Zhao, R., Koo, T., **Liu, W.**, Lodewijks, G., Zhang, F. The economic viability of piloted and pilot-less air metro: a scheduled service network design approach for urban air mobility
 - Zhang, Z., Zhang, F., **Liu, W.** Modeling and managing the joint network equilibrium of parking and travel choices under mixed traffic with shared and private autonomous vehicles
 - Sun, W., Zhang, F., **Liu, W.** Efficient control of intersection traffic through lead connected autonomous vehicle trajectory optimization: analytical solutions.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. A review on reinforcement learning for smart transportation applications.
@@ -51,7 +52,6 @@ Selected Working Papers
 - Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets.
 - Xu, K., Saberi, M., **Liu, W.** Dynamic pricing and penalty strategies in a coupled market with ridesourcing and taxi considering time-dependent order cancellation behavior.
 - Hu, H., Du, B., **Liu, W.**, Perez, P. A joint optimization model for charger locating and electric bus charging scheduling considering opportunity fast-charging and uncertainties.
-- Zhao, R., **Liu, W.**, Zhang, F., Koo, T., Lodewijks, G. Passenger shuttle service network design in an airport.
 - Zhang, X., **Liu, W.**, Levin, M., Waller, S.T. Equilibrium analysis of morning commuting and parking under spatial capacity allocation in the autonomous vehicle environment.
 - Wei, B., Zhang, X., **Liu, W.**, Saberi, M., Waller, S.T. Temporal capacity allocation and tolling schemes for morning commute with carpooling.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. A game theoretical analysis of metro-integrated city logistics systems.
