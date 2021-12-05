@@ -54,7 +54,6 @@ Selected Working Papers
 - Hu, H., Du, B., **Liu, W.**, Perez, P. A joint optimization model for charger locating and electric bus charging scheduling considering opportunity fast-charging and uncertainties.
 - Zhang, X., **Liu, W.**, Levin, M., Waller, S.T. Equilibrium analysis of morning commuting and parking under spatial capacity allocation in the autonomous vehicle environment.
 - Wei, B., Zhang, X., **Liu, W.**, Saberi, M., Waller, S.T. Temporal capacity allocation and tolling schemes for morning commute with carpooling.
-- Ma, M., Zhang, F., **Liu, W.**, Dixit, V. A game theoretical analysis of metro-integrated city logistics systems.
 - Xi, H., **Liu, W.**, Rey, D., Waller, S.T., Kilby, P. Incentive-compatible mechanisms for online resource allocation in mobility-as-a-service systems.
 - Lilasathapornkit, T., Rey, D., **Liu, W.**, Saberi, M. Traffic assignment problem for pedestrian networks.
 - **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
@@ -66,6 +65,7 @@ Selected Working Papers
 
 Selected Publications
 ======
+- Ma, M., Zhang, F., **Liu, W.**, Dixit, V. (2021) A game theoretical analysis of metro-integrated city logistics systems. **Transportation Research Part B: Methodological**, forthcoming.
 - **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2021) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. **Transportation Science**, forthcoming.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) A multi-task memory network with knowledge adaptation for multimodal demand forecasting. **Transportation Research Part C: Emerging Technologies**, 131, 103352.
 - **Liu, W.**, Zhang, F., Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. **Transportation Research Part C: Emerging Technologies**, 130, 103301.
