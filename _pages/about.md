@@ -57,7 +57,6 @@ Selected Working Papers
 - Xi, H., **Liu, W.**, Rey, D., Waller, S.T., Kilby, P. Incentive-compatible mechanisms for online resource allocation in mobility-as-a-service systems.
 - Lilasathapornkit, T., Rey, D., **Liu, W.**, Saberi, M. Traffic assignment problem for pedestrian networks.
 - **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
-- Xu, G., Zhong, L., **Liu, W.** Optimal pricing and seat allocation schemes in passenger railway systems.
 - Najmia, A., Rashidi, T.H., **Liu, W.** Ridesharing in the era of Mobility as a Service (MaaS): An activity-based approach with multimodality and intermodality.
 - Shao, C., Lindsey, R., Yang, H., Zhang, F., **Liu, W.** Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?.
 - Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach.
