@@ -19,8 +19,9 @@ author_profile: true
 
 Journal Publication
 ----------
-* [50] Ma, M., Zhang, F., **Liu, W.**, Dixit, V. (2021) A game theoretical analysis of metro-integrated city logistics systems. Transportation Research Part B: Methodological, forthcoming. ([Download](http://dx.doi.org/10.13140/RG.2.2.30835.45602))
-* [49] **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2021) Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips. Transportation Science, forthcoming. ([Download](http://dx.doi.org/10.13140/RG.2.2.14065.61283))
+* [51] **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2022) Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips. Transportation Science, forthcoming. ([Download](http://dx.doi.org/10.13140/RG.2.2.14065.61283))
+* [50] Ma, M., Zhang, F., **Liu, W.**, Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. Transportation Research Part B: Methodological, forthcoming. ([Download](http://dx.doi.org/10.13140/RG.2.2.30835.45602))
+* [49] Xu, G., Zhong, L., Hu, X., **Liu, W.** (2022) Optimal pricing and seat allocation schemes in passenger railway systems. Transportation Research Part E: Logistics and Transportation Review, forthcoming. ([Download](http://dx.doi.org/10.13140/RG.2.2.27506.22723))
 * [48] Zhao, R., **Liu, W.**, Zhang, F., Koo, T., Lodewijks, G. (2021) Passenger shuttle service network design in an airport. Transportmetrica B: Transport Dynamics, forthcoming. ([Download](https://doi.org/10.1080/21680566.2021.2008279))
 * [47] Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) A multi-task memory network with knowledge adaptation for multimodal demand forecasting. Transportation Research Part C: Emerging Technologies, 131, 103352. ([Download](https://doi.org/10.1016/j.trc.2021.103352))
 * [46] Zhang, F., **Liu, W.** (2021) An economic analysis of integrating bike sharing service with metro systems. Transportation Research Part D: Transport and Environment, 99, 103008. ([Download](https://doi.org/10.1016/j.trd.2021.103008))
