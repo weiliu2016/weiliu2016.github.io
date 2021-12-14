@@ -39,7 +39,6 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
-- **Liu, W.** Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 -  Zhao, R., Koo, T., **Liu, W.**, Lodewijks, G., Zhang, F. The economic viability of piloted and pilot-less air metro: a scheduled service network design approach for urban air mobility.
 - Zhang, Z., Zhang, F., **Liu, W.** Modeling and managing the joint network equilibrium of parking and travel choices under mixed traffic with shared and private autonomous vehicles.
 - Sun, W., Zhang, F., **Liu, W.** Efficient control of intersection traffic through lead connected autonomous vehicle trajectory optimization: analytical solutions.
