@@ -39,7 +39,10 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
--  Zhao, R., Koo, T., **Liu, W.**, Lodewijks, G., Zhang, F. The economic viability of piloted and pilot-less air metro: a scheduled service network design approach for urban air mobility.
+- Zheng, Z., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
+- Wei, B., **Liu, W.**, Du, B., Saberi, M., Waller, S.T. Modeling and managing cruising for charging and parking of electric ride-sourcing vehicles.
+- Xu, K., Saberi, M., **Liu, W.** Economic analysis of ridesourcing market considering driver's order cancellation and platform subsidy.
+- Zhao, R., Koo, T., **Liu, W.**, Lodewijks, G., Zhang, F. The economic viability of piloted and pilot-less air metro: a scheduled service network design approach for urban air mobility.
 - Zhang, Z., Zhang, F., **Liu, W.** Modeling and managing the joint network equilibrium of parking and travel choices under mixed traffic with shared and private autonomous vehicles.
 - Sun, W., Zhang, F., **Liu, W.** Efficient control of intersection traffic through lead connected autonomous vehicle trajectory optimization: analytical solutions.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. A review on reinforcement learning for smart transportation applications.
@@ -58,13 +61,13 @@ Selected Working Papers
 - **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
 - Najmia, A., Rashidi, T.H., **Liu, W.** Ridesharing in the era of Mobility as a Service (MaaS): An activity-based approach with multimodality and intermodality.
 - Shao, C., Lindsey, R., Yang, H., Zhang, F., **Liu, W.** Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?.
-- Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. Autonomous intersection management for connected and automated vehicles: a lane-based approach.
 - Wei, T., Xu, G., **Liu, W.**, Zhang, F., Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticket booking record.
 
 Selected Publications
 ======
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. (2021) A game theoretical analysis of metro-integrated city logistics systems. **Transportation Research Part B: Methodological**, forthcoming.
 - **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2021) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. **Transportation Science**, forthcoming.
+- Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. (2021) Autonomous intersection management for connected and automated vehicles: a lane-based approach. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) A multi-task memory network with knowledge adaptation for multimodal demand forecasting. **Transportation Research Part C: Emerging Technologies**, 131, 103352.
 - **Liu, W.**, Zhang, F., Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. **Transportation Research Part C: Emerging Technologies**, 130, 103301.
 - Wang, X., Guo, L., Wang, J., **Liu, W.**, Zhang, X. (2021) A convex programming approach for ridesharing user equilibrium under fixed driver/rider demand. **Transportation Research Part B: Methodological**, 149, 33-51.
