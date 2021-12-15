@@ -19,7 +19,8 @@ author_profile: true
 
 Journal Publication
 ----------
-* [51] **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2022) Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips. Transportation Science, forthcoming. ([Download](http://dx.doi.org/10.13140/RG.2.2.14065.61283))
+* [52] **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2022) Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips. Transportation Science, forthcoming. ([Download](http://dx.doi.org/10.13140/RG.2.2.12423.11688))
+* [51] Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. IEEE Transactions on Intelligent Transportation Systems, forthcoming. ([Download](http://dx.doi.org/10.13140/RG.2.2.14065.61283))
 * [50] Ma, M., Zhang, F., **Liu, W.**, Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. Transportation Research Part B: Methodological, forthcoming. ([Download](http://dx.doi.org/10.13140/RG.2.2.30835.45602))
 * [49] Xu, G., Zhong, L., Hu, X., **Liu, W.** (2022) Optimal pricing and seat allocation schemes in passenger railway systems. Transportation Research Part E: Logistics and Transportation Review, forthcoming. ([Download](http://dx.doi.org/10.13140/RG.2.2.27506.22723))
 * [48] Zhao, R., **Liu, W.**, Zhang, F., Koo, T., Lodewijks, G. (2021) Passenger shuttle service network design in an airport. Transportmetrica B: Transport Dynamics, forthcoming. ([Download](https://doi.org/10.1080/21680566.2021.2008279))
