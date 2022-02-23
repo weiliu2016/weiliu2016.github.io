@@ -21,15 +21,22 @@ Research Interests
 
 Research Group
 ======
-- Qingying He (PhD Student, 2021 T1, from University of Edinburgh, UK)
-- Yuhui Chen (MPhil Student, 2020 T1, from UNSW Sydney, Australia)
-- Kai Xu (PhD Student, 2019 T3, from South China University of Technology, China)
-- Runqing Zhao (Master by Research, 2019 T3, from UNSW Sydney, Australia)
-- Haoning Xi (PhD student, 2019 T3, from Tsinghua University, China)
-- Mingyou Ma (PhD Student, 2019 T2, from UNSW Sydney, Australia)
-- Bangyang Wei (PhD Student, 2019 T1, from Shanghai Jiao Tong University, China)
-- Can Li (PhD Student, 2019 T1, from Rutgers University, US)
-- Tanapon Lilasathapornkit (PhD Student, 2018 T2, from UNSW Sydney, Australia)
+- **Current members**\
+  Qingying He (PhD Student, 2021 T1, from University of Edinburgh, UK)\
+  Yuhui Chen (MPhil Student, 2020 T1, from UNSW Sydney, Australia)\
+  Kai Xu (PhD Student, 2019 T3, from South China University of Technology, China)\
+  Haoning Xi (PhD student, 2019 T3, from Tsinghua University, China)\
+  Mingyou Ma (PhD Student, 2019 T2, from UNSW Sydney, Australia)\
+  Bangyang Wei (PhD Student, 2019 T1, from Shanghai Jiao Tong University, China)\
+  Can Li (PhD Student, 2019 T1, from Rutgers University, US)\
+  Tanapon Lilasathapornkit (PhD Student, 2018 T2, from UNSW Sydney, Australia)
+
+- **Former members**\
+  Runqing Zhao (MPhil, 2019 T3 - 2022 T1). Thesis: Service network design for emerging modes in air transport: autonomous inter-terminal airport bus shuttle and air metro
+
+- **Academic visitors**\
+  Yihan Gao (2022.01-2022.04, MPhil student, from Central South University)\
+  Wei Wu (2018.11-2019.11, Associcate Professor, from Changsha University of Science and Technology)
 
 PhD Positions and Academic Visitors
 ======
@@ -39,20 +46,21 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
+- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Demand Forecasting Enhancement with Unsupervised Transfer Learning for Multimodal Transport Systems.
+- Gong, Z., Zhang, F., **Liu, W.** Airport expansion with responsive airlines: the effects on congestion, competition and welfare.
 - Zheng, Z., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - Wei, B., **Liu, W.**, Du, B., Saberi, M., Waller, S.T. Modeling and managing cruising for charging and parking of electric ride-sourcing vehicles.
 - Xu, K., Saberi, M., **Liu, W.** Economic analysis of ridesourcing market considering driver's order cancellation and platform subsidy.
 - Zhao, R., Koo, T., **Liu, W.**, Lodewijks, G., Zhang, F. The economic viability of piloted and pilot-less air metro: a scheduled service network design approach for urban air mobility.
 - Zhang, Z., Zhang, F., **Liu, W.** Modeling and managing the joint network equilibrium of parking and travel choices under mixed traffic with shared and private autonomous vehicles.
 - Sun, W., Zhang, F., **Liu, W.** Efficient control of intersection traffic through lead connected autonomous vehicle trajectory optimization: analytical solutions.
-- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. A review on reinforcement learning for smart transportation applications.
-- Xu, G., Liu, Y., Gao, Y., **Liu, W.** Integrated optimization of train stopping planning and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand.
+- Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.** A review on reinforcement learning for smart transportation applications.
+- Xu, G., Liu, Y., Gao, Y., **Liu, W.** Integrated optimization of train stopping plan and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
 - Chen, Y., Ma, M., **Liu, W.**, Waller, S.T. An economic analysis of a multi-modal transport system with ride-sourcing services and multi-class users.
 - Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. Departure time choice and tolling scheme in stochastic bottleneck model with discontinuously distributed capacity.
 - Xu, G., Chen, Y., **Liu, W.** Joint optimization of park-and-ride facility locations and alternate traffic restriction scheme under equilibrium flows.
 - Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets.
-- Xu, K., Saberi, M., **Liu, W.** Dynamic pricing and penalty strategies in a coupled market with ridesourcing and taxi considering time-dependent order cancellation behavior.
 - Hu, H., Du, B., **Liu, W.**, Perez, P. A joint optimization model for charger locating and electric bus charging scheduling considering opportunity fast-charging and uncertainties.
 - Zhang, X., **Liu, W.**, Levin, M., Waller, S.T. Equilibrium analysis of morning commuting and parking under spatial capacity allocation in the autonomous vehicle environment.
 - Wei, B., Zhang, X., **Liu, W.**, Saberi, M., Waller, S.T. Temporal capacity allocation and tolling schemes for morning commute with carpooling.
