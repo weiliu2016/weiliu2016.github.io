@@ -32,7 +32,7 @@ Research Group
   Tanapon Lilasathapornkit (PhD Student, 2018 T2, from UNSW Sydney, Australia)
 
 - **Former members**\
-  Runqing Zhao (MPhil, 2019 T3 - 2022 T1). Thesis: Service network design for emerging modes in air transport: autonomous inter-terminal airport bus shuttle and air metro
+  Runqing Zhao (MPhil, 2019 T3 - 2022 T1) - Thesis: Service network design for emerging modes in air transport: autonomous inter-terminal airport bus shuttle and air metro
 
 - **Academic visitors**\
   Yihan Gao (2022.01-2022.04, MPhil student, from Central South University)\
@@ -46,7 +46,7 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
-- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Demand Forecasting Enhancement with Unsupervised Transfer Learning for Multimodal Transport Systems.
+- Xu, G., Gao, Y., **Liu, W.** Pareto-improving seat allocation for high-speed railway networks with equilibrium flows.
 - Gong, Z., Zhang, F., **Liu, W.** Airport expansion with responsive airlines: the effects on congestion, competition and welfare.
 - Zheng, Z., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - Wei, B., **Liu, W.**, Du, B., Saberi, M., Waller, S.T. Modeling and managing cruising for charging and parking of electric ride-sourcing vehicles.
@@ -54,11 +54,12 @@ Selected Working Papers
 - Zhao, R., Koo, T., **Liu, W.**, Lodewijks, G., Zhang, F. The economic viability of piloted and pilot-less air metro: a scheduled service network design approach for urban air mobility.
 - Zhang, Z., Zhang, F., **Liu, W.** Modeling and managing the joint network equilibrium of parking and travel choices under mixed traffic with shared and private autonomous vehicles.
 - Sun, W., Zhang, F., **Liu, W.** Efficient control of intersection traffic through lead connected autonomous vehicle trajectory optimization: analytical solutions.
-- Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.** A review on reinforcement learning for smart transportation applications.
+- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Unsupervised Knowledge Adaptation for Passenger Demand Forecasting.
+- Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.** A Bibliometric Analysis and Review on Reinforcement Learning for Transportation Applications.
 - Xu, G., Liu, Y., Gao, Y., **Liu, W.** Integrated optimization of train stopping plan and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
 - Chen, Y., Ma, M., **Liu, W.**, Waller, S.T. An economic analysis of a multi-modal transport system with ride-sourcing services and multi-class users.
-- Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. Departure time choice and tolling scheme in stochastic bottleneck model with discontinuously distributed capacity.
+- Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. Departure Time Choice in Stochastic Bottleneck Model with Discontinuously Distributed Capacity.
 - Xu, G., Chen, Y., **Liu, W.** Joint optimization of park-and-ride facility locations and alternate traffic restriction scheme under equilibrium flows.
 - Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets.
 - Hu, H., Du, B., **Liu, W.**, Perez, P. A joint optimization model for charger locating and electric bus charging scheduling considering opportunity fast-charging and uncertainties.
@@ -73,13 +74,13 @@ Selected Working Papers
 
 Selected Publications
 ======
-- Ma, M., Zhang, F., **Liu, W.**, Dixit, V. (2021) A game theoretical analysis of metro-integrated city logistics systems. **Transportation Research Part B: Methodological**, forthcoming.
-- **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2021) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. **Transportation Science**, forthcoming.
+- Ma, M., Zhang, F., **Liu, W.**, Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. **Transportation Research Part B: Methodological**, 156, 14-27.
+- **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. **Transportation Science**, forthcoming.
 - Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. (2021) Autonomous intersection management for connected and automated vehicles: a lane-based approach. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) A multi-task memory network with knowledge adaptation for multimodal demand forecasting. **Transportation Research Part C: Emerging Technologies**, 131, 103352.
 - **Liu, W.**, Zhang, F., Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. **Transportation Research Part C: Emerging Technologies**, 130, 103301.
 - Wang, X., Guo, L., Wang, J., **Liu, W.**, Zhang, X. (2021) A convex programming approach for ridesharing user equilibrium under fixed driver/rider demand. **Transportation Research Part B: Methodological**, 149, 33-51.
-- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) Graph neural network for robust public transit demand prediction. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
+- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2020) Graph neural network for robust public transit demand prediction. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
 - Jian, S., **Liu, W.**, Wang, X., Yang, H., Waller, S.T. (2020) On integrating carsharing and parking sharing services. **Transportation Research Part B: Methodological**, 142, 19-44.
 - Wang, X., **Liu, W.**, Wang, D., Yang, H., Ye, J. (2020) Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets. **Transportation Research Part B: Methodological**, 132, 358-378.
 - **Liu, W.**, Szeto, W.Y. (2020) Learning and managing stochastic network traffic dynamics with an aggregate traffic representation. **Transportation Research Part B: Methodological**, 137, 19-46.
