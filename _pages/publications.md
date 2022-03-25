@@ -19,7 +19,7 @@ author_profile: true
 
 Journal Publication
 ----------
-* [53] Xu, K., Saberi, M., **Liu, W.** (2022) Dynamic pricing and penalty strategies in a coupled market with ridesourcing service and taxi considering time-dependent order cancellation behavior. Transportation Research Part C: Emerging Technologies, forthcoming. ([Download](https://doi.org/10.1016/j.trc.2022.103621))
+* [53] Xu, K., Saberi, M., **Liu, W.** (2022) Dynamic pricing and penalty strategies in a coupled market with ridesourcing service and taxi considering time-dependent order cancellation behavior. Transportation Research Part C: Emerging Technologies, 138, 103621. ([Download](https://doi.org/10.1016/j.trc.2022.103621))
 * [52] **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2022) Unlock the Sharing Economy: the Case of the Parking Sector for Recurrent Commuting Trips. Transportation Science, forthcoming. ([Download](https://doi.org/10.1287/trsc.2021.1103))
 * [51] Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. IEEE Transactions on Intelligent Transportation Systems, forthcoming. ([Download](http://dx.doi.org/10.1109/TITS.2021.3136910))
 * [50] Ma, M., Zhang, F., **Liu, W.**, Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. Transportation Research Part B: Methodological, 156, 14-27. ([Download](https://doi.org/10.1016/j.trb.2021.12.005))
