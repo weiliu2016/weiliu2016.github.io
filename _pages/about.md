@@ -22,8 +22,8 @@ Research Interests
 Research Group
 ======
 - **Current members**\
-  Qingying He (PhD Student, 2021 T1, from University of Edinburgh, UK)\
-  Yuhui Chen (MPhil Student, 2020 T1, from UNSW Sydney, Australia)\
+  Yufan Zuo (PhD student, 2022 S1, from Southeast University, China)\
+  Qingying He (PhD student, 2021 T1, from University of Edinburgh, UK)\
   Kai Xu (PhD Student, 2019 T3, from South China University of Technology, China)\
   Haoning Xi (PhD student, 2019 T3, from Tsinghua University, China)\
   Mingyou Ma (PhD Student, 2019 T2, from UNSW Sydney, Australia)\
@@ -32,6 +32,7 @@ Research Group
   Tanapon Lilasathapornkit (PhD Student, 2018 T2, from UNSW Sydney, Australia)
 
 - **Former members**\
+  Yuhui Chen (MPhil, 2020 T1 - 2021 T3) - Thesis: Modeling ride-sourcing and public transport services in a multi-modal network with multi-class users\
   Runqing Zhao (MPhil, 2019 T3 - 2022 T1) - Thesis: Service network design for emerging modes in air transport: autonomous inter-terminal airport bus shuttle and air metro
 
 - **Academic visitors**\
@@ -46,20 +47,21 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
+- Su, H., Wang, X., **Liu, W.**, Zhang, X. Perimeter control of e-hailing vehicle inflow rate under demand surge after mass gathering events.
 - Xu, G., Gao, Y., **Liu, W.** Pareto-improving seat allocation for high-speed railway networks with equilibrium flows.
-- Gong, Z., Zhang, F., **Liu, W.** Airport expansion with responsive airlines: the effects on congestion, competition and welfare.
+- Gong, Z., Zhang, F., **Liu, W.**, Graham, D. On the effects of airport capacity expansion under responsive airlines and elastic passenger demand.
 - Zheng, Z., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - Wei, B., **Liu, W.**, Du, B., Saberi, M., Waller, S.T. Modeling and managing cruising for charging and parking of electric ride-sourcing vehicles.
 - Xu, K., Saberi, M., **Liu, W.** Economic analysis of ridesourcing market considering driver's order cancellation and platform subsidy.
 - Zhao, R., Koo, T., **Liu, W.**, Lodewijks, G., Zhang, F. The economic viability of piloted and pilot-less air metro: a scheduled service network design approach for urban air mobility.
 - Zhang, Z., Zhang, F., **Liu, W.** Modeling and managing the joint network equilibrium of parking and travel choices under mixed traffic with shared and private autonomous vehicles.
-- Sun, W., Zhang, F., **Liu, W.** Efficient control of intersection traffic through lead connected autonomous vehicle trajectory optimization: analytical solutions.
-- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Unsupervised Knowledge Adaptation for Passenger Demand Forecasting.
+- Sun, W., Zhang, F., **Liu, W.** Improving traffic and energy efficiency with connected and autonomous vehicles in a mixed traffic corridor.
+- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Unsupervised knowledge adaptation for passenger demand forecasting.
 - Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.** A Bibliometric Analysis and Review on Reinforcement Learning for Transportation Applications.
 - Xu, G., Liu, Y., Gao, Y., **Liu, W.** Integrated optimization of train stopping plan and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
 - Chen, Y., Ma, M., **Liu, W.**, Waller, S.T. An economic analysis of a multi-modal transport system with ride-sourcing services and multi-class users.
-- Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. Departure Time Choice in Stochastic Bottleneck Model with Discontinuously Distributed Capacity.
+- Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. Departure time choices in the morning commute with discontinuously distributed capacity.
 - Xu, G., Chen, Y., **Liu, W.** Joint optimization of park-and-ride facility locations and alternate traffic restriction scheme under equilibrium flows.
 - Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets.
 - Hu, H., Du, B., **Liu, W.**, Perez, P. A joint optimization model for charger locating and electric bus charging scheduling considering opportunity fast-charging and uncertainties.
