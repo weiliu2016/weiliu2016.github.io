@@ -62,7 +62,6 @@ Selected Working Papers
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
 - Chen, Y., Ma, M., **Liu, W.**, Waller, S.T. An economic analysis of a multi-modal transport system with ride-sourcing services and multi-class users.
 - Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. Departure time choices in the morning commute with discontinuously distributed capacity.
-- Xu, G., Chen, Y., **Liu, W.** Joint optimization of park-and-ride facility locations and alternate traffic restriction scheme under equilibrium flows.
 - Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets.
 - Hu, H., Du, B., **Liu, W.**, Perez, P. A joint optimisation model for charger locating and electric bus charging scheduling considering opportunity fast charging and uncertainties.
 - Zhang, X., **Liu, W.**, Levin, M., Waller, S.T. Equilibrium analysis of morning commuting and parking under spatial capacity allocation in the autonomous vehicle environment.
