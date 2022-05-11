@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Wei Liu is an Associate Professor at the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). Prior to this, he was a faculty member at [UNSW Sydney](https://www.unsw.edu.au/) in Australia and [University of Glasgow](https://www.gla.ac.uk/) in the UK, was a Researcher at [Ecole Polytechnique Federale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland. Dr. Liu received his PhD in Transportation from the Hong Kong University of Science and Technology in 2014, and his B.Eng. in Civil Engineering and Bachelor of Laws both from Tsinghua University in 2010. Dr. Liu is a recipient of the Discovery Early Career Researcher Award from the Australian Research Council. His research group mainly works in data-driven decision analytics; large-scale transport system modelling, optimisation and computing; aviation and rail system modeling; and transport economics. He was the awardee of The European Transport Innovation Challenge 2017 under European Commission, and received a Best Paper Award from the [International Transportation Economics Association (ITEA)](https://iteaweb.org/) for young scholars in 2015.
+Dr. Wei Liu is an Associate Professor at the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). Prior to this, he was a faculty member at [University of New South Wales, Sydney](https://www.unsw.edu.au/) in Australia and [University of Glasgow](https://www.gla.ac.uk/) in the United Kingdom, and was a Researcher at [Ecole Polytechnique Federale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland. Dr. Liu received his PhD in Transportation from the Hong Kong University of Science and Technology in 2014, and his B.Eng. in Civil Engineering and Bachelor of Laws both from Tsinghua University in 2010. Dr. Liu is a recipient of the Discovery Early Career Researcher Award from the Australian Research Council. His research group mainly works in data-driven decision analytics; large-scale transport system modelling, optimisation and computing; aviation and rail system modeling; and transport economics. He was the awardee of The European Transport Innovation Challenge 2017 under European Commission, and received a Best Paper Award from the [International Transportation Economics Association (ITEA)](https://iteaweb.org/) for young scholars in 2015.
 
 Research Interests
 ======
@@ -47,15 +47,17 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
-- Su, H., Wang, X., **Liu, W.**, Zhang, X. Modelling and improving the passenger evacuation process in a bi-modal system with bus and e-hailing modes after mass gathering events.
-- Xu, G., Gao, Y., **Liu, W.** Pareto-improving seat allocation for high-speed railway networks with equilibrium flows.
-- Gong, Z., Zhang, F., **Liu, W.**, Graham, D. On the effects of airport capacity expansion under responsive airlines and elastic passenger demand.
+- **Liu, W.** An economic analysis of telecommuting and urban spatial structure.
 - Zheng, Z., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
-- Wei, B., **Liu, W.**, Du, B., Saberi, M., Waller, S.T. Modeling and managing cruising for charging and parking of electric ride-sourcing vehicles.
+- He, Q., Ma, M., Li, C., **Liu, W.** Learning and managing stochastic network traffic dynamics: a digital twin based approach.
+- Wei, B., **Liu, W.**, Du, B., Saberi, M., Waller, S.T. Modeling and managing ride-sourcing services by electric vehicles with cruising for charging and parking.
 - Xu, K., Saberi, M., **Liu, W.** Economic analysis of ridesourcing market considering driver's order cancellation and platform subsidy.
+- Xu, G., Gao, Y., **Liu, W.** Pareto-improving seat allocation for high-speed railway networks with equilibrium flows.
+- Su, H., Wang, X., **Liu, W.**, Zhang, X. Modelling and improving the passenger evacuation process in a bi-modal system with bus and e-hailing modes after mass gathering events.
+- Gong, Z., Zhang, F., **Liu, W.**, Graham, D. On the effects of airport capacity expansion under responsive airlines and elastic passenger demand.
 - Zhao, R., Koo, T., **Liu, W.**, Lodewijks, G., Zhang, F. The economic viability of piloted and pilot-less air metro: a scheduled service network design approach for urban air mobility.
 - Zhang, Z., Zhang, F., **Liu, W.** Modeling and managing the joint network equilibrium of parking and travel choices under mixed traffic with shared and private autonomous vehicles.
-- Sun, W., Zhang, F., **Liu, W.** Improving traffic and energy efficiency with connected and autonomous vehicles in a mixed traffic corridor.
+- Sun, W., Zhang, F., **Liu, W.** Improving traffic and energy efficiency in a mixed traffic corridor with connected and autonomous vehicles.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Unsupervised knowledge adaptation for passenger demand forecasting.
 - Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.** A Bibliometric Analysis and Review on Reinforcement Learning for Transportation Applications.
 - Xu, G., Liu, Y., Gao, Y., **Liu, W.** Integrated optimization of train stopping plan and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand.
@@ -63,9 +65,8 @@ Selected Working Papers
 - Chen, Y., Ma, M., **Liu, W.**, Waller, S.T. An economic analysis of a multi-modal transport system with ride-sourcing services and multi-class users.
 - Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. Departure time choices in the morning commute with discontinuously distributed capacity.
 - Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets.
-- Hu, H., Du, B., **Liu, W.**, Perez, P. A joint optimisation model for charger locating and electric bus charging scheduling considering opportunity fast charging and uncertainties.
 - Zhang, X., **Liu, W.**, Levin, M., Waller, S.T. Equilibrium analysis of morning commuting and parking under spatial capacity allocation in the autonomous vehicle environment.
-- Wei, B., Zhang, X., **Liu, W.**, Saberi, M., Waller, S.T. Temporal capacity allocation and tolling schemes for morning commute with carpooling.
+- Wei, B., Zhang, X., **Liu, W.**, Saberi, M., Waller, S.T. Capacity Allocation and Tolling-Rewarding Schemes for the Morning Commute with Carpooling.
 - Xi, H., **Liu, W.**, Rey, D., Waller, S.T., Kilby, P. Incentive-compatible mechanisms for online resource allocation in mobility-as-a-service systems.
 - Lilasathapornkit, T., Rey, D., **Liu, W.**, Saberi, M. Traffic assignment problem for pedestrian networks.
 - **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
@@ -77,11 +78,11 @@ Selected Publications
 ======
 - **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. **Transportation Science**, 56(2), 338-357.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. **Transportation Research Part B: Methodological**, 156, 14-27.
-- Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. (2021) Autonomous intersection management for connected and automated vehicles: a lane-based approach. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
+- Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
+- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2022) Graph neural network for robust public transit demand prediction. **IEEE Transactions on Intelligent Transportation Systems**, 23(5), 4086-4098.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2021) A multi-task memory network with knowledge adaptation for multimodal demand forecasting. **Transportation Research Part C: Emerging Technologies**, 131, 103352.
 - **Liu, W.**, Zhang, F., Yang, H. (2021) Modeling and managing the joint equilibrium of destination and parking choices under a hybrid supply of curbside and shared parking. **Transportation Research Part C: Emerging Technologies**, 130, 103301.
 - Wang, X., Guo, L., Wang, J., **Liu, W.**, Zhang, X. (2021) A convex programming approach for ridesharing user equilibrium under fixed driver/rider demand. **Transportation Research Part B: Methodological**, 149, 33-51.
-- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2020) Graph neural network for robust public transit demand prediction. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
 - Jian, S., **Liu, W.**, Wang, X., Yang, H., Waller, S.T. (2020) On integrating carsharing and parking sharing services. **Transportation Research Part B: Methodological**, 142, 19-44.
 - Wang, X., **Liu, W.**, Wang, D., Yang, H., Ye, J. (2020) Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets. **Transportation Research Part B: Methodological**, 132, 358-378.
 - **Liu, W.**, Szeto, W.Y. (2020) Learning and managing stochastic network traffic dynamics with an aggregate traffic representation. **Transportation Research Part B: Methodological**, 137, 19-46.
