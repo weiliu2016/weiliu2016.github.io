@@ -76,8 +76,8 @@ Selected Working Papers
 
 Selected Publications
 ======
-- Zhang, F., Lindsey, R., Yang, H., Shao, C., **Liu, W.** (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?. Transportation Research Part B: Methodological, forthcoming.
-- Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. (2022) Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets. European Journal of Operational Research, forthcoming.
+- Zhang, F., Lindsey, R., Yang, H., Shao, C., **Liu, W.** (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?. **Transportation Research Part B: Methodological**, forthcoming.
+- Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. (2022) Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets. **European Journal of Operational Research**, forthcoming.
 - **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. **Transportation Science**, 56(2), 338-357.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. **Transportation Research Part B: Methodological**, 156, 14-27.
 - Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
