@@ -47,8 +47,9 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
+- Zhang, Z., Zhang, F., **Liu, W.** Parking or sharing our autonomous vehicles?
 - **Liu, W.** On residential location choices considering both commuting and telecommuting.
-- Zheng, Z., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
+- Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - He, Q., Ma, M., Li, C., **Liu, W.** Learning and managing stochastic network traffic dynamics: a digital twin based approach.
 - Wei, B., **Liu, W.**, Du, B., Saberi, M., Waller, S.T. Modeling and managing ride-sourcing services of electric vehicles considering cruising for charging and parking.
 - Xu, K., Saberi, M., **Liu, W.** Economic analysis of ridesourcing market considering driver's order cancellation and platform subsidy.
@@ -64,18 +65,18 @@ Selected Working Papers
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
 - Ma, M., Chen, Y., **Liu, W.**, Waller, S.T. An economic analysis of a multi-modal transport system with ride-sourcing services and multi-class users.
 - Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. Departure time choices in the morning commute with discontinuously distributed capacity.
-- Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets.
 - Zhang, X., **Liu, W.**, Levin, M., Waller, S.T. Equilibrium analysis of morning commuting and parking under spatial capacity allocation in the autonomous vehicle environment.
 - Wei, B., Zhang, X., **Liu, W.**, Saberi, M., Waller, S.T. Capacity Allocation and Tolling-Rewarding Schemes for the Morning Commute with Carpooling.
 - Xi, H., **Liu, W.**, Rey, D., Waller, S.T., Kilby, P. Incentive-compatible mechanisms for online resource allocation in mobility-as-a-service systems.
 - Lilasathapornkit, T., Rey, D., **Liu, W.**, Saberi, M. Traffic assignment problem for pedestrian networks.
 - **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
 - Najmia, A., Rashidi, T.H., **Liu, W.** Ridesharing in the era of Mobility as a Service (MaaS): An activity-based approach with multimodality and intermodality.
-- Shao, C., Lindsey, R., Yang, H., Zhang, F., **Liu, W.** Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?.
 - Wei, T., Xu, G., **Liu, W.**, Zhang, F., Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticket booking record.
 
 Selected Publications
 ======
+- Zhang, F., Lindsey, R., Yang, H., Shao, C., **Liu, W.** (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?. Transportation Research Part B: Methodological, forthcoming.
+- Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. (2022) Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets. European Journal of Operational Research, forthcoming.
 - **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. **Transportation Science**, 56(2), 338-357.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. **Transportation Research Part B: Methodological**, 156, 14-27.
 - Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
