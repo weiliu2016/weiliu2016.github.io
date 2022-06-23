@@ -48,6 +48,7 @@ PhD Positions and Academic Visitors
 Selected Working Papers
 ======
 - Zhang, Z., Zhang, F., **Liu, W.** Parking or sharing our autonomous vehicles?
+- Wu, W., Wang, M., Ma, M., **Liu, W.** Reliability-based equilibrium model considering promotive impacts of autonomous vehicles on traffic flow stability in a mixed traffic network.
 - **Liu, W.** On residential location choices considering both commuting and telecommuting.
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - He, Q., Ma, M., Li, C., **Liu, W.** Learning and managing stochastic network traffic dynamics: a digital twin based approach.
