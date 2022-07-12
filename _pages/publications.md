@@ -19,8 +19,9 @@ author_profile: true
 
 Journal Publication
 ----------
-* [57] Zhang, F., Lindsey, R., Yang, H., Shao, C., **Liu, W.** (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?. Transportation Research Part B: Methodological, forthcoming. ([Download](https://doi.org/10.1016/j.trb.202x.xx.xxx))
-* [56] Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. (2022) Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets. European Journal of Operational Research, forthcoming. ([Download](https://doi.org/10.1016/j.ejor.202x.xx.xxx))
+* [58] Wei, B., Zhang, X., **Liu, W.**, Saberi, M., Waller, S.T. (2022) Capacity Allocation and Tolling-Rewarding Schemes for the Morning Commute with Carpooling. Transportation Research Part C: Emerging Technologies, 142, 103789. ([Download](https://doi.org/10.1016/j.trc.2022.103789))
+* [57] Zhang, F., Lindsey, R., Yang, H., Shao, C., **Liu, W.** (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?. Transportation Research Part B: Methodological, 163, 40-63. ([Download](https://doi.org/10.1016/j.trb.2022.06.009))
+* [56] Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. (2022) Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets. European Journal of Operational Research, forthcoming. ([Download](https://doi.org/10.1016/j.ejor.2022.06.041))
 * [55] Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. IEEE Transactions on Intelligent Transportation Systems, forthcoming. ([Download](http://dx.doi.org/10.1109/TITS.2021.3136910))
 * [54] Hu, H., Du, B., **Liu, W.**, Perez, P. (2022) A joint optimisation model for charger locating and electric bus charging scheduling considering opportunity fast charging and uncertainties. Transportation Research Part C: Emerging Technologies, 141, 103732. ([Download](https://doi.org/10.1016/j.trc.2022.103732))
 * [53] Xu, G., Chen, Y., **Liu, W.** (2022) Joint optimization of park-and-ride facility locations and alternate traffic restriction scheme under equilibrium flows. Transportmetrica A: Transport Science, forthcoming. ([Download](https://doi.org/10.1080/23249935.2022.2077468))
