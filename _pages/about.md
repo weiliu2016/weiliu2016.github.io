@@ -67,7 +67,6 @@ Selected Working Papers
 - Ma, M., Chen, Y., **Liu, W.**, Waller, S.T. An economic analysis of a multi-modal transport system with ride-sourcing services and multi-class users.
 - Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. Departure time choices in the morning commute with discontinuously distributed capacity.
 - Zhang, X., **Liu, W.**, Levin, M., Waller, S.T. Equilibrium analysis of morning commuting and parking under spatial capacity allocation in the autonomous vehicle environment.
-- Wei, B., Zhang, X., **Liu, W.**, Saberi, M., Waller, S.T. Capacity Allocation and Tolling-Rewarding Schemes for the Morning Commute with Carpooling.
 - Xi, H., **Liu, W.**, Rey, D., Waller, S.T., Kilby, P. Incentive-compatible mechanisms for online resource allocation in mobility-as-a-service systems.
 - Lilasathapornkit, T., Rey, D., **Liu, W.**, Saberi, M. Traffic assignment problem for pedestrian networks.
 - **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
@@ -76,8 +75,8 @@ Selected Working Papers
 
 Selected Publications
 ======
-- Zhang, F., Lindsey, R., Yang, H., Shao, C., **Liu, W.** (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?. **Transportation Research Part B: Methodological**, forthcoming.
 - Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. (2022) Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets. **European Journal of Operational Research**, forthcoming.
+- Zhang, F., Lindsey, R., Yang, H., Shao, C., **Liu, W.** (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?. **Transportation Research Part B: Methodological**, 163, 40-63.
 - **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. **Transportation Science**, 56(2), 338-357.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. (2022) A game theoretical analysis of metro-integrated city logistics systems. **Transportation Research Part B: Methodological**, 156, 14-27.
 - Wu, W., Liu, Y., **Liu, W.**, Zhang, F., Dixit, V., Waller, S.T. (2022) Autonomous intersection management for connected and automated vehicles: a lane-based approach. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
