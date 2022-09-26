@@ -19,6 +19,7 @@ author_profile: true
 
 Journal Publication
 ----------
+* [59] Lilasathapornkit, T., Rey, D., **Liu, W.**, Saberi, M. (2022) Traffic Assignment Problem for Footpath Networks with Bidirectional Links.  Transportation Research Part C: Emerging Technologies, 144, 103905. ([Download](https://doi.org/10.1016/j.trc.2022.103905))
 * [58] Wei, B., Zhang, X., **Liu, W.**, Saberi, M., Waller, S.T. (2022) Capacity Allocation and Tolling-Rewarding Schemes for the Morning Commute with Carpooling. Transportation Research Part C: Emerging Technologies, 142, 103789. ([Download](https://doi.org/10.1016/j.trc.2022.103789))
 * [57] Zhang, F., Lindsey, R., Yang, H., Shao, C., **Liu, W.** (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?. Transportation Research Part B: Methodological, 163, 40-63. ([Download](https://doi.org/10.1016/j.trb.2022.06.009))
 * [56] Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. (2022) Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets. European Journal of Operational Research, forthcoming. ([Download](https://doi.org/10.1016/j.ejor.2022.06.041))
