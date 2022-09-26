@@ -47,8 +47,11 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
-- Zhang, Z., Zhang, F., **Liu, W.** Parking or sharing our autonomous vehicles?
+- Li, C., **Liu, W.** Multimodal Transport Demand Forecasting via Federated Learning.
+- Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
 - Wu, W., Wang, M., Ma, M., **Liu, W.** Reliability-based equilibrium model considering promotive impacts of autonomous vehicles on traffic flow stability in a mixed traffic network.
+- Zhang, Z., Ma, M., Zhang, F., **Liu, W.** Economic analysis of the vehicle-to-grid service.
+- Ma, M., **Liu, W.**, Zhang, F., Dixit, V. On urban co-modality: Competition and cooperation among freight forwarder, freight carrier and transit operator.
 - **Liu, W.** On residential location choices considering both commuting and telecommuting.
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - He, Q., Ma, M., Li, C., **Liu, W.** Learning and managing stochastic network traffic dynamics: a digital twin based approach.
@@ -68,9 +71,7 @@ Selected Working Papers
 - Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. Departure time choices in the morning commute with discontinuously distributed capacity.
 - Zhang, X., **Liu, W.**, Levin, M., Waller, S.T. Equilibrium analysis of morning commuting and parking under spatial capacity allocation in the autonomous vehicle environment.
 - Xi, H., **Liu, W.**, Rey, D., Waller, S.T., Kilby, P. Incentive-compatible mechanisms for online resource allocation in mobility-as-a-service systems.
-- Lilasathapornkit, T., Rey, D., **Liu, W.**, Saberi, M. Traffic assignment problem for pedestrian networks.
 - **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
-- Najmia, A., Rashidi, T.H., **Liu, W.** Ridesharing in the era of Mobility as a Service (MaaS): An activity-based approach with multimodality and intermodality.
 - Wei, T., Xu, G., **Liu, W.**, Zhang, F., Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticket booking record.
 
 Selected Publications
