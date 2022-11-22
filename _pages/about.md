@@ -22,22 +22,25 @@ Research Interests
 Research Group
 ======
 - **Current members**\
+  Mingzhi Lyu (Research Assistant, 2022 S1, from UNSW Sydney, Australia)\
+  Yihan Gao (Research Assistant, 2022 S1, from Central South University, China)\
   Yufan Zuo (PhD student, 2022 S1, from Southeast University, China)\
   Qingying He (PhD student, 2021 T1, from University of Edinburgh, UK)\
   Kai Xu (PhD Student, 2019 T3, from South China University of Technology, China)\
   Mingyou Ma (PhD Student, 2019 T2, from UNSW Sydney, Australia)\
   Bangyang Wei (PhD Student, 2019 T1, from Shanghai Jiao Tong University, China)\
-  Can Li (PhD Student, 2019 T1, from Rutgers University, US)
   
 - **Former members**\
+  Can Li (PhD, 2019 T1 - 2022 T2, from Rutgers University, US) - Data-driven mobility analytics and forecasting\
   Tanapon Lilasathapornkit (PhD, 2018 T2 - 2022 T2, from UNSW Sydney, Australia) - Modeling and simulation of pedestrian traffic flow\
   Haoning Xi (PhD, 2019 T3 - 2022 T1, from Tsinghua University, China) - Mobility as a service and resource allocation\
   Yuhui Chen (MPhil, 2020 T1 - 2021 T3, from UNSW Sydney, Australia) - Ride-sourcing in multimodal networks\
   Runqing Zhao (MPhil, 2019 T3 - 2022 T1, from UNSW Sydney, Australia) - Mobility service network design for airport bus shuttle and air metro
 
 - **Academic visitors**\
-  Yihan Gao (2022.01-2022.04, MPhil student, from Central South University)\
-  Wei Wu (2018.11-2019.11, Associcate Professor, from Changsha University of Science and Technology)
+  Mingyou Ma (2022.05-2022.12, PhD student, from UNSW Sydney, Australia)\
+  Yihan Gao (2022.01-2022.04, MPhil student, from Central South University, China)\
+  Wei Wu (2018.11-2019.11, Associcate Professor, from Changsha University of Science and Technology, China)
 
 PhD Positions and Academic Visitors
 ======
@@ -51,7 +54,7 @@ Selected Working Papers
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
 - Wu, W., Wang, M., Ma, M., **Liu, W.** Reliability-based equilibrium model considering promotive impacts of autonomous vehicles on traffic flow stability in a mixed traffic network.
 - Zhang, Z., Ma, M., Zhang, F., **Liu, W.** Economic analysis of the vehicle-to-grid service.
-- Ma, M., **Liu, W.**, Zhang, F., Dixit, V. On urban co-modality: Competition and cooperation among freight forwarder, freight carrier and transit operator.
+- Ma, M., **Liu, W.**, Zhang, F., Dixit, V.On urban co-modality: Competition and cooperation among freight forwarder, freight carrier and transit operator.
 - **Liu, W.** On residential location choices considering both commuting and telecommuting.
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - He, Q., Ma, M., Li, C., **Liu, W.** Learning and managing stochastic network traffic dynamics: a digital twin based approach.
@@ -61,18 +64,18 @@ Selected Working Papers
 - Su, H., Wang, X., **Liu, W.**, Zhang, X. Modelling and improving the passenger evacuation process in a bi-modal system with bus and e-hailing modes after mass gathering events.
 - Gong, Z., Zhang, F., **Liu, W.**, Graham, D. On the effects of airport capacity expansion under responsive airlines and elastic passenger demand.
 - Zhao, R., Koo, T., **Liu, W.**, Lodewijks, G., Zhang, F. The economic viability of piloted and pilot-less air metro: a scheduled service network design approach for urban air mobility.
-- Zhang, Z., Zhang, F., **Liu, W.** Modeling and managing the joint network equilibrium of parking and travel choices under mixed traffic with shared and private autonomous vehicles.
+- Zhang, Z., Zhang, F., **Liu, W.** On the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles.
 - Sun, W., Zhang, F., **Liu, W.** Improving traffic and energy efficiency in a mixed traffic corridor with connected and autonomous vehicles.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Unsupervised knowledge adaptation for passenger demand forecasting.
 - Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.** A Bibliometric Analysis and Review on Reinforcement Learning for Transportation Applications.
 - Xu, G., Liu, Y., Gao, Y., **Liu, W.** Integrated optimization of train stopping plan and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand.
-- Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Urban co-modality with endogenous passenger and freight demands and levels of services.
+- Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Can urban co-modality benefit both users and operators?.
 - Ma, M., Chen, Y., **Liu, W.**, Waller, S.T. An economic analysis of a multi-modal transport system with ride-sourcing services and multi-class users.
-- Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. Departure time choices in the morning commute with discontinuously distributed capacity.
+- Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. Departure Time Choices in the Morning Commute with a Mixed Distribution of Capacity.
 - Zhang, X., **Liu, W.**, Levin, M., Waller, S.T. Equilibrium analysis of morning commuting and parking under spatial capacity allocation in the autonomous vehicle environment.
-- Xi, H., **Liu, W.**, Rey, D., Waller, S.T., Kilby, P. Incentive-compatible mechanisms for online resource allocation in mobility-as-a-service systems.
+- Xi, H., **Liu, W.**, Waller, S.T., Hensher, D., Kilby, P., Rey, D. Incentive-compatible mechanisms for online resource allocation in Mobility-as-a-Service systems.
 - **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
-- Wei, T., Xu, G., **Liu, W.**, Zhang, F., Yang, H., Shi, F. Estimating time-varying demand for high-speed railway network based on ticket booking record.
+- Wei, T., Xu, G., **Liu, W.**, Zhang, F., Yang, H., Batley, R. Time-varying demand distribution estimation for high-speed railway by ticket booking data.
 
 Selected Publications
 ======
