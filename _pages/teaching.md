@@ -4,7 +4,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-At the University of New South Wales, 2018 -
+At The Hong Kong Polytechnic University, 2021 - 
+--------
+* AAE3009 Operations Research and Computational Analytics in Air Transport Operations
+* AAE5102 Operations Research, Resource Planning and Engineering Management in Aviation
+* AAE6106 Networked Transportation and Air Traffic Systems
+
+At the University of New South Wales, 2018 - 2021
 --------
 * Engineering Computations for Civil and Environmental Engineers
 * Transport Systems - Network Analysis
