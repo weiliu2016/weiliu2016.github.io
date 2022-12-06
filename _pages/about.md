@@ -38,6 +38,7 @@ Research Group
   Runqing Zhao (MPhil, 2019 T3 - 2022 T1, from UNSW Sydney, Australia) - Mobility service network design for airport bus shuttle and air metro
 
 - **Academic visitors**\
+  Jing Xu (2022.12-2023.12, PhD student, from Central South University, China)\
   Mingyou Ma (2022.05-2022.12, PhD student, from UNSW Sydney, Australia)\
   Yihan Gao (2022.01-2022.04, MPhil student, from Central South University, China)\
   Wei Wu (2018.11-2019.11, Associcate Professor, from Changsha University of Science and Technology, China)
@@ -50,7 +51,12 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
-- Li, C., **Liu, W.** Multimodal Transport Demand Forecasting via Federated Learning.
+- He, Q., Ma, M., Waller, S.T., **Liu, W.** Inferring network reduction and demand variation after disruptions for rapid systematic cost evaluation.
+- Zhou, B., **Liu, W.**, Yang, H. Unmanned aerial vehicle (UAV) service network design for urban monitoring.
+- Zhou, Y., Jian, S., **Liu, W.**, Yang, H. Modeling and managing a transport system with co-existing ridesharing and parking-sharing services.
+- Xu, G., Guo, J., Zhong, L., **Liu, W.** A capacity allocation method for the high-speed railway express delivery with delivery time windows.
+- Xu, G., Zhong, L., **Liu, W.**, Guo, J. An ultra-flexible train composition strategy for high-speed railway corridors with time-varying demand.
+- Li, C., Ma, M., **Liu, W.** Multimodal Transport Demand Forecasting via Federated Learning.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
 - Wu, W., Wang, M., Ma, M., **Liu, W.** Reliability-based equilibrium model considering promotive impacts of autonomous vehicles on traffic flow stability in a mixed traffic network.
 - Zhang, Z., Ma, M., Zhang, F., **Liu, W.** Economic analysis of the vehicle-to-grid service.
@@ -65,7 +71,7 @@ Selected Working Papers
 - Gong, Z., Zhang, F., **Liu, W.**, Graham, D. On the effects of airport capacity expansion under responsive airlines and elastic passenger demand.
 - Zhao, R., Koo, T., **Liu, W.**, Lodewijks, G., Zhang, F. The economic viability of piloted and pilot-less air metro: a scheduled service network design approach for urban air mobility.
 - Zhang, Z., Zhang, F., **Liu, W.** On the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles.
-- Sun, W., Zhang, F., **Liu, W.** Improving traffic and energy efficiency in a mixed traffic corridor with connected and autonomous vehicles.
+- Sun, W., Zhang, F., **Liu, W.**, He, Q. Improving traffic and energy efficiency in a mixed traffic corridor with connected and autonomous vehicles.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Unsupervised knowledge adaptation for passenger demand forecasting.
 - Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.** A Bibliometric Analysis and Review on Reinforcement Learning for Transportation Applications.
 - Xu, G., Liu, Y., Gao, Y., **Liu, W.** Integrated optimization of train stopping plan and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand.
