@@ -59,7 +59,7 @@ Selected Working Papers
 - Li, C., Ma, M., **Liu, W.** Multimodal Transport Demand Forecasting via Federated Learning.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
 - Zhang, Z., Ma, M., Zhang, F., **Liu, W.** Economic analysis of the vehicle-to-grid service.
-- Ma, M., **Liu, W.**, Zhang, F., Dixit, V.On urban co-modality: Competition and cooperation among freight forwarder, freight carrier and transit operator.
+- Ma, M., **Liu, W.**, Zhang, F., Dixit, V. On urban co-modality: Competition and cooperation among freight forwarder, freight carrier and transit operator.
 - **Liu, W.** On residential location choices considering both commuting and telecommuting.
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - He, Q., Ma, M., Li, C., **Liu, W.** Learning and managing stochastic network traffic dynamics: a digital twin based approach.
