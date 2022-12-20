@@ -58,7 +58,6 @@ Selected Working Papers
 - Xu, G., Zhong, L., **Liu, W.**, Guo, J. An ultra-flexible train composition strategy for high-speed railway corridors with time-varying demand.
 - Li, C., Ma, M., **Liu, W.** Multimodal Transport Demand Forecasting via Federated Learning.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
-- Wu, W., Wang, M., Ma, M., **Liu, W.** Reliability-based equilibrium model considering promotive impacts of autonomous vehicles on traffic flow stability in a mixed traffic network.
 - Zhang, Z., Ma, M., Zhang, F., **Liu, W.** Economic analysis of the vehicle-to-grid service.
 - Ma, M., **Liu, W.**, Zhang, F., Dixit, V.On urban co-modality: Competition and cooperation among freight forwarder, freight carrier and transit operator.
 - **Liu, W.** On residential location choices considering both commuting and telecommuting.
