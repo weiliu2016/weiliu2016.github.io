@@ -28,11 +28,11 @@ Research Group
   Yihan Gao (Research Assistant, 2022/2023 S1, from Central South University, China)\
   Yufan Zuo (PhD student, 2022/2023 S1, from Southeast University, China)\
   Qingying He (PhD student, 2022/2023 S1, from University of Edinburgh, UK)\
-  Kai Xu (PhD Student, 2019 T3, from South China University of Technology, China)\
+  Kai Xu (PhD Student, 2019 T3, from South China University of Technology, China)
   
 - **Former members**\
-  Mingyou Ma (PhD, 2019 T2 - 2022 T3, from UNSW Sydney, Australia)\ - Comodality: Integrated passegner and freight transportation\
-  Bangyang Wei (PhD, 2019 T1 - 2022 T2, from Shanghai Jiao Tong University, China)\ - Ride-sharing modeling and management\
+  Mingyou Ma (PhD, 2019 T2 - 2022 T3, from UNSW Sydney, Australia) - Comodality: Integrated passegner and freight transportation\
+  Bangyang Wei (PhD, 2019 T1 - 2022 T2, from Shanghai Jiao Tong University, China) - Ride-sharing modeling and management\
   Can Li (PhD, 2019 T1 - 2022 T2, from Rutgers University, US) - Data-driven mobility analytics and forecasting\
   Tanapon Lilasathapornkit (PhD, 2018 T2 - 2022 T2, from UNSW Sydney, Australia) - Modeling and simulation of pedestrian traffic flow\
   Haoning Xi (PhD, 2019 T3 - 2022 T1, from Tsinghua University, China) - Mobility as a service and resource allocation\
