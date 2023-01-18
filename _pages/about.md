@@ -23,7 +23,7 @@ Research Group
 ======
 - **Current members**\
   Yuzhen Feng (PhD student, 2023/2024 S1, from Tongji University, China)\
-  Xuanji Long (MPhil student, 2022/2023 S3, Central South University, China)\
+  Xuanji Long (MPhil student, 2022/2023 S3, from Central South University, China)\
   Mingzhi Lyu (PhD student, 2022/2023 S3, from UNSW Sydney, Australia)\
   Yihan Gao (Research Assistant, 2022/2023 S1, from Central South University, China)\
   Yufan Zuo (PhD student, 2022/2023 S1, from Southeast University, China)\
