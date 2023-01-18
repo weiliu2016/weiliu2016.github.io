@@ -22,10 +22,12 @@ Research Interests
 Research Group
 ======
 - **Current members**\
-  Mingzhi Lyu (Research Assistant, 2022 S1, from UNSW Sydney, Australia)\
-  Yihan Gao (Research Assistant, 2022 S1, from Central South University, China)\
-  Yufan Zuo (PhD student, 2022 S1, from Southeast University, China)\
-  Qingying He (PhD student, 2021 T1, from University of Edinburgh, UK)\
+  Yuzhen Feng (PhD student, 2023/2024 S1, from Tongji University, China)\
+  Xuanji Long (MPhil student, 2022/2023 S3, Central South University, China)\
+  Mingzhi Lyu (PhD student, 2022/2023 S3, from UNSW Sydney, Australia)\
+  Yihan Gao (Research Assistant, 2022/2023 S1, from Central South University, China)\
+  Yufan Zuo (PhD student, 2022/2023 S1, from Southeast University, China)\
+  Qingying He (PhD student, 2022/2023 S1, from University of Edinburgh, UK)\
   Kai Xu (PhD Student, 2019 T3, from South China University of Technology, China)\
   
 - **Former members**\
