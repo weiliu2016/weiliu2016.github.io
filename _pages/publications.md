@@ -22,7 +22,7 @@ Book Chapter
 
 Journal Publication
 ----------
-* [61] Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.** A Bibliometric Analysis and Review on Reinforcement Learning for Transportation Applications. Transportmetrica B: Transport Dynamics, forthcoming. ([Download](https://doi.org/10.1080))
+* [61] Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.** A Bibliometric Analysis and Review on Reinforcement Learning for Transportation Applications. Transportmetrica B: Transport Dynamics, forthcoming. ([Download](https://www.tandfonline.com/action/showAxaArticles?journalCode=ttrb20))
 * [60] Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. (2023) Departure Time Choices in the Morning Commute with a Mixed Distribution of Capacity. Transportation Research Part C: Emerging Technologies, 147, 104011. ([Download](https://doi.org/10.1016/j.trc.2022.104011))
 * [59] Lilasathapornkit, T., Rey, D., **Liu, W.**, Saberi, M. (2022) Traffic Assignment Problem for Footpath Networks with Bidirectional Links.  Transportation Research Part C: Emerging Technologies, 144, 103905. ([Download](https://doi.org/10.1016/j.trc.2022.103905))
 * [58] Wei, B., Zhang, X., **Liu, W.**, Saberi, M., Waller, S.T. (2022) Capacity Allocation and Tolling-Rewarding Schemes for the Morning Commute with Carpooling. Transportation Research Part C: Emerging Technologies, 142, 103789. ([Download](https://doi.org/10.1016/j.trc.2022.103789))
