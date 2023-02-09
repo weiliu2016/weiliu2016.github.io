@@ -79,7 +79,6 @@ Selected Working Papers
 - Xu, G., Liu, Y., Gao, Y., **Liu, W.** Integrated optimization of train stopping plan and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Can urban co-modality benefit both users and operators?.
 - Ma, M., Chen, Y., **Liu, W.**, Waller, S.T. An economic analysis of a multi-modal transport system with ride-sourcing services and multi-class users.
-- Zhang, X., **Liu, W.**, Levin, M., Waller, S.T. Equilibrium analysis of morning commuting and parking under spatial capacity allocation in the autonomous vehicle environment.
 - Xi, H., **Liu, W.**, Waller, S.T., Hensher, D., Kilby, P., Rey, D. Incentive-compatible mechanisms for online resource allocation in Mobility-as-a-Service systems.
 - **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
 - Wei, T., Xu, G., **Liu, W.**, Zhang, F., Yang, H., Batley, R. Time-varying demand distribution estimation for high-speed railway by ticket booking data.
