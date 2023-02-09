@@ -23,14 +23,15 @@ Research Group
 ======
 - **Current members**\
   Yuzhen Feng (PhD student, 2023/2024 S1, from Tongji University, China)\
+  Matthew Yeung (PhD student, 2022/2023 S3, from University College London, UK)\
   Xuanji Long (MPhil student, 2022/2023 S3, from Central South University, China)\
   Mingzhi Lyu (PhD student, 2022/2023 S3, from UNSW Sydney, Australia)\
   Yihan Gao (Research Assistant, 2022/2023 S1, from Central South University, China)\
   Yufan Zuo (PhD student, 2022/2023 S1, from Southeast University, China)\
-  Qingying He (PhD student, 2022/2023 S1, from University of Edinburgh, UK)\
-  Kai Xu (PhD Student, 2019 T3, from South China University of Technology, China)
+  Qingying He (PhD student, 2022/2023 S1, from University of Edinburgh, UK)
   
 - **Former members**\
+  Kai Xu (PhD, 2019 T3 - 2023 T1, from South China University of Technology, China) - Ride-sourcing markets with order cancellations\
   Mingyou Ma (PhD, 2019 T2 - 2022 T3, from UNSW Sydney, Australia) - Comodality: Integrated passegner and freight transportation\
   Bangyang Wei (PhD, 2019 T1 - 2022 T2, from Shanghai Jiao Tong University, China) - Ride-sharing modeling and management\
   Can Li (PhD, 2019 T1 - 2022 T2, from Rutgers University, US) - Data-driven mobility analytics and forecasting\
@@ -75,7 +76,6 @@ Selected Working Papers
 - Zhang, Z., Zhang, F., **Liu, W.** On the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles.
 - Sun, W., Zhang, F., **Liu, W.**, He, Q. Improving traffic and energy efficiency in a mixed traffic corridor with connected autonomous vehicles.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Unsupervised knowledge adaptation for passenger demand forecasting.
-- Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.** A Bibliometric Analysis and Review on Reinforcement Learning for Transportation Applications.
 - Xu, G., Liu, Y., Gao, Y., **Liu, W.** Integrated optimization of train stopping plan and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Can urban co-modality benefit both users and operators?.
 - Ma, M., Chen, Y., **Liu, W.**, Waller, S.T. An economic analysis of a multi-modal transport system with ride-sourcing services and multi-class users.
