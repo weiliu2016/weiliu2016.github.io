@@ -22,6 +22,8 @@ Book Chapter
 
 Journal Publication
 ----------
+* [64] Xi, H., **Liu, W.**, Waller, S.T., Hensher, D., Kilby, P., Rey, D. (2023) Incentive-compatible mechanisms for online resource allocation in Mobility-as-a-Service systems. Transportation Research Part B: Methodological, forthcoming. ([Download](https://doi.org/10.1016/j.trb.2022.xx.xxx))
+* [63] Gong, Z., Zhang, F., **Liu, W.**, Graham, D. (2023) On the effects of airport capacity expansion under responsive airlines and elastic passenger demand. Transportation Research Part B: Methodological, forthcoming. ([Download](https://doi.org/10.1016/j.trb.2022.xx.xxx))
 * [62] Zhang, X., **Liu, W.**, Levin, M., Waller, S.T. (2023) Equilibrium analysis of morning commuting and parking under spatial capacity allocation in the autonomous vehicle environment. Transportation Research Part E: Logistics and Transportation Review, forthcoming. ([Download](https://doi.org/10.1016/j.tre.2022.xxxxxx))
 * [61] Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.** (2023) A Bibliometric Analysis and Review on Reinforcement Learning for Transportation Applications. Transportmetrica B: Transport Dynamics, forthcoming. ([Download](https://doi.org/10.1080/21680566.2023.2179461))
 * [60] Liu, Q., Jiang, R., **Liu, W.**, Gao, Z. (2023) Departure Time Choices in the Morning Commute with a Mixed Distribution of Capacity. Transportation Research Part C: Emerging Technologies, 147, 104011. ([Download](https://doi.org/10.1016/j.trc.2022.104011))
