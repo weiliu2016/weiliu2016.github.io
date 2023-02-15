@@ -71,7 +71,6 @@ Selected Working Papers
 - Xu, K., Saberi, M., **Liu, W.** Economic analysis of ridesourcing market considering driver's order cancellation and platform subsidy.
 - Xu, G., Gao, Y., **Liu, W.** Pareto-improving seat allocation for high-speed railway networks with equilibrium flows.
 - Su, H., Wang, X., **Liu, W.**, Zhang, X. Modelling and improving the passenger evacuation process in a bi-modal system with bus and e-hailing modes after mass gathering events.
-- Gong, Z., Zhang, F., **Liu, W.**, Graham, D. On the effects of airport capacity expansion under responsive airlines and elastic passenger demand.
 - Zhao, R., Koo, T., **Liu, W.**, Lodewijks, G., Zhang, F. The economic viability of piloted and pilot-less air metro: a scheduled service network design approach for urban air mobility.
 - Zhang, Z., Zhang, F., **Liu, W.** On the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles.
 - Sun, W., Zhang, F., **Liu, W.**, He, Q. Improving traffic and energy efficiency in a mixed traffic corridor with connected autonomous vehicles.
@@ -79,7 +78,6 @@ Selected Working Papers
 - Xu, G., Liu, Y., Gao, Y., **Liu, W.** Integrated optimization of train stopping plan and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Can urban co-modality benefit both users and operators?.
 - Ma, M., Chen, Y., **Liu, W.**, Waller, S.T. An economic analysis of a multi-modal transport system with ride-sourcing services and multi-class users.
-- Xi, H., **Liu, W.**, Waller, S.T., Hensher, D., Kilby, P., Rey, D. Incentive-compatible mechanisms for online resource allocation in Mobility-as-a-Service systems.
 - **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
 - Wei, T., Xu, G., **Liu, W.**, Zhang, F., Yang, H., Batley, R. Time-varying demand distribution estimation for high-speed railway by ticket booking data.
 
