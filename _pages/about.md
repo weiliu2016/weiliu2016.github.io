@@ -83,6 +83,8 @@ Selected Working Papers
 
 Selected Publications
 ======
+- Xi, H., **Liu, W.**, Waller, S.T., Hensher, D., Kilby, P., Rey, D. (2023) Incentive-compatible mechanisms for online resource allocation in Mobility-as-a-Service systems. **Transportation Research Part B: Methodological**, forthcoming.
+- Gong, Z., Zhang, F., **Liu, W.**, Graham, D. (2023) On the effects of airport capacity expansion under responsive airlines and elastic passenger demand. **Transportation Research Part B: Methodological**, forthcoming.
 - Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. (2022) Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets. **European Journal of Operational Research**, forthcoming.
 - Zhang, F., Lindsey, R., Yang, H., Shao, C., **Liu, W.** (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?. **Transportation Research Part B: Methodological**, 163, 40-63.
 - **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. **Transportation Science**, 56(2), 338-357.
