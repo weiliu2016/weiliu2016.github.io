@@ -56,17 +56,18 @@ Selected Working Papers
 ======
 - Waller, S.T., He, Q., Ma, M., **Liu, W.** Inferring network reduction and demand variation after disruptions for rapid systematic cost evaluation.
 - Zhou, B., **Liu, W.**, Yang, H. Unmanned aerial vehicle (UAV) service network design for urban monitoring.
+- Cen, X., Ren, K., **Liu, W.**, Liu, X. The electric vehicle routing problem of vehicle-to-vehicle charging service.
 - Wu, W., Zeng, B., **Liu, W.**, Shi, B. Electric bus scheduling and charging infrastructure planning considering bus replacement strategies at charging stations.
 - Zhou, Y., Jian, S., **Liu, W.**, Yang, H. Modeling and managing a transport system with co-existing ridesharing and parking-sharing services.
 - Xu, G., Guo, J., Zhong, L., **Liu, W.** A capacity allocation method for the high-speed railway express delivery with delivery time windows.
 - Xu, G., Zhong, L., **Liu, W.**, Guo, J. An ultra-flexible train composition strategy for high-speed railway corridors with time-varying demand.
 - Li, C., Ma, M., **Liu, W.** Multimodal Transport Demand Forecasting via Federated Learning.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
-- Zhang, Z., Ma, M., Zhang, F., **Liu, W.** Economic analysis of the vehicle-to-grid service.
+- Zhang, Z., Ma, M., Zhang, F., **Liu, W.** Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
 - Ma, M., **Liu, W.**, Zhang, F., Dixit, V. On urban co-modality: Competition and cooperation among freight forwarder, freight carrier and transit operator.
 - **Liu, W.** On residential location choices considering both commuting and telecommuting.
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
-- He, Q., Ma, M., Li, C., **Liu, W.** Learning and managing stochastic network traffic dynamics: a digital twin based approach.
+- He, Q., Ma, M., Li, C., **Liu, W.** Learning and managing stochastic network traffic dynamics.
 - Wei, B., **Liu, W.**, Du, B., Saberi, M., Waller, S.T. Modeling and managing ride-sourcing services of electric vehicles considering cruising for charging and parking.
 - Xu, K., Saberi, M., **Liu, W.** Economic analysis of ridesourcing market considering driver's order cancellation and platform subsidy.
 - Xu, G., Gao, Y., **Liu, W.** Pareto-improving seat allocation for high-speed railway networks with equilibrium flows.
