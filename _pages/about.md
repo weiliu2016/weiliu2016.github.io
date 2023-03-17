@@ -22,6 +22,7 @@ Research Interests
 Research Group
 ======
 - **Current members**\
+  Xinyi Zhu (PhD student, 2023/2024 S1, from Shanghai Jiao Tong University, China)\
   Yuzhen Feng (PhD student, 2023/2024 S1, from Tongji University, China)\
   Matthew Yeung (PhD student, 2022/2023 S3, from University College London, UK)\
   Xuanji Long (MPhil student, 2022/2023 S3, from Central South University, China)\
