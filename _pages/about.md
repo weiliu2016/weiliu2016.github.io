@@ -64,12 +64,11 @@ Selected Working Papers
 - Xu, G., Zhong, L., **Liu, W.**, Guo, J. An ultra-flexible train composition strategy for high-speed railway corridors with time-varying demand.
 - Li, C., Ma, M., **Liu, W.** Multimodal Transport Demand Forecasting via Federated Learning.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
-- Zhang, Z., Ma, M., Zhang, F., **Liu, W.** Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
+- Zhang, Z., Zhang, F., **Liu, W.**, Ma, M. Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
 - Ma, M., **Liu, W.**, Zhang, F., Dixit, V. On urban co-modality: Competition and cooperation among freight forwarder, freight carrier and transit operator.
 - **Liu, W.** On residential location choices considering both commuting and telecommuting.
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - He, Q., Ma, M., Li, C., **Liu, W.** Learning and managing stochastic network traffic dynamics.
-- Wei, B., **Liu, W.**, Du, B., Saberi, M., Waller, S.T. Modeling and managing ride-sourcing services of electric vehicles considering cruising for charging and parking.
 - Xu, K., Saberi, M., **Liu, W.** Economic analysis of ridesourcing market considering driver's order cancellation and platform subsidy.
 - Xu, G., Gao, Y., **Liu, W.** Pareto-improving seat allocation for high-speed railway networks with equilibrium flows.
 - Su, H., Wang, X., **Liu, W.**, Zhang, X. Modelling and improving the passenger evacuation process in a bi-modal system with bus and e-hailing modes after mass gathering events.
@@ -85,8 +84,8 @@ Selected Working Papers
 
 Selected Publications
 ======
-- Xi, H., **Liu, W.**, Waller, S.T., Hensher, D., Kilby, P., Rey, D. (2023) Incentive-compatible mechanisms for online resource allocation in Mobility-as-a-Service systems. **Transportation Research Part B: Methodological**, forthcoming.
-- Gong, Z., Zhang, F., **Liu, W.**, Graham, D. (2023) On the effects of airport capacity expansion under responsive airlines and elastic passenger demand. **Transportation Research Part B: Methodological**, forthcoming.
+- Xi, H., **Liu, W.**, Waller, S.T., Hensher, D., Kilby, P., Rey, D. (2023) Incentive-compatible mechanisms for online resource allocation in Mobility-as-a-Service systems. **Transportation Research Part B: Methodological**, 170, 119-147.
+- Gong, Z., Zhang, F., **Liu, W.**, Graham, D. (2023) On the effects of airport capacity expansion under responsive airlines and elastic passenger demand. **Transportation Research Part B: Methodological**, 170, 48-76.
 - Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. (2022) Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets. **European Journal of Operational Research**, forthcoming.
 - Zhang, F., Lindsey, R., Yang, H., Shao, C., **Liu, W.** (2022) Two-sided pricing strategies for a parking sharing platform: reselling or commissioning?. **Transportation Research Part B: Methodological**, 163, 40-63.
 - **Liu, W.**, Zhang, F., Wang, X., Shao, C., Yang, H. (2022) Unlock the sharing economy: the case of the parking sector for recurrent commuting trips. **Transportation Science**, 56(2), 338-357.
