@@ -56,9 +56,10 @@ PhD Positions and Academic Visitors
 Selected Working Papers
 ======
 - Waller, S.T., He, Q., Ma, M., **Liu, W.** Inferring network reduction and demand variation after disruptions for rapid systematic cost evaluation.
+- Xu, G., Liu, X., Zhong, L., **Liu, W.** Group-based Railway Seat Allocation Considering the Risk of COVID-19 Virus Transmission.
 - Zhou, B., **Liu, W.**, Yang, H. Unmanned aerial vehicle (UAV) service network design for urban monitoring.
 - Cen, X., Ren, K., **Liu, W.**, Liu, X. The electric vehicle routing problem of vehicle-to-vehicle charging service.
-- Wu, W., Zeng, B., **Liu, W.**, Shi, B. Electric bus scheduling and charging infrastructure planning considering bus replacement strategies at charging stations.
+- Wu, W., Zeng, B., **Liu, W.** Electric bus scheduling and charging infrastructure planning considering bus replacement strategies.
 - Zhou, Y., Jian, S., **Liu, W.**, Yang, H. Modeling and managing a transport system with co-existing ridesharing and parking-sharing services.
 - Xu, G., Guo, J., Zhong, L., **Liu, W.** A capacity allocation method for the high-speed railway express delivery with delivery time windows.
 - Xu, G., Zhong, L., **Liu, W.**, Guo, J. An ultra-flexible train composition strategy for high-speed railway corridors with time-varying demand.
@@ -66,20 +67,20 @@ Selected Working Papers
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
 - Zhang, Z., Zhang, F., **Liu, W.**, Ma, M. Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
 - Ma, M., **Liu, W.**, Zhang, F., Dixit, V. On urban co-modality: Competition and cooperation among freight forwarder, freight carrier and transit operator.
-- **Liu, W.** On residential location choices considering both commuting and telecommuting.
+- Zhang, F., Gong, Z., **Liu, W.** Residential location choices and commuting patterns considering telecommuting.
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
-- He, Q., Ma, M., Li, C., **Liu, W.** Learning and managing stochastic network traffic dynamics.
+- He, Q., Ma, M., Li, C., **Liu, W.** Learning and managing stochastic network traffic dynamics: an iterative and interactive approach.
 - Xu, K., Saberi, M., **Liu, W.** Economic analysis of ridesourcing market considering driver's order cancellation and platform subsidy.
 - Xu, G., Gao, Y., **Liu, W.** Pareto-improving seat allocation for high-speed railway networks with equilibrium flows.
 - Su, H., Wang, X., **Liu, W.**, Zhang, X. Modelling and improving the passenger evacuation process in a bi-modal system with bus and e-hailing modes after mass gathering events.
 - Zhao, R., Koo, T., **Liu, W.**, Lodewijks, G., Zhang, F. The economic viability of piloted and pilot-less air metro: a scheduled service network design approach for urban air mobility.
 - Zhang, Z., Zhang, F., **Liu, W.** On the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles.
-- Sun, W., Zhang, F., **Liu, W.**, He, Q. Improving traffic and energy efficiency in a mixed traffic corridor with connected autonomous vehicles.
+- Sun, W., Zhang, F., **Liu, W.**, He, Q. Optimal control of connected autonomous vehicles in a mixed traffic corridor.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Unsupervised knowledge adaptation for passenger demand forecasting.
 - Xu, G., Liu, Y., Gao, Y., **Liu, W.** Integrated optimization of train stopping plan and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Can urban co-modality benefit both users and operators?.
 - Ma, M., Chen, Y., **Liu, W.**, Waller, S.T. An economic analysis of a multi-modal transport system with ride-sourcing services and multi-class users.
-- **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
+- Zhang, Z., **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
 - Wei, T., Xu, G., **Liu, W.**, Zhang, F., Yang, H., Batley, R. Time-varying demand distribution estimation for high-speed railway by ticket booking data.
 
 Selected Publications
