@@ -62,7 +62,7 @@ Selected Working Papers
 - Gao, Y., **Liu, W.**, Zhang, Z. Managing and Optimizing Vehicle-to-Grid Facilities and Parking and Charging Services considering Electric Autonomous Vehicles.
 - Li, C., **Liu, W.**, Yang, H. Multimodal Demand Forecasting with Missing Data via Generative Adversarial Network.
 - Waller, S.T., He, Q., Ma, M., **Liu, W.** Inferring network reduction and demand variation after disruptions for rapid systematic cost evaluation.
-- Xu, G., Liu, X., Zhong, L., **Liu, W.** Group-based Railway Seat Allocation Considering the Risk of COVID-19 Virus Transmission.
+- Xu, G., Liu, X., Zhong, L., **Liu, W.** Group-based Railway Seat Allocation Considering the Risk of Virus Transmission.
 - Wu, W., Zeng, B., Sun, J., **Liu, W.** Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
 - Cen, X., Ren, K., **Liu, W.**, Liu, X. The electric vehicle routing problem of vehicle-to-vehicle charging service.
 - Wu, W., Zeng, B., **Liu, W.** Electric bus scheduling and charging infrastructure planning considering bus replacement strategies.
@@ -76,6 +76,7 @@ Selected Working Papers
 - Gong, Z., Zhang, F., **Liu, W.** Residential location choices and commuting patterns considering telecommuting.
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - He, Q., Ma, M., Li, C., **Liu, W.** Learning and managing stochastic network traffic dynamics: an iterative and interactive approach.
+- Xu, K., Saberi, M., **Liu, W.** Vehicle sharing strategies for ridesourcing platforms.
 - Xu, K., Saberi, M., **Liu, W.** Economic analysis of ridesourcing market considering driver's order cancellation and platform subsidy.
 - Xu, G., Gao, Y., **Liu, W.** Pareto-improving seat allocation for high-speed railway networks with equilibrium flows.
 - Su, H., Wang, X., **Liu, W.**, Zhang, X. Modelling and improving the passenger evacuation process in a bi-modal system with bus and e-hailing modes after mass gathering events.
