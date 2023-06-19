@@ -22,6 +22,8 @@ Book Chapter
 
 Journal Publication
 ----------
+* [67] Zhang, Z., **Liu, W.**, Zhang, F. (2023) On the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles. Transportation Research Part C: Emerging Technologies. ([Download](https://doi.org/10.1016/j.trc.2023.xxxxxx))
+* [66] Ma, M., Chen, Y., **Liu, W.**, Waller, S.T. (2023) An economic analysis of a multi-modal transport system with ride-sourcing services and multi-class users. Transport Policy. ([Download](https://doi.org/10.1016/j.tranpol.2023.xx.xxx))
 * [65] Wei, B., Du, B., Saberi, M., Waller, S.T., **Liu, W.** (2023) On ride-sourcing services of electric vehicles considering cruising for charging and parking. Transportation Research Part D: Transport and Environment, 103716. ([Download](https://doi.org/10.1016/j.trd.2023.103716))
 * [64] Xi, H., **Liu, W.**, Waller, S.T., Hensher, D., Kilby, P., Rey, D. (2023) Incentive-compatible mechanisms for online resource allocation in Mobility-as-a-Service systems. Transportation Research Part B: Methodological, 170, 119-147. ([Download](https://doi.org/10.1016/j.trb.2023.02.011))
 * [63] Gong, Z., Zhang, F., **Liu, W.**, Graham, D. (2023) On the effects of airport capacity expansion under responsive airlines and elastic passenger demand. Transportation Research Part B: Methodological, 170, 48-76. ([Download](https://doi.org/10.1016/j.trb.2023.02.010))
