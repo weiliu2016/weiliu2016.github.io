@@ -81,13 +81,11 @@ Selected Working Papers
 - Xu, G., Gao, Y., **Liu, W.** Pareto-improving seat allocation for high-speed railway networks with equilibrium flows.
 - Su, H., Wang, X., **Liu, W.**, Zhang, X. Modelling and improving the passenger evacuation process in a bi-modal system with bus and e-hailing modes after mass gathering events.
 - Zhao, R., Koo, T., **Liu, W.**, Lodewijks, G., Zhang, F. The economic viability of piloted and pilot-less air metro: a scheduled service network design approach for urban air mobility.
-- Zhang, Z., Zhang, F., **Liu, W.** On the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles.
 - Sun, W., Zhang, F., **Liu, W.**, He, Q. Optimal control of connected autonomous vehicles in a mixed traffic corridor.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Unsupervised knowledge adaptation for passenger demand forecasting.
 - Najmi, A., Waller, S.T., **Liu, W.**, Rashidi, T.H. Ridesharing Systems as Activity Travel Pattern Generators: A Rolling Horizon Approach.
 - Xu, G., Liu, Y., Gao, Y., **Liu, W.** Integrated optimization of train stopping plan and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Can urban co-modality benefit both users and operators?.
-- Ma, M., Chen, Y., **Liu, W.**, Waller, S.T. An economic analysis of a multi-modal transport system with ride-sourcing services and multi-class users.
 - Zhang, Z., **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
 - Wei, T., Xu, G., **Liu, W.**, Zhang, F., Yang, H., Batley, R. Time-varying demand distribution estimation for high-speed railway by ticket booking data.
 
