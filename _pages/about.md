@@ -64,7 +64,7 @@ Selected Working Papers
 - Waller, S.T., He, Q., Ma, M., **Liu, W.** Inferring network reduction and demand variation after disruptions for rapid systematic cost evaluation.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Group-based Railway Seat Allocation Considering the Risk of Virus Transmission.
 - Wu, W., Zeng, B., Sun, J., **Liu, W.** Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
-- Cen, X., Ren, K., **Liu, W.**, Liu, X. The electric vehicle routing problem of vehicle-to-vehicle charging service.
+- Cen, X., Ren, K., **Liu, W.**, Liu, X., Xu, G. The electric vehicle routing problem of vehicle-to-vehicle charging service.
 - Wu, W., Zeng, B., **Liu, W.** Electric bus scheduling and charging infrastructure planning considering bus replacement strategies.
 - Zhou, Y., Jian, S., **Liu, W.**, Yang, H. Modeling and managing a transport system with co-existing ridesharing and parking-sharing services.
 - Xu, G., Guo, J., Zhong, L., **Liu, W.** A capacity allocation method for the high-speed railway express delivery with delivery time windows.
@@ -72,7 +72,6 @@ Selected Working Papers
 - Li, C., Ma, M., **Liu, W.** Multimodal Transport Demand Forecasting via Federated Learning.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
 - Zhang, Z., Zhang, F., **Liu, W.**, Ma, M. Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
-- Ma, M., **Liu, W.**, Zhang, F., Dixit, V. On urban co-modality: Competition and cooperation among freight forwarder, freight carrier and transit operator.
 - Gong, Z., Zhang, F., **Liu, W.** Residential location choices and commuting patterns considering telecommuting.
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - He, Q., Ma, M., Li, C., **Liu, W.** Learning and managing stochastic network traffic dynamics: an iterative and interactive approach.
