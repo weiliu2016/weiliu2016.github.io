@@ -25,14 +25,16 @@ Research Group
   Xintong Li (PhD student, 2023/2024 S1, from Central South University, China)\
   Xinyi Zhu (PhD student, 2023/2024 S1, from Shanghai Jiao Tong University, China)\
   Yuzhen Feng (PhD student, 2023/2024 S1, from Tongji University, China)\
+  Yihan Gao (PhD student, 2023/2024 S1, from Central South University, China)\
   Matthew Yeung (PhD student, 2022/2023 S3, from University College London, UK)\
   Xuanji Long (MPhil student, 2022/2023 S3, from Central South University, China)\
   Mingzhi Lyu (PhD student, 2022/2023 S3, from UNSW Sydney, Australia)\
-  Yihan Gao (Research Assistant, 2022/2023 S1, from Central South University, China)\
   Yufan Zuo (PhD student, 2022/2023 S1, from Southeast University, China)\
   Qingying He (PhD student, 2022/2023 S1, from University of Edinburgh, UK)
   
 - **Former members**\
+  Yihan Gao (Research Assistant, 2022/2023 S1 - 2022/2-23 S3, from Central South University, China)\
+  Mingzhi Lyu (Research Assistant, 2022/2023 S1 - 2022/2023 S2, from UNSW Sydney, Australia)\
   Kai Xu (PhD, 2019 T3 - 2023 T1, from South China University of Technology, China) - Ride-sourcing markets with order cancellations\
   Mingyou Ma (PhD, 2019 T2 - 2022 T3, from UNSW Sydney, Australia) - Comodality: Integrated passegner and freight transportation\
   Bangyang Wei (PhD, 2019 T1 - 2022 T2, from Shanghai Jiao Tong University, China) - Ride-sharing modeling and management\
@@ -58,17 +60,21 @@ Selected Working Papers
 ======
 - He, Q., **Liu, W.** Coordinated path planning of UAVs and USVs for maritime monitoring.
 - Lyu, M., **Liu, W.** Urban food delivery service optimisation with delivery riders and drones.
-- Zhou, B., **Liu, W.**, Yang, H. Unmanned aerial vehicle service network design for urban monitoring.
 - Gao, Y., **Liu, W.**, Zhang, Z. Managing and Optimizing Vehicle-to-Grid Facilities and Parking and Charging Services considering Electric Autonomous Vehicles.
+- Zuo, Y., **Liu, W.** Modeling and Managing a Multi-airport System (MAS) Considering Connection Between Airports: A Case of the Great Bay Area.
 - Li, C., **Liu, W.**, Yang, H. Multimodal Demand Forecasting with Missing Data via Generative Adversarial Network.
 - Waller, S.T., He, Q., Ma, M., **Liu, W.** Inferring network reduction and demand variation after disruptions for rapid systematic cost evaluation.
+- Zhou, B., **Liu, W.**, Yang, H. Unmanned aerial vehicle service network design for urban monitoring.
+- Xu, G., Zhou, P., **Liu, W.** Optimization of seat allocation scheme for railway systems considering social equity.
+- Xu, J., Deng, L., Gao, Y., **Liu, W.** Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty.
+- Jin, Z., Ng, K., Zhang, C., **Liu, W.**, Zhang, F., Xu, G. A risk-averse distributionally robust optimisation approach for drone-supported relief facility location problem.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Group-based Railway Seat Allocation Considering the Risk of Virus Transmission.
 - Wu, W., Zeng, B., Sun, J., **Liu, W.** Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
 - Cen, X., Ren, K., **Liu, W.**, Liu, X., Xu, G. The electric vehicle routing problem of vehicle-to-vehicle charging service.
 - Wu, W., Zeng, B., **Liu, W.** Electric bus scheduling and charging infrastructure planning considering bus replacement strategies.
 - Zhou, Y., Jian, S., **Liu, W.**, Yang, H. Modeling and managing a transport system with co-existing ridesharing and parking-sharing services.
 - Xu, G., Guo, J., Zhong, L., **Liu, W.** A capacity allocation method for the high-speed railway express delivery with delivery time windows.
-- Xu, G., Zhong, L., **Liu, W.**, Guo, J. An ultra-flexible train composition strategy for high-speed railway corridors with time-varying demand.
+- Xu, G., Zhong, L., **Liu, W.**, Guo, J. A flexible train composition strategy with extra-long trains for high-speed railway corridors with time-varying demand.
 - Li, C., Ma, M., **Liu, W.** Multimodal Transport Demand Forecasting via Federated Learning.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
 - Zhang, Z., Zhang, F., **Liu, W.**, Ma, M. Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
@@ -77,12 +83,11 @@ Selected Working Papers
 - He, Q., Ma, M., Li, C., **Liu, W.** Learning and managing stochastic network traffic dynamics: an iterative and interactive approach.
 - Xu, K., Saberi, M., **Liu, W.** Vehicle sharing strategies for ridesourcing platforms.
 - Xu, K., Saberi, M., **Liu, W.** Economic analysis of ridesourcing market considering driver's order cancellation and platform subsidy.
-- Xu, G., Gao, Y., **Liu, W.** Pareto-improving seat allocation for high-speed railway networks with equilibrium flows.
 - Su, H., Wang, X., **Liu, W.**, Zhang, X. Modelling and improving the passenger evacuation process in a bi-modal system with bus and e-hailing modes after mass gathering events.
 - Zhao, R., Koo, T., **Liu, W.**, Lodewijks, G., Zhang, F. The economic viability of piloted and pilot-less air metro: a scheduled service network design approach for urban air mobility.
 - Sun, W., Zhang, F., **Liu, W.**, He, Q. Optimal control of connected autonomous vehicles in a mixed traffic corridor.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Unsupervised knowledge adaptation for passenger demand forecasting.
-- Najmi, A., Waller, S.T., **Liu, W.**, Rashidi, T.H. Ridesharing Systems as Activity Travel Pattern Generators: A Rolling Horizon Approach.
+- Najmi, A., Waller, S.T., **Liu, W.**, Rashidi, T.H. Integration of Ridesharing and Activity Travel Pattern Generation.
 - Xu, G., Liu, Y., Gao, Y., **Liu, W.** Integrated optimization of train stopping plan and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Can urban co-modality benefit both users and operators?.
 - Zhang, Z., **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
