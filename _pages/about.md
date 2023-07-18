@@ -88,7 +88,6 @@ Selected Working Papers
 - Sun, W., Zhang, F., **Liu, W.**, He, Q. Optimal control of connected autonomous vehicles in a mixed traffic corridor.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Unsupervised knowledge adaptation for passenger demand forecasting.
 - Najmi, A., Waller, S.T., **Liu, W.**, Rashidi, T.H. Integration of Ridesharing and Activity Travel Pattern Generation.
-- Xu, G., Liu, Y., Gao, Y., **Liu, W.** Integrated optimization of train stopping plan and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Can urban co-modality benefit both users and operators?.
 - Zhang, Z., **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
 - Wei, T., Xu, G., **Liu, W.**, Zhang, F., Yang, H., Batley, R. Time-varying demand distribution estimation for high-speed railway by ticket booking data.
