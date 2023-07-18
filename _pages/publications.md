@@ -22,6 +22,7 @@ Book Chapter
 
 Journal Publication
 ----------
+* [70] Xu, G., Liu, Y., Gao, Y., **Liu, W.** (2023) Integrated optimization of train stopping plan and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand. Transportation Research Part E: Logistics and Transportation Review, in press. ([Download](https://doi.org/10.1016/j.tre.2023.xxxxxx))
 * [69] Xu, G., Gao, Y., **Liu, W.** (2023) Pareto-improving seat allocation for high-speed railway networks with equilibrium flows. Transportation Research Part C: Emerging Technologies, 104261. ([Download](https://doi.org/10.1016/j.trc.2023.104261))
 * [68] Ma, M., **Liu, W.**, Zhang, F., Dixit, V. (2023) On urban co-modality: Competition and cooperation among freight forwarder, freight carrier and transit operator. Transportation Research Part C: Emerging Technologies, 153, 104234. ([Download](https://doi.org/10.1016/j.trc.2023.104234))
 * [67] Zhang, Z., **Liu, W.**, Zhang, F. (2023) On the joint network equilibrium of parking and travel choices under mixed traffic of shared and private autonomous vehicles. Transportation Research Part C: Emerging Technologies, 153, 104226. ([Download](https://doi.org/10.1016/j.trc.2023.104226))
