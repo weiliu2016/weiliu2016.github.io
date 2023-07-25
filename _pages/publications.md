@@ -14,15 +14,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-[Google Scholar](https://scholar.google.com/citations?user=rEUNm28AAAAJ&hl=en), [ORCID](http://orcid.org/0000-0001-8638-3695), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57209524810), [Web of Science](https://publons.com/researcher/2454278/wei-liu/), [ResearchGate](https://www.researchgate.net/profile/Wei_Liu510).
+[Google Scholar](https://scholar.google.com/citations?user=rEUNm28AAAAJ&hl=en), [ORCID](http://orcid.org/0000-0001-8638-3695), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58478032200), [Web of Science](https://publons.com/researcher/2454278/wei-liu/), [ResearchGate](https://www.researchgate.net/profile/Wei_Liu510).
 
 Book Chapter
 ----------
-* [1] **Liu, W.**, Zhang, F., Wang, X., Tang, Y. (2023) A review of selected transport pricing, funding and financing issues in Asia. Handbook on Transport Pricing and Financing, edited by Alejandro Tirachini, Daniel Hörcher, Erik Verhoef.
+* [1] **Liu, W.**, Zhang, F., Wang, X., Tang, Y. (2023) A review of selected transport pricing, funding and financing issues in Asia. Handbook on Transport Pricing and Financing, edited by Alejandro Tirachini, Daniel Hörcher, Erik Verhoef, 380-393.
 
 Journal Publication
 ----------
-* [71] Najmi, A., Waller, S.T., **Liu, W.**, Rashidi, T.H. (2023) Integration of Ridesharing and Activity Travel Pattern Generation. Transportmetrica A: Transport Science, forthcoming. ([Download](https://doi.org/10.1080/23249935.2023.xxxxxxx))
+* [71] Najmi, A., Waller, S.T., **Liu, W.**, Rashidi, T.H. (2023) Integration of Ridesharing and Activity Travel Pattern Generation. Transportmetrica A: Transport Science, 2241570. ([Download](https://doi.org/10.1080/23249935.2023.2241570))
 * [70] Xu, G., Liu, Y., Gao, Y., **Liu, W.** (2023) Integrated optimization of train stopping plan and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand. Transportation Research Part E: Logistics and Transportation Review, 103231. ([Download](https://doi.org/10.1016/j.tre.2023.103231))
 * [69] Xu, G., Gao, Y., **Liu, W.** (2023) Pareto-improving seat allocation for high-speed railway networks with equilibrium flows. Transportation Research Part C: Emerging Technologies, 154, 104261. ([Download](https://doi.org/10.1016/j.trc.2023.104261))
 * [68] Ma, M., **Liu, W.**, Zhang, F., Dixit, V. (2023) On urban co-modality: Competition and cooperation among freight forwarder, freight carrier and transit operator. Transportation Research Part C: Emerging Technologies, 153, 104234. ([Download](https://doi.org/10.1016/j.trc.2023.104234))
