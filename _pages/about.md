@@ -61,9 +61,10 @@ Selected Working Papers
 - He, Q., **Liu, W.** Coordinated path planning of UAVs and USVs for maritime monitoring.
 - Lyu, M., **Liu, W.** Urban food delivery service optimisation with delivery riders and drones.
 - Gao, Y., **Liu, W.**, Zhang, Z. Managing and Optimizing Vehicle-to-Grid Facilities and Parking and Charging Services considering Electric Autonomous Vehicles.
-- Zuo, Y., **Liu, W.** Modeling and Managing a Multi-airport System (MAS) Considering Connection Between Airports: A Case of the Great Bay Area.
-- Li, C., **Liu, W.**, Yang, H. Multimodal Demand Forecasting with Missing Data via Generative Adversarial Network.
-- Waller, S.T., He, Q., Ma, M., **Liu, W.** Inferring network reduction and demand variation after disruptions for rapid systematic cost evaluation.
+- Zuo, Y., **Liu, W.** Modeling and managing the competition and collaboration in a multi-airport system considering ground connection between airports.
+- Xu, G., Liu, X., Zhong, L., **Liu, W.** Integrated Optimization of Train Stopping Plan, Scheduling, and Seat Allocation for High-speed Railway Systems with Social Distancing Measures.
+- Li, C., **Liu, W.**, Yang, H. Simultaneous Multimodal Demand Imputation and Forecasting via Graph-guided Generative Network.
+- Waller, S.T., He, Q., **Liu, W.** Inferring network reduction and demand variation after disruptions for rapid systematic cost evaluation.
 - Zhou, B., **Liu, W.**, Yang, H. Unmanned aerial vehicle service network design for urban monitoring.
 - Xu, G., Zhou, P., **Liu, W.** Optimization of seat allocation scheme for railway systems considering social equity.
 - Xu, J., Deng, L., Gao, Y., **Liu, W.** Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty.
@@ -71,7 +72,7 @@ Selected Working Papers
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Group-based Railway Seat Allocation Considering the Risk of Virus Transmission.
 - Wu, W., Zeng, B., Sun, J., **Liu, W.** Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
 - Cen, X., Ren, K., **Liu, W.**, Liu, X., Xu, G. The electric vehicle routing problem of vehicle-to-vehicle charging service.
-- Wu, W., Zeng, B., **Liu, W.** Electric bus scheduling and charging infrastructure planning considering bus replacement strategies.
+- Wu, W., Zeng, B., Liu, Y., Liu, T., **Liu, W.** A Dynamic Bus Replacement Strategy For Electric Bus Charging Scheduling.
 - Zhou, Y., Jian, S., **Liu, W.**, Yang, H. Modeling and managing a transport system with co-existing ridesharing and parking-sharing services.
 - Xu, G., Guo, J., Zhong, L., **Liu, W.** A capacity allocation method for the high-speed railway express delivery with delivery time windows.
 - Xu, G., Zhong, L., **Liu, W.**, Guo, J. A flexible train composition strategy with extra-long trains for high-speed railway corridors with time-varying demand.
