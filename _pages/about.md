@@ -62,6 +62,8 @@ Selected Working Papers
 - Lyu, M., **Liu, W.** Urban food delivery service optimisation with delivery riders and drones.
 - Gao, Y., **Liu, W.**, Zhang, Z. Managing and Optimizing Vehicle-to-Grid Facilities and Parking and Charging Services considering Electric Autonomous Vehicles.
 - Zuo, Y., **Liu, W.** Modeling and managing the competition and collaboration in a multi-airport system considering ground connection between airports.
+- Chen, S., Wu, L., Ng, K., **Liu, W.**, Wang, K. How airports enhance the environmental sustainability of operations: A survey and future directions.
+- Liu, Q., **Liu, W.**, Jiang, R., Han, X. On the morning commute problem with mixed autonomous vehicles and human-driven vehicles traffic under stochastic bottleneck capacity.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Integrated Optimization of Train Stopping Plan, Scheduling, and Seat Allocation for High-speed Railway Systems with Social Distancing Measures.
 - Li, C., **Liu, W.**, Yang, H. Simultaneous Multimodal Demand Imputation and Forecasting via Graph-guided Generative Network.
 - Waller, S.T., He, Q., **Liu, W.** Inferring network reduction and demand variation after disruptions for rapid systematic cost evaluation.
