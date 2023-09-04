@@ -22,6 +22,9 @@ Book Chapter
 
 Journal Publication
 ----------
+* [74] Sun, W., Zhang, F., **Liu, W.**, He, Q. (2023) Optimal control of connected autonomous vehicles in a mixed traffic corridor. IEEE Transactions on Intelligent Transportation Systems, forthcoming. ([Download](http://dx.doi.org/10.1109/TITS.2023.xxxxxxx))
+* [73] He, Q., Ma, M., Li, C., **Liu, W.** (2023) Learning and managing stochastic network traffic dynamics: an iterative and interactive approach. Transportmetrica B: Transport Dynamics, forthcoming. ([Download](https://doi.org/10.1080/21680566.2023.xxxxxxx))
+* [72] Zhao, R., Koo, T., **Liu, W.**, Lodewijks, G., Zhang, F. (2023) A service network design for scheduled advanced air mobility using human-driven and autonomous air metro. Decision Analytics Journal, forthcoming. ([Download](https://doi.org/10.1016/j.dajour.2023.xxxxxx))
 * [71] Najmi, A., Waller, S.T., **Liu, W.**, Rashidi, T.H. (2023) Integration of Ridesharing and Activity Travel Pattern Generation. Transportmetrica A: Transport Science, 2241570. ([Download](https://doi.org/10.1080/23249935.2023.2241570))
 * [70] Xu, G., Liu, Y., Gao, Y., **Liu, W.** (2023) Integrated optimization of train stopping plan and seat allocation scheme for railway systems under equilibrium travel choice and elastic demand. Transportation Research Part E: Logistics and Transportation Review, 177, 103231. ([Download](https://doi.org/10.1016/j.tre.2023.103231))
 * [69] Xu, G., Gao, Y., **Liu, W.** (2023) Pareto-improving seat allocation for high-speed railway networks with equilibrium flows. Transportation Research Part C: Emerging Technologies, 154, 104261. ([Download](https://doi.org/10.1016/j.trc.2023.104261))
