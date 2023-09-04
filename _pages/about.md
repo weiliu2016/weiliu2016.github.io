@@ -58,7 +58,7 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
-- He, Q., **Liu, W.** Coordinated path planning of UAVs and USVs for maritime monitoring.
+- He, Q., **Liu, W.**, Wu, L. Coordinated path planning of UAVs and USVs for maritime monitoring.
 - Lyu, M., **Liu, W.** Urban food delivery service optimisation with delivery riders and drones.
 - Gao, Y., **Liu, W.**, Zhang, Z. Managing and Optimizing Vehicle-to-Grid Facilities and Parking and Charging Services considering Electric Autonomous Vehicles.
 - Zuo, Y., **Liu, W.** Modeling and managing the competition and collaboration in a multi-airport system considering ground connection between airports.
@@ -66,7 +66,7 @@ Selected Working Papers
 - Liu, Q., **Liu, W.**, Jiang, R., Han, X. On the morning commute problem with mixed autonomous vehicles and human-driven vehicles traffic under stochastic bottleneck capacity.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Integrated Optimization of Train Stopping Plan, Scheduling, and Seat Allocation for High-speed Railway Systems with Social Distancing Measures.
 - Li, C., **Liu, W.**, Yang, H. Simultaneous Multimodal Demand Imputation and Forecasting via Graph-guided Generative Network.
-- Waller, S.T., He, Q., **Liu, W.** Inferring network reduction and demand variation after disruptions for rapid systematic cost evaluation.
+- Waller, S.T., He, Q., **Liu, W.** Rapid post-disruption assessment of transportation network capacity and demand distribution under limited information.
 - Zhou, B., **Liu, W.**, Yang, H. Unmanned aerial vehicle service network design for urban monitoring.
 - Xu, G., Zhou, P., **Liu, W.** Optimization of seat allocation scheme for railway systems considering social equity.
 - Xu, J., Deng, L., Gao, Y., **Liu, W.** Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty.
@@ -83,12 +83,9 @@ Selected Working Papers
 - Zhang, Z., Zhang, F., **Liu, W.**, Ma, M. Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
 - Gong, Z., Zhang, F., **Liu, W.** Residential location choices and commuting patterns considering telecommuting.
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
-- He, Q., Ma, M., Li, C., **Liu, W.** Learning and managing stochastic network traffic dynamics: an iterative and interactive approach.
 - Xu, K., Saberi, M., **Liu, W.** Vehicle sharing strategies for ridesourcing platforms.
 - Xu, K., Saberi, M., **Liu, W.** Economic analysis of ridesourcing market considering driver's order cancellation and platform subsidy.
 - Su, H., Wang, X., **Liu, W.**, Zhang, X. Modelling and improving the passenger evacuation process in a bi-modal system with bus and e-hailing modes after mass gathering events.
-- Zhao, R., Koo, T., **Liu, W.**, Lodewijks, G., Zhang, F. The economic viability of piloted and pilot-less air metro: a scheduled service network design approach for urban air mobility.
-- Sun, W., Zhang, F., **Liu, W.**, He, Q. Optimal control of connected autonomous vehicles in a mixed traffic corridor.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Unsupervised knowledge adaptation for passenger demand forecasting.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Can urban co-modality benefit both users and operators?.
 - Zhang, Z., **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
