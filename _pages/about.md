@@ -22,6 +22,7 @@ Research Interests
 Research Group
 ======
 - **Current members**\
+  Min Yan (PhD student, 2023/2024 S2, from Harbin Institute of Technology, China)\
   Xintong Li (PhD student, 2023/2024 S1, from Central South University, China)\
   Xinyi Zhu (PhD student, 2023/2024 S1, from Shanghai Jiao Tong University, China)\
   Yuzhen Feng (PhD student, 2023/2024 S1, from Tongji University, China)\
@@ -45,6 +46,7 @@ Research Group
   Runqing Zhao (MPhil, 2019 T3 - 2022 T1, from UNSW Sydney, Australia) - Mobility service network design for airport bus shuttle and air metro
 
 - **Academic visitors**\
+  Zhengrong Liu (2023.08-2023.09, PhD student, from Tsinghua University, China)\
   Jing Xu (2022.12-2023.12, PhD student, from Central South University, China)\
   Mingyou Ma (2022.05-2022.12, PhD student, from UNSW Sydney, Australia)\
   Yihan Gao (2022.01-2022.04, MPhil student, from Central South University, China)\
@@ -79,6 +81,7 @@ Selected Working Papers
 - Xu, G., Guo, J., Zhong, L., **Liu, W.** A capacity allocation method for the high-speed railway express delivery with delivery time windows.
 - Xu, G., Zhong, L., **Liu, W.**, Guo, J. A flexible train composition strategy with extra-long trains for high-speed railway corridors with time-varying demand.
 - Li, C., Ma, M., **Liu, W.** Multimodal Transport Demand Forecasting via Federated Learning.
+- Sun, W., Zhang, F., **Liu, W.**, He, Q. (2023) Optimal control of connected autonomous vehicles in a mixed traffic corridor.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
 - Zhang, Z., Zhang, F., **Liu, W.**, Ma, M. Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
 - Gong, Z., Zhang, F., **Liu, W.** Residential location choices and commuting patterns considering telecommuting.
