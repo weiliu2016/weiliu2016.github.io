@@ -22,6 +22,7 @@ Research Interests
 Research Group
 ======
 - **Current members**\
+  Runfa Wu (Postdoctoral fellow, 2023/2024 S1, from Central South University, China)\
   Min Yan (PhD student, 2023/2024 S2, from Harbin Institute of Technology, China)\
   Xintong Li (PhD student, 2023/2024 S1, from Central South University, China)\
   Xinyi Zhu (PhD student, 2023/2024 S1, from Shanghai Jiao Tong University, China)\
