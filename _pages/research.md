@@ -7,8 +7,9 @@ author_profile: true
 Recent Projects 
 -----------
 **As investigator or co-investigator**
-
+* 自动驾驶时代出行和停车的综合规划与管理, 国家自然科学基金委员会, 青年基金, 2024-2026.
 * 电动车出行、停车、充电以及反向输电的综合规划与管理, 广东省自然科学基金-面上项目, 2023-2025.
+* To park or to share: Modeling and managing the travel, parking, and vehicle-sharing choices with autonomous vehicles, Research Grants Council of Hong Kong, General Research Fund, 2024-2026.
 * An Integrated System of Unmanned Aerial Vehicles and Unmanned Surface Vehicles for Smart Maritime Support in Guangdong-Hong Kong-Macao Greater Bay Area,  Research Grants Council of Hong Kong, NSFC/RGC Joint Research Scheme, 2023-2026.
 * The next-generation multi-airport multi-modal mobility system: safety, sustainability, resilience, and efficiency, The Hong Kong Polytechnic University, 2022-2024.
 * Modeling and managing an integrated service system for air passengers and freights, The Hong Kong Polytechnic University, 2022-2025.
@@ -44,7 +45,7 @@ Academic services
 * IEEE Transactions on Intelligent Transportation Systems
 * IET Intelligent Transport Systems
 * Networks and Spatial Economics
-* PLOS One
+* Production and Operations Management
 * Research in Transportation Economics
 * Transport Policy
 * Transportation
