@@ -62,6 +62,7 @@ Selected Working Papers
 ======
 - He, Q., Wu, L., **Liu, W.**, Ma, Y., Yang, H. Coordinated path planning of UAVs and USVs for maritime monitoring.
 - Lyu, M., **Liu, W.**, Wu, L. Urban food delivery service optimisation with delivery riders and drones.
+- Zhong, L., Xu, G., Liu, X., Yang, H., **Liu, W.** Destination-to-Gate Assignment in Oversaturated Metro Line: A New Passenger Flow Control Approach.
 - Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Optimizing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
 - Zuo, Y., **Liu, W.** On the competition and collaboration in a multi-airport system considering ground connection between airports.
 - Chen, S., Wu, L., Ng, K., **Liu, W.**, Wang, K. How airports enhance the environmental sustainability of operations: A survey and future directions.
@@ -95,6 +96,8 @@ Selected Working Papers
 
 Selected Publications
 ======
+- Xu, G., Gao, Y., **Liu, W.** (2023) Pareto-improving seat allocation for high-speed railway networks with equilibrium flows. **Transportation Research Part C: Emerging Technologies**, 154, 104261.
+- Ma, M., **Liu, W.**, Zhang, F., Dixit, V. (2023) On urban co-modality: Competition and cooperation among freight forwarder, freight carrier and transit operator. **Transportation Research Part C: Emerging Technologies**, 153, 104234.
 - Xi, H., **Liu, W.**, Waller, S.T., Hensher, D., Kilby, P., Rey, D. (2023) Incentive-compatible mechanisms for online resource allocation in Mobility-as-a-Service systems. **Transportation Research Part B: Methodological**, 170, 119-147.
 - Gong, Z., Zhang, F., **Liu, W.**, Graham, D. (2023) On the effects of airport capacity expansion under responsive airlines and elastic passenger demand. **Transportation Research Part B: Methodological**, 170, 48-76.
 - Xi, H., Aussel, D., **Liu, W.**, Waller, S.T., Rey, D. (2022) Single-leader multi-follower games for the regulation of two-sided Mobility-as-a-Service markets. **European Journal of Operational Research**, forthcoming.
