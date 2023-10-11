@@ -60,7 +60,7 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
-- He, Q., Wu, L., **Liu, W.**, Coordinated path planning of UAVs and USVs for maritime monitoring.
+- He, Q., Wu, L., **Liu, W.**, Ma, Y., Yang, H. Coordinated path planning of UAVs and USVs for maritime monitoring.
 - Lyu, M., **Liu, W.**, Wu, L. Urban food delivery service optimisation with delivery riders and drones.
 - Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Optimizing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
 - Zuo, Y., **Liu, W.** On the competition and collaboration in a multi-airport system considering ground connection between airports.
@@ -81,7 +81,6 @@ Selected Working Papers
 - Xu, G., Guo, J., Zhong, L., **Liu, W.** A capacity allocation method for the high-speed railway express delivery with delivery time windows.
 - Xu, G., Zhong, L., **Liu, W.**, Guo, J. A flexible train composition strategy with extra-long trains for high-speed railway corridors with time-varying demand.
 - Li, C., Ma, M., **Liu, W.** Multimodal Transport Demand Forecasting via Federated Learning.
-- Sun, W., Zhang, F., **Liu, W.**, He, Q. (2023) Optimal control of connected autonomous vehicles in a mixed traffic corridor.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
 - Zhang, Z., Zhang, F., **Liu, W.**, Ma, M. Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
 - Gong, Z., Zhang, F., **Liu, W.** Residential location choices and commuting patterns considering telecommuting.
