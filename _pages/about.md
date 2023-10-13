@@ -75,11 +75,10 @@ Selected Working Papers
 - Xu, J., Deng, L., Gao, Y., **Liu, W.** Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty.
 - Jin, Z., Ng, K., Zhang, C., **Liu, W.**, Zhang, F., Xu, G. A risk-averse distributionally robust optimisation approach for drone-supported relief facility location problem.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Group-based Railway Seat Allocation Considering the Risk of Virus Transmission.
-- Wu, W., Zeng, B., Sun, J., **Liu, W.** Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
+- Wu, W., Zeng, B., Sun, J., **Liu, W.**, Waller, S.T. Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
 - Cen, X., Ren, K., **Liu, W.**, Liu, X., Xu, G. The electric vehicle routing problem of vehicle-to-vehicle charging service.
 - Wu, W., Zeng, B., Liu, Y., Liu, T., **Liu, W.** A Dynamic Bus Replacement Strategy For Electric Bus Charging Scheduling.
 - Zhou, Y., Jian, S., **Liu, W.**, Yang, H. Modeling and managing a transport system with co-existing ridesharing and parking-sharing services.
-- Xu, G., Guo, J., Zhong, L., **Liu, W.** A capacity allocation method for the high-speed railway express delivery with delivery time windows.
 - Xu, G., Zhong, L., **Liu, W.**, Guo, J. A flexible train composition strategy with extra-long trains for high-speed railway corridors with time-varying demand.
 - Li, C., Ma, M., **Liu, W.** Multimodal Transport Demand Forecasting via Federated Learning.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
