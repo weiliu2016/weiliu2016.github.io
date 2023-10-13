@@ -22,7 +22,7 @@ Book Chapter
 
 Journal Publication
 ----------
-* [75] Xu, G., Guo, J., Zhong, L., **Liu, W.** Optimal capacity allocation for high-speed railway express delivery. Computers & Industrial Engineering, forthcoming. ([Download](https://doi.org/10.1016/j.cie.2023.xxxxxx))
+* [75] Xu, G., Guo, J., Zhong, L., Zhang, F., **Liu, W.** Optimal capacity allocation for high-speed railway express delivery. Computers & Industrial Engineering, forthcoming. ([Download](https://doi.org/10.1016/j.cie.2023.xxxxxx))
 * [74] Sun, W., Zhang, F., **Liu, W.**, He, Q. (2023) Optimal control of connected autonomous vehicles in a mixed traffic corridor. IEEE Transactions on Intelligent Transportation Systems, forthcoming. ([Download](http://dx.doi.org/10.1109/TITS.2023.xxxxxxx))
 * [73] He, Q., Ma, M., Li, C., **Liu, W.** (2023) Learning and managing stochastic network traffic dynamics: an iterative and interactive approach. Transportmetrica B: Transport Dynamics, forthcoming. ([Download](https://doi.org/10.1080/21680566.2023.xxxxxxx))
 * [72] Zhao, R., Koo, T., **Liu, W.**, Lodewijks, G., Zhang, F. (2023) A service network design for scheduled advanced air mobility using human-driven and autonomous air metro. Decision Analytics Journal, 8, 100312. ([Download](https://doi.org/10.1016/j.dajour.2023.100312))
