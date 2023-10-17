@@ -80,7 +80,6 @@ Selected Working Papers
 - Wu, W., Zeng, B., Liu, Y., Liu, T., **Liu, W.** A Dynamic Bus Replacement Strategy For Electric Bus Charging Scheduling.
 - Zhou, Y., Jian, S., **Liu, W.**, Yang, H. Modeling and managing a transport system with co-existing ridesharing and parking-sharing services.
 - Xu, G., Zhong, L., **Liu, W.**, Guo, J. A flexible train composition strategy with extra-long trains for high-speed railway corridors with time-varying demand.
-- Li, C., Ma, M., **Liu, W.** Multimodal Transport Demand Forecasting via Federated Learning.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
 - Zhang, Z., Zhang, F., **Liu, W.**, Ma, M. Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
 - Gong, Z., Zhang, F., **Liu, W.** Residential location choices and commuting patterns considering telecommuting.
