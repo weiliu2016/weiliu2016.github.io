@@ -70,7 +70,6 @@ Selected Working Papers
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Integrated Optimization of Train Stopping Plan, Scheduling, and Seat Allocation for High-speed Railway Systems with Social Distancing Measures.
 - Li, C., **Liu, W.**, Yang, H. Simultaneous Multimodal Demand Imputation and Forecasting via Graph-guided Generative Network.
 - Waller, S.T., He, Q., **Liu, W.** Rapid post-disruption assessment of transportation network capacity and demand distribution under limited information.
-- Zhou, B., **Liu, W.**, Yang, H. Unmanned aerial vehicle service network design for urban monitoring.
 - Xu, G., Zhou, P., **Liu, W.**, Gao, Y. Optimization of seat allocation scheme for railway systems considering social equity.
 - Xu, J., Deng, L., Gao, Y., **Liu, W.** Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty.
 - Jin, Z., Ng, K., Zhang, C., **Liu, W.**, Zhang, F., Xu, G. A risk-averse distributionally robust optimisation approach for drone-supported relief facility location problem.
