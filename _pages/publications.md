@@ -22,7 +22,8 @@ Book Chapter
 
 Journal Publication
 ----------
-* [77] Zhou, B., **Liu, W.**, Yang, H. (2023) Unmanned aerial vehicle service network design for urban monitoring. Transportation Research Part C: Emerging Technologies, 104406. ([Download](https://doi.org/10.1016/j.trc.2023.104406))
+* [78] Su, H., Wang, X., **Liu, W.**, Zhang, X., Xu, M. (2023) Modelling and accelerating the passenger evacuation process in a bi-modal system with bus and e-hailing modes after mass gathering events. Travel Behaviour and Society, forthcoming. ([Download](https://doi.org/10.1016/j.tbs.2023.100713))
+* [77] Zhou, B., **Liu, W.**, Yang, H. (2023) Unmanned aerial vehicle service network design for urban monitoring. Transportation Research Part C: Emerging Technologies, 157, 104406. ([Download](https://doi.org/10.1016/j.trc.2023.104406))
 * [76] Li, C., **Liu, W.** (2023) Multimodal Transport Demand Forecasting via Federated Learning. IEEE Transactions on Intelligent Transportation Systems, forthcoming. ([Download](http://dx.doi.org/10.1109/TITS.2023.3325936))
 * [75] Xu, G., Guo, J., Zhong, L., Zhang, F., **Liu, W.** (2023) Optimal capacity allocation for high-speed railway express delivery. Computers & Industrial Engineering, 185, 109683. ([Download](https://doi.org/10.1016/j.cie.2023.109683))
 * [74] Sun, W., Zhang, F., **Liu, W.**, He, Q. (2023) Optimal control of connected autonomous vehicles in a mixed traffic corridor. IEEE Transactions on Intelligent Transportation Systems, forthcoming. ([Download](http://dx.doi.org/10.1109/TITS.2023.3324926))
