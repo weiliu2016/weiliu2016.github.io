@@ -85,7 +85,6 @@ Selected Working Papers
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - Xu, K., Saberi, M., **Liu, W.** Vehicle sharing strategies for ridesourcing platforms.
 - Xu, K., Saberi, M., **Liu, W.** Economic analysis of ridesourcing market considering driver's order cancellation and platform subsidy.
-- Su, H., Wang, X., **Liu, W.**, Zhang, X. Modelling and improving the passenger evacuation process in a bi-modal system with bus and e-hailing modes after mass gathering events.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Unsupervised knowledge adaptation for passenger demand forecasting.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Can urban co-modality benefit both users and operators?.
 - Zhang, Z., **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
@@ -93,6 +92,8 @@ Selected Working Papers
 
 Selected Publications
 ======
+- Li, C., **Liu, W.** (2023) Multimodal Transport Demand Forecasting via Federated Learning. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
+- Sun, W., Zhang, F., **Liu, W.**, He, Q. (2023) Optimal control of connected autonomous vehicles in a mixed traffic corridor. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
 - Xu, G., Gao, Y., **Liu, W.** (2023) Pareto-improving seat allocation for high-speed railway networks with equilibrium flows. **Transportation Research Part C: Emerging Technologies**, 154, 104261.
 - Ma, M., **Liu, W.**, Zhang, F., Dixit, V. (2023) On urban co-modality: Competition and cooperation among freight forwarder, freight carrier and transit operator. **Transportation Research Part C: Emerging Technologies**, 153, 104234.
 - Xi, H., **Liu, W.**, Waller, S.T., Hensher, D., Kilby, P., Rey, D. (2023) Incentive-compatible mechanisms for online resource allocation in Mobility-as-a-Service systems. **Transportation Research Part B: Methodological**, 170, 119-147.
