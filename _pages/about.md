@@ -60,9 +60,10 @@ PhD Positions and Academic Visitors
 
 Selected Working Papers
 ======
+- Li, C., **Liu, W.**, Yang, H. Deep Causal Inference for Understanding the Impact of Meteorological Variations on Traffic.
 - He, Q., Wu, L., **Liu, W.**, Ma, Y., Yang, H. Coordinated path planning of UAVs and USVs for maritime monitoring.
 - Lyu, M., **Liu, W.**, Wu, L. Urban food delivery service optimisation with delivery riders and drones.
-- Zhong, L., Xu, G., Liu, X., Yang, H., **Liu, W.** Destination-to-Gate Assignment in Oversaturated Metro Line: A New Passenger Flow Control Approach.
+- Zhong, L., Xu, G., Liu, X., **Liu, W.**, Yang, H. Destination-to-Gate Assignment in Oversaturated Metro Line: A New Passenger Flow Control Approach.
 - Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Optimizing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
 - Zuo, Y., **Liu, W.** On the competition and collaboration in a multi-airport system considering ground connection between airports.
 - Chen, S., Wu, L., Ng, K., **Liu, W.**, Wang, K. How airports enhance the environmental sustainability of operations: A survey and future directions.
@@ -78,7 +79,6 @@ Selected Working Papers
 - Cen, X., Ren, K., **Liu, W.**, Liu, X., Xu, G. The electric vehicle routing problem of vehicle-to-vehicle charging service.
 - Wu, W., Zeng, B., Liu, Y., Liu, T., **Liu, W.** A Dynamic Bus Replacement Strategy For Electric Bus Charging Scheduling.
 - Zhou, Y., Jian, S., **Liu, W.**, Yang, H. Modeling and managing a transport system with co-existing ridesharing and parking-sharing services.
-- Xu, G., Zhong, L., **Liu, W.**, Guo, J. A flexible train composition strategy with extra-long trains for high-speed railway corridors with time-varying demand.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
 - Zhang, Z., Zhang, F., **Liu, W.**, Ma, M. Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
 - Gong, Z., Zhang, F., **Liu, W.** Residential location choices and commuting patterns considering telecommuting.
