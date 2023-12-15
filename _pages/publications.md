@@ -22,6 +22,7 @@ Book Chapter
 
 Journal Publication
 ----------
+* [79] Xu, G., Zhong, L., **Liu, W.**, Guo, J. (2024) A flexible train composition strategy with extra-long trains for high-speed railway corridors with time-varying demand. Transportation Research Part B: Methodological, 179, 102875. ([Download](https://doi.org/10.1016/j.trb.2023.102875))
 * [78] Su, H., Wang, X., **Liu, W.**, Zhang, X., Xu, M. (2024) Modelling and accelerating the passenger evacuation process in a bi-modal system with bus and e-hailing modes after mass gathering events. Travel Behaviour and Society, 35, 100713. ([Download](https://doi.org/10.1016/j.tbs.2023.100713))
 * [77] Zhou, B., **Liu, W.**, Yang, H. (2023) Unmanned aerial vehicle service network design for urban monitoring. Transportation Research Part C: Emerging Technologies, 157, 104406. ([Download](https://doi.org/10.1016/j.trc.2023.104406))
 * [76] Li, C., **Liu, W.** (2023) Multimodal Transport Demand Forecasting via Federated Learning. IEEE Transactions on Intelligent Transportation Systems, forthcoming. ([Download](http://dx.doi.org/10.1109/TITS.2023.3325936))
