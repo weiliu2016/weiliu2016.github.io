@@ -77,7 +77,6 @@ Selected Working Papers
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Group-based Railway Seat Allocation Considering the Risk of Virus Transmission.
 - Wu, W., Zeng, B., Sun, J., **Liu, W.**, Waller, S.T. Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
 - Cen, X., Ren, K., **Liu, W.**, Liu, X., Xu, G. The electric vehicle routing problem of vehicle-to-vehicle charging service.
-- Wu, W., Zeng, B., Liu, Y., Liu, T., **Liu, W.** A Dynamic Bus Replacement Strategy For Electric Bus Charging Scheduling.
 - Zhou, Y., Jian, S., **Liu, W.**, Yang, H. Modeling and managing a transport system with co-existing ridesharing and parking-sharing services.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
 - Zhang, Z., Zhang, F., **Liu, W.**, Ma, M. Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
@@ -92,6 +91,7 @@ Selected Working Papers
 
 Selected Publications
 ======
+- Xu, G., Zhong, L., Liu, W. Guo, J. (2024) A flexible train composition strategy with extra-long trains for high-speed railway corridors with time-varying demand. **Transportation Research Part B: Methodological**, 179, 102875.
 - Li, C., **Liu, W.** (2023) Multimodal Transport Demand Forecasting via Federated Learning. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
 - Sun, W., Zhang, F., **Liu, W.**, He, Q. (2023) Optimal control of connected autonomous vehicles in a mixed traffic corridor. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
 - Xu, G., Gao, Y., **Liu, W.** (2023) Pareto-improving seat allocation for high-speed railway networks with equilibrium flows. **Transportation Research Part C: Emerging Technologies**, 154, 104261.
