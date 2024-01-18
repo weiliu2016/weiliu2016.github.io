@@ -61,7 +61,7 @@ PhD Positions and Academic Visitors
 Selected Working Papers
 ======
 - Li, C., **Liu, W.**, Yang, H. Deep Causal Inference for Understanding the Impact of Meteorological Variations on Traffic.
-- He, Q., Wu, L., **Liu, W.**, Ma, Y., Yang, H. Coordinated path planning of UAVs and USVs for maritime monitoring.
+- He, Q., Wu, L., **Liu, W.**, Ma, Y. Coordinated path planning of UAVs and USVs for maritime monitoring.
 - Lyu, M., **Liu, W.**, Wu, L. Urban food delivery service optimisation with delivery riders and drones.
 - Zhong, L., Xu, G., Liu, X., **Liu, W.**, Yang, H. Destination-to-Gate Assignment in Oversaturated Metro Line: A New Passenger Flow Control Approach.
 - Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Optimizing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
@@ -76,13 +76,12 @@ Selected Working Papers
 - Jin, Z., Ng, K., Zhang, C., **Liu, W.**, Zhang, F., Xu, G. A risk-averse distributionally robust optimisation approach for drone-supported relief facility location problem.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Group-based Railway Seat Allocation Considering the Risk of Virus Transmission.
 - Wu, W., Zeng, B., Sun, J., **Liu, W.**, Waller, S.T. Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
-- Cen, X., Ren, K., **Liu, W.**, Liu, X., Xu, G. The electric vehicle routing problem of vehicle-to-vehicle charging service.
 - Zhou, Y., Jian, S., **Liu, W.**, Yang, H. Modeling and managing a transport system with co-existing ridesharing and parking-sharing services.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
 - Zhang, Z., Zhang, F., **Liu, W.**, Ma, M. Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
 - Gong, Z., Zhang, F., **Liu, W.** Residential location choices and commuting patterns considering telecommuting.
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
-- Xu, K., Saberi, M., **Liu, W.** Vehicle sharing strategies for ridesourcing platforms.
+- Xu, K., Saberi, M., Wang, X., **Liu, W.** Vehicle sharing strategies for ridesourcing platforms.
 - Xu, K., Saberi, M., **Liu, W.** Economic analysis of ridesourcing market considering driver's order cancellation and platform subsidy.
 - Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Unsupervised knowledge adaptation for passenger demand forecasting.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Can urban co-modality benefit both users and operators?.
@@ -91,7 +90,7 @@ Selected Working Papers
 
 Selected Publications
 ======
-- Xu, G., Zhong, L., Liu, W. Guo, J. (2024) A flexible train composition strategy with extra-long trains for high-speed railway corridors with time-varying demand. **Transportation Research Part B: Methodological**, 179, 102875.
+- Xu, G., Zhong, L., **Liu, W.** Guo, J. (2024) A flexible train composition strategy with extra-long trains for high-speed railway corridors with time-varying demand. **Transportation Research Part B: Methodological**, 179, 102875.
 - Li, C., **Liu, W.** (2023) Multimodal Transport Demand Forecasting via Federated Learning. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
 - Sun, W., Zhang, F., **Liu, W.**, He, Q. (2023) Optimal control of connected autonomous vehicles in a mixed traffic corridor. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
 - Xu, G., Gao, Y., **Liu, W.** (2023) Pareto-improving seat allocation for high-speed railway networks with equilibrium flows. **Transportation Research Part C: Emerging Technologies**, 154, 104261.
