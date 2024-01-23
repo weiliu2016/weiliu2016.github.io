@@ -62,8 +62,12 @@ Selected Working Papers
 ======
 - Li, C., **Liu, W.**, Yang, H. Deep Causal Inference for Understanding the Impact of Meteorological Variations on Traffic.
 - He, Q., Wu, L., **Liu, W.**, Ma, Y. Coordinated path planning of UAVs and USVs for maritime monitoring.
-- Lyu, M., **Liu, W.**, Wu, L. Urban food delivery service optimisation with delivery riders and drones.
+- Lyu, M., He, Q., **Liu, W.**, Wu, L. Urban food delivery service optimisation with delivery riders and drones.
+- Wang, S., Wang, X., Yang, C., Zhang, X.N., **Liu, W.** Optimizing OD-based up-front discounting strategies for dynamic ride-pooling services.
+- Xu, P., Liu, T.L., Tian, Q., Si, B., **Liu, W.**, Huang, H.J. Estimation of Schedule Preference and Crowding Perception in Urban Rail Corridor Commuting: An Inverse Optimization Method.
+- Zhong, L., Xu, G., **Liu, W.** Demand-driven and energy-efficient train timetable optimization with a flexible train composition strategy.
 - Zhong, L., Xu, G., Liu, X., **Liu, W.**, Yang, H. Destination-to-Gate Assignment in Oversaturated Metro Line: A New Passenger Flow Control Approach.
+- Liu, B., Ma, X., **Liu, W.**, Ma, Z. Enhancing a carbon-trading incentive scheme for mode shifts in multi-modal transportation systems.
 - Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Optimizing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
 - Zuo, Y., **Liu, W.** On the competition and collaboration in a multi-airport system considering ground connection between airports.
 - Chen, S., Wu, L., Ng, K., **Liu, W.**, Wang, K. How airports enhance the environmental sustainability of operations: A survey and future directions.
