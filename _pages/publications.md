@@ -22,6 +22,7 @@ Book Chapter
 
 Journal Publication
 ----------
+* [80] Chen, S., Wu, L., Ng, K., **Liu, W.**, Wang, K. (2024) How airports enhance the environmental sustainability of operations: A critical review from the perspective of Operations Research. Transportation Research Part E: Logistics and Transportation Review, forthcoming. ([Download](https://doi.org/10.1016/j.tre.2024.xxxxxx))
 * [79] Xu, G., Zhong, L., **Liu, W.**, Guo, J. (2024) A flexible train composition strategy with extra-long trains for high-speed railway corridors with time-varying demand. Transportation Research Part B: Methodological, 179, 102875. ([Download](https://doi.org/10.1016/j.trb.2023.102875))
 * [78] Su, H., Wang, X., **Liu, W.**, Zhang, X., Xu, M. (2024) Modelling and accelerating the passenger evacuation process in a bi-modal system with bus and e-hailing modes after mass gathering events. Travel Behaviour and Society, 35, 100713. ([Download](https://doi.org/10.1016/j.tbs.2023.100713))
 * [77] He, Q., Ma, M., Li, C., **Liu, W.** (2024) Learning and managing stochastic network traffic dynamics: an iterative and interactive approach. Transportmetrica B: Transport Dynamics, 12(1), 2303050. ([Download](https://doi.org/10.1080/21680566.2023.2303050))
