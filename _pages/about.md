@@ -66,6 +66,7 @@ Selected Working Papers
 - Wang, S., Wang, X., Yang, C., Zhang, X.N., **Liu, W.** Optimizing OD-based up-front discounting strategies for dynamic ride-pooling services.
 - Xu, P., Liu, T.L., Tian, Q., Si, B., **Liu, W.**, Huang, H.J. Estimation of Schedule Preference and Crowding Perception in Urban Rail Corridor Commuting: An Inverse Optimization Method.
 - Zhong, L., Xu, G., **Liu, W.** Demand-driven and energy-efficient train timetable optimization with a flexible train composition strategy.
+- Qin, X., Yang, H., **Liu, W.** Upgrading in ride-sourcing markets with multi-class services.
 - Zhong, L., Xu, G., Liu, X., **Liu, W.**, Yang, H. Destination-to-Gate Assignment in Oversaturated Metro Line: A New Passenger Flow Control Approach.
 - Liu, B., Ma, X., **Liu, W.**, Ma, Z. Enhancing a carbon-trading incentive scheme for mode shifts in multi-modal transportation systems.
 - Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Optimizing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
