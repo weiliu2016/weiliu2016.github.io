@@ -7,7 +7,6 @@ author_profile: true
 
 Recent Projects 
 -------------
-**As investigator**
 
 * 自动驾驶时代出行和停车的综合规划与管理, 国家自然科学基金, 青年科学基金项目, 2024-2026.
 * To park or to share: Modeling and managing the travel, parking, and vehicle-sharing choices with autonomous vehicles, Research Grants Council of Hong Kong, General Research Fund, 2024-2026.
