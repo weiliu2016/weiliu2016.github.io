@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Multi-Modal Mobility Research Group"
+title                    : "Multi-Modal Mobility Group"
 title_separator          : "-"
 name                     : &name "Wei Liu"
 description              : &description "Associate Professor and Associate Head"
