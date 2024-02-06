@@ -19,7 +19,13 @@ Research Areas
 - Automated and Shared Mobility
 - UAV Applications in Smart Transport and Logistics
 
-Group Memebers & Affiliates
+PhD Positions and Academic Visitors
+======
+- **PhD Students**: Students with background in Aviation/Transport/Civil Engineering, Computer Science, Industrial Engineering, Control Engineering, Automation, Applied Mathematics or other relevant areas are welcome to apply for our PhD or MPhil program. Please send me your CV including your education qualifications with GPA, English test scores (IELTS/TOEFL), list of publications (if any) and name and contact of at least two referees.
+
+- **Postdoc, Visiting Students and Scholars**: If your research background fits my research interests, please send me your CV including your education qualifications and list of publications (if any).
+
+Group Members & Affiliates
 ======
 - **Current members**\
   Runfa Wu (Postdoctoral fellow, 2023/2024 S1, from Central South University, China)\
@@ -52,12 +58,6 @@ Group Memebers & Affiliates
   Mingyou Ma (2022.05-2022.12, PhD student, from UNSW Sydney, Australia)\
   Yihan Gao (2022.01-2022.04, MPhil student, from Central South University, China)\
   Wei Wu (2018.11-2019.11, Associcate Professor, from Changsha University of Science and Technology, China)
-
-PhD Positions and Academic Visitors
-======
-- **PhD Students**: Students with background in Aviation/Transport/Civil Engineering, Computer Science, Industrial Engineering, Control Engineering, Automation, Applied Mathematics or other relevant areas are welcome to apply for our PhD or MPhil program. Please send me your CV including your education qualifications with GPA, English test scores (IELTS/TOEFL), list of publications (if any) and name and contact of at least two referees.
-
-- **Postdoc, Visiting Students and Scholars**: If your research background fits my research interests, please send me your CV including your education qualifications and list of publications (if any).
 
 Selected Working Papers
 ======
