@@ -10,7 +10,7 @@ redirect_from:
 
 Dr. Wei Liu is currently the Associate Head and Associate Professor, Presidential Young Scholar at the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). Prior to this, he was a faculty member at [University of New South Wales, Sydney](https://www.unsw.edu.au/) in Australia and [University of Glasgow](https://www.gla.ac.uk/) in the United Kingdom, and was a Researcher at [Ecole Polytechnique Federale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland. Dr. Liu received his PhD in Transportation from the Hong Kong University of Science and Technology in 2014, and his B.Eng. in Civil Engineering and Bachelor of Laws both from Tsinghua University in 2010. Dr. Liu is a recipient of the Discovery Early Career Researcher Award from the Australian Research Council. His research group mainly works in data-driven decision analytics; large-scale transport system modelling, optimisation and computing; aviation and rail system modeling; and transport economics. He was the awardee of The European Transport Innovation Challenge 2017 under European Commission, and received a Best Paper Award from the [International Transportation Economics Association (ITEA)](https://iteaweb.org/) for young scholars in 2015.
 
-Research Interests
+Research Areas
 ======
 - Data-driven Decision Analytics
 - Transport Network Modeling and Optimization
@@ -19,7 +19,7 @@ Research Interests
 - Automated and Shared Mobility
 - UAV Applications in Smart Transport and Logistics
 
-Research Group
+Group Memebers & Affiliates
 ======
 - **Current members**\
   Runfa Wu (Postdoctoral fellow, 2023/2024 S1, from Central South University, China)\
