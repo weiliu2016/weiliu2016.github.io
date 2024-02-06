@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Principal Investigator (PI)"
+excerpt: "About Principal Investigator (PI)"
 author_profile: true
 redirect_from: 
   - /about/
