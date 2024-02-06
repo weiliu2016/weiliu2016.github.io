@@ -1,12 +1,12 @@
 ---
-title: "Research"
+title: "Research Projects"
 permalink: /research/
 author_profile: true
 ---
 
 Recent Projects 
 -----------
-**As investigator or co-investigator**
+
 * 自动驾驶时代出行和停车的综合规划与管理, 国家自然科学基金委员会, 青年基金, 2024-2026.
 * 电动车出行、停车、充电以及反向输电的综合规划与管理, 广东省自然科学基金-面上项目, 2023-2025.
 * To park or to share: Modeling and managing the travel, parking, and vehicle-sharing choices with autonomous vehicles, Research Grants Council of Hong Kong, General Research Fund, 2024-2026.
@@ -21,59 +21,3 @@ Recent Projects
 * Sustainable transportation network design and financing based on the traffic data, National Natural Science Foundation of China, Standard Research Grant, 2019-2022.
 * Dynamic Traffic Modeling for Large-scale Transport Systems. Principal’s Early Career Mobility Fund - University of Glasgow. 2017.
 
-Academic services
--------------
-**Editorial**
-
-* Associate Editor - Journal of Management Science and Engineering (2017-)
-* Associate Editor - Transportmetrica A: Transport Science (2020-)
-* Associate Editor - Transportmetrica B: Transport Dynamics (2020-)
-* Editorial Advisory Board - Transportation Research Part C: Emerging Technologies (2021-)
-* Advisory Board Member - Transportation Research Interdisciplinary Perspectives (2019-)
-* Guest Editor - Transportmetrica A: Transport Science (2018-2020)
-* Guest Editor - Transportation Research Part D: Transport and Environment (2022-2024)
-* Guest Editor - Transportation Research Part D: Transport and Environment (2023-2025)
-* Associate Editor - IEEE International Conference on Intelligent Transportation Systems (2018)
-* Publication Co-Chair - IEEE International Conference on Intelligent Transportation Systems (2019)
-* Co-Chair - Transportation History Technical Committee, World Transport Convention (2019)
-
-**Journal Reviewer**
-
-* Case Studies on Transport Policy
-* Computer-Aided Civil and Infrastructure Engineering
-* Computers & Operations Research
-* IEEE Transactions on Intelligent Transportation Systems
-* IET Intelligent Transport Systems
-* Networks and Spatial Economics
-* Production and Operations Management
-* Research in Transportation Economics
-* Transport Policy
-* Transportation
-* Transportation Science
-* Transportation Research Part A: Policy and Practice
-* Transportation Research Part B: Methodological
-* Transportation Research Part C: Emerging Technologies
-* Transportation Research Part D: Transport and Environment
-* Transportation Research Part E: Logistics and Transportation Review
-* Transportation Research Record
-* Transportation Letters
-* Transportmetrica A: Transport Science
-* Transportmetrica B: Transport Dynamics
-* Travel Behaviour and Society
-* Sustainability
-* Journal of Advanced Transportation
-* Journal of Choice Modelling
-* Journal of Retailing and Consumer Services
-* Journal of Transport Economics and Policy (JTEP)
-* Journal of Transportation Engineering (ASCE)
-* Journal of Transportation Safety & Security
-* Advances in Mechanical Engineering
-
-**Scientific/Program Committee Member**
-
-* International Conference on Vehicle Technology and Intelligent Transport Systems
-* Transportation Science and Logistics Society Conference
-* European Association for Research in Transportation
-* Triennial Symposium on Transportation Analysis (TRISTAN)
-* International Conference on Transportation and Space-time Economics (TSTE)
-* mobil.TUM - International Scientific Conference on Mobility and Transport
