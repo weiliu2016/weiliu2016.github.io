@@ -23,16 +23,16 @@ Research Group
 ======
 - **Current members**\
   Runfa Wu (Postdoctoral fellow, 2023/2024 S1, from Central South University, China)\
-  Huayu Xu (PhD student, 2024/2025 S1, from Shandong University & National University of Singapore, Singapore)\
-  Min Yan (PhD student, 2023/2024 S2, from Shenzhen University & Harbin Institute of Technology, China)\
+  Huayu Xu (PhD student, 2024/2025 S1, from National University of Singapore, Singapore)\
+  Min Yan (PhD student, 2023/2024 S2, from Harbin Institute of Technology, China)\
   Xintong Li (PhD student, 2023/2024 S1, from Central South University, China)\
-  Xinyi Zhu (PhD student, 2023/2024 S1, from Dalian Maritime University & Shanghai Jiao Tong University, China)\
+  Xinyi Zhu (PhD student, 2023/2024 S1, from Shanghai Jiao Tong University, China)\
   Yuzhen Feng (PhD student, 2023/2024 S1, from Tongji University, China)\
   Yihan Gao (PhD student, 2023/2024 S1, from Central South University, China)\
   Xuanji Long (MPhil student, 2022/2023 S3, from Central South University, China)\
   Mingzhi Lyu (PhD student, 2022/2023 S3, from University of New South Wales, Sydney, Australia)\
-  Yufan Zuo (PhD student, 2022/2023 S1, from Central South University & Southeast University, China)\
-  Qingying He (PhD student, 2022/2023 S1, from Northeastern University & University of Edinburgh, UK)
+  Yufan Zuo (PhD student, 2022/2023 S1, from Southeast University, China)\
+  Qingying He (PhD student, 2022/2023 S1, from University of Edinburgh, UK)
   
 - **Former members**\
   Yihan Gao (Research Assistant, 2022/2023 S1 - 2022/2-23 S3)\
