@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei Liu / Homepage"
+title                    : "Multi-Modal Mobility Research Group"
 title_separator          : "-"
 name                     : &name "Wei Liu"
-description              : &description "Associate Professor"
+description              : &description "Associate Professor and Associate Head"
 description              : &description "Department of Aeronautical and Aviation Engineering"
 description              : &description "Faculty of Engineering"
 description              : &description "The Hong Kong Polytechnic University"
@@ -43,7 +43,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "wei.liu@unsw.edu.au"
+    email                : "wei.w.liu@polyu.edu.hk"
   generatedFields:
     date:
       type               : "date"
@@ -86,8 +86,8 @@ author:
   name             : "Dr. Wei Liu"
   avatar           : "WeiLiu.jpg"
   bio              : |
-    Associate Professor <br>
-    Aeronautical and Aviation Engineering <br>
+    Associate Professor and Associate Head <br>
+    Department of Aeronautical and Aviation Engineering <br>
     The Hong Kong Polytechnic University <br>
   location         : "Hong Kong"
   employer         : "PolyU"
