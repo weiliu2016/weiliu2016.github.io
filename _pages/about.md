@@ -23,27 +23,28 @@ Research Group
 ======
 - **Current members**\
   Runfa Wu (Postdoctoral fellow, 2023/2024 S1, from Central South University, China)\
-  Min Yan (PhD student, 2023/2024 S2, from Harbin Institute of Technology, China)\
+  Huayu Xu (PhD student, 2024/2025 S1, from Shandong University & National University of Singapore, Singapore)\
+  Min Yan (PhD student, 2023/2024 S2, from Shenzhen University & Harbin Institute of Technology, China)\
   Xintong Li (PhD student, 2023/2024 S1, from Central South University, China)\
-  Xinyi Zhu (PhD student, 2023/2024 S1, from Shanghai Jiao Tong University, China)\
+  Xinyi Zhu (PhD student, 2023/2024 S1, from Dalian Maritime University & Shanghai Jiao Tong University, China)\
   Yuzhen Feng (PhD student, 2023/2024 S1, from Tongji University, China)\
   Yihan Gao (PhD student, 2023/2024 S1, from Central South University, China)\
   Xuanji Long (MPhil student, 2022/2023 S3, from Central South University, China)\
-  Mingzhi Lyu (PhD student, 2022/2023 S3, from UNSW Sydney, Australia)\
-  Yufan Zuo (PhD student, 2022/2023 S1, from Southeast University, China)\
-  Qingying He (PhD student, 2022/2023 S1, from University of Edinburgh, UK)
+  Mingzhi Lyu (PhD student, 2022/2023 S3, from University of New South Wales, Sydney, Australia)\
+  Yufan Zuo (PhD student, 2022/2023 S1, from Central South University & Southeast University, China)\
+  Qingying He (PhD student, 2022/2023 S1, from Northeastern University & University of Edinburgh, UK)
   
 - **Former members**\
-  Yihan Gao (Research Assistant, 2022/2023 S1 - 2022/2-23 S3, from Central South University, China)\
-  Mingzhi Lyu (Research Assistant, 2022/2023 S1 - 2022/2023 S2, from UNSW Sydney, Australia)\
-  Kai Xu (PhD, 2019 T3 - 2023 T1, from South China University of Technology, China) - Ride-sourcing markets with order cancellations\
-  Mingyou Ma (PhD, 2019 T2 - 2022 T3, from UNSW Sydney, Australia) - Comodality: Integrated passegner and freight transportation\
-  Bangyang Wei (PhD, 2019 T1 - 2022 T2, from Shanghai Jiao Tong University, China) - Ride-sharing modeling and management\
-  Can Li (PhD, 2019 T1 - 2022 T2, from Rutgers University, US) - Data-driven mobility analytics and forecasting\
-  Tanapon Lilasathapornkit (PhD, 2018 T2 - 2022 T2, from UNSW Sydney, Australia) - Modeling and simulation of pedestrian traffic flow\
-  Haoning Xi (PhD, 2019 T3 - 2022 T1, from Tsinghua University, China) - Mobility as a service and resource allocation\
-  Yuhui Chen (MPhil, 2020 T1 - 2021 T3, from UNSW Sydney, Australia) - Ride-sourcing in multimodal networks\
-  Runqing Zhao (MPhil, 2019 T3 - 2022 T1, from UNSW Sydney, Australia) - Mobility service network design for airport bus shuttle and air metro
+  Yihan Gao (Research Assistant, 2022/2023 S1 - 2022/2-23 S3)\
+  Mingzhi Lyu (Research Assistant, 2022/2023 S1 - 2022/2023 S2)\
+  Kai Xu (PhD, 2019 T3 - 2023 T1) - Ride-sourcing markets with order cancellations\
+  Mingyou Ma (PhD, 2019 T2 - 2022 T3) - Comodality: Integrated passegner and freight transportation\
+  Bangyang Wei (PhD, 2019 T1 - 2022 T2) - Ride-sharing modeling and management\
+  Can Li (PhD, 2019 T1 - 2022 T2) - Data-driven mobility analytics and forecasting\
+  Tanapon Lilasathapornkit (PhD, 2018 T2 - 2022 T2) - Modeling and simulation of pedestrian traffic flow\
+  Haoning Xi (PhD, 2019 T3 - 2022 T1) - Mobility as a service and resource allocation\
+  Yuhui Chen (MPhil, 2020 T1 - 2021 T3) - Ride-sourcing in multimodal networks\
+  Runqing Zhao (MPhil, 2019 T3 - 2022 T1) - Mobility service network design for airport bus shuttle and air metro
 
 - **Academic visitors**\
   Zhengrong Liu (2023.08-2023.09, PhD student, from Tsinghua University, China)\
