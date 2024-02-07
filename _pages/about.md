@@ -58,9 +58,9 @@ Group Members & Affiliates
 - **Academic visitors**\
   Zhengrong Liu (2023.08-2023.09, PhD student, from Tsinghua University, China)\
   Jing Xu (2022.12-2023.12, PhD student, from Central South University, China)\
-  Mingyou Ma (2022.05-2022.12, PhD student, from UNSW Sydney, Australia)\
+  Mingyou Ma (2022.05-2022.12, PhD student, from University of New South Wales, Sydney, Australia)\
   Yihan Gao (2022.01-2022.04, MPhil student, from Central South University, China)\
-  Wei Wu (2018.11-2019.11, Associcate Professor, from Changsha University of Science and Technology, China)
+  Wei Wu (2018.11-2019.11, Associate Professor, from Changsha University of Science and Technology, China)
 
 Selected Working Papers
 ======
