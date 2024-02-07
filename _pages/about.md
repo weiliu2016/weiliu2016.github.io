@@ -31,6 +31,7 @@ Group Members & Affiliates
 ======
 - **Current members**\
   Runfa Wu (Postdoctoral fellow, 2023/2024 S1, from Central South University, China)\
+  Haoyi Fei (PhD student, 2024/2025 S1, from University of Hong Kong, Hong Kong, China)\
   Huayu Xu (PhD student, 2024/2025 S1, from National University of Singapore, Singapore)\
   Min Yan (PhD student, 2023/2024 S2, from Harbin Institute of Technology, China)\
   Xintong Li (PhD student, 2023/2024 S1, from Central South University, China)\
@@ -40,7 +41,7 @@ Group Members & Affiliates
   Xuanji Long (MPhil student, 2022/2023 S3, from Central South University, China)\
   Mingzhi Lyu (PhD student, 2022/2023 S3, from University of New South Wales, Sydney, Australia)\
   Yufan Zuo (PhD student, 2022/2023 S1, from Southeast University, China)\
-  Qingying He (PhD student, 2022/2023 S1, from University of Edinburgh, UK)
+  Qingying He (PhD student, 2022/2023 S1, from University of Edinburgh, United Kingdom)
   
 - **Former members**\
   Yihan Gao (Research Assistant, 2022/2023 S1 - 2022/2-23 S3)\
