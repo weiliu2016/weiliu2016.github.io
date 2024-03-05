@@ -91,9 +91,9 @@ Selected Working Papers
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - Xu, K., Saberi, M., Wang, X., **Liu, W.** Vehicle sharing strategies for ridesourcing platforms.
 - Xu, K., Saberi, M., **Liu, W.** Economic analysis of ridesourcing market considering driver's order cancellation and platform subsidy.
-- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Unsupervised knowledge adaptation for passenger demand forecasting.
+- Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. Knowledge Adaptation with Model Sharing for Passenger Demand Forecasting.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Can urban co-modality benefit both users and operators?.
-- Zhang, Z., **Liu, W.**, Yang, H. Service differentiation in a two-sided market of shared parking.
+- Zhang, Z., Zhang, F., **Liu, W.**, Yang, H. On the service differentiation of parking sharing.
 - Wei, T., Xu, G., **Liu, W.**, Zhang, F., Yang, H., Batley, R. Time-varying demand distribution estimation for high-speed railway by ticket booking data.
 
 Selected Publications
