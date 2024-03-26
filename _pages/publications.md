@@ -22,6 +22,7 @@ Book Chapter
 
 Journal Publication
 ----------
+* [81] Xu, K., Saberi, M., Liu, T.L., **Liu, W.** (2024) Economic analysis of ridesourcing markets considering driver order cancellation and platform subsidy. Travel Behaviour and Society, 36, 100795. ([Download](https://doi.org/10.1016/j.tbs.2024.100795))
 * [80] Chen, S., Wu, L., Ng, K., **Liu, W.**, Wang, K. (2024) How airports enhance the environmental sustainability of operations: A critical review from the perspective of Operations Research. Transportation Research Part E: Logistics and Transportation Review, 183, 103440. ([Download](https://doi.org/10.1016/j.tre.2024.103440))
 * [79] Xu, G., Zhong, L., **Liu, W.**, Guo, J. (2024) A flexible train composition strategy with extra-long trains for high-speed railway corridors with time-varying demand. Transportation Research Part B: Methodological, 179, 102875. ([Download](https://doi.org/10.1016/j.trb.2023.102875))
 * [78] Su, H., Wang, X., **Liu, W.**, Zhang, X., Xu, M. (2024) Modelling and accelerating the passenger evacuation process in a bi-modal system with bus and e-hailing modes after mass gathering events. Travel Behaviour and Society, 35, 100713. ([Download](https://doi.org/10.1016/j.tbs.2023.100713))
