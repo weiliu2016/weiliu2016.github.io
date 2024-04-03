@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "$M^3$: Multi-Modal Mobility"
+title                    : "M$^3$: Multi-Modal Mobility"
 title_separator          : "-"
 name                     : &name "Wei Liu"
 description              : &description "Associate Professor and Associate Head"
