@@ -30,38 +30,40 @@ PhD Positions and Academic Visitors
 Group Members & Affiliates
 ======
 - **Current members**\
-  Runfa Wu (Postdoctoral fellow, 2023/2024 S1, from Central South University, China)\
-  Haoyi Fei (PhD student, 2024/2025 S1, from University of Hong Kong, Hong Kong, China)\
-  Huayu Xu (PhD student, 2024/2025 S1, from National University of Singapore, Singapore)\
-  Ziyu Gu (PhD student, 2024/2025 S1, from Nanjing University of Aeronautics and Astronautics, Nanjing, China)\
-  Min Yan (PhD student, 2023/2024 S2, from Harbin Institute of Technology, China)\
-  Xintong Li (PhD student, 2023/2024 S1, from Central South University, China)\
-  Xinyi Zhu (PhD student, 2023/2024 S1, from Shanghai Jiao Tong University, China)\
-  Yuzhen Feng (PhD student, 2023/2024 S1, from Tongji University, China)\
-  Yihan Gao (PhD student, 2023/2024 S1, from Central South University, China)\
-  Xuanji Long (MPhil student, 2022/2023 S3, from Central South University, China)\
-  Mingzhi Lyu (PhD student, 2022/2023 S3, from University of New South Wales, Sydney, Australia)\
-  Yufan Zuo (PhD student, 2022/2023 S1, from Southeast University, China)\
-  Qingying He (PhD student, 2022/2023 S1, from University of Edinburgh, United Kingdom)
+  **Runfa Wu** (Postdoctoral fellow, 2023/2024 S1 - present), PhD from Central South University and Joint PhD training from Nanyang Technological University, Singapore\
+  **Haoyi Fei** (PhD student, 2024/2025 S1 - present), Bachelor's degree from Sichuan University andd Master's degree from University of Hong Kong\
+  **Huayu Xu** (PhD student, 2024/2025 S1 - present), Bachelor's degree from Shandong University and Master's degree from National University of Singapore\
+  **Ziyu Gu** (PhD student, 2024/2025 S1 - present), Bachelor's degree and Master's degree from Nanjing University of Aeronautics and Astronautics\
+  **Xinyi Liu** (PhD student, 2024/2025 S1 - present), Bachelor's degree from Chang'an University and Master's degree from Central South University\
+  **Min Yan** (PhD student, 2023/2024 S2 - present, PolyU Presidential PhD Fellowship), Bachelor's degree from Shenzhen University and Master's degree from Harbin Institute of Technology\
+  **Xintong Li** (PhD student, 2023/2024 S1 - present), Bachelor's degree and Master's degree from Central South University\
+  **Xinyi Zhu** (PhD student, 2023/2024 S1 - present, PolyU Presidential PhD Fellowship), Bachelor's degree from Dalian Maritime University and Master's degree from Shanghai Jiao Tong University\
+  **Yuzhen Feng** (PhD student, 2023/2024 S1 - present, Hong Kong PhD Fellowship), Bachelor's degree from Tongji University\
+  **Yihan Gao** (PhD student, 2023/2024 S1 - present), Bachelor's degree and Master's degree from Central South University\
+  **Xuanji Long** (MPhil student, 2022/2023 S3 - present), Bachelor's degree from Central South University\
+  **Mingzhi Lyu** (PhD student, 2022/2023 S3 - present), Bachelor's degree from University of New South Wales, Sydney\
+  **Bolong Zhou** (Visiting PhD student, 2022/2023 S1 - present), Bachelor's degree from The Hong Kong Polytechnic University\
+  **Yufan Zuo** (PhD student, 2022/2023 S1 - present, PolyU Presidential PhD Fellowship), Bachelor's degree from Central South University and Master's degree from Southeast University\
+  **Qingying He** (PhD student, 2022/2023 S1 - present), Bachelor's degree from Northeastern University & Master's dgree from University of Edinburgh
   
 - **Former members**\
-  Yihan Gao (Research Assistant, 2022/2023 S1 - 2022/2-23 S3)\
-  Mingzhi Lyu (Research Assistant, 2022/2023 S1 - 2022/2023 S2)\
-  Kai Xu (PhD, 2019 T3 - 2023 T1) - Ride-sourcing markets with order cancellations\
-  Mingyou Ma (PhD, 2019 T2 - 2022 T3) - Comodality: Integrated passegner and freight transportation\
-  Bangyang Wei (PhD, 2019 T1 - 2022 T2) - Ride-sharing modeling and management\
-  Can Li (PhD, 2019 T1 - 2022 T2) - Data-driven mobility analytics and forecasting\
-  Tanapon Lilasathapornkit (PhD, 2018 T2 - 2022 T2) - Modeling and simulation of pedestrian traffic flow\
-  Haoning Xi (PhD, 2019 T3 - 2022 T1) - Mobility as a service and resource allocation\
-  Yuhui Chen (MPhil, 2020 T1 - 2021 T3) - Ride-sourcing in multimodal networks\
-  Runqing Zhao (MPhil, 2019 T3 - 2022 T1) - Mobility service network design for airport bus shuttle and air metro
+  **Yihan Gao** (Research Assistant, 2022/2023 S1 - 2022/2-23 S3)\
+  **Mingzhi Lyu** (Research Assistant, 2022/2023 S1 - 2022/2023 S2)\
+  **Kai Xu** (PhD, 2019 T3 - 2023 T1) - Modeling and Management of Ridesourcing Services with Order Cancellation and Platform Collaboration\
+  **Mingyou Ma** (PhD, 2019 T2 - 2022 T3) - Modelling and Managing Integrated Public Transport System for Passengers and Freight\
+  **Bangyang Wei** (PhD, 2019 T1 - 2022 T2) - Modeling and Managing a Transportation System With Shared Mobility Services\
+  **Can Li** (PhD, 2019 T1 - 2022 T2) - Urban Mobility Analytics: Understanding, Inference and Forecasting\
+  **Tanapon Lilasathapornkit** (PhD, 2018 T2 - 2022 T2) - Network Modeling for Walking Infrastructure: Developing Pedestrian Traffic Assignment Methodologies for Large-Scale Footpath Networks\
+  **Haoning Xi** (PhD, 2019 T3 - 2022 T1) - Optimization Methods for Mobility Resource Allocation, Pricing and Demand Management in Mobility-as-a-Service Systems\
+  **Yuhui Chen** (MPhil, 2020 T1 - 2021 T3) - Modeling ride-sourcing and public transport services in a multi-modal network with multi-class users\
+  **Runqing Zhao** (MPhil, 2019 T3 - 2022 T1) - Service network design for emerging modes in air transport: autonomous airport inter-terminal bus shuttle and air metro
 
 - **Academic visitors**\
-  Zhengrong Liu (2023.08-2023.09, PhD student, from Tsinghua University, China)\
-  Jing Xu (2022.12-2023.12, PhD student, from Central South University, China)\
-  Mingyou Ma (2022.05-2022.12, PhD student, from University of New South Wales, Sydney, Australia)\
-  Yihan Gao (2022.01-2022.04, MPhil student, from Central South University, China)\
-  Wei Wu (2018.11-2019.11, Associate Professor, from Changsha University of Science and Technology, China)
+  **Zhengrong Liu** (2023.08-2023.09, PhD student from Tsinghua University, China)\
+  **Jing Xu** (2022.12-2023.12, PhD student from Central South University, China)\
+  **Mingyou Ma** (2022.05-2022.12, PhD student from University of New South Wales, Sydney, Australia)\
+  **Yihan Gao** (2022.01-2022.04, MPhil student from Central South University, China)\
+  **Wei Wu** (2018.11-2019.11, Associate Professor from Changsha University of Science and Technology, China)
 
 Selected Working Papers
 ======
@@ -83,7 +85,6 @@ Selected Working Papers
 - Waller, S.T., He, Q., **Liu, W.** Rapid post-disruption assessment of transportation network capacity and demand distribution under limited information.
 - Xu, G., Zhou, P., **Liu, W.**, Gao, Y. Optimization of seat allocation scheme for railway systems considering social equity.
 - Xu, J., Deng, L., Gao, Y., **Liu, W.** Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty.
-- Jin, Z., Ng, K., Zhang, C., **Liu, W.**, Zhang, F., Xu, G. A risk-averse distributionally robust optimisation approach for drone-supported relief facility location problem.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Group-based Railway Seat Allocation Considering the Risk of Virus Transmission.
 - Wu, W., Zeng, B., Sun, J., **Liu, W.**, Waller, S.T. Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
