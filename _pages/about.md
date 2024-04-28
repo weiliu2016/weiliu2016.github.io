@@ -67,6 +67,14 @@ Group Members & Affiliates
 
 Selected Working Papers
 ======
+- Zhu, X., **Liu, W.** Resource allocation in air-rail-integrated co-modality under both demand and supply uncertainties.
+- Zuo, Y., **Liu, W.** Air cargo allocation to passenger airlines considering supply and demand uncertainty.
+- Long, X., **Liu, W.** Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach.
+- Feng, Y., **Liu, W.** High-speed rail capacity allocation and pricing under passengers' access time uncertainty: Flexible ticket or reserved seat?.
+- Lyu, M., **Liu, W.** Routing design of multifunction drones in urban multi-service network.
+- Li, X., **Liu, W.** Online coordinated vehicle-drone path planning for urban healthcare delivery services.
+- Gao, Y., **Liu, W.** Robust planning of bus fleet electrification and charging facility deployment over multi-period.
+- He, Q., **Liu, W.** Fleet management with electric vehicles: integration of ride, parcel delivery, and vehicle-to-grid services.
 - Li, C., **Liu, W.**, Yang, H. Deep Causal Inference for Understanding the Impact of Meteorological Variations on Traffic.
 - He, Q., Wu, L., **Liu, W.**, Ma, Y. Coordinated path planning of UAVs and USVs for maritime monitoring.
 - Lyu, M., He, Q., **Liu, W.**, Wu, L. Urban food delivery service optimisation with delivery riders and drones.
