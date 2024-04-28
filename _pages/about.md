@@ -42,7 +42,6 @@ Group Members & Affiliates
   **Yihan Gao** (PhD student, 2023/2024 S1 - present), Bachelor's degree and Master's degree from Central South University\
   **Xuanji Long** (MPhil student, 2022/2023 S3 - present), Bachelor's degree from Central South University\
   **Mingzhi Lyu** (PhD student, 2022/2023 S3 - present), Bachelor's degree from University of New South Wales, Sydney\
-  **Bolong Zhou** (Visiting PhD student, 2022/2023 S1 - present), Bachelor's degree from The Hong Kong Polytechnic University\
   **Yufan Zuo** (PhD student, 2022/2023 S1 - present, PolyU Presidential PhD Fellowship), Bachelor's degree from Central South University and Master's degree from Southeast University\
   **Qingying He** (PhD student, 2022/2023 S1 - present), Bachelor's degree from Northeastern University & Master's dgree from University of Edinburgh
   
