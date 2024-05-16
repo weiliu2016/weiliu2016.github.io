@@ -31,6 +31,7 @@ Group Members & Affiliates
 ======
 - **Current members**\
   **Runfa Wu** (Postdoctoral fellow, 2023/2024 S1 - present), PhD from Central South University and Joint PhD training from Nanyang Technological University, Singapore\
+  **Jing Li** (Southest-PolyU Dual PhD student, 2024/2025 S1 - present), Bachelor's degree from Tianjin University)\
   **Haoyi Fei** (PhD student, 2024/2025 S1 - present), Bachelor's degree from Sichuan University andd Master's degree from University of Hong Kong\
   **Huayu Xu** (PhD student, 2024/2025 S1 - present), Bachelor's degree from Shandong University and Master's degree from National University of Singapore\
   **Ziyu Gu** (PhD student, 2024/2025 S1 - present), Bachelor's degree and Master's degree from Nanjing University of Aeronautics and Astronautics\
@@ -96,7 +97,6 @@ Selected Working Papers
 - Wu, W., Zeng, B., Sun, J., **Liu, W.**, Waller, S.T. Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
 - Zhang, Z., Zhang, F., **Liu, W.** Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
-- Gong, Z., Zhang, F., **Liu, W.** Residential location choices and commuting patterns considering telecommuting.
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - Xu, K., Saberi, M., Wang, X., **Liu, W.** Vehicle sharing strategies for ridesourcing platforms.
 - Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.**. Knowledge Adaptation with Model Sharing for Passenger Demand Forecasting.
