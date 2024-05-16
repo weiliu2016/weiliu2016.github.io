@@ -22,7 +22,7 @@ Book Chapter
 
 Journal Publication
 ----------
-* [83] Gong, Z., Zhang, F., **Liu, W.** (2024) Residential location choices and commuting patterns considering telecommuting. Transport Policy, in press. ([Download](https://doi.org/10.1016/j.tranpol.2024.xx.xxx))
+* [83] Gong, Z., **Liu, W.**, Zhang, F. (2024) Residential location choices and commuting patterns considering telecommuting. Transport Policy, in press. ([Download](https://doi.org/10.1016/j.tranpol.2024.05.010))
 * [82] Jin, Z., Ng, K., Zhang, C., **Liu, W.**, Zhang, F., Xu, G. (2024) A risk-averse distributionally robust optimisation approach for drone-supported relief facility location problem. Transportation Research Part E: Logistics and Transportation Review, 103538. ([Download](https://doi.org/10.1016/j.tre.2024.103538))
 * [81] Xu, K., Saberi, M., Liu, T.L., **Liu, W.** (2024) Economic analysis of ridesourcing markets considering driver order cancellation and platform subsidy. Travel Behaviour and Society, 36, 100795. ([Download](https://doi.org/10.1016/j.tbs.2024.100795))
 * [80] Chen, S., Wu, L., Ng, K., **Liu, W.**, Wang, K. (2024) How airports enhance the environmental sustainability of operations: A critical review from the perspective of Operations Research. Transportation Research Part E: Logistics and Transportation Review, 183, 103440. ([Download](https://doi.org/10.1016/j.tre.2024.103440))
