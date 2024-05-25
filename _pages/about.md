@@ -31,8 +31,8 @@ Group Members & Affiliates
 ======
 - **Current members**\
   **Runfa Wu** (Postdoctoral fellow, 2023/2024 S1 - present), PhD from Central South University and Joint PhD training from Nanyang Technological University, Singapore\
-  **Jing Li** (Southest-PolyU Dual PhD student, 2024/2025 S1 - present), Bachelor's degree from Tianjin University)\
-  **Haoyi Fei** (PhD student, 2024/2025 S1 - present), Bachelor's degree from Sichuan University andd Master's degree from University of Hong Kong\
+  **Jing Li** (Southest-PolyU Dual PhD Degree student, 2024/2025 S1 - present), Bachelor's degree from Tianjin University)\
+  **Haoyi Fei** (PhD student, 2024/2025 S1 - present), Bachelor's degree from Sichuan University and Master's degree from University of Hong Kong\
   **Huayu Xu** (PhD student, 2024/2025 S1 - present), Bachelor's degree from Shandong University and Master's degree from National University of Singapore\
   **Ziyu Gu** (PhD student, 2024/2025 S1 - present), Bachelor's degree and Master's degree from Nanjing University of Aeronautics and Astronautics\
   **Xinyi Liu** (PhD student, 2024/2025 S1 - present), Bachelor's degree from Chang'an University and Master's degree from Central South University\
@@ -85,7 +85,7 @@ Selected Working Papers
 - Qin, X., Yang, H., **Liu, W.** Upgrading in ride-sourcing markets with multi-class services.
 - Zhong, L., Xu, G., Liu, X., **Liu, W.**, Yang, H. Destination-to-Gate Assignment in Oversaturated Metro Line: A New Passenger Flow Control Approach.
 - Liu, B., Ma, X., **Liu, W.**, Ma, Z. Enhancing a carbon-trading incentive scheme for mode shifts in multi-modal transportation systems.
-- Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Optimizing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
+- Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
 - Zuo, Y., Liu, T.L., **Liu, W.** On the competition and collaboration in a multi-airport system considering ground connection between airports.
 - Liu, Q., **Liu, W.**, Jiang, R., Han, X. On the morning commute problem with mixed autonomous vehicles and human-driven vehicles traffic under stochastic bottleneck capacity.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Integrated Optimization of Train Stopping Plan, Scheduling, and Seat Allocation for High-speed Railway Systems with Social Distancing Measures.
