@@ -107,8 +107,8 @@ Selected Working Papers
 Selected Publications
 ======
 - Xu, G., Zhong, L., **Liu, W.** Guo, J. (2024) A flexible train composition strategy with extra-long trains for high-speed railway corridors with time-varying demand. **Transportation Research Part B: Methodological**, 179, 102875.
-- Li, C., **Liu, W.** (2023) Multimodal Transport Demand Forecasting via Federated Learning. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
-- Sun, W., Zhang, F., **Liu, W.**, He, Q. (2023) Optimal control of connected autonomous vehicles in a mixed traffic corridor. **IEEE Transactions on Intelligent Transportation Systems**, forthcoming.
+- Li, C., **Liu, W.** (2024) Multimodal Transport Demand Forecasting via Federated Learning. **IEEE Transactions on Intelligent Transportation Systems**, 25(5), 4009-4020.
+- Sun, W., Zhang, F., **Liu, W.**, He, Q. (2024) Optimal control of connected autonomous vehicles in a mixed traffic corridor. **IEEE Transactions on Intelligent Transportation Systems**, 25(5), 4206-4218.
 - Xu, G., Gao, Y., **Liu, W.** (2023) Pareto-improving seat allocation for high-speed railway networks with equilibrium flows. **Transportation Research Part C: Emerging Technologies**, 154, 104261.
 - Ma, M., **Liu, W.**, Zhang, F., Dixit, V. (2023) On urban co-modality: Competition and cooperation among freight forwarder, freight carrier and transit operator. **Transportation Research Part C: Emerging Technologies**, 153, 104234.
 - Xi, H., **Liu, W.**, Waller, S.T., Hensher, D., Kilby, P., Rey, D. (2023) Incentive-compatible mechanisms for online resource allocation in Mobility-as-a-Service systems. **Transportation Research Part B: Methodological**, 170, 119-147.
