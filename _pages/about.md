@@ -78,6 +78,7 @@ Selected Working Papers
 - Li, C., **Liu, W.**, Yang, H. Deep Causal Inference for Understanding the Impact of Meteorological Variations on Traffic.
 - He, Q., Wu, L., **Liu, W.**, Ma, Y. Coordinated path planning of UAVs and USVs for maritime monitoring.
 - Lyu, M., He, Q., **Liu, W.**, Wu, L. Urban food delivery service optimisation with delivery riders and drones.
+- Zhong, L., Xu, G., **Liu, W.**, Liu, Y. Train composition optimization using flexible composition strategy with extra-long trains: A stochastic programming approach.
 - Liu, T.L., Xu, P., Si, B., **Liu, W.** Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data.
 - Wang, S., Wang, X., Yang, C., Zhang, X.N., **Liu, W.** Optimizing OD-based up-front discounting strategies for dynamic ride-pooling services.
 - Xu, P., Liu, T.L., Tian, Q., Si, B., **Liu, W.**, Huang, H.J. Estimation of Schedule Preference and Crowding Perception in Urban Rail Corridor Commuting: An Inverse Optimization Method.
