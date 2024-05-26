@@ -85,7 +85,7 @@ Selected Working Papers
 - Xu, P., Liu, T.L., Tian, Q., Si, B., **Liu, W.**, Huang, H.J. Estimation of Schedule Preference and Crowding Perception in Urban Rail Corridor Commuting: An Inverse Optimization Method.
 - Zhong, L., Xu, G., **Liu, W.** Demand-driven and energy-efficient train timetable optimization with a flexible train composition strategy.
 - Qin, X., Yang, H., **Liu, W.** Upgrading in ride-sourcing markets with multi-class services.
-- Zhong, L., Xu, G., Liu, X., **Liu, W.**, Yang, H. Destination-to-Gate Assignment in Oversaturated Metro Line: A New Passenger Flow Control Approach.
+- Zhong, L., Xu, G., **Liu, W.**, Liu, Y., Liu, X. Destination-to-Gate Assignment in Oversaturated Metro Line: A New Passenger Flow Control Approach.
 - Liu, B., Ma, X., **Liu, W.**, Ma, Z. Enhancing a carbon-trading incentive scheme for mode shifts in multi-modal transportation systems.
 - Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
 - Zuo, Y., Liu, T.L., **Liu, W.** On the competition and collaboration in a multi-airport system considering ground connection between airports.
