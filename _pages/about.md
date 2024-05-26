@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Bio"
-excerpt: "Bio"
+title: "Wei Liu Biography"
+excerpt: "Wei Liu Biography"
 author_profile: true
 redirect_from: 
   - /about/
@@ -58,7 +58,8 @@ Group Members & Affiliates
   **Yuhui Chen** (MPhil, 2020 T1 - 2021 T3) - Modeling ride-sourcing and public transport services in a multi-modal network with multi-class users\
   **Runqing Zhao** (MPhil, 2019 T3 - 2022 T1) - Service network design for emerging modes in air transport: autonomous airport inter-terminal bus shuttle and air metro
 
-- **Academic visitors**\
+- **Visiting Scholars/Students**\
+  **Bolong Zhou** (2022.09-2026.08, PhD student from The Hong Kong University of Science and Technology, Hong Kong)\
   **Zhengrong Liu** (2023.08-2023.09, PhD student from Tsinghua University, China)\
   **Jing Xu** (2022.12-2023.12, PhD student from Central South University, China)\
   **Mingyou Ma** (2022.05-2022.12, PhD student from University of New South Wales, Sydney, Australia)\
