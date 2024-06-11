@@ -22,6 +22,7 @@ Book Chapter
 
 Journal Publication
 ----------
+* [84] Wang, S., Wang, X., Yang, C., Zhang, X.N., **Liu, W.** (2024) Optimizing OD-based up-front discounting strategies for dynamic ride-pooling services. Transportation Research Part B: Methodological, forthcoming. ([Download](https://doi.org/10.1016/j.trb.2024.xxxxxx))
 * [83] Gong, Z., **Liu, W.**, Zhang, F. (2024) Residential location choices and commuting patterns considering telecommuting. Transport Policy, 153, 54-67. ([Download](https://doi.org/10.1016/j.tranpol.2024.05.010))
 * [82] Jin, Z., Ng, K., Zhang, C., **Liu, W.**, Zhang, F., Xu, G. (2024) A risk-averse distributionally robust optimisation approach for drone-supported relief facility location problem. Transportation Research Part E: Logistics and Transportation Review, 186, 103538. ([Download](https://doi.org/10.1016/j.tre.2024.103538))
 * [81] Xu, K., Saberi, M., Liu, T.L., **Liu, W.** (2024) Economic analysis of ridesourcing markets considering driver order cancellation and platform subsidy. Travel Behaviour and Society, 36, 100795. ([Download](https://doi.org/10.1016/j.tbs.2024.100795))
