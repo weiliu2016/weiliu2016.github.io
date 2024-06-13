@@ -76,13 +76,15 @@ Selected Working Papers
 - Li, X., **Liu, W.** Online coordinated vehicle-drone path planning for urban healthcare delivery services.
 - Gao, Y., **Liu, W.** Robust planning of bus fleet electrification and charging facility deployment over multi-period.
 - He, Q., **Liu, W.** Fleet management with electric vehicles: integration of ride, parcel delivery, and vehicle-to-grid services.
+- Wu, W., Gong, H., Yang, X., **Liu, W.** Urban emergency facility location optimization: a two-stage stochastic model using multi-cut L-shaped method with valid inequalities.
+- Xiang, C., Mo, Y., **Liu, W.**, Wu, Z., Li, L. Path pool based transformer model in reinforcement framework for dynamic urban drone delivery problem.
 - Li, C., **Liu, W.**, Yang, H. Deep Causal Inference for Understanding the Impact of Meteorological Variations on Traffic.
 - He, Q., Wu, L., **Liu, W.**, Ma, Y. Coordinated path planning of UAVs and USVs for maritime monitoring.
-- Lyu, M., **Liu, W.**, He, Q., Wu, L. Urban food delivery service optimisation with delivery riders and drones.
+- Lyu, M., **Liu, W.**, He, Q., Wu, L. Urban food delivery service optimisation with coordinated delivery riders and drones.
 - Zhong, L., Xu, G., **Liu, W.**, Liu, Y. Train composition optimization using flexible composition strategy with extra-long trains: A stochastic programming approach.
 - Liu, T.L., Xu, P., Si, B., **Liu, W.** Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data.
 - Xu, P., Liu, T.L., Tian, Q., Si, B., **Liu, W.**, Huang, H.J. Estimation of Schedule Preference and Crowding Perception in Urban Rail Corridor Commuting: An Inverse Optimization Method.
-- Zhong, L., Xu, G., **Liu, W.** Demand-driven and energy-efficient train timetable optimization with a flexible train composition strategy.
+- Zhong, L., Xu, G., **Liu, W.** Energy-efficient and demand-driven train timetable optimization with a flexible train composition strategy.
 - Zhong, L., Xu, G., **Liu, W.**, Liu, Y., Liu, X. Destination-to-Gate Assignment in Oversaturated Metro Line: A New Passenger Flow Control Approach.
 - Liu, B., Ma, X., **Liu, W.**, Ma, Z. Enhancing a carbon-trading incentive scheme for mode shifts in multi-modal transportation systems.
 - Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
