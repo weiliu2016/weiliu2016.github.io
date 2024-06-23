@@ -84,7 +84,6 @@ Selected Working Papers
 - Zhong, L., Xu, G., **Liu, W.**, Liu, Y. Train composition optimization using flexible composition strategy with extra-long trains: A stochastic programming approach.
 - Liu, T.L., Xu, P., Si, B., **Liu, W.** Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data.
 - Xu, P., Liu, T.L., Tian, Q., Si, B., **Liu, W.**, Huang, H.J. Estimation of Schedule Preference and Crowding Perception in Urban Rail Corridor Commuting: An Inverse Optimization Method.
-- Zhong, L., Xu, G., **Liu, W.** Energy-efficient and demand-driven train timetable optimization with a flexible train composition strategy.
 - Zhong, L., Xu, G., **Liu, W.**, Liu, Y., Liu, X. Destination-to-Gate Assignment in Oversaturated Metro Line: A New Passenger Flow Control Approach.
 - Liu, B., Ma, X., **Liu, W.**, Ma, Z. Enhancing a carbon-trading incentive scheme for mode shifts in multi-modal transportation systems.
 - Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
