@@ -22,6 +22,7 @@ Book Chapter
 
 Journal Publication
 ----------
+* [86] Zhong, L., Xu, G., **Liu, W.** (2024) Energy-efficient and demand-driven train timetable optimization with a flexible train composition mode. Energy, forthcoming. ([Download](https://doi.org/10.1016/j.energy.2024.xxxxxx))
 * [85] Wang, S., Wang, X., Yang, C., Zhang, X.N., **Liu, W.** (2024) Optimizing OD-based up-front discounting strategies for dynamic ride-pooling services. Transportation Research Part B: Methodological, forthcoming. ([Download](https://doi.org/10.1016/j.trb.2024.xxxxxx))
 * [84] Qin, X., Yang, H., **Liu, W.** (2024) Upgrading in ride-sourcing markets with multi-class services, Travel Behaviour and Society, 37, 100845. ([Download](https://doi.org/10.1016/j.tbs.2024.100845))
 * [83] Gong, Z., **Liu, W.**, Zhang, F. (2024) Residential location choices and commuting patterns considering telecommuting. Transport Policy, 153, 54-67. ([Download](https://doi.org/10.1016/j.tranpol.2024.05.010))
