@@ -22,6 +22,7 @@ Book Chapter
 
 Journal Publication
 ----------
+* [88] Li, C., **Liu, W.**, Yang, H. (2024) Deep Causal Inference for Understanding the Impact of Meteorological Variations on Traffic. Transportation Research Part C: Emerging Technologies, 104406. ([Download](https://doi.org/10.1016/j.trc.2024.104744)) 
 * [87] Zhong, L., Xu, G., **Liu, W.** (2024) Energy-efficient and demand-driven train timetable optimization with a flexible train composition mode. Energy, 305, 132183. ([Download](https://doi.org/10.1016/j.energy.2024.132183))
 * [86] Liu, T.L., Xu, P., Si, B., **Liu, W.** (2024) Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data. Transportation Research Part B: Methodological, forthcoming. ([Download](https://doi.org/10.1016/j.trb.2024.xxxxxx))
 * [85] Wang, S., Wang, X., Yang, C., Zhang, X.N., **Liu, W.** (2024) Optimizing OD-based up-front discounting strategies for dynamic ride-pooling services. Transportation Research Part B: Methodological, forthcoming. ([Download](https://doi.org/10.1016/j.trb.2024.xxxxxx))
