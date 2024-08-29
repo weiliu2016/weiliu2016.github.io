@@ -20,6 +20,43 @@ Book Chapter
 ----------
 * [1] **Liu, W.**, Zhang, F., Wang, X., Tang, Y. (2023) A review of selected transport pricing, funding and financing issues in Asia. Handbook on Transport Pricing and Financing, edited by Alejandro Tirachini, Daniel Hörcher, Erik Verhoef, 380-393.
 
+Selected Working Papers
+----------
+- Zhu, X., **Liu, W.** Resource allocation in air-rail-integrated co-modality under both demand and supply uncertainties.
+- Zuo, Y., **Liu, W.** Air cargo allocation to passenger airlines considering supply and demand uncertainty.
+- Long, X., Lyu, M., **Liu, W.** Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach.
+- Feng, Y., **Liu, W.**, Xu, G. High-speed rail capacity allocation and pricing under passengers' access time uncertainty: Flexible ticket or reserved seat?.
+- Lyu, M., **Liu, W.** Routing design of multifunction drones in urban multi-service network.
+- Li, X., **Liu, W.** Online coordinated vehicle-drone path planning for urban healthcare delivery services.
+- Gao, Y., **Liu, W.** Robust planning of bus fleet electrification and charging facility deployment over multi-period.
+- He, Q., **Liu, W.** Fleet management with electric vehicles: integration of ride, parcel delivery, and vehicle-to-grid services.
+- Wu, W., Gong, H., Yang, X., **Liu, W.** Urban emergency facility location optimization: a two-stage stochastic model using multi-cut L-shaped method with valid inequalities.
+- Xiang, C., Mo, Y., **Liu, W.**, Wu, Z., Li, L. Path pool based transformer model in reinforcement framework for dynamic urban drone delivery problem.
+- He, Q., Wu, L., **Liu, W.**, Ma, Y. Coordinated path planning of UAVs and USVs for maritime monitoring.
+- Lyu, M., **Liu, W.**, He, Q., Wu, L. Urban food delivery service optimisation with coordinated delivery riders and drones.
+- Zhong, L., Xu, G., **Liu, W.**, Liu, Y. Train composition optimization using flexible composition strategy with extra-long trains: A stochastic programming approach.
+- Liu, T.L., Xu, P., Si, B., **Liu, W.** Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data.
+- Zhong, L., Xu, G., **Liu, W.**, Liu, Y., Liu, X. Destination-to-Gate Assignment in Oversaturated Metro Line: A New Passenger Flow Control Approach.
+- Liu, B., Ma, X., **Liu, W.**, Ma, Z. Enhancing a carbon-trading incentive scheme for mode shifts in multi-modal transportation systems.
+- Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
+- Zuo, Y., Liu, T.L., **Liu, W.** On the competition and collaboration in a multi-airport system considering ground connection between airports.
+- Liu, Q., **Liu, W.**, Jiang, R., Han, X. On the morning commute problem with mixed autonomous vehicles and human-driven vehicles traffic under stochastic bottleneck capacity.
+- Xu, G., Liu, X., Zhong, L., **Liu, W.** Integrated Optimization of Train Stopping Plan, Scheduling, and Seat Allocation for High-speed Railway Systems with Social Distancing Measures.
+- Li, C., **Liu, W.**, Yang, H. Simultaneous Multimodal Demand Imputation and Forecasting via Graph-guided Generative Network.
+- Waller, S.T., He, Q., **Liu, W.** Rapid post-disruption assessment of transportation network capacity and demand distribution under limited information.
+- Xu, G., Zhou, P., **Liu, W.**, Gao, Y. Optimization of seat allocation scheme for railway systems considering social equity.
+- Xu, J., Deng, L., Gao, Y., **Liu, W.** Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty.
+- Xu, G., Liu, X., Zhong, L., **Liu, W.** Group-based Railway Seat Allocation Considering the Risk of Virus Transmission.
+- Wu, W., Zeng, B., Sun, J., **Liu, W.**, Waller, S.T. Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
+- Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
+- Zhang, Z., Zhang, F., **Liu, W.** Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
+- Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
+- Xu, K., Saberi, M., Wang, X., **Liu, W.** Vehicle sharing strategies for ridesourcing platforms.
+- Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.**. Knowledge Adaptation with Model Sharing for Passenger Demand Forecasting.
+- Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Can urban co-modality benefit both users and operators?.
+- Zhang, Z., Zhang, F., **Liu, W.**, Yang, H. On the service differentiation of parking sharing.
+
+
 Journal Publication
 ----------
 * [88] Li, C., **Liu, W.**, Yang, H. (2024) Deep Causal Inference for Understanding the Impact of Meteorological Variations on Traffic. Transportation Research Part C: Emerging Technologies, 104406. ([Download](https://doi.org/10.1016/j.trc.2024.104744)) 
