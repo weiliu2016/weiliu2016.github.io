@@ -59,10 +59,10 @@ Selected Working Papers
 
 Journal Publication
 ----------
-* [88] Li, C., **Liu, W.**, Yang, H. (2024) Deep Causal Inference for Understanding the Impact of Meteorological Variations on Traffic. Transportation Research Part C: Emerging Technologies, 104406. ([Download](https://doi.org/10.1016/j.trc.2024.104744)) 
+* [88] Li, C., **Liu, W.**, Yang, H. (2024) Deep Causal Inference for Understanding the Impact of Meteorological Variations on Traffic. Transportation Research Part C: Emerging Technologies, 165, 104406. ([Download](https://doi.org/10.1016/j.trc.2024.104744)) 
 * [87] Zhong, L., Xu, G., **Liu, W.** (2024) Energy-efficient and demand-driven train timetable optimization with a flexible train composition mode. Energy, 305, 132183. ([Download](https://doi.org/10.1016/j.energy.2024.132183))
-* [86] Xu, P., Liu, T.L., Tian, Q., Si, B., **Liu, W.**, Huang, H.J. (2024) Estimation of Schedule Preference and Crowding Perception in Urban Rail Corridor Commuting: An Inverse Optimization Method. Transportation Research Part B: Methodological, forthcoming. ([Download](https://doi.org/10.1016/j.trb.2024.xxxxxx))
-* [85] Wang, S., Wang, X., Yang, C., Zhang, X.N., **Liu, W.** (2024) Optimizing OD-based up-front discounting strategies for dynamic ride-pooling services. Transportation Research Part B: Methodological, forthcoming. ([Download](https://doi.org/10.1016/j.trb.2024.103013))
+* [86] Xu, P., Liu, T.L., Tian, Q., Si, B., **Liu, W.**, Huang, H.J. (2024) Estimation of Schedule Preference and Crowding Perception in Urban Rail Corridor Commuting: An Inverse Optimization Method. Transportation Research Part B: Methodological, 103023. ([Download](https://doi.org/10.1016/j.trb.2024.103023))
+* [85] Wang, S., Wang, X., Yang, C., Zhang, X.N., **Liu, W.** (2024) Optimizing OD-based up-front discounting strategies for dynamic ride-pooling services. Transportation Research Part B: Methodological, 103013. ([Download](https://doi.org/10.1016/j.trb.2024.103013))
 * [84] Qin, X., Yang, H., **Liu, W.** (2024) Upgrading in ride-sourcing markets with multi-class services, Travel Behaviour and Society, 37, 100845. ([Download](https://doi.org/10.1016/j.tbs.2024.100845))
 * [83] Gong, Z., **Liu, W.**, Zhang, F. (2024) Residential location choices and commuting patterns considering telecommuting. Transport Policy, 153, 54-67. ([Download](https://doi.org/10.1016/j.tranpol.2024.05.010))
 * [82] Jin, Z., Ng, K., Zhang, C., **Liu, W.**, Zhang, F., Xu, G. (2024) A risk-averse distributionally robust optimisation approach for drone-supported relief facility location problem. Transportation Research Part E: Logistics and Transportation Review, 186, 103538. ([Download](https://doi.org/10.1016/j.tre.2024.103538))
@@ -151,6 +151,8 @@ Journal Publication
 
 Selected Conference Proceedings
 -------
+* Wang, S., Wang, X., Yang, C., **Liu, W.**, Zhang, X. (2024) Optimizing OD-Based Up-Front Discounting Strategies for Enroute Ridepooling Services. The 25th International Symposium on Transportation and Traffic Theory (ISTTT 2024).
+* Xu, P., Liu, T.L., Tian, Q., Si, B., **Liu, W.**, Huang, H.J. (2024) Estimation of Schedule Preference and Crowding Perception in Urban Rail Corridor Commuting: An Inverse Optimization Method. The 25th International Symposium on Transportation and Traffic Theory (ISTTT 2024).
 * Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2020) Knowledge Adaption for Demand Prediction based on Multi-task Memory Neural Network. The 29th International Conference on Information and Knowledge Management (CIKM 2020), Galway, Ireland, October 19 - 23, 2020.
 * Chen, X., Huang, C., Yao, L., Wang, X., **Liu, W.**, Zhang, W. (2020) Knowledge-guided Deep Reinforcement Learning for Interactive Recommendation, International Joint Conference on Neural Networks (IJCNN 2020), Glasgow, UK, July 19 - 24, 2020
 * Wang, X., Yao, L., **Liu, W.**, Li, C., Bai, L., Waller, S.T. (2020) Mobility Irregularity Detection with Smart Transit Card Data. The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2020), Singapore, May 11 - 14, 2020. ([Download](https://link.springer.com/chapter/10.1007/978-3-030-47426-3_42))
