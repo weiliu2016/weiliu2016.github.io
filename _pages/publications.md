@@ -30,6 +30,7 @@ Selected Working Papers
 - Li, X., **Liu, W.** Online coordinated vehicle-drone path planning for urban healthcare delivery services.
 - Gao, Y., **Liu, W.** Robust planning of bus fleet electrification and charging facility deployment over multi-period.
 - He, Q., **Liu, W.** Fleet management with electric vehicles: integration of ride, parcel delivery, and vehicle-to-grid services.
+- He, Q., **Liu, W.**, Liu, T.L., Tian, Q. Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty.
 - Wu, W., Gong, H., Yang, X., **Liu, W.** Urban emergency facility location optimization: a two-stage stochastic model using multi-cut L-shaped method with valid inequalities.
 - Xiang, C., Mo, Y., **Liu, W.**, Wu, Z., Li, L. Path pool based transformer model in reinforcement framework for dynamic urban drone delivery problem.
 - He, Q., Wu, L., **Liu, W.**, Ma, Y. Coordinated path planning of UAVs and USVs for maritime monitoring.
