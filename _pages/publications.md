@@ -23,15 +23,15 @@ Book Chapter
 Selected Working Papers
 ----------
 - Zhu, X., **Liu, W.** Resource allocation in air-rail-integrated co-modality under both demand and supply uncertainties.
-- Zuo, Y., **Liu, W.** Air cargo allocation to passenger airlines considering supply and demand uncertainty.
+- Wu, R., **Liu, W.**, Feng, Y. Joint optimization of seat allocation and pricing with multi-ride season ticket service for the high-speed rail system.
+- Zuo, Y., Li, C., **Liu, W.** Allocating air cargo to passenger airlines considering both cargo demand and airline capacity uncertainties.
 - Long, X., Lyu, M., **Liu, W.** Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach.
 - Feng, Y., **Liu, W.**, Xu, G. High-speed rail capacity allocation and pricing under passengers' access time uncertainty: Flexible ticket or reserved seat?.
 - Lyu, M., **Liu, W.** Routing design of multifunction drones in urban multi-service network.
 - Li, X., **Liu, W.** Online coordinated vehicle-drone path planning for urban healthcare delivery services.
 - Gao, Y., **Liu, W.** Robust planning of bus fleet electrification and charging facility deployment over multi-period.
-- He, Q., **Liu, W.** Fleet management with electric vehicles: integration of ride, parcel delivery, and vehicle-to-grid services.
+- He, Q., **Liu, W.**, Xi, H. Fleet management with electric vehicles: integration of ride, parcel delivery, and vehicle-to-grid services.
 - He, Q., **Liu, W.**, Liu, T.L., Tian, Q. Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty.
-- Wu, W., Gong, H., Yang, X., **Liu, W.** Urban emergency facility location optimization: a two-stage stochastic model using multi-cut L-shaped method with valid inequalities.
 - Xiang, C., Mo, Y., **Liu, W.**, Wu, Z., Li, L. Path pool based transformer model in reinforcement framework for dynamic urban drone delivery problem.
 - He, Q., Wu, L., **Liu, W.**, Ma, Y. Coordinated path planning of UAVs and USVs for maritime monitoring.
 - Lyu, M., **Liu, W.**, He, Q., Wu, L. Urban food delivery service optimisation with coordinated delivery riders and drones.
@@ -48,7 +48,7 @@ Selected Working Papers
 - Xu, G., Zhou, P., **Liu, W.**, Gao, Y. Optimization of seat allocation scheme for railway systems considering social equity.
 - Xu, J., Deng, L., Gao, Y., **Liu, W.** Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Group-based Railway Seat Allocation Considering the Risk of Virus Transmission.
-- Wu, W., Zeng, B., Sun, J., **Liu, W.**, Waller, S.T. Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
+- Wu, W., Zeng, B., Sun, J., Li, C., **Liu, W.**, Waller, S.T. Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
 - Zhang, Z., Zhang, F., **Liu, W.** Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
