@@ -30,7 +30,7 @@ Selected Working Papers
 - Lyu, M., **Liu, W.** Routing design of multifunction drones in urban multi-service network.
 - Li, X., **Liu, W.** Online coordinated vehicle-drone path planning for urban healthcare delivery services.
 - Gao, Y., **Liu, W.** Robust planning of bus fleet electrification and charging facility deployment over multi-period.
-- He, Q., **Liu, W.**, Xi, H. Fleet management with electric vehicles: integration of ride, parcel delivery, and vehicle-to-grid services.
+- He, Q., **Liu, W.**, Xi, H. Dynamic operations of electric vehicle fleets for multi-service platforms with integrated ride-hailing, parcel delivery and vehicle-to-grid services.
 - He, Q., **Liu, W.**, Liu, T.L., Tian, Q. Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty.
 - Xiang, C., Mo, Y., **Liu, W.**, Wu, Z., Li, L. Path pool based transformer model in reinforcement framework for dynamic urban drone delivery problem.
 - He, Q., Wu, L., **Liu, W.**, Ma, Y. Coordinated path planning of UAVs and USVs for maritime monitoring.
@@ -38,7 +38,6 @@ Selected Working Papers
 - Zhong, L., Xu, G., **Liu, W.**, Liu, Y. Train composition optimization using flexible composition strategy with extra-long trains: A stochastic programming approach.
 - Liu, T.L., Xu, P., Si, B., **Liu, W.** Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data.
 - Zhong, L., Xu, G., **Liu, W.**, Liu, Y., Liu, X. Destination-to-Gate Assignment in Oversaturated Metro Line: A New Passenger Flow Control Approach.
-- Liu, B., Ma, X., **Liu, W.**, Ma, Z. Enhancing a carbon-trading incentive scheme for mode shifts in multi-modal transportation systems.
 - Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
 - Zuo, Y., Liu, T.L., **Liu, W.** On the competition and collaboration in a multi-airport system considering ground connection between airports.
 - Liu, Q., **Liu, W.**, Jiang, R., Han, X. On the morning commute problem with mixed autonomous vehicles and human-driven vehicles traffic under stochastic bottleneck capacity.
@@ -60,6 +59,7 @@ Selected Working Papers
 
 Journal Publication
 ----------
+* [89] Liu, B., Ma, X., **Liu, W.**, Ma, Z. (2024) Designing a carbon-trading incentive scheme for mode shifts in multi-modal transport systems. Transportation Research Part E: Logistics and Transportation Review, 192, 103789. ([Download](https://doi.org/10.1016/j.tre.2024.103789))
 * [88] Li, C., **Liu, W.**, Yang, H. (2024) Deep Causal Inference for Understanding the Impact of Meteorological Variations on Traffic. Transportation Research Part C: Emerging Technologies, 165, 104406. ([Download](https://doi.org/10.1016/j.trc.2024.104744)) 
 * [87] Zhong, L., Xu, G., **Liu, W.** (2024) Energy-efficient and demand-driven train timetable optimization with a flexible train composition mode. Energy, 305, 132183. ([Download](https://doi.org/10.1016/j.energy.2024.132183))
 * [86] Xu, P., Liu, T.L., Tian, Q., Si, B., **Liu, W.**, Huang, H.J. (2024) Estimation of Schedule Preference and Crowding Perception in Urban Rail Corridor Commuting: An Inverse Optimization Method. Transportation Research Part B: Methodological, 103023. ([Download](https://doi.org/10.1016/j.trb.2024.103023))
