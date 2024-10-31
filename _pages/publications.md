@@ -54,11 +54,10 @@ Selected Working Papers
 - Xu, K., Saberi, M., Wang, X., **Liu, W.** Vehicle sharing strategies for ridesourcing platforms.
 - Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.**. Knowledge Adaptation with Model Sharing for Passenger Demand Forecasting.
 - Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Can urban co-modality benefit both users and operators?.
-- Zhang, Z., Zhang, F., **Liu, W.**, Yang, H. On the service differentiation for parking sharing.
-
 
 Journal Publication
 ----------
+* [90] Zhang, Z., Zhang, F., **Liu, W.**, Yang, H. (2024) On the service differentiation for parking sharing. Transportation Research Part C: Emerging Technologies, forthcoming. ([Download](https://doi.org/10.1016/j.trc.2024.xxxxxx)) 
 * [89] Liu, B., Ma, X., **Liu, W.**, Ma, Z. (2024) Designing a carbon-trading incentive scheme for mode shifts in multi-modal transport systems. Transportation Research Part E: Logistics and Transportation Review, 192, 103789. ([Download](https://doi.org/10.1016/j.tre.2024.103789))
 * [88] Li, C., **Liu, W.**, Yang, H. (2024) Deep Causal Inference for Understanding the Impact of Meteorological Variations on Traffic. Transportation Research Part C: Emerging Technologies, 165, 104406. ([Download](https://doi.org/10.1016/j.trc.2024.104744)) 
 * [87] Zhong, L., Xu, G., **Liu, W.** (2024) Energy-efficient and demand-driven train timetable optimization with a flexible train composition mode. Energy, 305, 132183. ([Download](https://doi.org/10.1016/j.energy.2024.132183))
