@@ -42,14 +42,13 @@ Selected Working Papers
 - Zuo, Y., Liu, T.L., **Liu, W.** On the competition and collaboration in a multi-airport system considering ground connection between airports.
 - Liu, Q., **Liu, W.**, Jiang, R., Han, X. On the morning commute problem with mixed autonomous vehicles and human-driven vehicles traffic under stochastic bottleneck capacity.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Integrated Optimization of Train Stopping Plan, Scheduling, and Seat Allocation for High-speed Railway Systems with Social Distancing Measures.
-- Li, C., **Liu, W.**, Yang, H. Simultaneous Multimodal Demand Imputation and Forecasting via Graph-guided Generative Network.
+- Li, C., **Liu, W.**, Ma, W., Yang, H. Simultaneous Multimodal Demand Imputation and Forecasting via Graph-guided Generative and Adversarial Network.
 - Waller, S.T., He, Q., **Liu, W.** Rapid post-disruption assessment of transportation network capacity and demand distribution under limited information.
 - Xu, G., Zhou, P., **Liu, W.**, Gao, Y. Optimization of seat allocation scheme for railway systems considering social equity.
 - Xu, J., Deng, L., Gao, Y., **Liu, W.** Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Group-based Railway Seat Allocation Considering the Risk of Virus Transmission.
 - Wu, W., Zeng, B., Sun, J., Li, C., **Liu, W.**, Waller, S.T. Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
-- Zhang, Z., Zhang, F., **Liu, W.** Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles.
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - Xu, K., Saberi, M., Wang, X., **Liu, W.** Vehicle sharing strategies for ridesourcing platforms.
 - Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.**. Knowledge Adaptation with Model Sharing for Passenger Demand Forecasting.
@@ -57,12 +56,13 @@ Selected Working Papers
 
 Journal Publication
 ----------
-* [90] Zhang, Z., Zhang, F., **Liu, W.**, Yang, H. (2024) On the service differentiation for parking sharing. Transportation Research Part C: Emerging Technologies, forthcoming. ([Download](https://doi.org/10.1016/j.trc.2024.xxxxxx)) 
+* [91] Zhang, Z., Zhang, F., **Liu, W.** (2025) Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles. Transportation Research Part B: Methodological, 103133. ([Download](https://doi.org/10.1016/j.trb.2024.103133))
+* [90] Zhang, Z., Zhang, F., **Liu, W.**, Yang, H. (2025) On the service differentiation for parking sharing. Transportation Research Part C: Emerging Technologies, 170, 104915. ([Download](https://doi.org/10.1016/j.trc.2024.104915)) 
 * [89] Liu, B., Ma, X., **Liu, W.**, Ma, Z. (2024) Designing a carbon-trading incentive scheme for mode shifts in multi-modal transport systems. Transportation Research Part E: Logistics and Transportation Review, 192, 103789. ([Download](https://doi.org/10.1016/j.tre.2024.103789))
 * [88] Li, C., **Liu, W.**, Yang, H. (2024) Deep Causal Inference for Understanding the Impact of Meteorological Variations on Traffic. Transportation Research Part C: Emerging Technologies, 165, 104406. ([Download](https://doi.org/10.1016/j.trc.2024.104744)) 
 * [87] Zhong, L., Xu, G., **Liu, W.** (2024) Energy-efficient and demand-driven train timetable optimization with a flexible train composition mode. Energy, 305, 132183. ([Download](https://doi.org/10.1016/j.energy.2024.132183))
-* [86] Xu, P., Liu, T.L., Tian, Q., Si, B., **Liu, W.**, Huang, H.J. (2024) Estimation of Schedule Preference and Crowding Perception in Urban Rail Corridor Commuting: An Inverse Optimization Method. Transportation Research Part B: Methodological, 103023. ([Download](https://doi.org/10.1016/j.trb.2024.103023))
-* [85] Wang, S., Wang, X., Yang, C., Zhang, X.N., **Liu, W.** (2024) Optimizing OD-based up-front discounting strategies for dynamic ride-pooling services. Transportation Research Part B: Methodological, 103013. ([Download](https://doi.org/10.1016/j.trb.2024.103013))
+* [86] Xu, P., Liu, T.L., Tian, Q., Si, B., **Liu, W.**, Huang, H.J. (2024) Estimation of Schedule Preference and Crowding Perception in Urban Rail Corridor Commuting: An Inverse Optimization Method. Transportation Research Part B: Methodological, 189, 103023. ([Download](https://doi.org/10.1016/j.trb.2024.103023))
+* [85] Wang, S., Wang, X., Yang, C., Zhang, X.N., **Liu, W.** (2024) Optimizing OD-based up-front discounting strategies for dynamic ride-pooling services. Transportation Research Part B: Methodological, 189, 103013. ([Download](https://doi.org/10.1016/j.trb.2024.103013))
 * [84] Qin, X., Yang, H., **Liu, W.** (2024) Upgrading in ride-sourcing markets with multi-class services, Travel Behaviour and Society, 37, 100845. ([Download](https://doi.org/10.1016/j.tbs.2024.100845))
 * [83] Gong, Z., **Liu, W.**, Zhang, F. (2024) Residential location choices and commuting patterns considering telecommuting. Transport Policy, 153, 54-67. ([Download](https://doi.org/10.1016/j.tranpol.2024.05.010))
 * [82] Jin, Z., Ng, K., Zhang, C., **Liu, W.**, Zhang, F., Xu, G. (2024) A risk-averse distributionally robust optimisation approach for drone-supported relief facility location problem. Transportation Research Part E: Logistics and Transportation Review, 186, 103538. ([Download](https://doi.org/10.1016/j.tre.2024.103538))
