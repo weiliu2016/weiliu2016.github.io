@@ -22,19 +22,20 @@ Book Chapter
 
 Selected Working Papers
 ----------
-- Zhu, X., **Liu, W.** Resource allocation in air-rail-integrated co-modality under both demand and supply uncertainties.
+- Zhu, X., **Liu, W.**, Zhang, F. Resource allocation for an air-rail-integrated co-modality platform considering both demand and supply uncertainties.
 - Wu, R., **Liu, W.**, Feng, Y. Joint optimization of seat allocation and pricing with multi-ride season ticket service for the high-speed rail system.
 - Zuo, Y., Li, C., **Liu, W.** Allocating air cargo to passenger airlines considering both cargo demand and airline capacity uncertainties.
 - Long, X., Lyu, M., **Liu, W.** Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach.
-- Feng, Y., **Liu, W.**, Xu, G. High-speed rail capacity allocation and pricing under passengers' access time uncertainty: Flexible ticket or reserved seat?.
+- Feng, Y., **Liu, W.**, Xu, G., Yang, H. High-speed rail capacity allocation and pricing under passengers' access time uncertainty: Flexible ticket or reserved seat?.
 - Lyu, M., **Liu, W.** Routing design of multifunction drones in urban multi-service network.
 - Li, X., Lyu, M., **Liu, W.** Real-time Coordinated Vehicle-Drone Path Planning for Urban Healthcare Delivery Services.
-- Gao, Y., **Liu, W.** Robust planning of bus fleet electrification and charging facility deployment over multi-period.
+- Gao, Y., **Liu, W.** Robust planning of bus fleet electrification and charging facility deployment.
 - He, Q., **Liu, W.**, Xi, H. Dynamic operations of the electric vehicle fleet for multi-service platforms with integrated ride-hailing, parcel delivery and vehicle-to-grid services.
 - He, Q., **Liu, W.**, Liu, T.L., Tian, Q. Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty.
 - Xiang, C., Mo, Y., **Liu, W.**, Wu, Z., Li, L. Path pool based transformer model in reinforcement framework for dynamic urban drone delivery problem.
 - He, Q., Wu, L., **Liu, W.**, Ma, Y. Coordinated path planning of UAVs and USVs for maritime monitoring.
 - Lyu, M., **Liu, W.**, He, Q., Wu, L. Urban food delivery service optimisation with coordinated delivery riders and drones.
+- Cen, X., Yang, X., Ren, K., **Liu, W.**, Lee, E. Optimal Pricing and Vehicle Routing of Vehicle-to-Vehicle Charging Platform with Time Windows.
 - Zhong, L., Xu, G., **Liu, W.**, Liu, Y. Train composition optimization using flexible composition strategy with extra-long trains: A stochastic programming approach.
 - Liu, T.L., Xu, P., Si, B., **Liu, W.** Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data.
 - Zhong, L., Xu, G., **Liu, W.**, Liu, Y., Liu, X. Destination-to-Gate Assignment to Mitigate Congestion-Related Risks in Oversaturated Metro Lines: A New Passenger Flow Control Strategy.
@@ -52,10 +53,10 @@ Selected Working Papers
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - Xu, K., Saberi, M., Wang, X., **Liu, W.** Vehicle sharing strategies for ridesourcing platforms.
 - Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.**. Knowledge Adaptation with Model Sharing for Passenger Demand Forecasting.
-- Ma, M., Zhang, F., **Liu, W.**, Dixit, V. Can urban co-modality benefit both users and operators?.
 
 Journal Publication
 ----------
+* [92] Chen, T., Wu, L., Wang, S., Jia, S., **Liu, W.** (2025) Tugboat electrification planning for container ports. Transportation Research Part D: Transport and Environment, forthcoming. ([Download](https://doi.org/10.1016/j.trd.2024.xxxxxx))
 * [91] Zhang, Z., Zhang, F., **Liu, W.** (2025) Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles. Transportation Research Part B: Methodological, 103133. ([Download](https://doi.org/10.1016/j.trb.2024.103133))
 * [90] Zhang, Z., Zhang, F., **Liu, W.**, Yang, H. (2025) On the service differentiation for parking sharing. Transportation Research Part C: Emerging Technologies, 170, 104915. ([Download](https://doi.org/10.1016/j.trc.2024.104915)) 
 * [89] Liu, B., Ma, X., **Liu, W.**, Ma, Z. (2024) Designing a carbon-trading incentive scheme for mode shifts in multi-modal transport systems. Transportation Research Part E: Logistics and Transportation Review, 192, 103789. ([Download](https://doi.org/10.1016/j.tre.2024.103789))
