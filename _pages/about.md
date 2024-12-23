@@ -32,7 +32,7 @@ Group Members & Affiliates
 - **Current members**\
   **Runfa Wu** (Postdoctoral fellow, 2023/2024 S1 - present), PhD from Central South University and Joint PhD training from Nanyang Technological University, Singapore\
   **Kairui Cui** (PhD student, 2024/2025 S2 - present), Bachelor's degree from Beihang University and Master's degree from Delft University of Technology\
-  **Jing Li** (Southest-PolyU Dual PhD Degree student, 2024/2025 S1 - present), Bachelor's degree from Tianjin University)\
+  **Jing Li** (Southeast-PolyU Dual PhD Degree student, 2024/2025 S1 - present), Bachelor's degree from Tianjin University)\
   **Haoyi Fei** (PhD student, 2024/2025 S1 - present), Bachelor's degree from Sichuan University and Master's degree from University of Hong Kong\
   **Huayu Xu** (PhD student, 2024/2025 S1 - present), Bachelor's degree from Shandong University and Master's degree from National University of Singapore\
   **Ziyu Gu** (PhD student, 2024/2025 S1 - present), Bachelor's degree and Master's degree from Nanjing University of Aeronautics and Astronautics\
@@ -45,7 +45,7 @@ Group Members & Affiliates
   **Xuanji Long** (MPhil student, 2022/2023 S3 - present), Bachelor's degree from Central South University\
   **Mingzhi Lyu** (PhD student, 2022/2023 S3 - present), Bachelor's degree from University of New South Wales, Sydney\
   **Yufan Zuo** (PhD student, 2022/2023 S1 - present, PolyU Presidential PhD Fellowship), Bachelor's degree from Central South University and Master's degree from Southeast University\
-  **Qingying He** (PhD student, 2022/2023 S1 - present), Bachelor's degree from Northeastern University & Master's dgree from University of Edinburgh
+  **Qingying He** (PhD student, 2022/2023 S1 - present), Bachelor's degree from Northeastern University and Master's dgree from University of Edinburgh
   
 - **Former members**\
   **Yihan Gao** (Research Assistant, 2022/2023 S1 - 2022/2-23 S3)\
