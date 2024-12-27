@@ -45,7 +45,6 @@ Selected Working Papers
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Integrated Optimization of Train Stopping Plan, Scheduling, and Seat Allocation for High-speed Railway Systems with Social Distancing Measures.
 - Li, C., **Liu, W.**, Ma, W., Yang, H. Simultaneous Multimodal Demand Imputation and Forecasting via Graph-guided Generative and Adversarial Network.
 - Waller, S.T., He, Q., **Liu, W.** Rapid post-disruption assessment of transportation network capacity and demand distribution under limited information.
-- Xu, G., Zhou, P., **Liu, W.**, Gao, Y. Optimization of seat allocation scheme for railway systems considering social equity.
 - Xu, J., Deng, L., Gao, Y., **Liu, W.** Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Group-based Railway Seat Allocation Considering the Risk of Virus Transmission.
 - Wu, W., Zeng, B., Sun, J., Li, C., **Liu, W.**, Waller, S.T. Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
@@ -56,8 +55,9 @@ Selected Working Papers
 
 Journal Publication
 ----------
-* [92] Chen, T., Wu, L., Wang, S., Jia, S., **Liu, W.** (2025) Tugboat electrification planning for container ports. Transportation Research Part D: Transport and Environment, forthcoming. ([Download](https://doi.org/10.1016/j.trd.2024.xxxxxx))
-* [91] Zhang, Z., Zhang, F., **Liu, W.** (2025) Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles. Transportation Research Part B: Methodological, 103133. ([Download](https://doi.org/10.1016/j.trb.2024.103133))
+* [93] Xu, G., Zhou, P., **Liu, W.**, Gao, Y. (2025) Seat allocation optimization for railway systems with equity considerations. Transportmetrica B: Transport Dynamics, forthcoming. ([Download](https://doi.org/10.1080/21680566.2024.xxxxxx))
+* [92] Chen, T., Wu, L., Wang, S., Jia, S., **Liu, W.** (2025) Tugboat electrification planning for container ports. Transportation Research Part D: Transport and Environment, 104565. ([Download](https://doi.org/10.1016/j.trd.2024.xxxxxx))
+* [91] Zhang, Z., Zhang, F., **Liu, W.** (2025) Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles. Transportation Research Part B: Methodological, 191, 103133. ([Download](https://doi.org/10.1016/j.trb.2024.103133))
 * [90] Zhang, Z., Zhang, F., **Liu, W.**, Yang, H. (2025) On the service differentiation for parking sharing. Transportation Research Part C: Emerging Technologies, 170, 104915. ([Download](https://doi.org/10.1016/j.trc.2024.104915)) 
 * [89] Liu, B., Ma, X., **Liu, W.**, Ma, Z. (2024) Designing a carbon-trading incentive scheme for mode shifts in multi-modal transport systems. Transportation Research Part E: Logistics and Transportation Review, 192, 103789. ([Download](https://doi.org/10.1016/j.tre.2024.103789))
 * [88] Li, C., **Liu, W.**, Yang, H. (2024) Deep Causal Inference for Understanding the Impact of Meteorological Variations on Traffic. Transportation Research Part C: Emerging Technologies, 165, 104406. ([Download](https://doi.org/10.1016/j.trc.2024.104744)) 
