@@ -55,8 +55,9 @@ Selected Working Papers
 
 Journal Publication
 ----------
-* [93] Xu, G., Zhou, P., **Liu, W.**, Gao, Y. (2025) Seat allocation optimization for railway systems with equity considerations. Transportmetrica B: Transport Dynamics, forthcoming. ([Download](https://doi.org/10.1080/21680566.2024.xxxxxx))
-* [92] Chen, T., Wu, L., Wang, S., Jia, S., **Liu, W.** (2025) Tugboat electrification planning for container ports. Transportation Research Part D: Transport and Environment, 104565. ([Download](https://doi.org/10.1016/j.trd.2024.xxxxxx))
+* [94] Xu, G., Zhou, P., **Liu, W.**, Gao, Y. (2025) Seat allocation optimization for railway systems with equity considerations. Transportmetrica B: Transport Dynamics, 2448707. ([Download](https://doi.org/10.1080/21680566.2024.2448707))
+* [93] Chen, T., Wu, L., Wang, S., Jia, S., **Liu, W.** (2025) Tugboat electrification planning for container ports. Transportation Research Part D: Transport and Environment, 104565. ([Download](https://doi.org/10.1016/j.trd.2024.104565))
+* [92] Tian, Y., Chen, H., **Liu, W.**, Wang, Y. (2025) Editorial travel demand management intervention for a greener environment. Transportation Research Part D: Transport and Environment, 104576. ([Download](https://doi.org/10.1016/j.trd.2024.104575))
 * [91] Zhang, Z., Zhang, F., **Liu, W.** (2025) Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles. Transportation Research Part B: Methodological, 191, 103133. ([Download](https://doi.org/10.1016/j.trb.2024.103133))
 * [90] Zhang, Z., Zhang, F., **Liu, W.**, Yang, H. (2025) On the service differentiation for parking sharing. Transportation Research Part C: Emerging Technologies, 170, 104915. ([Download](https://doi.org/10.1016/j.trc.2024.104915)) 
 * [89] Liu, B., Ma, X., **Liu, W.**, Ma, Z. (2024) Designing a carbon-trading incentive scheme for mode shifts in multi-modal transport systems. Transportation Research Part E: Logistics and Transportation Review, 192, 103789. ([Download](https://doi.org/10.1016/j.tre.2024.103789))
