@@ -2,7 +2,7 @@
 layout: archive
 title: "Experience"
 permalink: /experience/
-author_profile: true
+author_profile:
 redirect_from:
   - /resume
 ---
