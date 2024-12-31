@@ -14,12 +14,10 @@ Public Publication Profiles: [Google Scholar](https://scholar.google.com/citatio
 
 Research Areas
 ======
-- Data-driven Decision Analytics
-- Transport Network Modeling and Optimization
+- Multimodal Transport Network Modeling and Analytics
 - Transport and Aviation Economics
-- Aviation and Rail System Modelling
-- Automated and Shared Mobility
-- UAV Applications in Smart Transport and Logistics
+- Electrified, Automated, and Shared Mobility
+- Low-altitude Air Mobility and Logistics
 
 PhD Positions and Academic Visitors
 ======
