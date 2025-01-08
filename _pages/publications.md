@@ -22,12 +22,15 @@ Book Chapter
 
 Selected Working Papers
 ----------
+- Zhu, X., Feng, Y., **Liu, W.** Bridging air and rail services in co-modality transportation considering uncertain capacity.
+- Fei, H., **Liu, W.** Coordinated Dispatching and Routing for Human Couriers and Autonomous Delivery Vehicles under Uncertainties.
+- He, Q., **Liu, W.** Real-time Robust Path Planning for Coordinated Unmanned Aerial Vehicles and Unmanned Surface Vehicles Operations in Maritime Monitoring.
 - Zhu, X., **Liu, W.**, Zhang, F. Resource allocation for an air-rail-integrated co-modality platform considering both demand and supply uncertainties.
 - Wu, R., **Liu, W.**, Feng, Y. Joint optimization of seat allocation and pricing with multi-ride season ticket service for the high-speed rail system.
 - Zuo, Y., Li, C., **Liu, W.** Allocating air cargo to passenger airlines considering both cargo demand and airline capacity uncertainties.
 - Long, X., Lyu, M., **Liu, W.** Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach.
 - Feng, Y., **Liu, W.**, Xu, G., Yang, H. High-speed rail capacity allocation and pricing under passengers' access time uncertainty: Flexible ticket or reserved seat?.
-- Lyu, M., **Liu, W.** Routing design of multifunction drones in urban multi-service network.
+- Lyu, M., **Liu, W.** Multi-service network design with multi-function drones: urban monitoring, data collection, and parcel delivery services.
 - Li, X., Lyu, M., **Liu, W.** Real-time Coordinated Vehicle-Drone Path Planning for Urban Healthcare Delivery Services.
 - Gao, Y., **Liu, W.** Robust planning of bus fleet electrification and charging facility deployment.
 - He, Q., **Liu, W.**, Xi, H. Dynamic operations of the electric vehicle fleet for multi-service platforms with integrated ride-hailing, parcel delivery and vehicle-to-grid services.
@@ -55,9 +58,9 @@ Selected Working Papers
 
 Journal Publication
 ----------
-* [94] Xu, G., Zhou, P., **Liu, W.**, Gao, Y. (2025) Seat allocation optimization for railway systems with equity considerations. Transportmetrica B: Transport Dynamics, 2448707. ([Download](https://doi.org/10.1080/21680566.2024.2448707))
-* [93] Chen, T., Wu, L., Wang, S., Jia, S., **Liu, W.** (2025) Tugboat electrification planning for container ports. Transportation Research Part D: Transport and Environment, 104565. ([Download](https://doi.org/10.1016/j.trd.2024.104565))
-* [92] Tian, Y., Chen, H., **Liu, W.**, Wang, Y. (2025) Editorial travel demand management intervention for a greener environment. Transportation Research Part D: Transport and Environment, 104576. ([Download](https://doi.org/10.1016/j.trd.2024.104575))
+* [94] Xu, G., Zhou, P., **Liu, W.**, Gao, Y. (2025) Seat allocation optimization for railway systems with equity considerations. Transportmetrica B: Transport Dynamics, 13(1), 2448707. ([Download](https://doi.org/10.1080/21680566.2024.2448707))
+* [93] Chen, T., Wu, L., Wang, S., Jia, S., **Liu, W.** (2025) Tugboat electrification planning for container ports. Transportation Research Part D: Transport and Environment, 139, 104565. ([Download](https://doi.org/10.1016/j.trd.2024.104565))
+* [92] Tian, Y., Chen, H., **Liu, W.**, Wang, Y. (2025) Editorial travel demand management intervention for a greener environment. Transportation Research Part D: Transport and Environment, 104576. ([Download](https://doi.org/10.1016/j.trd.2024.104576))
 * [91] Zhang, Z., Zhang, F., **Liu, W.** (2025) Economic analysis of parking, vehicle charging and vehicle-to-grid service in the era of electric vehicles. Transportation Research Part B: Methodological, 191, 103133. ([Download](https://doi.org/10.1016/j.trb.2024.103133))
 * [90] Zhang, Z., Zhang, F., **Liu, W.**, Yang, H. (2025) On the service differentiation for parking sharing. Transportation Research Part C: Emerging Technologies, 170, 104915. ([Download](https://doi.org/10.1016/j.trc.2024.104915)) 
 * [89] Liu, B., Ma, X., **Liu, W.**, Ma, Z. (2024) Designing a carbon-trading incentive scheme for mode shifts in multi-modal transport systems. Transportation Research Part E: Logistics and Transportation Review, 192, 103789. ([Download](https://doi.org/10.1016/j.tre.2024.103789))
