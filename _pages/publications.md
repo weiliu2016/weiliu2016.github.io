@@ -27,7 +27,6 @@ Selected Working Papers
 - He, Q., **Liu, W.** Real-time Robust Path Planning for Coordinated Unmanned Aerial Vehicles and Unmanned Surface Vehicles Operations in Maritime Monitoring.
 - Zhu, X., **Liu, W.**, Zhang, F. Resource allocation for an air-rail-integrated co-modality platform considering both demand and supply uncertainties.
 - Wu, R., **Liu, W.**, Feng, Y. Joint optimization of seat allocation and pricing with multi-ride season ticket service for the high-speed rail system.
-- Zuo, Y., Li, C., **Liu, W.** Allocating air cargo to passenger airlines considering both cargo demand and airline capacity uncertainties.
 - Long, X., Lyu, M., **Liu, W.** Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach.
 - Feng, Y., **Liu, W.**, Xu, G., Yang, H. High-speed rail capacity allocation and pricing under passengers' access time uncertainty: Flexible ticket or reserved seat?.
 - Lyu, M., **Liu, W.** Multi-service network design with multi-function drones: urban monitoring, data collection, and parcel delivery services.
@@ -35,6 +34,7 @@ Selected Working Papers
 - Gao, Y., **Liu, W.** Robust planning of bus fleet electrification and charging facility deployment.
 - He, Q., **Liu, W.**, Xi, H. Dynamic operations of the electric vehicle fleet for multi-service platforms with integrated ride-hailing, parcel delivery and vehicle-to-grid services.
 - He, Q., **Liu, W.**, Liu, T.L., Tian, Q. Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty.
+- Zuo, Y., Li, C., **Liu, W.** Allocating air cargo to passenger airlines considering both cargo demand and airline capacity uncertainties.
 - Xiang, C., Mo, Y., **Liu, W.**, Wu, Z., Li, L. Path pool based transformer model in reinforcement framework for dynamic urban drone delivery problem.
 - He, Q., Wu, L., **Liu, W.**, Ma, Y. Coordinated path planning of UAVs and USVs for maritime monitoring.
 - Lyu, M., **Liu, W.**, He, Q., Wu, L. Urban food delivery service optimisation with coordinated delivery riders and drones.
@@ -43,7 +43,6 @@ Selected Working Papers
 - Liu, T.L., Xu, P., Si, B., **Liu, W.** Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data.
 - Zhong, L., Xu, G., **Liu, W.**, Liu, Y., Liu, X. Destination-to-Gate Assignment to Mitigate Congestion-Related Risks in Oversaturated Metro Lines: A New Passenger Flow Control Strategy.
 - Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
-- Zuo, Y., Liu, T.L., **Liu, W.** On the competition and collaboration in a multi-airport system considering ground connection between airports.
 - Liu, Q., **Liu, W.**, Jiang, R., Han, X. On the morning commute problem with mixed autonomous vehicles and human-driven vehicles traffic under stochastic bottleneck capacity.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Integrated Optimization of Train Stopping Plan, Scheduling, and Seat Allocation for High-speed Railway Systems with Social Distancing Measures.
 - Li, C., **Liu, W.**, Ma, W., Yang, H. Simultaneous Multimodal Demand Imputation and Forecasting via Graph-guided Generative and Adversarial Network.
@@ -58,6 +57,8 @@ Selected Working Papers
 
 Journal Publication
 ----------
+* [96] Zuo, Y., Liu, T.L., **Liu, W.** (2025) On the competition and collaboration in a multi-airport system considering ground connection between airports. Transportation Research Part A: Policy and Practice, 104387. ([Download](https://doi.org/10.1016/j.tra.2024.104387))
+* [95] Zhang, C., Jin, Z., Ng, K., Tang, T., Zhang, F., **Liu, W.** (2025) Predictive and prescriptive analytics for robust airport gate assignment planning in airside operations under uncertainty. Transportation Research Part E: Logistics and Transportation Review, 103963. ([Download](https://doi.org/10.1016/j.tre.2024.103963))
 * [94] Xu, G., Zhou, P., **Liu, W.**, Gao, Y. (2025) Seat allocation optimization for railway systems with equity considerations. Transportmetrica B: Transport Dynamics, 13(1), 2448707. ([Download](https://doi.org/10.1080/21680566.2024.2448707))
 * [93] Chen, T., Wu, L., Wang, S., Jia, S., **Liu, W.** (2025) Tugboat electrification planning for container ports. Transportation Research Part D: Transport and Environment, 139, 104565. ([Download](https://doi.org/10.1016/j.trd.2024.104565))
 * [92] Tian, Y., Chen, H., **Liu, W.**, Wang, Y. (2025) Editorial travel demand management intervention for a greener environment. Transportation Research Part D: Transport and Environment, 104576. ([Download](https://doi.org/10.1016/j.trd.2024.104576))
