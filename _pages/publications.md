@@ -22,6 +22,8 @@ Book Chapter
 
 Selected Working Papers
 ----------
+- Zuo, Y., **Liu, W.** On the competition between air transport and high-speed rail considering heterogeneous travel mode preferences.
+- Feng, Y., **Liu, W.** Budget-constrained user equilibrium: A quasi-variational inequality approach.
 - Zhu, X., Feng, Y., **Liu, W.** Bridging air and rail services in co-modality transportation considering uncertain capacity.
 - Fei, H., **Liu, W.** Coordinated Dispatching and Routing for Human Couriers and Autonomous Delivery Vehicles under Uncertainties.
 - He, Q., **Liu, W.** Real-time Robust Path Planning for Coordinated Unmanned Aerial Vehicles and Unmanned Surface Vehicles Operations in Maritime Monitoring.
@@ -50,7 +52,7 @@ Selected Working Papers
 - Xu, J., Deng, L., Gao, Y., **Liu, W.** Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Group-based Railway Seat Allocation Considering the Risk of Virus Transmission.
 - Wu, W., Zeng, B., Sun, J., Li, C., **Liu, W.**, Waller, S.T. Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
-- Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?
+- Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?.
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - Xu, K., Saberi, M., Wang, X., **Liu, W.** Vehicle sharing strategies for ridesourcing platforms.
 - Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.**. Knowledge Adaptation with Model Sharing for Passenger Demand Forecasting.
@@ -58,7 +60,7 @@ Selected Working Papers
 Journal Publication
 ----------
 * [97] Zuo, Y., Liu, T.L., **Liu, W.** (2025) On the competition and collaboration in a multi-airport system considering ground connection between airports. Transportation Research Part A: Policy and Practice, 104387. ([Download](https://doi.org/10.1016/j.tra.2024.104387))
-* [96] Gong, H., Wu, W., Yang, X., **Liu, W.** (2025). Enhancing emergency capacity: A gradual cooperative accessibility method considering time-varying traffic congestion and population distribution. International Journal of Disaster Risk Reduction, 105203. ([Download](https://doi.org/10.1016/j.ijdrr.2025.105203))
+* [96] Gong, H., Wu, W., Yang, X., **Liu, W.** (2025). Enhancing emergency capacity: A gradual cooperative accessibility method considering time-varying traffic congestion and population distribution. International Journal of Disaster Risk Reduction, 117, 105203. ([Download](https://doi.org/10.1016/j.ijdrr.2025.105203))
 * [95] Zhang, C., Jin, Z., Ng, K., Tang, T., Zhang, F., **Liu, W.** (2025) Predictive and prescriptive analytics for robust airport gate assignment planning in airside operations under uncertainty. Transportation Research Part E: Logistics and Transportation Review, 195, 103963. ([Download](https://doi.org/10.1016/j.tre.2025.103963))
 * [94] Xu, G., Zhou, P., **Liu, W.**, Gao, Y. (2025) Seat allocation optimization for railway systems with equity considerations. Transportmetrica B: Transport Dynamics, 13(1), 2448707. ([Download](https://doi.org/10.1080/21680566.2024.2448707))
 * [93] Chen, T., Wu, L., Wang, S., Jia, S., **Liu, W.** (2025) Tugboat electrification planning for container ports. Transportation Research Part D: Transport and Environment, 139, 104565. ([Download](https://doi.org/10.1016/j.trd.2024.104565))
