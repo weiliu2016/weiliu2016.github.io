@@ -43,7 +43,6 @@ Selected Working Papers
 - Cen, X., Yang, X., Ren, K., **Liu, W.**, Lee, E. Optimal Pricing and Vehicle Routing of Vehicle-to-Vehicle Charging Platform with Time Windows.
 - Zhong, L., Xu, G., **Liu, W.**, Liu, Y. Train composition optimization using flexible composition strategy with extra-long trains: A stochastic programming approach.
 - Liu, T.L., Xu, P., Si, B., **Liu, W.** Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data.
-- Zhong, L., Xu, G., **Liu, W.**, Liu, Y., Liu, X. Destination-to-Gate Assignment to Mitigate Congestion-Related Risks in Oversaturated Metro Lines: A New Passenger Flow Control Strategy.
 - Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
 - Liu, Q., **Liu, W.**, Jiang, R., Han, X. On the morning commute problem with mixed autonomous vehicles and human-driven vehicles traffic under stochastic bottleneck capacity.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Integrated Optimization of Train Stopping Plan, Scheduling, and Seat Allocation for High-speed Railway Systems with Social Distancing Measures.
@@ -59,6 +58,7 @@ Selected Working Papers
 
 Journal Publication
 ----------
+* [98] Zhong, L., Xu, G., **Liu, W.**, Liu, Y., Liu, X. Destination-to-Gate Assignment to Mitigate Congestion-Related Risks in Oversaturated Metro Lines: A New Passenger Flow Control Strategy. Transportation Research Part E: Logistics and Transportation Review, 196, 104005. ([Download](https://doi.org/10.1016/j.tre.2025.104005))
 * [97] Zuo, Y., Liu, T.L., **Liu, W.** (2025) On the competition and collaboration in a multi-airport system considering ground connection between airports. Transportation Research Part A: Policy and Practice, 104387. ([Download](https://doi.org/10.1016/j.tra.2025.104387))
 * [96] Gong, H., Wu, W., Yang, X., **Liu, W.** (2025). Enhancing emergency capacity: A gradual cooperative accessibility method considering time-varying traffic congestion and population distribution. International Journal of Disaster Risk Reduction, 117, 105203. ([Download](https://doi.org/10.1016/j.ijdrr.2025.105203))
 * [95] Zhang, C., Jin, Z., Ng, K., Tang, T., Zhang, F., **Liu, W.** (2025) Predictive and prescriptive analytics for robust airport gate assignment planning in airside operations under uncertainty. Transportation Research Part E: Logistics and Transportation Review, 195, 103963. ([Download](https://doi.org/10.1016/j.tre.2025.103963))
