@@ -26,13 +26,17 @@ Selected Working Papers
 - Feng, Y., **Liu, W.** Budget-constrained user equilibrium: A quasi-variational inequality approach.
 - Zhu, X., Feng, Y., **Liu, W.** Bridging air and rail services in co-modality transportation considering uncertain capacity.
 - Fei, H., **Liu, W.** Coordinated Dispatching and Routing for Human Couriers and Autonomous Delivery Vehicles under Uncertainties.
-- He, Q., **Liu, W.** Real-time Robust Path Planning for Coordinated Unmanned Aerial Vehicles and Unmanned Surface Vehicles Operations in Maritime Monitoring.
+- Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** A Mamba-based Probabilistic Generative Neural Network for Estimating Urban Pedestrian Volumes.
+- Fei, H., Sun, W., Zhang, F., **Liu, W.** Optimizing Mobility and Charging Services with Shared Electric Autonomous Vehicles.
+- Zhang, Z., Gao, Y., Zhang, F., **Liu, W.** Parking management and operation: A bibliometric analysis and comprehensive review.
+- Li, J., Liu, D., Baldi, S., **Liu, W.** System-theoretic Framework for Intent Sharing in Cooperative Adaptive Cruise Control.
+- He, Q., **Liu, W.**, Ye, H., Ma, Y. Real-time Robust Path Planning for Coordinated Unmanned Aerial Vehicles and Unmanned Surface Vehicles Operations in Maritime Monitoring.
 - Zhu, X., **Liu, W.**, Zhang, F. Resource allocation for an air-rail-integrated co-modality platform considering both demand and supply uncertainties.
 - Wu, R., **Liu, W.**, Feng, Y. Joint optimization of seat allocation and pricing with multi-ride season ticket service for the high-speed rail system.
 - Long, X., Lyu, M., **Liu, W.** Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach.
 - Feng, Y., **Liu, W.**, Xu, G., Yang, H. High-speed rail capacity allocation and pricing under passengers' access time uncertainty: Flexible ticket or reserved seat?.
 - Lyu, M., **Liu, W.** Multi-service network design with multi-function drones: urban monitoring, data collection, and parcel delivery services.
-- Li, X., Lyu, M., **Liu, W.** Real-time Coordinated Vehicle-Drone Path Planning for Urban Healthcare Delivery Services.
+- Li, X., Lyu, M., **Liu, W.**, Li, A. Real-time Coordinated Vehicle-Drone Path Planning for Urban Healthcare Delivery Services.
 - Gao, Y., **Liu, W.** Robust planning of bus fleet electrification and charging facility deployment.
 - He, Q., **Liu, W.**, Xi, H. Dynamic operations of the electric vehicle fleet for multi-service platforms with integrated ride-hailing, parcel delivery and vehicle-to-grid services.
 - He, Q., **Liu, W.**, Liu, T.L., Tian, Q. Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty.
@@ -45,7 +49,6 @@ Selected Working Papers
 - Liu, T.L., Xu, P., Si, B., **Liu, W.** Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data.
 - Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Integrated Optimization of Train Stopping Plan, Scheduling, and Seat Allocation for High-speed Railway Systems with Social Distancing Measures.
-- Li, C., **Liu, W.**, Ma, W., Yang, H. Simultaneous Multimodal Demand Imputation and Forecasting via Graph-guided Generative and Adversarial Network.
 - Xu, J., Deng, L., Gao, Y., **Liu, W.** Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Group-based Railway Seat Allocation Considering the Risk of Virus Transmission.
 - Wu, W., Zeng, B., Sun, J., Li, C., **Liu, W.**, Waller, S.T. Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
@@ -56,8 +59,9 @@ Selected Working Papers
 
 Journal Publication
 ----------
-* [100] Liu, Q., **Liu, W.**, Jiang, R., Han, X. (2025) On the morning commute problem with mixed autonomous vehicles and human-driven vehicles traffic under stochastic bottleneck capacity. Transportation Research Part B: Methodological, 103203. ([Download](https://doi.org/10.1016/j.trb.2025.103203)) 
-* [99] Waller, S.T., He, Q., **Liu, W.** (2025) Rapid post-disruption assessment of transportation network capacity and demand distribution under limited information. Transportation Research Part B: Methodological, 103194. ([Download](https://doi.org/10.1016/j.trb.2025.103194)) 
+* [101] Li, C., **Liu, W.**, Ma, W., Yang, H. (2025) Simultaneous Multimodal Demand Imputation and Forecasting via Graph-guided Generative and Adversarial Network. Transportation Science, forthcoming. ([Download](https://doi.org/10.1287/trsc.2023.xxxx))
+* [100] Liu, Q., **Liu, W.**, Jiang, R., Han, X. (2025) On the morning commute problem with mixed autonomous vehicles and human-driven vehicles traffic under stochastic bottleneck capacity. Transportation Research Part B: Methodological, 195, 103203. ([Download](https://doi.org/10.1016/j.trb.2025.103203)) 
+* [99] Waller, S.T., He, Q., **Liu, W.** (2025) Rapid post-disruption assessment of transportation network capacity and demand distribution under limited information. Transportation Research Part B: Methodological, 195, 103194. ([Download](https://doi.org/10.1016/j.trb.2025.103194)) 
 * [98] Zhong, L., Xu, G., **Liu, W.**, Liu, Y., Liu, X.(2025)  Destination-to-Gate Assignment to Mitigate Congestion-Related Risks in Oversaturated Metro Lines: A New Passenger Flow Control Strategy. Transportation Research Part E: Logistics and Transportation Review, 196, 104005. ([Download](https://doi.org/10.1016/j.tre.2025.104005))
 * [97] Zuo, Y., Liu, T.L., **Liu, W.** (2025) On the competition and collaboration in a multi-airport system considering ground connection between airports. Transportation Research Part A: Policy and Practice, 104387. ([Download](https://doi.org/10.1016/j.tra.2025.104387))
 * [96] Gong, H., Wu, W., Yang, X., **Liu, W.** (2025) Enhancing emergency capacity: A gradual cooperative accessibility method considering time-varying traffic congestion and population distribution. International Journal of Disaster Risk Reduction, 117, 105203. ([Download](https://doi.org/10.1016/j.ijdrr.2025.105203))
