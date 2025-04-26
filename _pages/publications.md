@@ -22,6 +22,8 @@ Book Chapter
 
 Selected Working Papers
 ----------
+- Xu, H., **Liu, W.** Optimizing Parking Overselling Strategies with Heterogeneous Users.
+- Liu, X., **Liu, W.** Joint Optimization of Train Scheduling, Flexible Train Composition, and Seat Allocation with Extra-long Trains for High-speed Railway Corridors.
 - Zuo, Y., **Liu, W.** On the competition between air transport and high-speed rail considering heterogeneous travel mode preferences.
 - Feng, Y., **Liu, W.** Budget-constrained user equilibrium: A quasi-variational inequality approach.
 - Zhu, X., Feng, Y., **Liu, W.** Bridging air and rail services in co-modality transportation considering uncertain capacity.
@@ -42,7 +44,7 @@ Selected Working Papers
 - He, Q., **Liu, W.**, Liu, T.L., Tian, Q. Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty.
 - Zuo, Y., Li, C., **Liu, W.** Allocating air cargo to passenger airlines considering both cargo demand and airline capacity uncertainties.
 - Xiang, C., Mo, Y., **Liu, W.**, Wu, Z., Li, L. Path pool based transformer model in reinforcement framework for dynamic urban drone delivery problem.
-- He, Q., Wu, L., **Liu, W.**, Ma, Y. Coordinated path planning of UAVs and USVs for maritime monitoring.
+- He, Q., Wu, L., **Liu, W.**, Ma, Y., Liang, Z. Coordinated path planning of UAVs and USVs for maritime monitoring.
 - Lyu, M., **Liu, W.**, He, Q., Wu, L. Urban food delivery service optimisation with coordinated delivery riders and drones.
 - Cen, X., Yang, X., Ren, K., **Liu, W.**, Lee, E. Optimal Pricing and Vehicle Routing of Vehicle-to-Vehicle Charging Platform with Time Windows.
 - Zhong, L., Xu, G., **Liu, W.**, Liu, Y. Train composition optimization using flexible composition strategy with extra-long trains: A stochastic programming approach.
@@ -55,14 +57,16 @@ Selected Working Papers
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?.
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - Xu, K., Saberi, M., Wang, X., **Liu, W.** Vehicle sharing strategies for ridesourcing platforms.
-- Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.**. Knowledge Adaptation with Model Sharing for Passenger Demand Forecasting.
+
 
 Journal Publication
 ----------
-* [101] Li, C., **Liu, W.**, Ma, W., Yang, H. (2025) Simultaneous Multimodal Demand Imputation and Forecasting via Graph-guided Generative and Adversarial Network. Transportation Science, forthcoming. ([Download](https://doi.org/10.1287/trsc.2023.xxxx))
+* [103] Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.**. (2025) Knowledge Adaptation with Model Sharing for Passenger Demand Forecasting. Transportmetrica A: Transport Science, forthcoming. ([Download](https://doi.org/10.1080/23249935.2025.xxxxxxx))
+* [102] Li, C., **Liu, W.**, Ma, W., Yang, H. (2025) Simultaneous Multimodal Demand Imputation and Forecasting via Graph-guided Generative and Adversarial Network. Transportation Science, forthcoming. ([Download](https://doi.org/10.1287/trsc.2023.xxxx))
+* [101] Yang, F., Ren, C., **Liu, W.**, Li, M., Li, M. (2025) Out-of-order enabled operating system for uncertain planning, scheduling and execution in aviation maintenance. Journal of Manufacturing Systems, 80, 824-840. ([Download](https://doi.org/10.1016/j.jmsy.2025.04.011))
 * [100] Liu, Q., **Liu, W.**, Jiang, R., Han, X. (2025) On the morning commute problem with mixed autonomous vehicles and human-driven vehicles traffic under stochastic bottleneck capacity. Transportation Research Part B: Methodological, 195, 103203. ([Download](https://doi.org/10.1016/j.trb.2025.103203)) 
 * [99] Waller, S.T., He, Q., **Liu, W.** (2025) Rapid post-disruption assessment of transportation network capacity and demand distribution under limited information. Transportation Research Part B: Methodological, 195, 103194. ([Download](https://doi.org/10.1016/j.trb.2025.103194)) 
-* [98] Zhong, L., Xu, G., **Liu, W.**, Liu, Y., Liu, X.(2025)  Destination-to-Gate Assignment to Mitigate Congestion-Related Risks in Oversaturated Metro Lines: A New Passenger Flow Control Strategy. Transportation Research Part E: Logistics and Transportation Review, 196, 104005. ([Download](https://doi.org/10.1016/j.tre.2025.104005))
+* [98] Zhong, L., Xu, G., **Liu, W.**, Liu, Y., Liu, X. (2025)  Destination-to-Gate Assignment to Mitigate Congestion-Related Risks in Oversaturated Metro Lines: A New Passenger Flow Control Strategy. Transportation Research Part E: Logistics and Transportation Review, 196, 104005. ([Download](https://doi.org/10.1016/j.tre.2025.104005))
 * [97] Zuo, Y., Liu, T.L., **Liu, W.** (2025) On the competition and collaboration in a multi-airport system considering ground connection between airports. Transportation Research Part A: Policy and Practice, 104387. ([Download](https://doi.org/10.1016/j.tra.2025.104387))
 * [96] Gong, H., Wu, W., Yang, X., **Liu, W.** (2025) Enhancing emergency capacity: A gradual cooperative accessibility method considering time-varying traffic congestion and population distribution. International Journal of Disaster Risk Reduction, 117, 105203. ([Download](https://doi.org/10.1016/j.ijdrr.2025.105203))
 * [95] Zhang, C., Jin, Z., Ng, K., Tang, T., Zhang, F., **Liu, W.** (2025) Predictive and prescriptive analytics for robust airport gate assignment planning in airside operations under uncertainty. Transportation Research Part E: Logistics and Transportation Review, 195, 103963. ([Download](https://doi.org/10.1016/j.tre.2025.103963))
