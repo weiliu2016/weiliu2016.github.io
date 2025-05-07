@@ -28,6 +28,7 @@ Selected Working Papers
 - Feng, Y., **Liu, W.** Budget-constrained user equilibrium: A quasi-variational inequality approach.
 - Zhu, X., Feng, Y., **Liu, W.** Bridging air and rail services in co-modality transportation considering uncertain capacity.
 - Fei, H., **Liu, W.** Coordinated Dispatching and Routing for Human Couriers and Autonomous Delivery Vehicles under Uncertainties.
+- Yan, M., Xu, G., Zhong, L., **Liu, W.**, Yang, H. Integrated optimization of pricing and train capacity allocation for high-speed railway express delivery with stochastic demand and capacity.
 - Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** A Mamba-based Probabilistic Generative Neural Network for Estimating Urban Pedestrian Volumes.
 - Fei, H., Sun, W., Zhang, F., **Liu, W.** Optimizing Mobility and Charging Services with Shared Electric Autonomous Vehicles.
 - Zhang, Z., Gao, Y., Zhang, F., **Liu, W.** Parking management and operation: A bibliometric analysis and comprehensive review.
@@ -43,7 +44,6 @@ Selected Working Papers
 - He, Q., **Liu, W.**, Xi, H. Dynamic operations of the electric vehicle fleet for multi-service platforms with integrated ride-hailing, parcel delivery and vehicle-to-grid services.
 - He, Q., **Liu, W.**, Liu, T.L., Tian, Q. Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty.
 - Zuo, Y., Li, C., **Liu, W.** Allocating air cargo to passenger airlines considering both cargo demand and airline capacity uncertainties.
-- Xiang, C., Mo, Y., **Liu, W.**, Wu, Z., Li, L. Path pool based transformer model in reinforcement framework for dynamic urban drone delivery problem.
 - He, Q., Wu, L., **Liu, W.**, Ma, Y., Liang, Z. Coordinated path planning of UAVs and USVs for maritime monitoring.
 - Lyu, M., **Liu, W.**, He, Q., Wu, L. Urban food delivery service optimisation with coordinated delivery riders and drones.
 - Cen, X., Yang, X., Ren, K., **Liu, W.**, Lee, E. Optimal Pricing and Vehicle Routing of Vehicle-to-Vehicle Charging Platform with Time Windows.
@@ -61,7 +61,8 @@ Selected Working Papers
 
 Journal Publication
 ----------
-* [103] Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.**. (2025) Knowledge Adaptation with Model Sharing for Passenger Demand Forecasting. Transportmetrica A: Transport Science, forthcoming. ([Download](https://doi.org/10.1080/23249935.2025.2499862))
+* [104] Xiang, C., Mo, Y., **Liu, W.**, Wu, Z., Li, L. (2025) Path pool based transformer model in reinforcement framework for dynamic urban drone delivery problem. Transportation Research Part C: Emerging Technologies, forthcoming. ([Download](https://doi.org/10.1016/j.trc.2025.xxxxxx)) 
+* [103] Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.**. (2025) Knowledge Adaptation with Model Sharing for Passenger Demand Forecasting. Transportmetrica A: Transport Science, 2499862. ([Download](https://doi.org/10.1080/23249935.2025.2499862))
 * [102] Li, C., **Liu, W.**, Ma, W., Yang, H. (2025) Simultaneous Multimodal Demand Imputation and Forecasting via Graph-guided Generative and Adversarial Network. Transportation Science, forthcoming. ([Download](https://doi.org/10.1287/trsc.2023.0326))
 * [101] Yang, F., Ren, C., **Liu, W.**, Li, M., Li, M. (2025) Out-of-order enabled operating system for uncertain planning, scheduling and execution in aviation maintenance. Journal of Manufacturing Systems, 80, 824-840. ([Download](https://doi.org/10.1016/j.jmsy.2025.04.011))
 * [100] Liu, Q., **Liu, W.**, Jiang, R., Han, X. (2025) On the morning commute problem with mixed autonomous vehicles and human-driven vehicles traffic under stochastic bottleneck capacity. Transportation Research Part B: Methodological, 195, 103203. ([Download](https://doi.org/10.1016/j.trb.2025.103203)) 
