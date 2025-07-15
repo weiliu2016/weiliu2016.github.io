@@ -42,8 +42,6 @@ Selected Working Papers
 - Lyu, M., **Liu, W.** Multi-service network design with multi-function drones: urban monitoring, data collection, and parcel delivery services.
 - Li, X., Lyu, M., **Liu, W.**, Li, A. Real-time Coordinated Vehicle-Drone Path Planning for Urban Healthcare Delivery Services.
 - Gao, Y., **Liu, W.** Robust planning of bus fleet electrification and charging facility deployment.
-- He, Q., **Liu, W.**, Xi, H. Dynamic operations of the electric vehicle fleet for multi-service platforms with integrated ride-hailing, parcel delivery and vehicle-to-grid services.
-- He, Q., **Liu, W.**, Liu, T.L., Tian, Q. Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty.
 - Zuo, Y., Li, C., **Liu, W.** Allocating air cargo to passenger airlines considering both cargo demand and airline capacity uncertainties.
 - He, Q., Wu, L., **Liu, W.**, Ma, Y., Liang, Z. Coordinated path planning of UAVs and USVs for maritime monitoring.
 - Lyu, M., **Liu, W.**, He, Q., Wu, L. Urban food delivery service optimisation with coordinated delivery riders and drones.
@@ -62,6 +60,8 @@ Selected Working Papers
 
 Journal Publication
 ----------
+* [106] He, Q., **Liu, W.**, Liu, T.L., Tian, Q. (2025) Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty. Transportation Research Part B: Methodological, 103284. ([Download](https://doi.org/10.1016/j.trb.2025.103284))
+* [105] He, Q., **Liu, W.**, Xi, H. (2025) Dynamic electric vehicle fleets management problem for multi-service platforms with integrated ride-hailing, on-time delivery, and vehicle-to-grid services. Transportation Research Part B: Methodological, 103281. ([Download](https://doi.org/10.1016/j.trb.2025.103281))
 * [104] Xiang, C., Mo, Y., **Liu, W.**, Wu, Z., Li, L. (2025) Path pool based transformer model in reinforcement framework for dynamic urban drone delivery problem. Transportation Research Part C: Emerging Technologies, 105165. ([Download](https://doi.org/10.1016/j.trc.2025.105165)) 
 * [103] Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.**. (2025) Knowledge Adaptation with Model Sharing for Passenger Demand Forecasting. Transportmetrica A: Transport Science, 1–32. ([Download](https://doi.org/10.1080/23249935.2025.2499862))
 * [102] Li, C., **Liu, W.**, Ma, W., Yang, H. (2025) Simultaneous Multimodal Demand Imputation and Forecasting via Graph-guided Generative and Adversarial Network. Transportation Science, forthcoming. ([Download](https://doi.org/10.1287/trsc.2023.0326))
