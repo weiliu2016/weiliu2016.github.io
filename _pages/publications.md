@@ -51,7 +51,6 @@ Selected Working Papers
 - Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Integrated Optimization of Train Stopping Plan, Scheduling, and Seat Allocation for High-speed Railway Systems with Social Distancing Measures.
 - Xu, J., Deng, L., Gao, Y., **Liu, W.** Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty.
-- Xu, G., Liu, X., Zhong, L., **Liu, W.** Group-based Railway Seat Allocation Considering the Risk of Virus Transmission.
 - Wu, W., Zeng, B., Sun, J., Li, C., **Liu, W.**, Waller, S.T. Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?.
 - Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
@@ -60,6 +59,7 @@ Selected Working Papers
 
 Journal Publication
 ----------
+* [107] Xu, G., Liu, X., Zhong, L., **Liu, W.** (2025) Group-based Railway Seat Allocation Policies Considering the Risk of Virus Transmission. Transportation Research Part A: Policy and Practice, 104615. ([Download](https://doi.org/10.1016/j.tra.2025.104615))
 * [106] He, Q., **Liu, W.**, Liu, T.L., Tian, Q. (2025) Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty. Transportation Research Part B: Methodological, 103284. ([Download](https://doi.org/10.1016/j.trb.2025.103284))
 * [105] He, Q., **Liu, W.**, Xi, H. (2025) Dynamic electric vehicle fleets management problem for multi-service platforms with integrated ride-hailing, on-time delivery, and vehicle-to-grid services. Transportation Research Part B: Methodological, 103281. ([Download](https://doi.org/10.1016/j.trb.2025.103281))
 * [104] Xiang, C., Mo, Y., **Liu, W.**, Wu, Z., Li, L. (2025) Path pool based transformer model in reinforcement framework for dynamic urban drone delivery problem. Transportation Research Part C: Emerging Technologies, 105165. ([Download](https://doi.org/10.1016/j.trc.2025.105165)) 
@@ -69,7 +69,7 @@ Journal Publication
 * [100] Liu, Q., **Liu, W.**, Jiang, R., Han, X. (2025) On the morning commute problem with mixed autonomous vehicles and human-driven vehicles traffic under stochastic bottleneck capacity. Transportation Research Part B: Methodological, 195, 103203. ([Download](https://doi.org/10.1016/j.trb.2025.103203)) 
 * [99] Waller, S.T., He, Q., **Liu, W.** (2025) Rapid post-disruption assessment of transportation network capacity and demand distribution under limited information. Transportation Research Part B: Methodological, 195, 103194. ([Download](https://doi.org/10.1016/j.trb.2025.103194)) 
 * [98] Zhong, L., Xu, G., **Liu, W.**, Liu, Y., Liu, X. (2025)  Destination-to-Gate Assignment to Mitigate Congestion-Related Risks in Oversaturated Metro Lines: A New Passenger Flow Control Strategy. Transportation Research Part E: Logistics and Transportation Review, 196, 104005. ([Download](https://doi.org/10.1016/j.tre.2025.104005))
-* [97] Zuo, Y., Liu, T.L., **Liu, W.** (2025) On the competition and collaboration in a multi-airport system considering ground connection between airports. Transportation Research Part A: Policy and Practice, 104387. ([Download](https://doi.org/10.1016/j.tra.2025.104387))
+* [97] Zuo, Y., Liu, T.L., **Liu, W.** (2025) On the competition and collaboration in a multi-airport system considering ground connection between airports. Transportation Research Part A: Policy and Practice, 192, 104387. ([Download](https://doi.org/10.1016/j.tra.2025.104387))
 * [96] Gong, H., Wu, W., Yang, X., **Liu, W.** (2025) Enhancing emergency capacity: A gradual cooperative accessibility method considering time-varying traffic congestion and population distribution. International Journal of Disaster Risk Reduction, 117, 105203. ([Download](https://doi.org/10.1016/j.ijdrr.2025.105203))
 * [95] Zhang, C., Jin, Z., Ng, K., Tang, T., Zhang, F., **Liu, W.** (2025) Predictive and prescriptive analytics for robust airport gate assignment planning in airside operations under uncertainty. Transportation Research Part E: Logistics and Transportation Review, 195, 103963. ([Download](https://doi.org/10.1016/j.tre.2025.103963))
 * [94] Xu, G., Zhou, P., **Liu, W.**, Gao, Y. (2025) Seat allocation optimization for railway systems with equity considerations. Transportmetrica B: Transport Dynamics, 13(1), 2448707. ([Download](https://doi.org/10.1080/21680566.2024.2448707))
