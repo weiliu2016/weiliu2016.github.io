@@ -35,12 +35,10 @@ Selected Working Papers
 - Zhang, Z., Gao, Y., Zhang, F., **Liu, W.** Parking management and operation: A bibliometric analysis and comprehensive review.
 - Li, J., Liu, D., Baldi, S., **Liu, W.** System-theoretic Framework for Intent Sharing in Cooperative Adaptive Cruise Control.
 - He, Q., **Liu, W.**, Ye, H., Ma, Y. Real-time Robust Path Planning for Coordinated Unmanned Aerial Vehicles and Unmanned Surface Vehicles Operations in Maritime Monitoring.
-- Zhu, X., **Liu, W.**, Zhang, F. Resource allocation for an air-rail-integrated co-modality platform considering both demand and supply uncertainties.
 - Wu, R., **Liu, W.**, Feng, Y. Joint optimization of seat allocation and pricing with multi-ride season ticket service for the high-speed rail system.
 - Long, X., Lyu, M., **Liu, W.** Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach.
 - Feng, Y., **Liu, W.**, Xu, G., Yang, H. High-speed rail capacity allocation and pricing under passengers' access time uncertainty: Flexible ticket or reserved seat?.
 - Lyu, M., **Liu, W.** Multi-service network design with multi-function drones: urban monitoring, data collection, and parcel delivery services.
-- Li, X., Lyu, M., **Liu, W.**, Li, A. Real-time Coordinated Vehicle-Drone Path Planning for Urban Healthcare Delivery Services.
 - Gao, Y., **Liu, W.** Robust planning of bus fleet electrification and charging facility deployment.
 - Zuo, Y., Li, C., **Liu, W.** Allocating air cargo to passenger airlines considering both cargo demand and airline capacity uncertainties.
 - He, Q., Wu, L., **Liu, W.**, Ma, Y., Liang, Z. Coordinated path planning of UAVs and USVs for maritime monitoring.
@@ -59,6 +57,9 @@ Selected Working Papers
 
 Journal Publication
 ----------
+* [110] Zhou, B., Zeng, W., **Liu, W.**, Yang, H. (2025) Scheduling UAV-assisted urban subway inspection services. Transportation Research Part B: Methodological, 103287. ([Download](https://doi.org/10.1016/j.trb.2025.103287))
+* [109] Zhu, X., **Liu, W.**, Zhang, F. (2025) Resource allocation for an air-rail-integrated co-modality platform considering both demand and supply uncertainties. Transportation Research Part C: Emerging Technologies, 105294. ([Download](https://doi.org/10.1016/j.trc.2025.105294))
+* [108] Li, X., Lyu, M., **Liu, W.**, Li, A. (2025) Real-time Coordinated Vehicle-Drone Path Planning for Urban Healthcare Delivery Services. Transportmetrica A: Transport Science, forthcoming. ([Download](https://doi.org/10.1080/23249935.2025.xxxxxxx))
 * [107] Xu, G., Liu, X., Zhong, L., **Liu, W.** (2025) Group-based Railway Seat Allocation Policies Considering the Risk of Virus Transmission. Transportation Research Part A: Policy and Practice, 104615. ([Download](https://doi.org/10.1016/j.tra.2025.104615))
 * [106] He, Q., **Liu, W.**, Liu, T.L., Tian, Q. (2025) Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty. Transportation Research Part B: Methodological, 103284. ([Download](https://doi.org/10.1016/j.trb.2025.103284))
 * [105] He, Q., **Liu, W.**, Xi, H. (2025) Dynamic electric vehicle fleets management problem for multi-service platforms with integrated ride-hailing, on-time delivery, and vehicle-to-grid services. Transportation Research Part B: Methodological, 103281. ([Download](https://doi.org/10.1016/j.trb.2025.103281))
