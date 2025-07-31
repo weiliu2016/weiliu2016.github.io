@@ -22,8 +22,12 @@ Book Chapter
 
 Selected Working Papers
 ----------
+- He, Q., **Liu, W.** Sharing low-altitude urban airspace through a capacity-aware and incentive-compatible allocation mechanism for UAV operations.
 - Xu, H., **Liu, W.** Optimizing Parking Overselling Strategies with Heterogeneous Users.
 - Liu, X., **Liu, W.** Joint Optimization of Train Scheduling, Flexible Train Composition, and Seat Allocation with Extra-long Trains for High-speed Railway Corridors.
+- Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** Learnable Dropout-based Deep Learning Architecture for Robust Pedestrian Volume Estimation.
+- Yan, M., Lyu, M., Zhou, Y., **Liu, W.** Two-stage optimization of bus bridging service in response to metro disruptions under uncertainty.
+- Tan, Z., Wang, Q., Li, Z.C., Yang, H., **Liu, W.** UAV-based urban logistics service network design under demand and supply uncertainty.
 - Zuo, Y., **Liu, W.** On the competition between air transport and high-speed rail considering heterogeneous travel mode preferences.
 - Feng, Y., **Liu, W.** Budget-constrained user equilibrium: A quasi-variational inequality approach.
 - Zhu, X., Feng, Y., **Liu, W.** Bridging air and rail services in co-modality transportation considering uncertain capacity.
@@ -51,21 +55,22 @@ Selected Working Papers
 - Xu, J., Deng, L., Gao, Y., **Liu, W.** Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty.
 - Wu, W., Zeng, B., Sun, J., Li, C., **Liu, W.**, Waller, S.T. Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?.
-- Zheng, Z., Wang, J., **Liu, W.**, Yang, H. Competition in complementary transport services: integrating bike sharing service with existing public transit systems.
 - Xu, K., Saberi, M., Wang, X., **Liu, W.** Vehicle sharing strategies for ridesourcing platforms.
 
 
 Journal Publication
 ----------
-* [110] Zhou, B., Zeng, W., **Liu, W.**, Yang, H. (2025) Scheduling UAV-assisted urban subway inspection services. Transportation Research Part B: Methodological, 103287. ([Download](https://doi.org/10.1016/j.trb.2025.103287))
-* [109] Zhu, X., **Liu, W.**, Zhang, F. (2025) Resource allocation for an air-rail-integrated co-modality platform considering both demand and supply uncertainties. Transportation Research Part C: Emerging Technologies, 105294. ([Download](https://doi.org/10.1016/j.trc.2025.105294))
-* [108] Li, X., Lyu, M., **Liu, W.**, Li, A. (2025) Real-time Coordinated Vehicle-Drone Path Planning for Urban Healthcare Delivery Services. Transportmetrica A: Transport Science, forthcoming. ([Download](https://doi.org/10.1080/23249935.2025.xxxxxxx))
-* [107] Xu, G., Liu, X., Zhong, L., **Liu, W.** (2025) Group-based Railway Seat Allocation Policies Considering the Risk of Virus Transmission. Transportation Research Part A: Policy and Practice, 104615. ([Download](https://doi.org/10.1016/j.tra.2025.104615))
-* [106] He, Q., **Liu, W.**, Liu, T.L., Tian, Q. (2025) Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty. Transportation Research Part B: Methodological, 103284. ([Download](https://doi.org/10.1016/j.trb.2025.103284))
-* [105] He, Q., **Liu, W.**, Xi, H. (2025) Dynamic electric vehicle fleets management problem for multi-service platforms with integrated ride-hailing, on-time delivery, and vehicle-to-grid services. Transportation Research Part B: Methodological, 103281. ([Download](https://doi.org/10.1016/j.trb.2025.103281))
-* [104] Xiang, C., Mo, Y., **Liu, W.**, Wu, Z., Li, L. (2025) Path pool based transformer model in reinforcement framework for dynamic urban drone delivery problem. Transportation Research Part C: Emerging Technologies, 105165. ([Download](https://doi.org/10.1016/j.trc.2025.105165)) 
+* [112] Zheng, Z., Wang, J., **Liu, W.**, Yang, H. (2025) Competition in complementary transport services: integrating bike sharing service with existing public transit systems. Transportation Research Part E: Logistics and Transportation Review, 104364. ([Download](https://doi.org/10.1016/j.tre.2025.104364))
+* [111] Zhou, B., Zeng, W., **Liu, W.**, Yang, H. (2025) Scheduling UAV-assisted urban subway inspection services. Transportation Research Part B: Methodological, 103287. ([Download](https://doi.org/10.1016/j.trb.2025.103287))
+* [110] Zhu, X., **Liu, W.**, Zhang, F. (2025) Resource allocation for an air-rail-integrated co-modality platform considering both demand and supply uncertainties. Transportation Research Part C: Emerging Technologies, 105294. ([Download](https://doi.org/10.1016/j.trc.2025.105294))
+* [109] Li, X., Lyu, M., **Liu, W.**, Li, A. (2025) Real-time Coordinated Vehicle-Drone Path Planning for Urban Healthcare Delivery Services. Transportmetrica A: Transport Science, forthcoming. ([Download](https://doi.org/10.1080/23249935.2025.xxxxxxx))
+* [108] Xu, G., Liu, X., Zhong, L., **Liu, W.** (2025) Group-based Railway Seat Allocation Policies Considering the Risk of Virus Transmission. Transportation Research Part A: Policy and Practice, 199, 104615. ([Download](https://doi.org/10.1016/j.tra.2025.104615))
+* [107] He, Q., **Liu, W.**, Liu, T.L., Tian, Q. (2025) Robust coordinated path planning for unmanned aerial vehicles and unmanned surface vehicles in maritime monitoring with travel time uncertainty. Transportation Research Part B: Methodological, 199, 103284. ([Download](https://doi.org/10.1016/j.trb.2025.103284))
+* [106] He, Q., **Liu, W.**, Xi, H. (2025) Dynamic electric vehicle fleets management problem for multi-service platforms with integrated ride-hailing, on-time delivery, and vehicle-to-grid services. Transportation Research Part B: Methodological, 199, 103281. ([Download](https://doi.org/10.1016/j.trb.2025.103281))
+* [105] Du, B., **Liu, W.**, Song, Z., Shaheen, S. A. (2025) Zero-emission mobility strategies: innovation, diversity, and integration. Transportation Research Part D: Transport and Environment, 104907. ([Download](https://doi.org/10.1016/j.trd.2025.104907))
+* [104] Xiang, C., Mo, Y., **Liu, W.**, Wu, Z., Li, L. (2025) Path pool based transformer model in reinforcement framework for dynamic urban drone delivery problem. Transportation Research Part C: Emerging Technologies, 177, 105165. ([Download](https://doi.org/10.1016/j.trc.2025.105165)) 
 * [103] Li, C., Bai, L., Yao, L., Waller, S.T., **Liu, W.**. (2025) Knowledge Adaptation with Model Sharing for Passenger Demand Forecasting. Transportmetrica A: Transport Science, 1–32. ([Download](https://doi.org/10.1080/23249935.2025.2499862))
-* [102] Li, C., **Liu, W.**, Ma, W., Yang, H. (2025) Simultaneous Multimodal Demand Imputation and Forecasting via Graph-guided Generative and Adversarial Network. Transportation Science, forthcoming. ([Download](https://doi.org/10.1287/trsc.2023.0326))
+* [102] Li, C., **Liu, W.**, Ma, W., Yang, H. (2025) Simultaneous Multimodal Demand Imputation and Forecasting via Graph-guided Generative and Adversarial Network. Transportation Science, 59(4), 763-781. ([Download](https://doi.org/10.1287/trsc.2023.0326))
 * [101] Yang, F., Ren, C., **Liu, W.**, Li, M., Li, M. (2025) Out-of-order enabled operating system for uncertain planning, scheduling and execution in aviation maintenance. Journal of Manufacturing Systems, 80, 824-840. ([Download](https://doi.org/10.1016/j.jmsy.2025.04.011))
 * [100] Liu, Q., **Liu, W.**, Jiang, R., Han, X. (2025) On the morning commute problem with mixed autonomous vehicles and human-driven vehicles traffic under stochastic bottleneck capacity. Transportation Research Part B: Methodological, 195, 103203. ([Download](https://doi.org/10.1016/j.trb.2025.103203)) 
 * [99] Waller, S.T., He, Q., **Liu, W.** (2025) Rapid post-disruption assessment of transportation network capacity and demand distribution under limited information. Transportation Research Part B: Methodological, 195, 103194. ([Download](https://doi.org/10.1016/j.trb.2025.103194)) 
