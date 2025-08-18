@@ -25,10 +25,11 @@ Selected Working Papers
 - He, Q., **Liu, W.** Sharing low-altitude urban airspace through a capacity-aware and incentive-compatible allocation mechanism for UAV operations.
 - Xu, H., **Liu, W.** Optimizing Parking Overselling Strategies with Heterogeneous Users.
 - Liu, X., **Liu, W.** Joint Optimization of Train Scheduling, Flexible Train Composition, and Seat Allocation with Extra-long Trains for High-speed Railway Corridors.
+- Wu, R., Xu, G., Wang, D.Z.W., **Liu, W.** Managing unbalanced demand in urban rail by a multi-strategy integrated train operational plan.
 - Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** Learnable Dropout-based Deep Learning Architecture for Robust Pedestrian Volume Estimation.
 - Yan, M., Lyu, M., Zhou, Y., **Liu, W.** Two-stage optimization of bus bridging service in response to metro disruptions under uncertainty.
 - Tan, Z., Wang, Q., Li, Z.C., Yang, H., **Liu, W.** UAV-based urban logistics service network design under demand and supply uncertainty.
-- Zuo, Y., **Liu, W.** On the competition between air transport and high-speed rail considering heterogeneous travel mode preferences.
+- Zuo, Y., Zhang, Z., Wang, K., **Liu, W.** On the competition between air transport and high-speed rail considering inherent heterogeneous travel mode preferences.
 - Feng, Y., **Liu, W.** Budget-constrained user equilibrium: A quasi-variational inequality approach.
 - Zhu, X., Feng, Y., **Liu, W.** Bridging air and rail services in co-modality transportation considering uncertain capacity.
 - Fei, H., **Liu, W.** Coordinated Dispatching and Routing for Human Couriers and Autonomous Delivery Vehicles under Uncertainties.
@@ -42,7 +43,7 @@ Selected Working Papers
 - Wu, R., **Liu, W.**, Feng, Y. Joint optimization of seat allocation and pricing with multi-ride season ticket service for the high-speed rail system.
 - Long, X., Lyu, M., **Liu, W.** Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach.
 - Feng, Y., **Liu, W.**, Xu, G., Yang, H. High-speed rail capacity allocation and pricing under passengers' access time uncertainty: Flexible ticket or reserved seat?.
-- Lyu, M., **Liu, W.** Multi-service network design with multi-function drones: urban monitoring, data collection, and parcel delivery services.
+- Lyu, M., Li, L., **Liu, W.** Multi-service network design with multi-function drones: urban monitoring, data collection, and parcel delivery services.
 - Gao, Y., **Liu, W.** Robust planning of bus fleet electrification and charging facility deployment.
 - Zuo, Y., Li, C., **Liu, W.** Allocating air cargo to passenger airlines considering both cargo demand and airline capacity uncertainties.
 - He, Q., Wu, L., **Liu, W.**, Ma, Y., Liang, Z. Coordinated path planning of UAVs and USVs for maritime monitoring.
@@ -51,7 +52,7 @@ Selected Working Papers
 - Zhong, L., Xu, G., **Liu, W.**, Liu, Y. Train composition optimization using flexible composition strategy with extra-long trains: A stochastic programming approach.
 - Liu, T.L., Xu, P., Si, B., **Liu, W.** Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data.
 - Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
-- Xu, G., Liu, X., Zhong, L., **Liu, W.** Integrated Optimization of Train Stopping Plan, Scheduling, and Seat Allocation for High-speed Railway Systems with Social Distancing Measures.
+- Xu, G., Liu, X., Zhong, L., **Liu, W.** Optimization of Train Stopping Plan, Scheduling, Seat Allocation with Social Distancing Strategies.
 - Xu, J., Deng, L., Gao, Y., **Liu, W.** Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty.
 - Wu, W., Zeng, B., Sun, J., Li, C., **Liu, W.**, Waller, S.T. Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
 - Zhang, Z., Zhang, F., **Liu, W.** To park or share our autonomous vehicles?.
