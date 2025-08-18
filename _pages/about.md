@@ -28,8 +28,12 @@ PhD Positions and Academic Visitors
 Group Members & Affiliates
 ======
 - **Current members**\
-  **Runfa Wu** (Postdoctoral fellow, 2023/2024 S1 - present), PhD from Central South University and Joint PhD training from Nanyang Technological University, Singapore\
+  **Wenbo Sun** (Postdoctoral fellow, 2025 Sep - present), PhD from University of Hong Kong\
+  **Jie Lin** (Postdoctoral fellow, 2025 Jul - present), PhD from University of Hong Kong\
+  **Runfa Wu** (Postdoctoral fellow, 2023 Oct - present), PhD from Central South University and Joint PhD training from Nanyang Technological University, Singapore\
   **Yuexin Kang** (PhD sudent, 2025/2026 S1 - present), Bachelor's degree from Wuhan University and Master's degree from Tsinghua University\
+  **Zhuocheng Li** (MPhil student, 2025/2026 S1 - present), Bachelor's degree from Tsinghua University\
+  **Manling Huang** (MPhil student, 2025/2026 S1 - present), Bachelor's degree from Civil Aviation University of China and Master's degree from The Hong Kong Polytechnic University\
   **Kairui Cui** (PhD student, 2024/2025 S2 - present), Bachelor's degree from Beihang University and Master's degree from Delft University of Technology\
   **Jing Li** (Southeast-PolyU Dual PhD Degree student, 2024/2025 S1 - present), Bachelor's degree from Tianjin University\
   **Haoyi Fei** (PhD student, 2024/2025 S1 - present), Bachelor's degree from Sichuan University and Master's degree from University of Hong Kong\
