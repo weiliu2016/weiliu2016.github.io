@@ -47,7 +47,6 @@ Selected Working Papers
 - Gao, Y., **Liu, W.** Robust planning of bus fleet electrification and charging facility deployment.
 - Zuo, Y., Li, C., **Liu, W.** Allocating air cargo to passenger airlines considering both cargo demand and airline capacity uncertainties.
 - He, Q., Wu, L., **Liu, W.**, Ma, Y., Liang, Z. Coordinated path planning of UAVs and USVs for maritime monitoring.
-- Lyu, M., **Liu, W.**, He, Q., Wu, L. Urban food delivery service optimisation with coordinated delivery riders and drones.
 - Zhong, L., Xu, G., **Liu, W.**, Liu, Y. Train composition optimization using flexible composition strategy with extra-long trains: A stochastic programming approach.
 - Liu, T.L., Xu, P., Si, B., **Liu, W.** Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data.
 - Gao, Y., **Liu, W.**, Zhang, Z., Du, B. Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities.
@@ -59,8 +58,9 @@ Selected Working Papers
 
 Journal Publication
 ----------
-* [114] Zhang, Z., Zhang, F., **Liu, W.** To park or to share your autonomous vehicle?. Transportation Research Part B: Methodological, forthcoming. ([Download](https://doi.org/10.1016/j.trb.2025.xxxxxx))
-* [113] Cen, X., Yang, X., Ren, K., **Liu, W.**, Lee, E. Optimal Pricing and Vehicle Routing of Vehicle-to-Vehicle Charging Platform with Time Windows. Transportation Research Part C: Emerging Technologies, forthcoming. ([Download](https://doi.org/10.1016/j.trc.2025.xxxxxx))
+* [115] Lyu, M., **Liu, W.**, He, Q., Wu, L. (2025) Urban food delivery service optimisation with coordinated delivery riders and drones. Transportation Research Part E: Logistics and Transportation Review, 104412. ([Download](https://doi.org/10.1016/j.tre.2025.104412))
+* [114] Zhang, Z., Zhang, F., **Liu, W.** (2025) To park or to share your autonomous vehicle?. Transportation Research Part B: Methodological, 103305. ([Download](https://doi.org/10.1016/j.trb.2025.103305))
+* [113] Cen, X., Yang, X., Ren, K., **Liu, W.**, Lee, E. (2025) Optimal pricing and vehicle routing of vehicle-to-vehicle charging platform with time windows. Transportation Research Part C: Emerging Technologies, 180, 105319. ([Download](https://doi.org/10.1016/j.trc.2025.105319))
 * [112] Zheng, Z., Wang, J., **Liu, W.**, Yang, H. (2025) Competition in complementary transport services: integrating bike sharing service with existing public transit systems. Transportation Research Part E: Logistics and Transportation Review, 203, 104364. ([Download](https://doi.org/10.1016/j.tre.2025.104364))
 * [111] Zhou, B., Zeng, W., **Liu, W.**, Yang, H. (2025) Scheduling UAV-assisted urban subway inspection services. Transportation Research Part B: Methodological, 199, 103287. ([Download](https://doi.org/10.1016/j.trb.2025.103287))
 * [110] Zhu, X., **Liu, W.**, Zhang, F. (2025) Resource allocation for an air-rail-integrated co-modality platform considering both demand and supply uncertainties. Transportation Research Part C: Emerging Technologies, 179, 105294. ([Download](https://doi.org/10.1016/j.trc.2025.105294))
