@@ -46,8 +46,7 @@ Selected Working Papers
 - Lyu, M., Li, L., **Liu, W.** Multi-service network design with multi-function drones: urban monitoring, data collection, and parcel delivery services.
 - Gao, Y., **Liu, W.** Robust planning of bus fleet electrification and charging facility deployment.
 - Zuo, Y., Li, C., **Liu, W.** Allocating air cargo to passenger airlines considering both cargo demand and airline capacity uncertainties.
-- He, Q., Wu, L., **Liu, W.**, Ma, Y., Liang, Z. Coordinated path planning of UAVs and USVs for maritime monitoring.
-- Zhong, L., Xu, G., **Liu, W.**, Liu, Y. Train composition optimization using flexible composition strategy with extra-long trains: A stochastic programming approach.
+- He, Q., Wu, L., **Liu, W.**, Ma, Y., Liang, Z. Coordinated routing and scheduling of UAVs and USVs for maritime monitoring.
 - Liu, T.L., Xu, P., Si, B., **Liu, W.** Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Optimization of Train Stopping Plan, Scheduling, Seat Allocation with Social Distancing Strategies.
 - Xu, J., Deng, L., Gao, Y., **Liu, W.** Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty.
@@ -57,8 +56,9 @@ Selected Working Papers
 
 Journal Publication
 ----------
-* [116] Gao, Y., **Liu, W.**, Zhang, Z., Du, B. (2025) Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities. Transportation Research Part A: Policy and Practice, 104680. ([Download](https://doi.org/10.1016/j.tra.2025.104680))
-* [115] Lyu, M., **Liu, W.**, He, Q., Wu, L. (2025) Urban food delivery service optimisation with coordinated delivery riders and drones. Transportation Research Part E: Logistics and Transportation Review, 104412. ([Download](https://doi.org/10.1016/j.tre.2025.104412))
+* [117] Zhong, L., Liu, Y., Xu, G.M., **Liu, W.**, Yang, H. (2025) Train capacity optimization under stochastic demand: A flexible composition strategy with extra-long trains. Transportation Research Part E: Logistics and Transportation Review, 204, 104430. ([Download](https://doi.org/10.1016/j.tre.2025.104430))
+* [116] Gao, Y., **Liu, W.**, Zhang, Z., Du, B. (2025) Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities. Transportation Research Part A: Policy and Practice, 201, 104680. ([Download](https://doi.org/10.1016/j.tra.2025.104680))
+* [115] Lyu, M., **Liu, W.**, He, Q., Wu, L. (2025) Urban food delivery service optimisation with coordinated delivery riders and drones. Transportation Research Part E: Logistics and Transportation Review, 204, 104412. ([Download](https://doi.org/10.1016/j.tre.2025.104412))
 * [114] Zhang, Z., Zhang, F., **Liu, W.** (2025) To park or to share your autonomous vehicle?. Transportation Research Part B: Methodological, 200, 103305. ([Download](https://doi.org/10.1016/j.trb.2025.103305))
 * [113] Cen, X., Yang, X., Ren, K., **Liu, W.**, Lee, E. (2025) Optimal pricing and vehicle routing of vehicle-to-vehicle charging platform with time windows. Transportation Research Part C: Emerging Technologies, 180, 105319. ([Download](https://doi.org/10.1016/j.trc.2025.105319))
 * [112] Zheng, Z., Wang, J., **Liu, W.**, Yang, H. (2025) Competition in complementary transport services: integrating bike sharing service with existing public transit systems. Transportation Research Part E: Logistics and Transportation Review, 203, 104364. ([Download](https://doi.org/10.1016/j.tre.2025.104364))
