@@ -22,23 +22,28 @@ Book Chapter
 
 Selected Working Papers
 ----------
-- He, Q., **Liu, W.** Sharing low-altitude urban airspace through a capacity-aware and incentive-compatible allocation mechanism for UAV operations.
+- Kang, Y., **Liu, W.** Enhancing Parking-and-Charging-as-a-Service: A Stochastic Lookahead Capacity Provisioning Policy with Feedback-Driven Online Learning.
+- He, Q., **Liu, W.** Real-time pricing and routing of multi-service electric fleets.
+- Gao, Y., **Liu, W.** Time-dependent sharing strategies for bus charging systems with public access.
+- Yan, M., **Liu, W.** Real-time coordinated metro-bus rescheduling under uncertain metro disruption via multi-agent deep reinforcement learning.
+- Li, X., **Liu, W.** Routing cooperative trucks-and-drones in urban healthcare with pick-up-to-delivery and vehicle relocation.
+- Feng, Y., **Liu, W.** Value of modularity against en-route demand uncertainty in bus services.
+- He, Q., **Liu, W.**, Yang, H. Managing UAV traffic in the urban low-altitude space: Opportunities and potential efficiency gains.
 - Xu, H., **Liu, W.** Optimizing Parking Overselling Strategies with Heterogeneous Users.
-- Liu, X., **Liu, W.** Joint Optimization of Train Scheduling, Flexible Train Composition, and Seat Allocation with Extra-long Trains for High-speed Railway Corridors.
+- Liu, X., **Liu, W.**, Xu, G. Integrating Extra-long Trains in High-speed Railway Operation: Joint Optimization of Train Scheduling, Flexible Composition, and Seat Allocation.
 - Wu, R., Xu, G., Wang, D.Z.W., **Liu, W.** Managing unbalanced demand in urban rail by a multi-strategy integrated train operational plan.
-- Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** Learnable Dropout-based Deep Learning Architecture for Robust Pedestrian Volume Estimation.
+- Cen, X., Chen, H., Yu, Y. **Liu, W.**, Lee, E. Heterogeneous Vehicle Routing for Vehicle-to-Vehicle Charging with Split Discharge.
+- Gu, Z., Li, C., Lian, T., Loo, B.P.Y., Waller, S.T., **Liu, W.** Learnable Dropout-based Deep Learning Architecture for Robust Pedestrian Volume Estimation.
 - Yan, M., Lyu, M., Zhou, Y., **Liu, W.** Two-stage optimization of bus bridging service in response to metro disruptions under uncertainty.
 - Tan, Z., Wang, Q., Li, Z.C., Yang, H., **Liu, W.** UAV-based urban logistics service network design under demand and supply uncertainty.
 - Zuo, Y., Zhang, Z., Wang, K., **Liu, W.** On the competition between air transport and high-speed rail considering inherent heterogeneous travel mode preferences.
 - Feng, Y., **Liu, W.** Budget-constrained user equilibrium: A quasi-variational inequality approach.
-- Zhu, X., Feng, Y., **Liu, W.** Bridging air and rail services in co-modality transportation considering uncertain capacity.
+- Zhu, X., Feng, Y., **Liu, W.** Bridging air and high-speed rail services in co-modal transportation considering both capacity and demand uncertainties.
 - Fei, H., **Liu, W.** Coordinated Dispatching and Routing for Human Couriers and Autonomous Delivery Vehicles under Uncertainties.
 - Zhong, L., Qin, J., **Liu, W.**, Xu, G., Yang, H. How to Design Capacity Planning Policies for Shared Passenger-Freight High-Speed Railway Systems under Uncertain Demand: A Stochastic Programming Perspective.
 - Yan, M., Xu, G., Zhong, L., **Liu, W.**, Yang, H. Integrated optimization of pricing and train capacity allocation for high-speed railway express delivery with stochastic demand and capacity.
 - Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** A Mamba-based Probabilistic Generative Neural Network for Estimating Urban Pedestrian Volumes.
 - Fei, H., Sun, W., Zhang, F., **Liu, W.** Optimizing Mobility and Charging Services with Shared Electric Autonomous Vehicles.
-- Zhang, Z., Gao, Y., Zhang, F., **Liu, W.** Parking management and operation: A bibliometric analysis and comprehensive review.
-- Li, J., Liu, D., Baldi, S., **Liu, W.** System-theoretic Framework for Intent Sharing in Cooperative Adaptive Cruise Control.
 - He, Q., **Liu, W.**, Ye, H., Ma, Y. Real-time Robust Path Planning for Coordinated Unmanned Aerial Vehicles and Unmanned Surface Vehicles Operations in Maritime Monitoring.
 - Wu, R., **Liu, W.**, Feng, Y. Joint optimization of seat allocation and pricing with multi-ride season ticket service for the high-speed rail system.
 - Long, X., Lyu, M., **Liu, W.** Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach.
@@ -49,13 +54,15 @@ Selected Working Papers
 - He, Q., Wu, L., **Liu, W.**, Ma, Y., Liang, Z. Coordinated routing and scheduling of UAVs and USVs for maritime monitoring.
 - Liu, T.L., Xu, P., Si, B., **Liu, W.** Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data.
 - Xu, G., Liu, X., Zhong, L., **Liu, W.** Optimization of Train Stopping Plan, Scheduling, Seat Allocation with Social Distancing Strategies.
-- Xu, J., Deng, L., Gao, Y., **Liu, W.** Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty.
 - Wu, W., Zeng, B., Sun, J., Li, C., **Liu, W.**, Waller, S.T. Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
 - Xu, K., Saberi, M., Wang, X., **Liu, W.** Vehicle sharing strategies for ridesourcing platforms.
 
 
 Journal Publication
 ----------
+* [120] Zhang, Z., Gao, Y., Zhang, F., **Liu, W.** (2026) Parking management and operation: A bibliometric analysis and comprehensive review. Transport Economics and Management, forthcoming. ([Download](https://doi.org/10.1016/j.team.2025.12.xxx))
+* [119] Xu, J., Deng, L., Gao, Y., **Liu, W.**  (2026). Joint optimization of pricing, seat allocation and overbooking for high-speed railway system under demand uncertainty. Transportation Research Part C: Emerging Technologies, 183, 105492. ([Download](https://doi.org/10.1016/j.trc.2025.105492))
+* [118] Li, J., Liu, D., Baldi, S., **Liu, W.** (2026) System-theoretic Framework for Intent Sharing in Cooperative Adaptive Cruise Control. IEEE Transactions on Intelligent Transportation Systems, 1-14. ([Download](https://doi.org/10.1109/TITS.2025.3637809))
 * [117] Zhong, L., Liu, Y., Xu, G.M., **Liu, W.**, Yang, H. (2025) Train capacity optimization under stochastic demand: A flexible composition strategy with extra-long trains. Transportation Research Part E: Logistics and Transportation Review, 204, 104430. ([Download](https://doi.org/10.1016/j.tre.2025.104430))
 * [116] Gao, Y., **Liu, W.**, Zhang, Z., Du, B. (2025) Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities. Transportation Research Part A: Policy and Practice, 201, 104680. ([Download](https://doi.org/10.1016/j.tra.2025.104680))
 * [115] Lyu, M., **Liu, W.**, He, Q., Wu, L. (2025) Urban food delivery service optimisation with coordinated delivery riders and drones. Transportation Research Part E: Logistics and Transportation Review, 204, 104412. ([Download](https://doi.org/10.1016/j.tre.2025.104412))
