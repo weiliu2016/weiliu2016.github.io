@@ -28,9 +28,9 @@ PhD Positions and Academic Visitors
 Group Members & Affiliates
 ======
 - **Current members**\
-  **Wenbo Sun** (Postdoctoral fellow, 2025 Sep - present), PhD from University of Hong Kong\
-  **Jie Lin** (Postdoctoral fellow, 2025 Jul - present), PhD from University of Hong Kong\
-  **Runfa Wu** (Postdoctoral fellow, 2023 Oct - present), PhD from Central South University and Joint PhD training from Nanyang Technological University, Singapore\
+  **Yitong Yu** (Postdoctoral Fellow, 2026 Jan - present), PhD from Nanyang Technological University, Singapore\
+  **Wenbo Sun** (Postdoctoral Fellow, 2025 Sep - present), PhD from University of Hong Kong\
+  **Jie Lin** (Postdoctoral Fellow, 2025 Jul - present), PhD from University of Hong Kong\
   **Yuexin Kang** (PhD sudent, 2025/2026 S1 - present), Bachelor's degree from Wuhan University and Master's degree from Tsinghua University\
   **Zhuocheng Li** (MPhil student, 2025/2026 S1 - present), Bachelor's degree from Tsinghua University\
   **Manling Huang** (MPhil student, 2025/2026 S1 - present), Bachelor's degree from Civil Aviation University of China and Master's degree from The Hong Kong Polytechnic University\
@@ -51,6 +51,7 @@ Group Members & Affiliates
   **Qingying He** (PhD student, 2022/2023 S1 - present), Bachelor's degree from Northeastern University and Master's dgree from University of Edinburgh
   
 - **Former members**\
+  **Runfa Wu** (Postdoctoral Fellow, 2023 Oct - 2025 Oct)\
   **Yihan Gao** (Research Assistant, 2022/2023 S1 - 2022/2-23 S3)\
   **Mingzhi Lyu** (Research Assistant, 2022/2023 S1 - 2022/2023 S2)\
   **Kai Xu** (PhD, 2019 T3 - 2023 T1) - Modeling and Management of Ridesourcing Services with Order Cancellation and Platform Collaboration\
