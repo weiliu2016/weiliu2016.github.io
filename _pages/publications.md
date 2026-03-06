@@ -47,7 +47,6 @@ Selected Working Papers
 - Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** A Mamba-based Probabilistic Generative Neural Network for Estimating Urban Pedestrian Volumes.
 - Fei, H., Sun, W., Zhang, F., **Liu, W.** Optimizing Mobility and Charging Services with Shared Electric Autonomous Vehicles.
 - He, Q., **Liu, W.**, Ye, H., Ma, Y. Real-time Robust Path Planning for Coordinated Unmanned Aerial Vehicles and Unmanned Surface Vehicles Operations in Maritime Monitoring.
-- Wu, R., **Liu, W.**, Feng, Y. Joint optimization of seat allocation and pricing with multi-ride season ticket service for the high-speed rail system.
 - Long, X., Lyu, M., **Liu, W.** Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach.
 - Feng, Y., **Liu, W.**, Xu, G., Yang, H. High-speed rail capacity allocation and pricing under passengers' access time uncertainty: Flexible ticket or reserved seat?.
 - Lyu, M., Li, L., **Liu, W.** Multi-service network design with multi-function drones: urban monitoring, data collection, and parcel delivery services.
@@ -61,6 +60,7 @@ Selected Working Papers
 
 Journal Publication
 ----------
+* [122] Wu, R., **Liu, W.**, Feng, Y. (2026) Joint optimization of seat allocation and pricing with multi-ride season ticket service for the high-speed rail system. Transportation Research Part B: Methodological, 103446. ([Download](https://doi.org/10.1016/j.trb.2026.103446))
 * [121] Li, J., Liu, D., Baldi, S., **Liu, W.** (2026) System-theoretic Framework for Intent Sharing in Cooperative Adaptive Cruise Control. IEEE Transactions on Intelligent Transportation Systems, 27(2), 2013-2026. ([Download](https://doi.org/10.1109/TITS.2025.3637809))
 * [120] Shu, Y., Ng, K.K., **Liu, W.**, Jin, Z., Zhang, C. (2026) Optimising last-mile delivery network through locker–drone logistics system design under uncertain demand. Journal of Air Transport Management, 134, 102984. ([Download](https://doi.org/10.1016/j.jairtraman.2026.102984))
 * [119] Zhang, Z., Gao, Y., Zhang, F., **Liu, W.** (2026) Parking management and operation: A bibliometric analysis and comprehensive review. Transport Economics and Management, 4, 14-37. ([Download](https://doi.org/10.1016/j.team.2025.12.xxx))
