@@ -45,12 +45,12 @@ Group Members & Affiliates
   **Xinyi Zhu** (PhD student, 2023/2024 S1 - present, PolyU Presidential PhD Fellowship), Bachelor's degree from Dalian Maritime University and Master's degree from Shanghai Jiao Tong University\
   **Yuzhen Feng** (PhD student, 2023/2024 S1 - present, Hong Kong PhD Fellowship), Bachelor's degree from Tongji University\
   **Yihan Gao** (PhD student, 2023/2024 S1 - present), Bachelor's degree and Master's degree from Central South University\
-  **Xuanji Long** (MPhil student, 2022/2023 S3 - present), Bachelor's degree from Central South University\
   **Mingzhi Lyu** (PhD student, 2022/2023 S3 - present), Bachelor's degree from University of New South Wales, Sydney\
-  **Yufan Zuo** (PhD student, 2022/2023 S1 - present, PolyU Presidential PhD Fellowship), Bachelor's degree from Central South University and Master's degree from Southeast University\
   **Qingying He** (PhD student, 2022/2023 S1 - present), Bachelor's degree from Northeastern University and Master's dgree from University of Edinburgh
   
 - **Former members**\
+  **Yufan Zuo** (PhD student, 2022/2023 S1 - 2025/2026 S2) - Passenger and Freight Flow Management in Multi-Airport System Operation\
+  **Xuanji Long** (MPhil student, 2022/2023 S3 - 2025/2026 S2) - Joint Optimization of Airport Slot Allocation and Gate Assignment\
   **Runfa Wu** (Postdoctoral Fellow, 2023 Oct - 2025 Oct)\
   **Yihan Gao** (Research Assistant, 2022/2023 S1 - 2022/2-23 S3)\
   **Mingzhi Lyu** (Research Assistant, 2022/2023 S1 - 2022/2023 S2)\
