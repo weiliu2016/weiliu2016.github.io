@@ -33,7 +33,6 @@ Selected Working Papers
 - He, Q., **Liu, W.**, Yang, H. Scalable management of unmanned aerial vehicle traffic in dense urban low-altitude airspace.
 - Xu, H., **Liu, W.** Optimizing Parking Overselling Strategies with Heterogeneous Users.
 - Liu, X., **Liu, W.**, Xu, G. Integrating Extra-long Trains in High-speed Railway Operation: Joint Optimization of Train Scheduling, Flexible Composition, and Seat Allocation.
-- Wu, R., Xu, G., Wang, D.Z.W., **Liu, W.** Managing unbalanced demand in urban rail by a multi-strategy integrated train operational plan.
 - Cen, X., Chen, H., Yu, Y. **Liu, W.**, Lee, E. Heterogeneous Vehicle Routing for Vehicle-to-Vehicle Charging with Split Discharge.
 - Gu, Z., Li, C., Lian, T., Loo, B.P.Y., Waller, S.T., **Liu, W.** LearnDrop: A Learnable Dropout-based Deep Learning Architecture for Robust Pedestrian Volume Estimation.
 - Yan, M., Lyu, M., Zhou, Y., **Liu, W.** Two-stage optimization of bus bridging service in response to metro disruptions under uncertainty.
@@ -60,6 +59,7 @@ Selected Working Papers
 
 Journal Publication
 ----------
+* [123] Wu, R., Xu, G., Wang, D.Z.W., **Liu, W.** (2026) Managing unbalanced demand in urban rail by a multi-strategy integrated train operational plan. Transportmetrica B: Transport Dynamics, 2645179. ([Download](https://doi.org/10.1080/21680566.2026.2645179))
 * [122] Wu, R., **Liu, W.**, Feng, Y. (2026) Joint optimization of seat allocation and pricing with multi-ride season ticket service for the high-speed rail system. Transportation Research Part B: Methodological, 103446. ([Download](https://doi.org/10.1016/j.trb.2026.103446))
 * [121] Li, J., Liu, D., Baldi, S., **Liu, W.** (2026) System-theoretic Framework for Intent Sharing in Cooperative Adaptive Cruise Control. IEEE Transactions on Intelligent Transportation Systems, 27(2), 2013-2026. ([Download](https://doi.org/10.1109/TITS.2025.3637809))
 * [120] Shu, Y., Ng, K.K., **Liu, W.**, Jin, Z., Zhang, C. (2026) Optimising last-mile delivery network through locker–drone logistics system design under uncertain demand. Journal of Air Transport Management, 134, 102984. ([Download](https://doi.org/10.1016/j.jairtraman.2026.102984))
