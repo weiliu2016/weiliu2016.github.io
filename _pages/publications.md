@@ -42,7 +42,7 @@ Selected Working Papers
 - Zhu, X., Feng, Y., **Liu, W.** Bridging air and high-speed rail services in co-modal transportation considering both capacity and demand uncertainties.
 - Fei, H., **Liu, W.**, Wang, X. Coordinated Dispatching and Routing for Human Couriers and Autonomous Delivery Vehicles under Uncertainties.
 - Zhong, L., Qin, J., **Liu, W.**, Xu, G., Yang, H. How to Design Capacity Planning Policies for Shared Passenger-Freight High-Speed Railway Systems under Uncertain Demand: A Stochastic Programming Perspective.
-- Yan, M., Xu, G., Zhong, L., **Liu, W.**, Yang, H. Integrated optimization of pricing and train capacity allocation for high-speed railway express delivery with stochastic demand and capacity.
+- Yan, M., Xu, G., Zhong, L., **Liu, W.**, Yang, H. Joint Decision-Making on Pricing and Train Capacity Allocation for High-Speed Railway Express Delivery with Stochastic Demand and Capacity.
 - Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** A Mamba-based Probabilistic Generative Neural Network for Estimating Urban Pedestrian Volumes.
 - Fei, H., Sun, W., Zhang, F., **Liu, W.** Optimizing Mobility and Charging Services with Shared Electric Autonomous Vehicles.
 - He, Q., **Liu, W.**, Ye, H., Ma, Y. Real-time Robust Path Planning for Coordinated Unmanned Aerial Vehicles and Unmanned Surface Vehicles Operations in Maritime Monitoring.
