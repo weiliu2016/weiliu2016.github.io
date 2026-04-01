@@ -48,7 +48,6 @@ Selected Working Papers
 - He, Q., **Liu, W.**, Ye, H., Ma, Y. Real-time Robust Path Planning for Coordinated Unmanned Aerial Vehicles and Unmanned Surface Vehicles Operations in Maritime Monitoring.
 - Long, X., Lyu, M., **Liu, W.** Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach.
 - Feng, Y., **Liu, W.**, Xu, G., Yang, H. High-speed rail capacity allocation and pricing under passengers' access time uncertainty: Flexible ticket or reserved seat?.
-- Lyu, M., Li, L., **Liu, W.** Multi-service network design with multi-function drones: urban monitoring, data collection, and parcel delivery services.
 - Gao, Y., **Liu, W.** Robust planning of bus fleet electrification and charging facility deployment.
 - Zuo, Y., Li, C., **Liu, W.** Allocating air cargo to passenger airlines considering both cargo demand and airline capacity uncertainties.
 - He, Q., Wu, L., **Liu, W.**, Ma, Y., Liang, Z. Coordinated routing and scheduling of UAVs and USVs for maritime monitoring.
@@ -59,7 +58,8 @@ Selected Working Papers
 
 Journal Publication
 ----------
-* [123] Wu, R., Xu, G., Wang, D.Z.W., **Liu, W.** (2026) Managing unbalanced demand in urban rail by a multi-strategy integrated train operational plan. Transportmetrica B: Transport Dynamics, 2645179. ([Download](https://doi.org/10.1080/21680566.2026.2645179))
+* [124] Lyu, M., Li, L., **Liu, W.** (2026) Multi-service network design with multi-function drones: urban monitoring, data collection, and parcel delivery services. Transportation Research Part C: Emerging Technologies, 187, 105660. ([Download](https://doi.org/10.1016/j.trc.2026.105660))
+* [123] Wu, R., Xu, G., Wang, D.Z.W., **Liu, W.** (2026) Managing unbalanced demand in urban rail by a multi-strategy integrated train operational plan. Transportmetrica B: Transport Dynamics, 14(1), 2645179. ([Download](https://doi.org/10.1080/21680566.2026.2645179))
 * [122] Wu, R., **Liu, W.**, Feng, Y. (2026) Joint optimization of seat allocation and pricing with multi-ride season ticket service for the high-speed rail system. Transportation Research Part B: Methodological, 103446. ([Download](https://doi.org/10.1016/j.trb.2026.103446))
 * [121] Li, J., Liu, D., Baldi, S., **Liu, W.** (2026) System-theoretic Framework for Intent Sharing in Cooperative Adaptive Cruise Control. IEEE Transactions on Intelligent Transportation Systems, 27(2), 2013-2026. ([Download](https://doi.org/10.1109/TITS.2025.3637809))
 * [120] Shu, Y., Ng, K.K., **Liu, W.**, Jin, Z., Zhang, C. (2026) Optimising last-mile delivery network through locker–drone logistics system design under uncertain demand. Journal of Air Transport Management, 134, 102984. ([Download](https://doi.org/10.1016/j.jairtraman.2026.102984))
