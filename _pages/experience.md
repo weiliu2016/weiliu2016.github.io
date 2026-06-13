@@ -16,7 +16,11 @@ redirect_from:
 
 **Working Experience**
 
-* 2021 - present: Associate Professor, [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), The Hong Kong Polytechnic University, Hong Kong, China
+* 2026 - present: Professor, [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), The Hong Kong Polytechnic University, Hong Kong, China
+  
+* 2022 - present: Associate Head, [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), The Hong Kong Polytechnic University, Hong Kong, China
+
+* 2021 - 2026: Associate Professor, [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), The Hong Kong Polytechnic University, Hong Kong, China
 
 * 2020 - 2021: Senior Lecturer, ARC DECRA Fellow, [School of Civil and Environmental Engineering](https://www.engineering.unsw.edu.au/civil-engineering/staff/wei-liu) and [School of Computer Science and Engineering](https://www.engineering.unsw.edu.au/computer-science-engineering/lecturer-wei-liu), University of New South Wales, Sydney, Australia
 
