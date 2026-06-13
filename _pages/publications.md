@@ -58,6 +58,8 @@ Selected Working Papers
 
 Journal Publication
 ----------
+* [126] He, Q., **Liu, W.**, Ye, H., Ma, Y. (2026). Real-time routing and scheduling of unmanned aerial and surface vehicles for maritime monitoring under travel time and demand uncertainty. Transportation Research Part C: Emerging Technologies, 190, 105785. ([Download](https://doi.org/10.1016/j.trc.2026.105785))
+* [125] Gao, Y., **Liu, W.** (2026). Robust planning for bus fleet electrification and charging facility deployment. Transportation Research Part E: Logistics and Transportation Review, 213, 104970. ([Download](https://doi.org/10.1016/j.tre.2026.104970))
 * [124] Lyu, M., Li, L., **Liu, W.** (2026) Multi-service network design with multi-function drones: urban monitoring, data collection, and parcel delivery services. Transportation Research Part C: Emerging Technologies, 187, 105660. ([Download](https://doi.org/10.1016/j.trc.2026.105660))
 * [123] Wu, R., Xu, G., Wang, D.Z.W., **Liu, W.** (2026) Managing unbalanced demand in urban rail by a multi-strategy integrated train operational plan. Transportmetrica B: Transport Dynamics, 14(1), 2645179. ([Download](https://doi.org/10.1080/21680566.2026.2645179))
 * [122] Wu, R., **Liu, W.**, Feng, Y. (2026) Joint optimization of seat allocation and pricing with multi-ride season ticket service for the high-speed rail system. Transportation Research Part B: Methodological, 207, 103446. ([Download](https://doi.org/10.1016/j.trb.2026.103446))
