@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Wei Liu is currently the Associate Head and Associate Professor, Presidential Young Scholar at the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). Before this, he was a faculty member at [University of New South Wales, Sydney](https://www.unsw.edu.au/) in Australia and [University of Glasgow](https://www.gla.ac.uk/) in the United Kingdom. He also worked as a Researcher at [Ecole Polytechnique Federale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland. Dr. Liu earned his PhD in Transportation from the Hong Kong University of Science and Technology in 2014, and his B.Eng. in Civil Engineering and Bachelor of Laws from Tsinghua University in 2010. He is a recipient of the Discovery Early Career Researcher Award from the Australian Research Council. His research group focuses on data-driven decision analytics; large-scale transport system modeling, optimization and computing; aviation and rail system modeling; and transport economics. Dr. Liu's research has attracted funding from the Research Grants Council of Hong Kong, National Natural Science Foundation of China, Australian Research Council, Hong Kong's MTR Research Funding Scheme, and Guangdong Science and Technology Department.
+Dr. Wei Liu is currently the Associate Head and Associate Professor, Presidential Young Scholar at the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). Before this, he was a faculty member at [University of New South Wales, Sydney](https://www.unsw.edu.au/) in Australia and [University of Glasgow](https://www.gla.ac.uk/) in the United Kingdom. He also worked as a Researcher at [Ecole Polytechnique Federale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland. Dr. Liu earned his PhD in Transportation from the Hong Kong University of Science and Technology in 2014, and his B.Eng. in Civil Engineering and Bachelor of Laws from Tsinghua University in 2010. He is a recipient of the Discovery Early Career Researcher Award from the Australian Research Council. His research group focuses on data-driven decision analytics; large-scale transport system modeling, optimization and computing; aviation and rail system modeling; and transport economics. Dr. Liu's research has attracted funding from the Research Grants Council of Hong Kong, Innovation and Technology Commission (Hong Kong), Chief Executive’s Policy Unit (CEPU) Policy Research Funding Schemes, National Natural Science Foundation of China, Australian Research Council, Hong Kong's MTR Research Funding Scheme, and Guangdong Science and Technology Department.
 
 Public Publication Profiles: [Google Scholar](https://scholar.google.com/citations?user=rEUNm28AAAAJ&hl=en), [ORCID](http://orcid.org/0000-0001-8638-3695), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58478032200), [Web of Science](https://publons.com/researcher/2454278/wei-liu/), [ResearchGate](https://www.researchgate.net/profile/Wei_Liu510).
 
@@ -28,9 +28,12 @@ PhD Positions and Academic Visitors
 Group Members & Affiliates
 ======
 - **Current members**\
+  **Yuxiao Cao** (Postdoctoral Fellow, 2026 Aug - present), PhD from Huazhong University of Science and Technology\
+  **Linhuan Zhong** (Postdoctoral Fellow, 2026 Aug - present), PhD from Central South University\
   **Yitong Yu** (Postdoctoral Fellow, 2026 Jan - present), PhD from Nanyang Technological University, Singapore\
   **Wenbo Sun** (Postdoctoral Fellow, 2025 Sep - present), PhD from University of Hong Kong\
   **Jie Lin** (Postdoctoral Fellow, 2025 Jul - present), PhD from University of Hong Kong\
+  **Boxuan Wu** (PhD sudent, 2026/2027 S1 - present), Bachelor's degree and Master's degree from Beihang University\
   **Yuexin Kang** (PhD sudent, 2025/2026 S1 - present), Bachelor's degree from Wuhan University and Master's degree from Tsinghua University\
   **Zhuocheng Li** (MPhil student, 2025/2026 S1 - present), Bachelor's degree from Tsinghua University\
   **Manling Huang** (MPhil student, 2025/2026 S1 - present), Bachelor's degree from Civil Aviation University of China and Master's degree from The Hong Kong Polytechnic University\
@@ -52,7 +55,7 @@ Group Members & Affiliates
   **Yufan Zuo** (PhD student, 2022/2023 S1 - 2025/2026 S2) - Passenger and Freight Flow Management in Multi-Airport System Operation\
   **Xuanji Long** (MPhil student, 2022/2023 S3 - 2025/2026 S2) - Joint Optimization of Airport Slot Allocation and Gate Assignment\
   **Runfa Wu** (Postdoctoral Fellow, 2023 Oct - 2025 Oct)\
-  **Yihan Gao** (Research Assistant, 2022/2023 S1 - 2022/2-23 S3)\
+  **Yihan Gao** (Research Assistant, 2022/2023 S1 - 2022/2023 S3)\
   **Mingzhi Lyu** (Research Assistant, 2022/2023 S1 - 2022/2023 S2)\
   **Kai Xu** (PhD, 2019 T3 - 2023 T1) - Modeling and Management of Ridesourcing Services with Order Cancellation and Platform Collaboration\
   **Mingyou Ma** (PhD, 2019 T2 - 2022 T3) - Modelling and Managing Integrated Public Transport System for Passengers and Freight\
@@ -64,6 +67,7 @@ Group Members & Affiliates
   **Runqing Zhao** (MPhil, 2019 T3 - 2022 T1) - Service network design for emerging modes in air transport: autonomous airport inter-terminal bus shuttle and air metro
 
 - **Visiting Scholars/Students**\
+  **Xindi Tang** (2025.09-2025.10, Assistant Professor from Central University of Finance and Economics)\
   **Bolong Zhou** (2022.09-2026.08, PhD student from The Hong Kong University of Science and Technology, Hong Kong)\
   **Zhengrong Liu** (2023.08-2023.09, PhD student from Tsinghua University, China)\
   **Jing Xu** (2022.12-2023.12, PhD student from Central South University, China)\
