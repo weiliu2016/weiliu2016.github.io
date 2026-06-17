@@ -24,7 +24,7 @@ Selected Working Papers
 ----------
 - He, Q., **Liu, W.** Fleet sizing and scheduling of multi-service electric fleets under uncertainty.
 - Cui, K., Liu, X., **Liu, W.** High-speed rail scheduling, stopping plans, flexible composition, and seat allocation with extra-long trains under demand uncertainty.
-- Kang, Y., **Liu, W.** Enhancing Parking-and-Charging-as-a-Service: A Stochastic Lookahead Capacity Provisioning Policy with Feedback-Driven Online Learning.
+- Kang, Y., **Liu, W.** Is Lookahead Enough? Decision-Bound Learning for Online Capacity Provisioning in Integrated Parking and Charging Operations.
 - He, Q., **Liu, W.** Real-time pricing and routing of multi-service electric fleets.
 - Gao, Y., **Liu, W.** Dynamic sharing strategies for bus charging systems with public access.
 - Yan, M., Feng, S., Zhou, Y., **Liu, W.** Real-time coordinated metro-bus rescheduling under uncertain metro disruption via multi-agent deep reinforcement learning.
@@ -57,7 +57,7 @@ Selected Working Papers
 
 Journal Publication
 ----------
-* [127] Xu, G., Liu, X., Zhong, L., **Liu, W.** (2026) Optimization of Train Stopping Plan, Scheduling, Seat Allocation with Social Distancing Strategies. Transportmetrica B: Transport Dynamics, 2685665. ([Download](https://doi.org/10.1080/21680566.2026.2685665))
+* [127] Xu, G., Liu, X., Zhong, L., **Liu, W.** (2026) Optimization of Train Stopping Plan, Scheduling, Seat Allocation with Social Distancing Strategies. Transportmetrica B: Transport Dynamics, 14(1), 2685665. ([Download](https://doi.org/10.1080/21680566.2026.2685665))
 * [126] He, Q., **Liu, W.**, Ye, H., Ma, Y. (2026). Real-time routing and scheduling of unmanned aerial and surface vehicles for maritime monitoring under travel time and demand uncertainty. Transportation Research Part C: Emerging Technologies, 190, 105785. ([Download](https://doi.org/10.1016/j.trc.2026.105785))
 * [125] Gao, Y., **Liu, W.** (2026). Robust planning for bus fleet electrification and charging facility deployment. Transportation Research Part E: Logistics and Transportation Review, 213, 104970. ([Download](https://doi.org/10.1016/j.tre.2026.104970))
 * [124] Lyu, M., Li, L., **Liu, W.** (2026) Multi-service network design with multi-function drones: urban monitoring, data collection, and parcel delivery services. Transportation Research Part C: Emerging Technologies, 187, 105660. ([Download](https://doi.org/10.1016/j.trc.2026.105660))
