@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "M$^3$ - Multi-Modal Mobility Research Group"
 title_separator          : "-"
 name                     : &name "Wei Liu"
-description              : &description "Associate Professor and Associate Head"
+description              : &description "Professor and Associate Head"
 description              : &description "Department of Aeronautical and Aviation Engineering"
 description              : &description "Faculty of Engineering"
 description              : &description "The Hong Kong Polytechnic University"
@@ -86,7 +86,7 @@ author:
   name             : "Dr. Wei Liu"
   avatar           : "WeiLiu.jpg"
   bio              : |
-    Associate Professor and Associate Head <br>
+    Professor and Associate Head <br>
     Department of Aeronautical and Aviation Engineering <br>
     The Hong Kong Polytechnic University <br>
   location         : "Hong Kong"
