@@ -7,6 +7,7 @@ author_profile: true
 Recent Projects 
 -----------
 
+* Three Birds, One Stone: Electric Vehicle Fleet Management for Synergizing Ride-hailing, Delivery, and Vehicle-to-grid Services, Research Grants Council of Hong Kong, General Research Fund, 2027-2029.
 * Smart Planning and Control of the Urban Low-altitude Logistics System, Innovation and Technology Fund - Mainland-Hong Kong Joint Funding Scheme (ITF-MHKJFS), 2025-2027.
 * Development Strategies for an Advanced Air Mobility Network in the Guangdong–Hong Kong–Macao Greater Bay Area, Strategic Public Policy Research Funding Scheme, The Chief Executive's Policy Unit (CEPU), 2025-2027.
 * Joint Optimization of Train Scheduling, Flexible Train Composition, and Seat Allocation with Extra-long Trains for High-speed Railway Corridors, MTR Academy, MTR Research Funding (MRF) Scheme, 2025-2027.
