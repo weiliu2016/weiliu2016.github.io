@@ -38,12 +38,10 @@ Selected Working Papers
 - Cen, X., Chen, H., Yu, Y. **Liu, W.**, Lee, E. Heterogeneous Vehicle Routing for Vehicle-to-Vehicle Charging with Split Discharge.
 - Gu, Z., Li, C., Lian, T., Loo, B.P.Y., Waller, S.T., **Liu, W.** LearnDrop: A Learnable Dropout-based Deep Learning Architecture for Robust Pedestrian Volume Estimation.
 - Yan, M., Lyu, M., Zhou, Y., **Liu, W.** Two-stage optimization of bus bridging service in response to metro disruptions under uncertainty.
-- Tan, Z., Wang, Q., Li, Z.C., Yang, H., **Liu, W.** UAV-based urban logistics service network design under demand and supply uncertainty.
 - Zuo, Y., Zhang, Z., Wang, K., **Liu, W.** On the competition between air transport and high-speed rail considering inherent heterogeneous travel mode preferences.
 - Feng, Y., Li, Q., **Liu, W.**, Zhang, F., Long, J. Resource-Constrained User Equilibrium.
 - Zhu, X., Feng, Y., **Liu, W.** Bridging air and high-speed rail services in co-modal transportation considering both capacity and demand uncertainties.
 - Fei, H., **Liu, W.**, Wang, X. Coordinated Dispatching and Routing for Human Couriers and Autonomous Delivery Vehicles under Uncertainties.
-- Zhong, L., Qin, J., **Liu, W.**, Xu, G., Yang, H. How to Design Capacity Planning Policies for Shared Passenger-Freight High-Speed Railway Systems under Uncertain Demand: A Stochastic Programming Perspective.
 - Yan, M., Xu, G., Zhong, L., **Liu, W.**, Yang, H. Joint Decision-Making on Pricing and Train Capacity Allocation for High-Speed Railway Express Delivery with Stochastic Demand and Capacity.
 - Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** A Mamba-based Probabilistic Generative Neural Network for Estimating Urban Pedestrian Volumes.
 - Fei, H., Sun, W., Zhang, F., **Liu, W.** Optimizing Mobility and Charging Services with Shared Electric Autonomous Vehicles.
@@ -57,6 +55,8 @@ Selected Working Papers
 
 Journal Publication
 ----------
+* [129] Zhong, L., Qin, J., **Liu, W.**, Xu, G.M., Yang, H. (2026) Transport capacity planning for shared passenger–freight transportation in high-speed rail systems with uncertain demand. IEEE Transactions on Intelligent Transportation Systems, in press. ([Download](https://doi.org/10.1109/TITS.2026.3715878))
+* [128] Tan, Z., Wang, Q., Yang, H., **Liu, W.**, & Li, Z. (2026). UAV-based urban logistics service network design under demand and weather-induced supply uncertainty. Transportation Research Part E: Logistics and Transportation Review, 215, 105091. ([Download](https://doi.org/10.1016/j.tre.2026.105091))
 * [127] Xu, G., Liu, X., Zhong, L., **Liu, W.** (2026) Optimization of Train Stopping Plan, Scheduling, Seat Allocation with Social Distancing Strategies. Transportmetrica B: Transport Dynamics, 14(1), 2685665. ([Download](https://doi.org/10.1080/21680566.2026.2685665))
 * [126] He, Q., **Liu, W.**, Ye, H., Ma, Y. (2026). Real-time routing and scheduling of unmanned aerial and surface vehicles for maritime monitoring under travel time and demand uncertainty. Transportation Research Part C: Emerging Technologies, 190, 105785. ([Download](https://doi.org/10.1016/j.trc.2026.105785))
 * [125] Gao, Y., **Liu, W.** (2026). Robust planning for bus fleet electrification and charging facility deployment. Transportation Research Part E: Logistics and Transportation Review, 213, 104970. ([Download](https://doi.org/10.1016/j.tre.2026.104970))
