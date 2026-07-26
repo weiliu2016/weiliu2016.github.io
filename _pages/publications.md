@@ -27,6 +27,7 @@ Selected Working Papers
 - Kang, Y., **Liu, W.** Is Lookahead Enough? Decision-Bound Learning for Online Capacity Provisioning in Integrated Parking and Charging Operations.
 - He, Q., **Liu, W.** Real-time pricing and routing of multi-service electric fleets.
 - Gao, Y., **Liu, W.** Dynamic sharing strategies for bus charging systems with public access.
+- Li, Z., **Liu, W.** Continuous Split-Service Vehicle Routing Problem with Load-Dependent Drones for Multi-Service Agriculture.
 - Yan, M., Feng, S., Zhou, Y., **Liu, W.** Real-time coordinated metro-bus rescheduling under uncertain metro disruption via multi-agent deep reinforcement learning.
 - Kang, Y., Ji, K., Liu, X., Miao, L., **Liu, W.** Clustering with Two-Stage Stochastic Programming: An Application to Usage Behavior Pattern Mining in Parking Subscription Services.
 - Ji, K., Miao, L., Liu, W., Liu, X., **Kang, Y.** Optimizing collaborative monthly subscription design for parking management.
