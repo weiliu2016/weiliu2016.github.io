@@ -198,6 +198,7 @@ Journal Publication
 
 Selected Conference Proceedings
 -------
+* Fei, H., **Liu, W.**, Wang, X. (2026) Coordinated Dispatching and Routing for Human Couriers and Autonomous Delivery Vehicles under Uncertainties. The 26th International Symposium on Transportation and Traffic Theory (ISTTT 2026).
 * Wang, S., Wang, X., Yang, C., **Liu, W.**, Zhang, X. (2024) Optimizing OD-Based Up-Front Discounting Strategies for Enroute Ridepooling Services. The 25th International Symposium on Transportation and Traffic Theory (ISTTT 2024).
 * Xu, P., Liu, T.L., Tian, Q., Si, B., **Liu, W.**, Huang, H.J. (2024) Estimation of Schedule Preference and Crowding Perception in Urban Rail Corridor Commuting: An Inverse Optimization Method. The 25th International Symposium on Transportation and Traffic Theory (ISTTT 2024).
 * Li, C., Bai, L., **Liu, W.**, Yao, L., Waller, S.T. (2020) Knowledge Adaption for Demand Prediction based on Multi-task Memory Neural Network. The 29th International Conference on Information and Knowledge Management (CIKM 2020), Galway, Ireland, October 19 - 23, 2020.
