@@ -22,7 +22,11 @@ Book Chapter
 
 Selected Working Papers
 ----------
+- Zhu, X., **Liu, W.** Dynamic admission and freight flow allocation policies for multi-hub air-rail integrated co-modality.
+- Sun, W., **Liu, W.** Facility Location Problem for Aerial Logistics Services with Time-varying Costs.
 - He, Q., **Liu, W.** Fleet sizing and scheduling of multi-service electric fleets under uncertainty.
+- Cheng, M., Li, C., **Liu, W.**, Jin, Z., Ma, W. A Reasoning-Enhanced LLM-based Multi-Role Simulation Model for Vertiport Location Selection.
+- Tian, J., Li, C., Bian, L., **Liu, W.**, Cao, F., Ma, W. A Dynamic Gating Mixture-of-Experts Model for Flight Delay Prediction.
 - Cui, K., Liu, X., **Liu, W.** High-speed rail scheduling, stopping plans, flexible composition, and seat allocation with extra-long trains under demand uncertainty.
 - Kang, Y., **Liu, W.** Is Lookahead Enough? Decision-Bound Learning for Online Capacity Provisioning in Integrated Parking and Charging Operations.
 - He, Q., **Liu, W.** Real-time pricing and routing of multi-service electric fleets.
@@ -44,7 +48,7 @@ Selected Working Papers
 - Zhu, X., Feng, Y., **Liu, W.** Bridging air and high-speed rail services in co-modal transportation considering both capacity and demand uncertainties.
 - Fei, H., **Liu, W.**, Wang, X. Coordinated Dispatching and Routing for Human Couriers and Autonomous Delivery Vehicles under Uncertainties.
 - Yan, M., Xu, G., Zhong, L., **Liu, W.**, Yang, H. Joint Decision-Making on Pricing and Train Capacity Allocation for High-Speed Railway Express Delivery with Stochastic Demand and Capacity.
-- Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** A Mamba-based Probabilistic Generative Neural Network for Estimating Urban Pedestrian Volumes.
+- Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** SMHF: State-conditioned Mamba-Hypernetwork Framework for Pedestrian Volume Estimation Under Observation Sparsity.
 - Fei, H., Sun, W., Zhang, F., **Liu, W.** Optimizing Mobility and Charging Services with Shared Electric Autonomous Vehicles.
 - Feng, Y., **Liu, W.**, Xu, G., Yang, H. High-speed rail capacity allocation and pricing under passengers' access time uncertainty: Flexible ticket or reserved seat?.
 - He, Q., Wu, L., **Liu, W.**, Li, C., Ma, Y., Liang, Z. Coordinated routing and scheduling of UAVs and USVs for maritime monitoring.
