@@ -25,6 +25,8 @@ Selected Working Papers
 - Zhu, X., **Liu, W.** Dynamic admission and freight flow allocation policies for multi-hub air-rail integrated co-modality.
 - Sun, W., **Liu, W.** Facility Location Problem for Aerial Logistics Services with Time-varying Costs.
 - He, Q., **Liu, W.** Fleet sizing and scheduling of multi-service electric fleets under uncertainty.
+- Zhong, L., Zhou, W., Chen, Y., Xu, G.M., **Liu, W.** Optimal charging solution for government electric vehicle fleets considering multiple types of chargers and vehicles.
+- Hu, H., Du, B., Wang, Q., **Liu, W.**, Huang, Y., Perez, P. Optimal charging solution for government electric vehicle fleets considering multiple types of chargers and vehicles.
 - Cheng, M., Li, C., **Liu, W.**, Jin, Z., Ma, W. A Reasoning-Enhanced LLM-based Multi-Role Simulation Model for Vertiport Location Selection.
 - Tian, J., Li, C., Bian, L., **Liu, W.**, Cao, F., Ma, W. A Dynamic Gating Mixture-of-Experts Model for Flight Delay Prediction.
 - Cui, K., Liu, X., **Liu, W.** High-speed rail scheduling, stopping plans, flexible composition, and seat allocation with extra-long trains under demand uncertainty.
@@ -33,8 +35,10 @@ Selected Working Papers
 - Gao, Y., **Liu, W.** Dynamic sharing strategies for bus charging systems with public access.
 - Li, Z., **Liu, W.** Continuous Split-Service Vehicle Routing Problem with Load-Dependent Drones for Multi-Service Agriculture.
 - Yan, M., Feng, S., Zhou, Y., **Liu, W.** Real-time coordinated metro-bus rescheduling under uncertain metro disruption via multi-agent deep reinforcement learning.
+- Cao, Z., Ding, K., **Liu, W.**, Tian, J., Xu, M. A robust predict-then-optimize framework for airport gate assignment problem considering transfers and uncertainties using branch-and-price algorithm.
 - Kang, Y., Ji, K., Liu, X., Miao, L., **Liu, W.** Clustering with Two-Stage Stochastic Programming: An Application to Usage Behavior Pattern Mining in Parking Subscription Services.
 - Ji, K., Miao, L., Liu, W., Liu, X., **Kang, Y.** Optimizing collaborative monthly subscription design for parking management.
+- Lin, J., **Liu, W.** Overbooking or waitlisting: Seat allocation mechanisms for high-speed rail under passenger cancellations.
 - Li, X., Lyu, M., **Liu, W.** Routing cooperative trucks-and-drones in urban healthcare delivery with pick-up-to-delivery and vehicle relocation.
 - Feng, Y., **Liu, W.** Value of modularity against en-route demand uncertainty in bus services.
 - He, Q., **Liu, W.**, Yang, H. Scalable management of unmanned aerial vehicle traffic in dense urban low-altitude airspace.
