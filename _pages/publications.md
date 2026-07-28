@@ -46,7 +46,6 @@ Selected Working Papers
 - Yan, M., Xu, G., Zhong, L., **Liu, W.**, Yang, H. Joint Decision-Making on Pricing and Train Capacity Allocation for High-Speed Railway Express Delivery with Stochastic Demand and Capacity.
 - Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** A Mamba-based Probabilistic Generative Neural Network for Estimating Urban Pedestrian Volumes.
 - Fei, H., Sun, W., Zhang, F., **Liu, W.** Optimizing Mobility and Charging Services with Shared Electric Autonomous Vehicles.
-- Long, X., Lyu, M., **Liu, W.** Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach.
 - Feng, Y., **Liu, W.**, Xu, G., Yang, H. High-speed rail capacity allocation and pricing under passengers' access time uncertainty: Flexible ticket or reserved seat?.
 - He, Q., Wu, L., **Liu, W.**, Li, C., Ma, Y., Liang, Z. Coordinated routing and scheduling of UAVs and USVs for maritime monitoring.
 - Liu, T.L., Xu, P., Si, B., **Liu, W.** Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data.
@@ -55,6 +54,7 @@ Selected Working Papers
 
 Journal Publication
 ----------
+* [132] Long, X., Lyu, M., **Liu, W.** (2026) Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach. Computers & Industrial Engineering, 112284. ([Download](https://doi.org/10.1016/j.cie.2026.112284))
 * [131] Zuo, Y., Li, C., **Liu, W.** (2026) Air cargo transportation by passenger flights considering cargo demand and capacity uncertainties. Transportmetrica A: Transport Science, forthcoming. ([Download](https://doi.org/10.1080/23249935.2026.xxxxxxx)) 
 * [130] Zhong, L., Qin, J., **Liu, W.**, Xu, G.M., Yang, H. (2026) Transport capacity planning for shared passenger–freight transportation in high-speed rail systems with uncertain demand. IEEE Transactions on Intelligent Transportation Systems, forthcoming. ([Download](https://doi.org/10.1109/TITS.2026.3715878))
 * [129] Chen, Y., Jin, J., Huang, H., **Liu, W.**, Easa, S.M., Lai, Y., Wang, S., Li, Y. (2026) Truck-drone collaborative routing optimization: a unified framework and systematic review. Transportation Research Part E: Logistics and Transportation Review, 215, 105096. ([Download](https://doi.org/10.1016/j.tre.2026.105096))
