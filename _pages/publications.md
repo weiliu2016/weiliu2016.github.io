@@ -23,6 +23,7 @@ Book Chapter
 Selected Working Papers
 ----------
 - Zhu, X., **Liu, W.** Dynamic admission and freight flow allocation policies for multi-hub air-rail integrated co-modality.
+- Li, X., Feng, S., **Liu, W.**, Zhang, K., Ke, J., Cai, M. An Integrated Planning and Operations Optimization Framework for Multiple Vertiport Categories in Urban Air Mobility.
 - Sun, W., **Liu, W.** Facility Location Problem for Aerial Logistics Services with Time-varying Costs.
 - He, Q., **Liu, W.** Fleet sizing and scheduling of multi-service electric fleets under uncertainty.
 - Zhong, L., Zhou, W., Chen, Y., Xu, G.M., **Liu, W.** Optimal charging solution for government electric vehicle fleets considering multiple types of chargers and vehicles.
@@ -40,7 +41,6 @@ Selected Working Papers
 - Ji, K., Miao, L., Liu, W., Liu, X., **Kang, Y.** Optimizing collaborative monthly subscription design for parking management.
 - Lin, J., **Liu, W.** Overbooking or waitlisting: Seat allocation mechanisms for high-speed rail under passenger cancellations.
 - Li, X., Lyu, M., **Liu, W.** Routing cooperative trucks-and-drones in urban healthcare delivery with pick-up-to-delivery and vehicle relocation.
-- Feng, Y., **Liu, W.** Value of modularity against en-route demand uncertainty in bus services.
 - He, Q., **Liu, W.**, Yang, H. Scalable management of unmanned aerial vehicle traffic in dense urban low-altitude airspace.
 - Xu, H., **Liu, W.** Optimizing Parking Overselling Strategies with Heterogeneous Users.
 - Liu, X., **Liu, W.**, Xu, G. Integrating Extra-long Trains in High-speed Railway Operation: Joint Optimization of Train Scheduling, Flexible Composition, and Seat Allocation.
@@ -62,6 +62,7 @@ Selected Working Papers
 
 Journal Publication
 ----------
+* [133] Feng, Y., **Liu, W.** Value of modularity against en-route demand uncertainty in bus services. Transportation Research Part C: Emerging Technologies, 105904. ([Download](https://doi.org/10.1016/j.trc.2026.105904))
 * [132] Long, X., Lyu, M., **Liu, W.** (2026) Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach. Computers & Industrial Engineering, 112284. ([Download](https://doi.org/10.1016/j.cie.2026.112284))
 * [131] Zuo, Y., Li, C., **Liu, W.** (2026) Air cargo transportation by passenger flights considering cargo demand and capacity uncertainties. Transportmetrica A: Transport Science, 2711924. ([Download](10.1080/23249935.2026.2711924)) 
 * [130] Zhong, L., Qin, J., **Liu, W.**, Xu, G.M., Yang, H. (2026) Transport capacity planning for shared passenger–freight transportation in high-speed rail systems with uncertain demand. IEEE Transactions on Intelligent Transportation Systems, forthcoming. ([Download](https://doi.org/10.1109/TITS.2026.3715878))
