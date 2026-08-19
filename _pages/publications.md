@@ -53,7 +53,6 @@ Selected Working Papers
 - Fei, H., **Liu, W.**, Wang, X. Coordinated Dispatching and Routing for Human Couriers and Autonomous Delivery Vehicles under Uncertainties.
 - Yan, M., Xu, G., Zhong, L., **Liu, W.**, Yang, H. Joint Decision-Making on Pricing and Train Capacity Allocation for High-Speed Railway Express Delivery with Stochastic Demand and Capacity.
 - Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** SMHF: State-conditioned Mamba-Hypernetwork Framework for Pedestrian Volume Estimation Under Observation Sparsity.
-- Fei, H., Sun, W., Zhang, F., **Liu, W.** Optimizing Mobility and Charging Services with Shared Electric Autonomous Vehicles.
 - Feng, Y., **Liu, W.**, Xu, G., Yang, H. High-speed rail capacity allocation and pricing under passengers' access time uncertainty: Flexible ticket or reserved seat?.
 - He, Q., Wu, L., **Liu, W.**, Li, C., Ma, Y., Liang, Z. Coordinated routing and scheduling of UAVs and USVs for maritime monitoring.
 - Liu, T.L., Xu, P., Si, B., **Liu, W.** Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data.
@@ -62,6 +61,7 @@ Selected Working Papers
 
 Journal Publication
 ----------
+* [134] Fei, H., Sun, W., Zhang, F., **Liu, W.** Optimizing Mobility and Charging Services with Shared Electric Autonomous Vehicles. Transportmetrica B: Transport Dynamics, forthcoming. ([Download](https://doi.org/10.1080/21680566.2026.xxxxxxx))
 * [133] Feng, Y., **Liu, W.** Value of modularity against en-route demand uncertainty in bus services. Transportation Research Part C: Emerging Technologies, 192, 105904. ([Download](https://doi.org/10.1016/j.trc.2026.105904))
 * [132] Long, X., Lyu, M., **Liu, W.** (2026) Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach. Computers & Industrial Engineering, 220, 112284. ([Download](https://doi.org/10.1016/j.cie.2026.112284))
 * [131] Zuo, Y., Li, C., **Liu, W.** (2026) Air cargo transportation by passenger flights considering cargo demand and capacity uncertainties. Transportmetrica A: Transport Science, 2711924. ([Download](10.1080/23249935.2026.2711924)) 
