@@ -26,7 +26,7 @@ Selected Working Papers
 - Li, X., Feng, S., **Liu, W.**, Zhang, K., Ke, J., Cai, M. An Integrated Planning and Operations Optimization Framework for Multiple Vertiport Categories in Urban Air Mobility.
 - Sun, W., **Liu, W.** Facility Location Problem for Aerial Logistics Services with Time-varying Costs.
 - He, Q., **Liu, W.** Fleet sizing and scheduling of multi-service electric fleets under uncertainty.
-- Zhong, L., Zhou, W., Chen, Y., Xu, G.M., **Liu, W.** Optimal charging solution for government electric vehicle fleets considering multiple types of chargers and vehicles.
+- Zhong, L., Zhou, W., Chen, Y., Xu, G.M., **Liu, W.** Learning-guided reduce-then-optimize for high-speed rail freight service design and scheduling under passenger-freight co-transport.
 - Hu, H., Du, B., Wang, Q., **Liu, W.**, Huang, Y., Perez, P. Optimal charging solution for government electric vehicle fleets considering multiple types of chargers and vehicles.
 - Cheng, M., Li, C., **Liu, W.**, Jin, Z., Ma, W. A Reasoning-Enhanced LLM-based Multi-Role Simulation Model for Vertiport Location Selection.
 - Tian, J., Li, C., Bian, L., **Liu, W.**, Cao, F., Ma, W. A Dynamic Gating Mixture-of-Experts Model for Flight Delay Prediction.
@@ -62,8 +62,8 @@ Selected Working Papers
 
 Journal Publication
 ----------
-* [133] Feng, Y., **Liu, W.** Value of modularity against en-route demand uncertainty in bus services. Transportation Research Part C: Emerging Technologies, 105904. ([Download](https://doi.org/10.1016/j.trc.2026.105904))
-* [132] Long, X., Lyu, M., **Liu, W.** (2026) Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach. Computers & Industrial Engineering, 112284. ([Download](https://doi.org/10.1016/j.cie.2026.112284))
+* [133] Feng, Y., **Liu, W.** Value of modularity against en-route demand uncertainty in bus services. Transportation Research Part C: Emerging Technologies, 192, 105904. ([Download](https://doi.org/10.1016/j.trc.2026.105904))
+* [132] Long, X., Lyu, M., **Liu, W.** (2026) Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach. Computers & Industrial Engineering, 220, 112284. ([Download](https://doi.org/10.1016/j.cie.2026.112284))
 * [131] Zuo, Y., Li, C., **Liu, W.** (2026) Air cargo transportation by passenger flights considering cargo demand and capacity uncertainties. Transportmetrica A: Transport Science, 2711924. ([Download](10.1080/23249935.2026.2711924)) 
 * [130] Zhong, L., Qin, J., **Liu, W.**, Xu, G.M., Yang, H. (2026) Transport capacity planning for shared passenger–freight transportation in high-speed rail systems with uncertain demand. IEEE Transactions on Intelligent Transportation Systems, forthcoming. ([Download](https://doi.org/10.1109/TITS.2026.3715878))
 * [129] Chen, Y., Jin, J., Huang, H., **Liu, W.**, Easa, S.M., Lai, Y., Wang, S., Li, Y. (2026) Truck-drone collaborative routing optimization: a unified framework and systematic review. Transportation Research Part E: Logistics and Transportation Review, 215, 105096. ([Download](https://doi.org/10.1016/j.tre.2026.105096))
