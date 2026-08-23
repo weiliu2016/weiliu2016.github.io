@@ -23,6 +23,7 @@ Book Chapter
 Selected Working Papers
 ----------
 - Zhu, X., **Liu, W.** Dynamic admission and freight flow allocation policies for multi-hub air-rail integrated co-modality.
+- Zhong, L., Qin, J., **Liu, W.**, Xu, G.M., Yang, H. Designing services and capacity for high-speed rail passenger-freight co-transport: A line-planning perspective.
 - Li, X., Feng, S., **Liu, W.**, Zhang, K., Ke, J., Cai, M. An Integrated Planning and Operations Optimization Framework for Multiple Vertiport Categories in Urban Air Mobility.
 - Sun, W., **Liu, W.** Facility Location Problem for Aerial Logistics Services with Time-varying Costs.
 - He, Q., **Liu, W.** Fleet sizing and scheduling of multi-service electric fleets under uncertainty.
@@ -37,7 +38,6 @@ Selected Working Papers
 - Li, Z., **Liu, W.** Continuous Split-Service Vehicle Routing Problem with Load-Dependent Drones for Multi-Service Agriculture.
 - Yan, M., Feng, S., Zhou, Y., **Liu, W.** Real-time coordinated metro-bus rescheduling under uncertain metro disruption via multi-agent deep reinforcement learning.
 - Cao, Z., Ding, K., **Liu, W.**, Tian, J., Xu, M. A robust predict-then-optimize framework for airport gate assignment problem considering transfers and uncertainties using branch-and-price algorithm.
-- Kang, Y., Ji, K., Liu, X., Miao, L., **Liu, W.** Clustering with Two-Stage Stochastic Programming: An Application to Usage Behavior Pattern Mining in Parking Subscription Services.
 - Ji, K., Miao, L., Liu, W., Liu, X., **Kang, Y.** Optimizing collaborative monthly subscription design for parking management.
 - Lin, J., **Liu, W.** Overbooking or waitlisting: Seat allocation mechanisms for high-speed rail under passenger cancellations.
 - Li, X., Lyu, M., **Liu, W.** Routing cooperative trucks-and-drones in urban healthcare delivery with pick-up-to-delivery and vehicle relocation.
@@ -61,7 +61,8 @@ Selected Working Papers
 
 Journal Publication
 ----------
-* [134] Fei, H., Sun, W., Zhang, F., **Liu, W.** Optimizing Mobility and Charging Services with Shared Electric Autonomous Vehicles. Transportmetrica B: Transport Dynamics, forthcoming. ([Download](https://doi.org/10.1080/21680566.2026.xxxxxxx))
+* [135] Kang, Y., Ji, K., Liu, X., Miao, L., **Liu, W.** (2026) Clustering with Two-Stage Stochastic Programming: An Application to Usage Behavior Pattern Mining in Parking Subscription Services. Transportation Research Part C: Emerging Technologies, 105978. ([Download](https://doi.org/10.1016/j.trc.2026.105978))
+* [134] Fei, H., Sun, W., Zhang, F., **Liu, W.** (2026) Optimizing Mobility and Charging Services with Shared Electric Autonomous Vehicles. Transportmetrica B: Transport Dynamics, forthcoming. ([Download](https://doi.org/10.1080/21680566.2026.xxxxxxx))
 * [133] Feng, Y., **Liu, W.** Value of modularity against en-route demand uncertainty in bus services. Transportation Research Part C: Emerging Technologies, 192, 105904. ([Download](https://doi.org/10.1016/j.trc.2026.105904))
 * [132] Long, X., Lyu, M., **Liu, W.** (2026) Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach. Computers & Industrial Engineering, 220, 112284. ([Download](https://doi.org/10.1016/j.cie.2026.112284))
 * [131] Zuo, Y., Li, C., **Liu, W.** (2026) Air cargo transportation by passenger flights considering cargo demand and capacity uncertainties. Transportmetrica A: Transport Science, 2711924. ([Download](10.1080/23249935.2026.2711924)) 
