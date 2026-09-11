@@ -23,6 +23,8 @@ Book Chapter
 Selected Working Papers
 ----------
 - Zhu, X., **Liu, W.** Dynamic admission and freight flow allocation policies for multi-hub air-rail integrated co-modality.
+- He, Q., **Liu, W.** Distributionally robust hybrid fleet sizing and scheduling for multi-service electric vehicle platforms.
+- Yu, Y., Feng, S., Li, X., **Liu, W.** Private-AV-as-a-Service: Spatial Pricing and Operations for Integrating Private AVs into HV-Based Ride-Sharing.
 - Zhong, L., Qin, J., **Liu, W.**, Xu, G.M., Yang, H. Designing services and capacity for high-speed rail passenger-freight co-transport: A line-planning perspective.
 - Li, X., Feng, S., **Liu, W.**, Zhang, K., Ke, J., Cai, M. An Integrated Planning and Operations Optimization Framework for Multiple Vertiport Categories in Urban Air Mobility.
 - Sun, W., **Liu, W.** Facility Location Problem for Aerial Logistics Services with Time-varying Costs.
@@ -45,14 +47,13 @@ Selected Working Papers
 - Xu, H., **Liu, W.** Optimizing Parking Overselling Strategies with Heterogeneous Users.
 - Liu, X., **Liu, W.**, Xu, G. Integrating Extra-long Trains in High-speed Railway Operation: Joint Optimization of Train Scheduling, Flexible Composition, and Seat Allocation.
 - Cen, X., Chen, H., Yu, Y. **Liu, W.**, Lee, E. Heterogeneous Vehicle Routing for Vehicle-to-Vehicle Charging with Split Discharge.
-- Gu, Z., Li, C., Lian, T., Loo, B.P.Y., Waller, S.T., **Liu, W.** LearnDrop: A Learnable Dropout-based Deep Learning Architecture for Robust Pedestrian Volume Estimation.
+- Gu, Z., Li, C., Lian, T., Loo, B.P.Y., Waller, S.T., **Liu, W.** LearnDCI: Learnable Dropout-Based Confidence Interval for Robust Traffic Flow Prediction with Coverage Guarantee.
 - Yan, M., Lyu, M., Zhou, Y., **Liu, W.** Two-stage optimization of bus bridging service in response to metro disruptions under uncertainty.
 - Zuo, Y., Zhang, Z., Wang, K., **Liu, W.** On the competition between air transport and high-speed rail considering inherent heterogeneous travel mode preferences.
 - Feng, Y., Li, Q., **Liu, W.**, Zhang, F., Long, J. Resource-Constrained User Equilibrium.
 - Zhu, X., Feng, Y., **Liu, W.** Bridging air and high-speed rail services in co-modal transportation considering both capacity and demand uncertainties.
 - Fei, H., **Liu, W.**, Wang, X. Coordinated Dispatching and Routing for Human Couriers and Autonomous Delivery Vehicles under Uncertainties.
 - Yan, M., Xu, G., Zhong, L., **Liu, W.**, Yang, H. Joint Decision-Making on Pricing and Train Capacity Allocation for High-Speed Railway Express Delivery with Stochastic Demand and Capacity.
-- Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** SMHF: State-conditioned Mamba-Hypernetwork Framework for Pedestrian Volume Estimation Under Observation Sparsity.
 - Feng, Y., **Liu, W.**, Xu, G., Yang, H. High-speed rail capacity allocation and pricing under passengers' access time uncertainty: Flexible ticket or reserved seat?.
 - He, Q., Wu, L., **Liu, W.**, Li, C., Ma, Y., Liang, Z. Coordinated routing and scheduling of UAVs and USVs for maritime monitoring.
 - Liu, T.L., Xu, P., Si, B., **Liu, W.** Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data.
@@ -61,7 +62,8 @@ Selected Working Papers
 
 Journal Publication
 ----------
-* [135] Kang, Y., Ji, K., Liu, X., Miao, L., **Liu, W.** (2026) Clustering with Two-Stage Stochastic Programming: An Application to Usage Behavior Pattern Mining in Parking Subscription Services. Transportation Research Part C: Emerging Technologies, 105978. ([Download](https://doi.org/10.1016/j.trc.2026.105978))
+* [136] Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** (2026) SMHF: State-conditioned Mamba-Hypernetwork Framework for Pedestrian Volume Estimation Under Observation Sparsity. Transportation Research Part C: Emerging Technologies, 106025. ([Download](https://doi.org/10.1016/j.trc.2026.106025))
+* [135] Kang, Y., Ji, K., Liu, X., Miao, L., **Liu, W.** (2026) Clustering with Two-Stage Stochastic Programming: An Application to Usage Behavior Pattern Mining in Parking Subscription Services. Transportation Research Part C: Emerging Technologies, 193, 105978. ([Download](https://doi.org/10.1016/j.trc.2026.105978))
 * [134] Fei, H., Sun, W., Zhang, F., **Liu, W.** (2026) Optimizing Mobility and Charging Services with Shared Electric Autonomous Vehicles. Transportmetrica B: Transport Dynamics, forthcoming. ([Download](https://doi.org/10.1080/21680566.2026.xxxxxxx))
 * [133] Feng, Y., **Liu, W.** Value of modularity against en-route demand uncertainty in bus services. Transportation Research Part C: Emerging Technologies, 192, 105904. ([Download](https://doi.org/10.1016/j.trc.2026.105904))
 * [132] Long, X., Lyu, M., **Liu, W.** (2026) Joint optimization of airport slot allocation and gate assignment: a stochastic integer programming approach. Computers & Industrial Engineering, 220, 112284. ([Download](https://doi.org/10.1016/j.cie.2026.112284))
