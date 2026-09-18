@@ -62,7 +62,7 @@ Selected Working Papers
 
 Journal Publication
 ----------
-* [136] Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** (2026) SMHF: State-conditioned Mamba-Hypernetwork Framework for Pedestrian Volume Estimation Under Observation Sparsity. Transportation Research Part C: Emerging Technologies, 106025. ([Download](https://doi.org/10.1016/j.trc.2026.106025))
+* [136] Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** (2027) SMHF: State-conditioned Mamba-Hypernetwork Framework for Pedestrian Volume Estimation Under Observation Sparsity. Transportation Research Part C: Emerging Technologies, 194, 106025. ([Download](https://doi.org/10.1016/j.trc.2026.106025))
 * [135] Kang, Y., Ji, K., Liu, X., Miao, L., **Liu, W.** (2026) Clustering with Two-Stage Stochastic Programming: An Application to Usage Behavior Pattern Mining in Parking Subscription Services. Transportation Research Part C: Emerging Technologies, 193, 105978. ([Download](https://doi.org/10.1016/j.trc.2026.105978))
 * [134] Fei, H., Sun, W., Zhang, F., **Liu, W.** (2026) Optimizing Mobility and Charging Services with Shared Electric Autonomous Vehicles. Transportmetrica B: Transport Dynamics, forthcoming. ([Download](https://doi.org/10.1080/21680566.2026.xxxxxxx))
 * [133] Feng, Y., **Liu, W.** Value of modularity against en-route demand uncertainty in bus services. Transportation Research Part C: Emerging Technologies, 192, 105904. ([Download](https://doi.org/10.1016/j.trc.2026.105904))
