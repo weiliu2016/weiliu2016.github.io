@@ -21,7 +21,7 @@ Research Areas
 
 PhD Positions and Academic Visitors
 ======
-- **PhD Students**: Students with background in Aviation/Transport/Civil Engineering, Computer Science, Industrial Engineering, Control Engineering, Automation, Applied Mathematics or other relevant areas are welcome to apply for our PhD or MPhil program. Please send me your CV including your education qualifications with GPA, English test scores (IELTS/TOEFL), list of publications (if any) and name and contact of at least two referees.
+- **PhD Students**: Students with background in Applied Mathematics, Industrial Engineering, Computer Science, Data Science, Automation and Control, Aviation/Transport/Civil Engineering or other relevant areas are welcome to apply for our PhD or MPhil program. Please send me your CV including your education qualifications with GPA, English test scores (IELTS/TOEFL), list of publications (if any) and name and contact of at least two referees.
 
 - **Postdoc, Visiting Students and Scholars**: If your research background fits my research interests, please send me your CV including your education qualifications and list of publications (if any).
 
