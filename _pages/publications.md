@@ -22,8 +22,13 @@ Book Chapter
 
 Selected Working Papers
 ----------
+- Xu, H., Cao, Y., **Liu, W.** Joint Dynamic Pricing and Handling-Capacity Management in Relocation-Enabled Park-and-Charge Facilities.
+- Cao, Y., Lin, J., **Liu, W.** Dynamic Pricing for Drone Delivery with Swappable Batteries: Learning Marginal Energy Values.
 - Zhu, X., **Liu, W.** Dynamic admission and freight flow allocation policies for multi-hub air-rail integrated co-modality.
 - He, Q., **Liu, W.** Distributionally robust hybrid fleet sizing and scheduling for multi-service electric vehicle platforms.
+- Li, Z., **Liu, W.** Robust scheduling for unmanned aerial vehicles and ground support vehicles with continuous split service in shared agriculture.
+- Gu, Z., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** Previewing miscoverage risk: Predictive confidence interval conformal control for probabilistic traffic forecasting with general coverage guarantee.
+- Zhong, L., Zhang, L., D'Ariano, A., **Liu, W.** Designing seamless boarding and alighting for high-speed rail service: A passenger-centric planning framework.
 - Yu, Y., Feng, S., Li, X., **Liu, W.** Private-AV-as-a-Service: Spatial Pricing and Operations for Integrating Private AVs into HV-Based Ride-Sharing.
 - Zhong, L., Qin, J., **Liu, W.**, Xu, G.M., Yang, H. Designing services and capacity for high-speed rail passenger-freight co-transport: A line-planning perspective.
 - Li, X., Feng, S., **Liu, W.**, Zhang, K., Ke, J., Cai, M. An Integrated Planning and Operations Optimization Framework for Multiple Vertiport Categories in Urban Air Mobility.
@@ -56,12 +61,12 @@ Selected Working Papers
 - Yan, M., Xu, G., Zhong, L., **Liu, W.**, Yang, H. Joint Decision-Making on Pricing and Train Capacity Allocation for High-Speed Railway Express Delivery with Stochastic Demand and Capacity.
 - Feng, Y., **Liu, W.**, Xu, G., Yang, H. High-speed rail capacity allocation and pricing under passengers' access time uncertainty: Flexible ticket or reserved seat?.
 - He, Q., Wu, L., **Liu, W.**, Li, C., Ma, Y., Liang, Z. Coordinated routing and scheduling of UAVs and USVs for maritime monitoring.
-- Liu, T.L., Xu, P., Si, B., **Liu, W.** Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data.
 - Wu, W., Zeng, B., Sun, J., Li, C., **Liu, W.**, Waller, S.T. Autonomous-Shuttle-Bus-Based Mid-block Pedestrian Crossings along Urban Streets.
 
 
 Journal Publication
 ----------
+* [137] Liu, T.L., Xu, P., Si, B., **Liu, W.** (2027) Modeling and evaluating time-varying user preference of morning rail transit commuters with smart card data. Transportation Research Part E: Logistics and Transportation Review, 218, 105370. ([Download](https://doi.org/10.1016/j.tre.2026.105370))
 * [136] Gu, Z., Lian, T., Li, C., Loo, B.P.Y., Waller, S.T., **Liu, W.** (2027) SMHF: State-conditioned Mamba-Hypernetwork Framework for Pedestrian Volume Estimation Under Observation Sparsity. Transportation Research Part C: Emerging Technologies, 194, 106025. ([Download](https://doi.org/10.1016/j.trc.2026.106025))
 * [135] Kang, Y., Ji, K., Liu, X., Miao, L., **Liu, W.** (2026) Clustering with Two-Stage Stochastic Programming: An Application to Usage Behavior Pattern Mining in Parking Subscription Services. Transportation Research Part C: Emerging Technologies, 193, 105978. ([Download](https://doi.org/10.1016/j.trc.2026.105978))
 * [134] Fei, H., Sun, W., Zhang, F., **Liu, W.** (2026) Optimizing Mobility and Charging Services with Shared Electric Autonomous Vehicles. Transportmetrica B: Transport Dynamics, forthcoming. ([Download](https://doi.org/10.1080/21680566.2026.xxxxxxx))
